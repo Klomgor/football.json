@@ -5514,6 +5514,14 @@
       "team1": "AFC Bournemouth",
       "team2": "Leeds United FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
       }
     },
     {
@@ -5523,6 +5531,14 @@
       "team1": "Burnley FC",
       "team2": "Manchester City FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -5532,6 +5548,14 @@
       "team1": "Sunderland AFC",
       "team2": "Nottingham Forest FC",
       "score": {
+        "ht": [
+          0,
+          4
+        ],
+        "ft": [
+          0,
+          5
+        ]
       }
     },
     {
@@ -5541,6 +5565,14 @@
       "team1": "Fulham FC",
       "team2": "Aston Villa FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
       }
     },
     {
@@ -5550,6 +5582,14 @@
       "team1": "Liverpool FC",
       "team2": "Crystal Palace FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
       }
     },
     {
@@ -5559,6 +5599,14 @@
       "team1": "West Ham United FC",
       "team2": "Everton FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -5568,6 +5616,14 @@
       "team1": "Wolverhampton Wanderers FC",
       "team2": "Tottenham Hotspur FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -5577,6 +5633,14 @@
       "team1": "Arsenal FC",
       "team2": "Newcastle United FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
       }
     },
     {
@@ -5586,6 +5650,14 @@
       "team1": "Manchester United FC",
       "team2": "Brentford FC",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -5771,11 +5843,20 @@
     {
       "round": "Matchday 37",
       "date": "2026-05-17",
-      "time": "15:00",
       "team1": "AFC Bournemouth",
       "team2": "Manchester City FC",
       "score": {
-      }
+      },
+      "status": "postponed"
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2026-05-17",
+      "team1": "Chelsea FC",
+      "team2": "Tottenham Hotspur FC",
+      "score": {
+      },
+      "status": "postponed"
     },
     {
       "round": "Matchday 37",
@@ -5801,15 +5882,6 @@
       "time": "15:00",
       "team1": "Brentford FC",
       "team2": "Crystal Palace FC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 37",
-      "date": "2026-05-17",
-      "time": "15:00",
-      "team1": "Chelsea FC",
-      "team2": "Tottenham Hotspur FC",
       "score": {
       }
     },

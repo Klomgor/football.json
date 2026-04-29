@@ -5294,6 +5294,14 @@
       "team1": "Elche CF",
       "team2": "Club Atlético de Madrid",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
       }
     },
     {
@@ -5303,6 +5311,14 @@
       "team1": "Real Sociedad de Fútbol",
       "team2": "Getafe CF",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -5312,6 +5328,14 @@
       "team1": "FC Barcelona",
       "team2": "RC Celta de Vigo",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
       }
     },
     {
@@ -5321,6 +5345,14 @@
       "team1": "Levante UD",
       "team2": "Sevilla FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
       }
     },
     {
@@ -5330,6 +5362,14 @@
       "team1": "Rayo Vallecano de Madrid",
       "team2": "RCD Espanyol de Barcelona",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
       }
     },
     {
@@ -5339,6 +5379,14 @@
       "team1": "Real Oviedo",
       "team2": "Villarreal CF",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -5348,6 +5396,14 @@
       "team1": "Real Betis Balompié",
       "team2": "Real Madrid CF",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -5357,6 +5413,14 @@
       "team1": "Deportivo Alavés",
       "team2": "RCD Mallorca",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -5366,6 +5430,14 @@
       "team1": "Getafe CF",
       "team2": "FC Barcelona",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {
@@ -5375,6 +5447,14 @@
       "team1": "Valencia CF",
       "team2": "Girona FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -5384,6 +5464,14 @@
       "team1": "Club Atlético de Madrid",
       "team2": "Athletic Club",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
       }
     },
     {
@@ -5393,6 +5481,14 @@
       "team1": "Rayo Vallecano de Madrid",
       "team2": "Real Sociedad de Fútbol",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          3
+        ]
       }
     },
     {
@@ -5402,6 +5498,14 @@
       "team1": "Real Oviedo",
       "team2": "Elche CF",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
       }
     },
     {
@@ -5411,6 +5515,14 @@
       "team1": "CA Osasuna",
       "team2": "Sevilla FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -5420,6 +5532,14 @@
       "team1": "Villarreal CF",
       "team2": "RC Celta de Vigo",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -5429,6 +5549,10 @@
       "team1": "RCD Espanyol de Barcelona",
       "team2": "Levante UD",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
       }
     },
     {

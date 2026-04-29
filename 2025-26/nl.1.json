@@ -4451,6 +4451,14 @@
       "team1": "Sparta Rotterdam",
       "team2": "PSV",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {
@@ -4558,6 +4566,14 @@
       "team1": "Telstar 1963",
       "team2": "Sparta Rotterdam",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          4,
+          1
+        ]
       }
     },
     {
@@ -4567,6 +4583,10 @@
       "team1": "Go Ahead Eagles",
       "team2": "AZ",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
       }
     },
     {
@@ -4576,6 +4596,14 @@
       "team1": "PSV",
       "team2": "PEC Zwolle",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          6,
+          1
+        ]
       }
     },
     {
@@ -4585,6 +4613,14 @@
       "team1": "Feyenoord Rotterdam",
       "team2": "FC Groningen",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
       }
     },
     {
@@ -4594,6 +4630,14 @@
       "team1": "SC Heerenveen",
       "team2": "Fortuna Sittard",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -4603,6 +4647,14 @@
       "team1": "NAC Breda",
       "team2": "AFC Ajax",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {
@@ -4612,6 +4664,14 @@
       "team1": "FC Twente '65",
       "team2": "NEC",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -4621,6 +4681,14 @@
       "team1": "SBV Excelsior",
       "team2": "FC Utrecht",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          5,
+          0
+        ]
       }
     },
     {
@@ -4630,6 +4698,14 @@
       "team1": "Heracles Almelo",
       "team2": "FC Volendam",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {

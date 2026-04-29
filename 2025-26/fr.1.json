@@ -4265,7 +4265,7 @@
         ],
         "ft": [
           0,
-          5
+          4
         ]
       }
     },
@@ -4459,6 +4459,14 @@
       "team1": "Paris Saint-Germain FC",
       "team2": "FC Nantes",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
       }
     },
     {
@@ -4468,6 +4476,14 @@
       "team1": "Stade Brestois 29",
       "team2": "Racing Club de Lens",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          3,
+          3
+        ]
       }
     },
     {
@@ -4477,6 +4493,14 @@
       "team1": "Olympique Lyonnais",
       "team2": "AJ Auxerre",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          3,
+          2
+        ]
       }
     },
     {
@@ -4486,6 +4510,14 @@
       "team1": "Angers SCO",
       "team2": "Paris Saint-Germain FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
       }
     },
     {
@@ -4495,6 +4527,14 @@
       "team1": "Toulouse FC",
       "team2": "AS Monaco FC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
       }
     },
     {
@@ -4504,6 +4544,14 @@
       "team1": "FC Lorient",
       "team2": "RC Strasbourg Alsace",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          3
+        ]
       }
     },
     {
@@ -4513,6 +4561,14 @@
       "team1": "Le Havre AC",
       "team2": "FC Metz",
       "score": {
+        "ht": [
+          2,
+          2
+        ],
+        "ft": [
+          4,
+          4
+        ]
       }
     },
     {
@@ -4522,6 +4578,14 @@
       "team1": "Paris FC",
       "team2": "Lille OSC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -4531,6 +4595,14 @@
       "team1": "Stade Rennais FC 1901",
       "team2": "FC Nantes",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -4540,6 +4612,14 @@
       "team1": "Olympique de Marseille",
       "team2": "OGC Nice",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
