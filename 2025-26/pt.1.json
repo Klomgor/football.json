@@ -4666,6 +4666,14 @@
       "team1": "Sporting Clube de Portugal",
       "team2": "CD Tondela",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          2
+        ]
       }
     },
     {
@@ -4675,6 +4683,14 @@
       "team1": "CD Nacional",
       "team2": "AVS",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          2
+        ]
       }
     },
     {
@@ -4684,6 +4700,14 @@
       "team1": "Moreirense FC",
       "team2": "CF Estrela da Amadora",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          3,
+          2
+        ]
       }
     },
     {
@@ -4693,6 +4717,14 @@
       "team1": "FC Arouca",
       "team2": "CD Santa Clara",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          2,
+          2
+        ]
       }
     },
     {
@@ -4702,6 +4734,14 @@
       "team1": "FC Famalicão",
       "team2": "Sport Lisboa e Benfica",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          2
+        ]
       }
     },
     {
@@ -4711,6 +4751,14 @@
       "team1": "FC Porto",
       "team2": "FC Alverca",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
       }
     },
     {
@@ -4720,6 +4768,14 @@
       "team1": "Casa Pia AC",
       "team2": "CD Tondela",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -4729,6 +4785,14 @@
       "team1": "Sporting Clube de Braga",
       "team2": "GD Estoril Praia",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -4738,6 +4802,10 @@
       "team1": "Rio Ave FC",
       "team2": "Gil Vicente FC",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
       }
     },
     {
@@ -4747,6 +4815,14 @@
       "team1": "Sporting Clube de Portugal",
       "team2": "Vitória Guimarães",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          5,
+          1
+        ]
       }
     },
     {

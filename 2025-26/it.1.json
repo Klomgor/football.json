@@ -5421,8 +5421,12 @@
       "team1": "US Cremonese",
       "team2": "Torino FC",
       "score": {
-        "ft": [
+        "ht": [
           0,
+          0
+        ],
+        "ft": [
+          1,
           0
         ]
       }
@@ -5664,6 +5668,14 @@
       "team1": "AC Pisa 1909",
       "team2": "US Lecce",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
       }
     },
     {
@@ -5673,6 +5685,14 @@
       "team1": "Udinese Calcio",
       "team2": "Torino FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
       }
     },
     {
@@ -5682,6 +5702,10 @@
       "team1": "Como 1907",
       "team2": "SSC Napoli",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
       }
     },
     {
@@ -5691,6 +5715,10 @@
       "team1": "Atalanta BC",
       "team2": "Genoa CFC",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
       }
     },
     {
@@ -5700,6 +5728,10 @@
       "team1": "Bologna FC 1909",
       "team2": "Cagliari Calcio",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
       }
     },
     {
@@ -5709,6 +5741,14 @@
       "team1": "US Sassuolo Calcio",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
       }
     },
     {
@@ -5718,6 +5758,14 @@
       "team1": "Juventus FC",
       "team2": "Hellas Verona FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -5727,6 +5775,14 @@
       "team1": "FC Internazionale Milano",
       "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
       }
     },
     {
@@ -5736,6 +5792,14 @@
       "team1": "US Cremonese",
       "team2": "SS Lazio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
       }
     },
     {
@@ -5745,6 +5809,14 @@
       "team1": "AS Roma",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          3,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
       }
     },
     {

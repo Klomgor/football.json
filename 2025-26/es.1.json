@@ -5562,6 +5562,14 @@
       "team1": "Girona FC",
       "team2": "RCD Mallorca",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -5571,6 +5579,14 @@
       "team1": "Villarreal CF",
       "team2": "Levante UD",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          5,
+          1
+        ]
       }
     },
     {
@@ -5580,6 +5596,14 @@
       "team1": "Valencia CF",
       "team2": "Club Atlético de Madrid",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {
@@ -5589,6 +5613,14 @@
       "team1": "Deportivo Alavés",
       "team2": "Athletic Club",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          4
+        ]
       }
     },
     {
@@ -5598,6 +5630,14 @@
       "team1": "CA Osasuna",
       "team2": "FC Barcelona",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
       }
     },
     {
@@ -5607,6 +5647,14 @@
       "team1": "RC Celta de Vigo",
       "team2": "Elche CF",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
       }
     },
     {
@@ -5616,6 +5664,14 @@
       "team1": "Getafe CF",
       "team2": "Rayo Vallecano de Madrid",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {
@@ -5625,6 +5681,14 @@
       "team1": "Real Betis Balompié",
       "team2": "Real Oviedo",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
       }
     },
     {
@@ -5634,6 +5698,14 @@
       "team1": "RCD Espanyol de Barcelona",
       "team2": "Real Madrid CF",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {
@@ -5643,6 +5715,14 @@
       "team1": "Sevilla FC",
       "team2": "Real Sociedad de Fútbol",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
       }
     },
     {
