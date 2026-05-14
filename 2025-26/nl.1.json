@@ -4868,6 +4868,14 @@
       "team1": "AFC Ajax",
       "team2": "FC Utrecht",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
       }
     },
     {
@@ -4877,6 +4885,14 @@
       "team1": "SBV Excelsior",
       "team2": "FC Volendam",
       "score": {
+        "ht": [
+          1,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -4886,6 +4902,14 @@
       "team1": "FC Groningen",
       "team2": "NEC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -4895,6 +4919,14 @@
       "team1": "Feyenoord Rotterdam",
       "team2": "AZ",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -4904,6 +4936,14 @@
       "team1": "Fortuna Sittard",
       "team2": "PEC Zwolle",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          2
+        ]
       }
     },
     {
@@ -4913,6 +4953,14 @@
       "team1": "Go Ahead Eagles",
       "team2": "PSV",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          4
+        ]
       }
     },
     {
@@ -4922,7 +4970,8 @@
       "team1": "NAC Breda",
       "team2": "SC Heerenveen",
       "score": {
-      }
+      },
+      "status": "cancelled"
     },
     {
       "round": "Matchday 33",
@@ -4931,6 +4980,14 @@
       "team1": "Telstar 1963",
       "team2": "Heracles Almelo",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
       }
     },
     {
@@ -4940,6 +4997,14 @@
       "team1": "FC Twente '65",
       "team2": "Sparta Rotterdam",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          4,
+          0
+        ]
       }
     },
     {

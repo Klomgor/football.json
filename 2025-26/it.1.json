@@ -5421,12 +5421,8 @@
       "team1": "US Cremonese",
       "team2": "Torino FC",
       "score": {
-        "ht": [
-          0,
-          0
-        ],
         "ft": [
-          1,
+          0,
           0
         ]
       }
@@ -5557,12 +5553,8 @@
       "team1": "Hellas Verona FC",
       "team2": "US Lecce",
       "score": {
-        "ht": [
-          0,
-          0
-        ],
         "ft": [
-          1,
+          0,
           0
         ]
       }
@@ -5826,6 +5818,14 @@
       "team1": "Torino FC",
       "team2": "US Sassuolo Calcio",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -5835,6 +5835,14 @@
       "team1": "Cagliari Calcio",
       "team2": "Udinese Calcio",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {
@@ -5844,6 +5852,14 @@
       "team1": "SS Lazio",
       "team2": "FC Internazionale Milano",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
       }
     },
     {
@@ -5853,6 +5869,14 @@
       "team1": "US Lecce",
       "team2": "Juventus FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -5862,6 +5886,14 @@
       "team1": "Hellas Verona FC",
       "team2": "Como 1907",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -5871,6 +5903,10 @@
       "team1": "ACF Fiorentina",
       "team2": "Genoa CFC",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
       }
     },
     {
@@ -5880,6 +5916,14 @@
       "team1": "US Cremonese",
       "team2": "AC Pisa 1909",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          3,
+          0
+        ]
       }
     },
     {
@@ -5889,6 +5933,14 @@
       "team1": "Parma Calcio 1913",
       "team2": "AS Roma",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          2,
+          3
+        ]
       }
     },
     {
@@ -5898,6 +5950,14 @@
       "team1": "AC Milan",
       "team2": "Atalanta BC",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
       }
     },
     {
@@ -5907,11 +5967,20 @@
       "team1": "SSC Napoli",
       "team2": "Bologna FC 1909",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
       }
     },
     {
       "round": "Matchday 37",
       "date": "2026-05-17",
+      "time": "12:30",
       "team1": "AS Roma",
       "team2": "SS Lazio",
       "score": {
@@ -5920,22 +5989,7 @@
     {
       "round": "Matchday 37",
       "date": "2026-05-17",
-      "team1": "Atalanta BC",
-      "team2": "Bologna FC 1909",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 37",
-      "date": "2026-05-17",
-      "team1": "Cagliari Calcio",
-      "team2": "Torino FC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 37",
-      "date": "2026-05-17",
+      "time": "12:30",
       "team1": "Genoa CFC",
       "team2": "AC Milan",
       "score": {
@@ -5944,6 +5998,7 @@
     {
       "round": "Matchday 37",
       "date": "2026-05-17",
+      "time": "12:30",
       "team1": "Como 1907",
       "team2": "Parma Calcio 1913",
       "score": {
@@ -5952,14 +6007,7 @@
     {
       "round": "Matchday 37",
       "date": "2026-05-17",
-      "team1": "FC Internazionale Milano",
-      "team2": "Hellas Verona FC",
-      "score": {
-      }
-    },
-    {
-      "round": "Matchday 37",
-      "date": "2026-05-17",
+      "time": "12:30",
       "team1": "Juventus FC",
       "team2": "ACF Fiorentina",
       "score": {
@@ -5968,6 +6016,7 @@
     {
       "round": "Matchday 37",
       "date": "2026-05-17",
+      "time": "12:30",
       "team1": "AC Pisa 1909",
       "team2": "SSC Napoli",
       "score": {
@@ -5976,6 +6025,34 @@
     {
       "round": "Matchday 37",
       "date": "2026-05-17",
+      "time": "15:00",
+      "team1": "FC Internazionale Milano",
+      "team2": "Hellas Verona FC",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2026-05-17",
+      "time": "18:00",
+      "team1": "Atalanta BC",
+      "team2": "Bologna FC 1909",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2026-05-17",
+      "time": "20:45",
+      "team1": "Cagliari Calcio",
+      "team2": "Torino FC",
+      "score": {
+      }
+    },
+    {
+      "round": "Matchday 37",
+      "date": "2026-05-17",
+      "time": "20:45",
       "team1": "US Sassuolo Calcio",
       "team2": "US Lecce",
       "score": {
@@ -5984,6 +6061,7 @@
     {
       "round": "Matchday 37",
       "date": "2026-05-17",
+      "time": "20:45",
       "team1": "Udinese Calcio",
       "team2": "US Cremonese",
       "score": {
@@ -5992,6 +6070,7 @@
     {
       "round": "Matchday 38",
       "date": "2026-05-24",
+      "time": "15:00",
       "team1": "ACF Fiorentina",
       "team2": "Atalanta BC",
       "score": {
@@ -6000,6 +6079,7 @@
     {
       "round": "Matchday 38",
       "date": "2026-05-24",
+      "time": "15:00",
       "team1": "AC Milan",
       "team2": "Cagliari Calcio",
       "score": {
@@ -6008,6 +6088,7 @@
     {
       "round": "Matchday 38",
       "date": "2026-05-24",
+      "time": "15:00",
       "team1": "Bologna FC 1909",
       "team2": "FC Internazionale Milano",
       "score": {
@@ -6016,6 +6097,7 @@
     {
       "round": "Matchday 38",
       "date": "2026-05-24",
+      "time": "15:00",
       "team1": "Torino FC",
       "team2": "Juventus FC",
       "score": {
@@ -6024,6 +6106,7 @@
     {
       "round": "Matchday 38",
       "date": "2026-05-24",
+      "time": "15:00",
       "team1": "Hellas Verona FC",
       "team2": "AS Roma",
       "score": {
@@ -6032,6 +6115,7 @@
     {
       "round": "Matchday 38",
       "date": "2026-05-24",
+      "time": "15:00",
       "team1": "SS Lazio",
       "team2": "AC Pisa 1909",
       "score": {
@@ -6040,6 +6124,7 @@
     {
       "round": "Matchday 38",
       "date": "2026-05-24",
+      "time": "15:00",
       "team1": "Parma Calcio 1913",
       "team2": "US Sassuolo Calcio",
       "score": {
@@ -6048,6 +6133,7 @@
     {
       "round": "Matchday 38",
       "date": "2026-05-24",
+      "time": "15:00",
       "team1": "SSC Napoli",
       "team2": "Udinese Calcio",
       "score": {
@@ -6056,6 +6142,7 @@
     {
       "round": "Matchday 38",
       "date": "2026-05-24",
+      "time": "15:00",
       "team1": "US Cremonese",
       "team2": "Como 1907",
       "score": {
@@ -6064,6 +6151,7 @@
     {
       "round": "Matchday 38",
       "date": "2026-05-24",
+      "time": "15:00",
       "team1": "US Lecce",
       "team2": "Genoa CFC",
       "score": {
