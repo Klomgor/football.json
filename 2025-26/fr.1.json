@@ -4935,6 +4935,14 @@
       "team1": "Stade Brestois 29",
       "team2": "RC Strasbourg Alsace",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          1,
+          2
+        ]
       }
     },
     {
@@ -4944,6 +4952,14 @@
       "team1": "Racing Club de Lens",
       "team2": "Paris Saint-Germain FC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {
@@ -4953,6 +4969,14 @@
       "team1": "FC Lorient",
       "team2": "Le Havre AC",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {
@@ -4962,7 +4986,8 @@
       "team1": "FC Nantes",
       "team2": "Toulouse FC",
       "score": {
-      }
+      },
+      "status": "cancelled"
     },
     {
       "round": "Matchday 34",
@@ -4971,6 +4996,14 @@
       "team1": "Paris FC",
       "team2": "Paris Saint-Germain FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -4980,6 +5013,10 @@
       "team1": "OGC Nice",
       "team2": "FC Metz",
       "score": {
+        "ft": [
+          0,
+          0
+        ]
       }
     },
     {
@@ -4989,6 +5026,14 @@
       "team1": "Olympique Lyonnais",
       "team2": "Racing Club de Lens",
       "score": {
+        "ht": [
+          0,
+          3
+        ],
+        "ft": [
+          0,
+          4
+        ]
       }
     },
     {
@@ -4998,6 +5043,14 @@
       "team1": "Olympique de Marseille",
       "team2": "Stade Rennais FC 1901",
       "score": {
+        "ht": [
+          2,
+          0
+        ],
+        "ft": [
+          3,
+          1
+        ]
       }
     },
     {
@@ -5007,6 +5060,14 @@
       "team1": "Lille OSC",
       "team2": "AJ Auxerre",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {
@@ -5016,6 +5077,14 @@
       "team1": "RC Strasbourg Alsace",
       "team2": "AS Monaco FC",
       "score": {
+        "ht": [
+          1,
+          3
+        ],
+        "ft": [
+          5,
+          4
+        ]
       }
     },
     {
@@ -5025,6 +5094,14 @@
       "team1": "Stade Brestois 29",
       "team2": "Angers SCO",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     }
   ]

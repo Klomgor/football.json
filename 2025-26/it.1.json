@@ -5980,46 +5980,86 @@
     {
       "round": "Matchday 37",
       "date": "2026-05-17",
-      "time": "12:30",
+      "time": "12:00",
       "team1": "AS Roma",
       "team2": "SS Lazio",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          0
+        ]
       }
     },
     {
       "round": "Matchday 37",
       "date": "2026-05-17",
-      "time": "12:30",
+      "time": "12:00",
       "team1": "Genoa CFC",
       "team2": "AC Milan",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          2
+        ]
       }
     },
     {
       "round": "Matchday 37",
       "date": "2026-05-17",
-      "time": "12:30",
+      "time": "12:00",
       "team1": "Como 1907",
       "team2": "Parma Calcio 1913",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
       }
     },
     {
       "round": "Matchday 37",
       "date": "2026-05-17",
-      "time": "12:30",
+      "time": "12:00",
       "team1": "Juventus FC",
       "team2": "ACF Fiorentina",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          2
+        ]
       }
     },
     {
       "round": "Matchday 37",
       "date": "2026-05-17",
-      "time": "12:30",
+      "time": "12:00",
       "team1": "AC Pisa 1909",
       "team2": "SSC Napoli",
       "score": {
+        "ht": [
+          0,
+          2
+        ],
+        "ft": [
+          0,
+          3
+        ]
       }
     },
     {
@@ -6029,6 +6069,14 @@
       "team1": "FC Internazionale Milano",
       "team2": "Hellas Verona FC",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -6038,6 +6086,14 @@
       "team1": "Atalanta BC",
       "team2": "Bologna FC 1909",
       "score": {
+        "ht": [
+          0,
+          0
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
@@ -6047,6 +6103,14 @@
       "team1": "Cagliari Calcio",
       "team2": "Torino FC",
       "score": {
+        "ht": [
+          2,
+          1
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
@@ -6056,6 +6120,14 @@
       "team1": "US Sassuolo Calcio",
       "team2": "US Lecce",
       "score": {
+        "ht": [
+          1,
+          2
+        ],
+        "ft": [
+          2,
+          3
+        ]
       }
     },
     {
@@ -6065,6 +6137,14 @@
       "team1": "Udinese Calcio",
       "team2": "US Cremonese",
       "score": {
+        "ht": [
+          0,
+          1
+        ],
+        "ft": [
+          0,
+          1
+        ]
       }
     },
     {
