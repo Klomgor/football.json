@@ -6139,6 +6139,14 @@
       "team1": "Arsenal FC",
       "team2": "Burnley FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          0
+        ]
       }
     },
     {
@@ -6148,6 +6156,14 @@
       "team1": "AFC Bournemouth",
       "team2": "Manchester City FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          1,
+          1
+        ]
       }
     },
     {
@@ -6157,6 +6173,14 @@
       "team1": "Chelsea FC",
       "team2": "Tottenham Hotspur FC",
       "score": {
+        "ht": [
+          1,
+          0
+        ],
+        "ft": [
+          2,
+          1
+        ]
       }
     },
     {
