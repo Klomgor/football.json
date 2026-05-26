@@ -2,6 +2,9 @@
   "name": "Netherlands Eredivisie 2025/26",
   "matches": [
     {
+      "round": "Matchday 1",
+      "date": "2025-08-08",
+      "time": "20:00",
       "team1": "Fortuna Sittard",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -16,6 +19,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-09",
+      "time": "16:30",
       "team1": "NEC",
       "team2": "SBV Excelsior",
       "score": {
@@ -30,6 +36,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-09",
+      "time": "18:45",
       "team1": "Feyenoord Rotterdam",
       "team2": "NAC Breda",
       "score": {
@@ -44,6 +53,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-09",
+      "time": "20:00",
       "team1": "SC Heerenveen",
       "team2": "FC Volendam",
       "score": {
@@ -58,6 +70,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-09",
+      "time": "21:00",
       "team1": "PSV",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -72,6 +87,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-10",
+      "time": "12:15",
       "team1": "PEC Zwolle",
       "team2": "FC Twente '65",
       "score": {
@@ -86,6 +104,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-10",
+      "time": "14:30",
       "team1": "AFC Ajax",
       "team2": "Telstar 1963",
       "score": {
@@ -100,6 +121,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-10",
+      "time": "14:30",
       "team1": "AZ",
       "team2": "FC Groningen",
       "score": {
@@ -114,6 +138,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-10",
+      "time": "16:45",
       "team1": "FC Utrecht",
       "team2": "Heracles Almelo",
       "score": {
@@ -128,6 +155,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-15",
+      "time": "20:00",
       "team1": "Telstar 1963",
       "team2": "PEC Zwolle",
       "score": {
@@ -142,6 +172,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-16",
+      "time": "18:45",
       "team1": "SBV Excelsior",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -156,6 +189,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-16",
+      "time": "20:00",
       "team1": "Heracles Almelo",
       "team2": "NEC",
       "score": {
@@ -170,6 +206,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-16",
+      "time": "21:00",
       "team1": "FC Groningen",
       "team2": "SC Heerenveen",
       "score": {
@@ -184,6 +223,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-17",
+      "time": "12:15",
       "team1": "Go Ahead Eagles",
       "team2": "AFC Ajax",
       "score": {
@@ -198,6 +240,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-17",
+      "time": "14:30",
       "team1": "Sparta Rotterdam",
       "team2": "FC Utrecht",
       "score": {
@@ -212,6 +257,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-17",
+      "time": "14:30",
       "team1": "FC Twente '65",
       "team2": "PSV",
       "score": {
@@ -226,6 +274,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-17",
+      "time": "16:45",
       "team1": "FC Volendam",
       "team2": "AZ",
       "score": {
@@ -240,6 +291,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-17",
+      "time": "20:00",
       "team1": "NAC Breda",
       "team2": "Fortuna Sittard",
       "score": {
@@ -254,6 +308,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-23",
+      "time": "16:30",
       "team1": "Go Ahead Eagles",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -268,6 +325,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-23",
+      "time": "18:45",
       "team1": "PSV",
       "team2": "FC Groningen",
       "score": {
@@ -282,6 +342,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-23",
+      "time": "21:00",
       "team1": "Telstar 1963",
       "team2": "FC Volendam",
       "score": {
@@ -296,6 +359,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-24",
+      "time": "12:15",
       "team1": "SC Heerenveen",
       "team2": "FC Twente '65",
       "score": {
@@ -310,6 +376,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-24",
+      "time": "14:30",
       "team1": "FC Utrecht",
       "team2": "SBV Excelsior",
       "score": {
@@ -324,6 +393,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-24",
+      "time": "14:30",
       "team1": "NEC",
       "team2": "NAC Breda",
       "score": {
@@ -338,6 +410,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-24",
+      "time": "16:45",
       "team1": "AFC Ajax",
       "team2": "Heracles Almelo",
       "score": {
@@ -352,6 +427,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-08-29",
+      "time": "20:00",
       "team1": "FC Groningen",
       "team2": "Heracles Almelo",
       "score": {
@@ -366,6 +444,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-08-30",
+      "time": "16:30",
       "team1": "FC Volendam",
       "team2": "AFC Ajax",
       "score": {
@@ -380,6 +461,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-08-30",
+      "time": "18:45",
       "team1": "SC Heerenveen",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -394,6 +478,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-08-30",
+      "time": "20:00",
       "team1": "PSV",
       "team2": "Telstar 1963",
       "score": {
@@ -408,6 +495,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-08-30",
+      "time": "21:00",
       "team1": "SBV Excelsior",
       "team2": "FC Twente '65",
       "score": {
@@ -422,6 +512,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-08-31",
+      "time": "12:15",
       "team1": "Fortuna Sittard",
       "team2": "NEC",
       "score": {
@@ -436,6 +529,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-08-31",
+      "time": "14:30",
       "team1": "PEC Zwolle",
       "team2": "FC Utrecht",
       "score": {
@@ -450,6 +546,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-08-31",
+      "time": "14:30",
       "team1": "Sparta Rotterdam",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -464,6 +563,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-08-31",
+      "time": "16:45",
       "team1": "NAC Breda",
       "team2": "AZ",
       "score": {
@@ -478,6 +580,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-13",
+      "time": "16:30",
       "team1": "AFC Ajax",
       "team2": "PEC Zwolle",
       "score": {
@@ -492,6 +597,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-13",
+      "time": "18:45",
       "team1": "NEC",
       "team2": "PSV",
       "score": {
@@ -506,6 +614,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-13",
+      "time": "19:10",
       "team1": "Go Ahead Eagles",
       "team2": "FC Volendam",
       "score": {
@@ -520,6 +631,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-13",
+      "time": "21:00",
       "team1": "Feyenoord Rotterdam",
       "team2": "SC Heerenveen",
       "score": {
@@ -534,6 +648,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-13",
+      "time": "21:00",
       "team1": "FC Twente '65",
       "team2": "NAC Breda",
       "score": {
@@ -548,6 +665,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-14",
+      "time": "12:15",
       "team1": "SBV Excelsior",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -562,6 +682,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-14",
+      "time": "14:30",
       "team1": "FC Utrecht",
       "team2": "FC Groningen",
       "score": {
@@ -576,6 +699,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-14",
+      "time": "14:30",
       "team1": "Heracles Almelo",
       "team2": "AZ",
       "score": {
@@ -590,6 +716,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-14",
+      "time": "16:45",
       "team1": "Telstar 1963",
       "team2": "Fortuna Sittard",
       "score": {
@@ -604,6 +733,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-09-17",
+      "time": "20:00",
       "team1": "Feyenoord Rotterdam",
       "team2": "Fortuna Sittard",
       "score": {
@@ -618,6 +750,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-19",
+      "time": "20:00",
       "team1": "Sparta Rotterdam",
       "team2": "FC Twente '65",
       "score": {
@@ -632,6 +767,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-20",
+      "time": "16:30",
       "team1": "FC Volendam",
       "team2": "SBV Excelsior",
       "score": {
@@ -646,6 +784,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-20",
+      "time": "18:45",
       "team1": "FC Groningen",
       "team2": "Telstar 1963",
       "score": {
@@ -660,6 +801,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-20",
+      "time": "20:00",
       "team1": "Fortuna Sittard",
       "team2": "FC Utrecht",
       "score": {
@@ -674,6 +818,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-20",
+      "time": "21:00",
       "team1": "NAC Breda",
       "team2": "Heracles Almelo",
       "score": {
@@ -688,6 +835,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-21",
+      "time": "12:15",
       "team1": "PEC Zwolle",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -702,6 +852,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-21",
+      "time": "14:30",
       "team1": "PSV",
       "team2": "AFC Ajax",
       "score": {
@@ -716,6 +869,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-21",
+      "time": "14:30",
       "team1": "SC Heerenveen",
       "team2": "NEC",
       "score": {
@@ -730,6 +886,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-21",
+      "time": "16:45",
       "team1": "AZ",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -744,6 +903,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-09-24",
+      "time": "20:00",
       "team1": "AZ",
       "team2": "PEC Zwolle",
       "score": {
@@ -758,6 +920,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-09-26",
+      "time": "20:00",
       "team1": "FC Twente '65",
       "team2": "Fortuna Sittard",
       "score": {
@@ -772,6 +937,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-09-27",
+      "time": "16:30",
       "team1": "AFC Ajax",
       "team2": "NAC Breda",
       "score": {
@@ -786,6 +954,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-09-27",
+      "time": "18:45",
       "team1": "FC Volendam",
       "team2": "PEC Zwolle",
       "score": {
@@ -800,6 +971,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-09-27",
+      "time": "20:00",
       "team1": "SBV Excelsior",
       "team2": "PSV",
       "score": {
@@ -814,6 +988,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-09-27",
+      "time": "21:00",
       "team1": "Heracles Almelo",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -828,6 +1005,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-09-28",
+      "time": "12:15",
       "team1": "NEC",
       "team2": "AZ",
       "score": {
@@ -842,6 +1022,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-09-28",
+      "time": "14:30",
       "team1": "FC Groningen",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -856,6 +1039,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-09-28",
+      "time": "14:30",
       "team1": "FC Utrecht",
       "team2": "SC Heerenveen",
       "score": {
@@ -870,6 +1056,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-09-28",
+      "time": "16:45",
       "team1": "Telstar 1963",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -884,6 +1073,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-03",
+      "time": "20:00",
       "team1": "NAC Breda",
       "team2": "FC Groningen",
       "score": {
@@ -898,6 +1090,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-04",
+      "time": "16:30",
       "team1": "Sparta Rotterdam",
       "team2": "AFC Ajax",
       "score": {
@@ -912,6 +1107,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-04",
+      "time": "18:45",
       "team1": "Fortuna Sittard",
       "team2": "FC Volendam",
       "score": {
@@ -926,6 +1124,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-04",
+      "time": "20:00",
       "team1": "PEC Zwolle",
       "team2": "PSV",
       "score": {
@@ -940,6 +1141,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-04",
+      "time": "21:00",
       "team1": "SC Heerenveen",
       "team2": "SBV Excelsior",
       "score": {
@@ -954,6 +1158,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-05",
+      "time": "12:15",
       "team1": "FC Twente '65",
       "team2": "Heracles Almelo",
       "score": {
@@ -968,6 +1175,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-05",
+      "time": "14:30",
       "team1": "Feyenoord Rotterdam",
       "team2": "FC Utrecht",
       "score": {
@@ -982,6 +1192,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-05",
+      "time": "16:45",
       "team1": "AZ",
       "team2": "Telstar 1963",
       "score": {
@@ -996,6 +1209,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-05",
+      "time": "20:00",
       "team1": "Go Ahead Eagles",
       "team2": "NEC",
       "score": {
@@ -1010,6 +1226,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-18",
+      "time": "16:45",
       "team1": "NEC",
       "team2": "FC Twente '65",
       "score": {
@@ -1024,6 +1243,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-18",
+      "time": "18:45",
       "team1": "FC Utrecht",
       "team2": "FC Volendam",
       "score": {
@@ -1038,6 +1260,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-18",
+      "time": "18:45",
       "team1": "PSV",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -1052,6 +1277,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-18",
+      "time": "21:00",
       "team1": "AFC Ajax",
       "team2": "AZ",
       "score": {
@@ -1066,6 +1294,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-18",
+      "time": "21:00",
       "team1": "NAC Breda",
       "team2": "PEC Zwolle",
       "score": {
@@ -1080,6 +1311,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-19",
+      "time": "12:15",
       "team1": "Telstar 1963",
       "team2": "SC Heerenveen",
       "score": {
@@ -1094,6 +1328,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-19",
+      "time": "14:30",
       "team1": "FC Groningen",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -1108,6 +1345,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-19",
+      "time": "14:30",
       "team1": "SBV Excelsior",
       "team2": "Fortuna Sittard",
       "score": {
@@ -1122,6 +1362,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-19",
+      "time": "16:45",
       "team1": "Heracles Almelo",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -1136,6 +1379,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-24",
+      "time": "20:00",
       "team1": "SC Heerenveen",
       "team2": "NAC Breda",
       "score": {
@@ -1150,6 +1396,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-25",
+      "time": "16:40",
       "team1": "Fortuna Sittard",
       "team2": "FC Groningen",
       "score": {
@@ -1164,6 +1413,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-25",
+      "time": "18:45",
       "team1": "Sparta Rotterdam",
       "team2": "Telstar 1963",
       "score": {
@@ -1178,6 +1430,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-25",
+      "time": "20:00",
       "team1": "FC Volendam",
       "team2": "Heracles Almelo",
       "score": {
@@ -1192,6 +1447,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-25",
+      "time": "21:00",
       "team1": "PEC Zwolle",
       "team2": "NEC",
       "score": {
@@ -1206,6 +1464,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-26",
+      "time": "12:15",
       "team1": "FC Twente '65",
       "team2": "AFC Ajax",
       "score": {
@@ -1220,6 +1481,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-26",
+      "time": "14:30",
       "team1": "Feyenoord Rotterdam",
       "team2": "PSV",
       "score": {
@@ -1234,6 +1498,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-26",
+      "time": "16:45",
       "team1": "AZ",
       "team2": "FC Utrecht",
       "score": {
@@ -1248,6 +1515,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-26",
+      "time": "20:00",
       "team1": "Go Ahead Eagles",
       "team2": "SBV Excelsior",
       "score": {
@@ -1262,6 +1532,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-10-31",
+      "time": "20:00",
       "team1": "PSV",
       "team2": "Fortuna Sittard",
       "score": {
@@ -1276,6 +1549,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-01",
+      "time": "16:30",
       "team1": "AFC Ajax",
       "team2": "SC Heerenveen",
       "score": {
@@ -1290,6 +1566,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-01",
+      "time": "18:45",
       "team1": "NAC Breda",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -1304,6 +1583,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-01",
+      "time": "20:00",
       "team1": "Feyenoord Rotterdam",
       "team2": "FC Volendam",
       "score": {
@@ -1318,6 +1600,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-01",
+      "time": "21:00",
       "team1": "Telstar 1963",
       "team2": "SBV Excelsior",
       "score": {
@@ -1332,6 +1617,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-02",
+      "time": "12:15",
       "team1": "Heracles Almelo",
       "team2": "PEC Zwolle",
       "score": {
@@ -1346,6 +1634,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-02",
+      "time": "14:30",
       "team1": "FC Groningen",
       "team2": "FC Twente '65",
       "score": {
@@ -1360,6 +1651,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-02",
+      "time": "14:30",
       "team1": "Sparta Rotterdam",
       "team2": "AZ",
       "score": {
@@ -1374,6 +1668,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-02",
+      "time": "16:45",
       "team1": "FC Utrecht",
       "team2": "NEC",
       "score": {
@@ -1388,6 +1685,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-07",
+      "time": "20:00",
       "team1": "FC Twente '65",
       "team2": "Telstar 1963",
       "score": [
@@ -1396,6 +1696,9 @@
       ]
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-08",
+      "time": "16:30",
       "team1": "SBV Excelsior",
       "team2": "Heracles Almelo",
       "score": {
@@ -1410,6 +1713,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-08",
+      "time": "18:45",
       "team1": "FC Volendam",
       "team2": "NAC Breda",
       "score": {
@@ -1424,6 +1730,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-08",
+      "time": "20:00",
       "team1": "Fortuna Sittard",
       "team2": "SC Heerenveen",
       "score": {
@@ -1438,6 +1747,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-08",
+      "time": "21:00",
       "team1": "PEC Zwolle",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -1452,6 +1764,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-09",
+      "time": "12:15",
       "team1": "FC Utrecht",
       "team2": "AFC Ajax",
       "score": {
@@ -1466,6 +1781,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-09",
+      "time": "14:30",
       "team1": "NEC",
       "team2": "FC Groningen",
       "score": {
@@ -1480,6 +1798,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-09",
+      "time": "16:45",
       "team1": "AZ",
       "team2": "PSV",
       "score": {
@@ -1494,6 +1815,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-09",
+      "time": "20:00",
       "team1": "Go Ahead Eagles",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -1508,6 +1832,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-22",
+      "time": "16:30",
       "team1": "NAC Breda",
       "team2": "PSV",
       "score": {
@@ -1522,6 +1849,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-22",
+      "time": "18:45",
       "team1": "AFC Ajax",
       "team2": "SBV Excelsior",
       "score": {
@@ -1536,6 +1866,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-22",
+      "time": "18:45",
       "team1": "FC Volendam",
       "team2": "FC Twente '65",
       "score": {
@@ -1550,6 +1883,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-22",
+      "time": "21:00",
       "team1": "Heracles Almelo",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -1564,6 +1900,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-22",
+      "time": "21:00",
       "team1": "Sparta Rotterdam",
       "team2": "Fortuna Sittard",
       "score": {
@@ -1578,6 +1917,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-23",
+      "time": "12:15",
       "team1": "SC Heerenveen",
       "team2": "AZ",
       "score": {
@@ -1592,6 +1934,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-23",
+      "time": "14:30",
       "team1": "Feyenoord Rotterdam",
       "team2": "NEC",
       "score": {
@@ -1606,6 +1951,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-23",
+      "time": "14:30",
       "team1": "Telstar 1963",
       "team2": "FC Utrecht",
       "score": {
@@ -1620,6 +1968,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-23",
+      "time": "16:45",
       "team1": "FC Groningen",
       "team2": "PEC Zwolle",
       "score": {
@@ -1634,6 +1985,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-28",
+      "time": "20:00",
       "team1": "PEC Zwolle",
       "team2": "SC Heerenveen",
       "score": {
@@ -1648,6 +2002,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-29",
+      "time": "16:30",
       "team1": "SBV Excelsior",
       "team2": "NAC Breda",
       "score": {
@@ -1662,6 +2019,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-29",
+      "time": "18:45",
       "team1": "Fortuna Sittard",
       "team2": "Heracles Almelo",
       "score": {
@@ -1676,6 +2036,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-29",
+      "time": "21:00",
       "team1": "NEC",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -1690,6 +2053,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-30",
+      "time": "12:15",
       "team1": "PSV",
       "team2": "FC Volendam",
       "score": {
@@ -1704,6 +2070,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-30",
+      "time": "14:30",
       "team1": "Go Ahead Eagles",
       "team2": "FC Utrecht",
       "score": {
@@ -1718,6 +2087,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-30",
+      "time": "14:30",
       "team1": "Telstar 1963",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -1732,6 +2104,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-30",
+      "time": "16:45",
       "team1": "FC Twente '65",
       "team2": "AZ",
       "score": {
@@ -1746,6 +2121,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-12-02",
+      "time": "14:30",
       "team1": "AFC Ajax",
       "team2": "FC Groningen",
       "score": {
@@ -1760,6 +2138,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-05",
+      "time": "20:00",
       "team1": "SBV Excelsior",
       "team2": "FC Groningen",
       "score": {
@@ -1774,6 +2155,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-06",
+      "time": "16:30",
       "team1": "SC Heerenveen",
       "team2": "PSV",
       "score": {
@@ -1788,6 +2172,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-06",
+      "time": "18:45",
       "team1": "Fortuna Sittard",
       "team2": "AFC Ajax",
       "score": {
@@ -1802,6 +2189,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-06",
+      "time": "20:00",
       "team1": "Heracles Almelo",
       "team2": "Telstar 1963",
       "score": {
@@ -1816,6 +2206,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-06",
+      "time": "21:00",
       "team1": "Feyenoord Rotterdam",
       "team2": "PEC Zwolle",
       "score": {
@@ -1830,6 +2223,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-07",
+      "time": "12:15",
       "team1": "FC Utrecht",
       "team2": "FC Twente '65",
       "score": {
@@ -1844,6 +2240,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-07",
+      "time": "14:30",
       "team1": "AZ",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -1858,6 +2257,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-07",
+      "time": "14:30",
       "team1": "FC Volendam",
       "team2": "NEC",
       "score": {
@@ -1872,6 +2274,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-07",
+      "time": "16:45",
       "team1": "Sparta Rotterdam",
       "team2": "NAC Breda",
       "score": {
@@ -1886,6 +2291,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-13",
+      "time": "16:30",
       "team1": "Telstar 1963",
       "team2": "NEC",
       "score": {
@@ -1900,6 +2308,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-13",
+      "time": "18:45",
       "team1": "FC Groningen",
       "team2": "FC Volendam",
       "score": {
@@ -1914,6 +2325,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-13",
+      "time": "20:00",
       "team1": "PSV",
       "team2": "Heracles Almelo",
       "score": {
@@ -1928,6 +2342,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-13",
+      "time": "21:00",
       "team1": "PEC Zwolle",
       "team2": "Fortuna Sittard",
       "score": {
@@ -1942,6 +2359,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-14",
+      "time": "12:15",
       "team1": "Sparta Rotterdam",
       "team2": "SC Heerenveen",
       "score": {
@@ -1956,6 +2376,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-14",
+      "time": "14:30",
       "team1": "AFC Ajax",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -1970,6 +2393,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-14",
+      "time": "14:30",
       "team1": "FC Twente '65",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -1984,6 +2410,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-14",
+      "time": "16:45",
       "team1": "NAC Breda",
       "team2": "FC Utrecht",
       "score": {
@@ -1998,6 +2427,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-12-20",
+      "time": "16:30",
       "team1": "Heracles Almelo",
       "team2": "SC Heerenveen",
       "score": {
@@ -2012,6 +2444,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-12-20",
+      "time": "18:45",
       "team1": "SBV Excelsior",
       "team2": "PEC Zwolle",
       "score": {
@@ -2026,6 +2461,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-12-20",
+      "time": "20:00",
       "team1": "NEC",
       "team2": "AFC Ajax",
       "score": {
@@ -2040,6 +2478,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-12-20",
+      "time": "21:00",
       "team1": "NAC Breda",
       "team2": "Telstar 1963",
       "score": {
@@ -2054,6 +2495,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-12-21",
+      "time": "12:15",
       "team1": "FC Utrecht",
       "team2": "PSV",
       "score": {
@@ -2068,6 +2512,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-12-21",
+      "time": "14:30",
       "team1": "Feyenoord Rotterdam",
       "team2": "FC Twente '65",
       "score": {
@@ -2082,6 +2529,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-12-21",
+      "time": "14:30",
       "team1": "Go Ahead Eagles",
       "team2": "FC Groningen",
       "score": {
@@ -2096,6 +2546,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-12-21",
+      "time": "16:45",
       "team1": "FC Volendam",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -2110,6 +2563,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-12-21",
+      "time": "16:45",
       "team1": "Fortuna Sittard",
       "team2": "AZ",
       "score": {
@@ -2124,6 +2580,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-10",
+      "time": "16:30",
       "team1": "AZ",
       "team2": "FC Volendam",
       "score": {
@@ -2138,6 +2597,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-10",
+      "time": "18:45",
       "team1": "FC Twente '65",
       "team2": "PEC Zwolle",
       "score": {
@@ -2152,6 +2614,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-10",
+      "time": "20:00",
       "team1": "PSV",
       "team2": "SBV Excelsior",
       "score": {
@@ -2166,6 +2631,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-10",
+      "time": "21:00",
       "team1": "FC Groningen",
       "team2": "NAC Breda",
       "score": [
@@ -2174,6 +2642,9 @@
       ]
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-11",
+      "time": "12:15",
       "team1": "SC Heerenveen",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -2188,6 +2659,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-11",
+      "time": "14:30",
       "team1": "Telstar 1963",
       "team2": "AFC Ajax",
       "score": {
@@ -2202,6 +2676,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-11",
+      "time": "14:30",
       "team1": "Go Ahead Eagles",
       "team2": "Fortuna Sittard",
       "score": {
@@ -2216,6 +2693,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-11",
+      "time": "16:45",
       "team1": "Sparta Rotterdam",
       "team2": "Heracles Almelo",
       "score": {
@@ -2230,6 +2710,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-17",
+      "time": "16:30",
       "team1": "AFC Ajax",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -2244,6 +2727,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-17",
+      "time": "18:45",
       "team1": "PEC Zwolle",
       "team2": "AZ",
       "score": {
@@ -2258,6 +2744,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-17",
+      "time": "20:00",
       "team1": "SBV Excelsior",
       "team2": "Telstar 1963",
       "score": {
@@ -2272,6 +2761,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-17",
+      "time": "20:00",
       "team1": "Fortuna Sittard",
       "team2": "PSV",
       "score": {
@@ -2286,6 +2778,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-17",
+      "time": "21:00",
       "team1": "NAC Breda",
       "team2": "NEC",
       "score": {
@@ -2300,6 +2795,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-18",
+      "time": "12:15",
       "team1": "SC Heerenveen",
       "team2": "FC Groningen",
       "score": {
@@ -2314,6 +2812,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-18",
+      "time": "14:30",
       "team1": "FC Volendam",
       "team2": "FC Utrecht",
       "score": {
@@ -2328,6 +2829,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-18",
+      "time": "14:30",
       "team1": "Heracles Almelo",
       "team2": "FC Twente '65",
       "score": {
@@ -2342,6 +2846,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-18",
+      "time": "16:45",
       "team1": "Feyenoord Rotterdam",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -2356,6 +2863,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2026-01-21",
+      "time": "18:45",
       "team1": "AZ",
       "team2": "SBV Excelsior",
       "score": {
@@ -2370,6 +2880,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-01-24",
+      "time": "16:30",
       "team1": "AFC Ajax",
       "team2": "FC Volendam",
       "score": {
@@ -2384,6 +2897,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-01-24",
+      "time": "18:45",
       "team1": "NEC",
       "team2": "PEC Zwolle",
       "score": {
@@ -2398,6 +2914,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-01-24",
+      "time": "20:00",
       "team1": "PSV",
       "team2": "NAC Breda",
       "score": {
@@ -2412,6 +2931,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-01-24",
+      "time": "21:00",
       "team1": "FC Twente '65",
       "team2": "SBV Excelsior",
       "score": [
@@ -2420,6 +2942,9 @@
       ]
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-01-25",
+      "time": "12:15",
       "team1": "Telstar 1963",
       "team2": "AZ",
       "score": {
@@ -2434,6 +2959,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-01-25",
+      "time": "14:30",
       "team1": "FC Groningen",
       "team2": "Fortuna Sittard",
       "score": {
@@ -2448,6 +2976,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-01-25",
+      "time": "16:45",
       "team1": "FC Utrecht",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -2462,6 +2993,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-01-25",
+      "time": "16:45",
       "team1": "Feyenoord Rotterdam",
       "team2": "Heracles Almelo",
       "score": {
@@ -2476,6 +3010,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-01-30",
+      "time": "20:00",
       "team1": "NAC Breda",
       "team2": "FC Twente '65",
       "score": {
@@ -2490,6 +3027,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-01-31",
+      "time": "16:30",
       "team1": "AZ",
       "team2": "NEC",
       "score": {
@@ -2504,6 +3044,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-01-31",
+      "time": "18:45",
       "team1": "PEC Zwolle",
       "team2": "Telstar 1963",
       "score": {
@@ -2518,6 +3061,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-01-31",
+      "time": "21:00",
       "team1": "Sparta Rotterdam",
       "team2": "FC Groningen",
       "score": {
@@ -2532,6 +3078,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-02-01",
+      "time": "12:15",
       "team1": "SBV Excelsior",
       "team2": "AFC Ajax",
       "score": {
@@ -2546,6 +3095,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-02-01",
+      "time": "14:30",
       "team1": "Heracles Almelo",
       "team2": "Fortuna Sittard",
       "score": {
@@ -2560,6 +3112,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-02-01",
+      "time": "14:30",
       "team1": "PSV",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -2574,6 +3129,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-02-01",
+      "time": "16:45",
       "team1": "SC Heerenveen",
       "team2": "FC Utrecht",
       "score": {
@@ -2588,6 +3146,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-02-01",
+      "time": "20:00",
       "team1": "FC Volendam",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -2602,6 +3163,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-06",
+      "time": "20:00",
       "team1": "NAC Breda",
       "team2": "SBV Excelsior",
       "score": {
@@ -2616,6 +3180,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-07",
+      "time": "16:30",
       "team1": "NEC",
       "team2": "Heracles Almelo",
       "score": {
@@ -2630,6 +3197,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-07",
+      "time": "18:45",
       "team1": "PEC Zwolle",
       "team2": "FC Volendam",
       "score": {
@@ -2644,6 +3214,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-07",
+      "time": "20:00",
       "team1": "FC Twente '65",
       "team2": "SC Heerenveen",
       "score": {
@@ -2658,6 +3231,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-07",
+      "time": "21:00",
       "team1": "Fortuna Sittard",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -2672,6 +3248,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-08",
+      "time": "12:15",
       "team1": "FC Utrecht",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -2686,6 +3265,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-08",
+      "time": "14:30",
       "team1": "AZ",
       "team2": "AFC Ajax",
       "score": {
@@ -2700,6 +3282,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-08",
+      "time": "14:30",
       "team1": "Go Ahead Eagles",
       "team2": "Telstar 1963",
       "score": {
@@ -2714,6 +3299,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-08",
+      "time": "16:45",
       "team1": "FC Groningen",
       "team2": "PSV",
       "score": {
@@ -2728,6 +3316,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-02-11",
+      "time": "18:45",
       "team1": "Go Ahead Eagles",
       "team2": "SC Heerenveen",
       "score": {
@@ -2742,6 +3333,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-02-11",
+      "time": "21:00",
       "team1": "NEC",
       "team2": "FC Utrecht",
       "score": {
@@ -2756,6 +3350,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-13",
+      "time": "20:00",
       "team1": "FC Volendam",
       "team2": "PSV",
       "score": {
@@ -2770,6 +3367,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-14",
+      "time": "16:30",
       "team1": "Heracles Almelo",
       "team2": "NAC Breda",
       "score": {
@@ -2784,6 +3384,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-14",
+      "time": "18:45",
       "team1": "SBV Excelsior",
       "team2": "AZ",
       "score": {
@@ -2798,6 +3401,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-14",
+      "time": "20:00",
       "team1": "AFC Ajax",
       "team2": "Fortuna Sittard",
       "score": {
@@ -2812,6 +3418,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-14",
+      "time": "21:00",
       "team1": "FC Groningen",
       "team2": "FC Utrecht",
       "score": {
@@ -2826,6 +3435,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-15",
+      "time": "12:15",
       "team1": "Feyenoord Rotterdam",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -2840,6 +3452,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-15",
+      "time": "14:30",
       "team1": "SC Heerenveen",
       "team2": "PEC Zwolle",
       "score": {
@@ -2854,6 +3469,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-15",
+      "time": "14:30",
       "team1": "Telstar 1963",
       "team2": "FC Twente '65",
       "score": {
@@ -2868,6 +3486,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-17",
+      "time": "20:00",
       "team1": "Sparta Rotterdam",
       "team2": "NEC",
       "score": {
@@ -2882,6 +3503,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-02-20",
+      "time": "20:00",
       "team1": "Fortuna Sittard",
       "team2": "SBV Excelsior",
       "score": {
@@ -2896,6 +3520,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-02-21",
+      "time": "18:45",
       "team1": "PSV",
       "team2": "SC Heerenveen",
       "score": {
@@ -2910,6 +3537,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-02-21",
+      "time": "20:00",
       "team1": "NAC Breda",
       "team2": "FC Volendam",
       "score": {
@@ -2924,6 +3554,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-02-21",
+      "time": "21:00",
       "team1": "AFC Ajax",
       "team2": "NEC",
       "score": {
@@ -2938,6 +3571,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-02-22",
+      "time": "12:15",
       "team1": "FC Twente '65",
       "team2": "FC Groningen",
       "score": {
@@ -2952,6 +3588,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-02-22",
+      "time": "14:30",
       "team1": "FC Utrecht",
       "team2": "PEC Zwolle",
       "score": {
@@ -2966,6 +3605,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-02-22",
+      "time": "14:30",
       "team1": "Go Ahead Eagles",
       "team2": "Heracles Almelo",
       "score": {
@@ -2980,6 +3622,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-02-22",
+      "time": "16:45",
       "team1": "AZ",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -2994,6 +3639,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-02-22",
+      "time": "20:00",
       "team1": "Feyenoord Rotterdam",
       "team2": "Telstar 1963",
       "score": {
@@ -3008,6 +3656,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-02-27",
+      "time": "20:00",
       "team1": "Telstar 1963",
       "team2": "NAC Breda",
       "score": {
@@ -3022,6 +3673,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-02-28",
+      "time": "16:30",
       "team1": "SC Heerenveen",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -3036,6 +3690,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-02-28",
+      "time": "18:45",
       "team1": "Heracles Almelo",
       "team2": "PSV",
       "score": {
@@ -3050,6 +3707,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-02-28",
+      "time": "21:00",
       "team1": "NEC",
       "team2": "Fortuna Sittard",
       "score": {
@@ -3064,6 +3724,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-03-01",
+      "time": "12:15",
       "team1": "PEC Zwolle",
       "team2": "AFC Ajax",
       "score": [
@@ -3072,6 +3735,9 @@
       ]
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-03-01",
+      "time": "14:30",
       "team1": "FC Volendam",
       "team2": "FC Groningen",
       "score": {
@@ -3086,6 +3752,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-03-01",
+      "time": "14:30",
       "team1": "FC Twente '65",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -3100,6 +3769,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-03-01",
+      "time": "16:45",
       "team1": "FC Utrecht",
       "team2": "AZ",
       "score": {
@@ -3114,6 +3786,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-03-01",
+      "time": "20:00",
       "team1": "SBV Excelsior",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -3128,6 +3803,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-06",
+      "time": "20:00",
       "team1": "Heracles Almelo",
       "team2": "FC Utrecht",
       "score": [
@@ -3136,6 +3814,9 @@
       ]
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-07",
+      "time": "16:30",
       "team1": "FC Groningen",
       "team2": "AFC Ajax",
       "score": {
@@ -3150,6 +3831,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-07",
+      "time": "20:00",
       "team1": "PSV",
       "team2": "AZ",
       "score": {
@@ -3164,6 +3848,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-07",
+      "time": "21:00",
       "team1": "SBV Excelsior",
       "team2": "SC Heerenveen",
       "score": {
@@ -3178,6 +3865,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-08",
+      "time": "12:15",
       "team1": "Sparta Rotterdam",
       "team2": "PEC Zwolle",
       "score": {
@@ -3192,6 +3882,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-08",
+      "time": "14:30",
       "team1": "Fortuna Sittard",
       "team2": "Telstar 1963",
       "score": {
@@ -3206,6 +3899,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-08",
+      "time": "14:30",
       "team1": "Go Ahead Eagles",
       "team2": "FC Twente '65",
       "score": {
@@ -3220,6 +3916,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-08",
+      "time": "16:45",
       "team1": "NAC Breda",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -3234,6 +3933,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-08",
+      "time": "20:00",
       "team1": "NEC",
       "team2": "FC Volendam",
       "score": {
@@ -3248,6 +3950,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-13",
+      "time": "20:00",
       "team1": "PEC Zwolle",
       "team2": "FC Groningen",
       "score": {
@@ -3262,6 +3967,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-14",
+      "time": "16:30",
       "team1": "FC Volendam",
       "team2": "Fortuna Sittard",
       "score": {
@@ -3276,6 +3984,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-14",
+      "time": "18:45",
       "team1": "PSV",
       "team2": "NEC",
       "score": {
@@ -3290,6 +4001,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-14",
+      "time": "20:00",
       "team1": "SC Heerenveen",
       "team2": "Telstar 1963",
       "score": {
@@ -3304,6 +4018,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-14",
+      "time": "21:00",
       "team1": "AFC Ajax",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -3318,6 +4035,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-15",
+      "time": "12:15",
       "team1": "FC Twente '65",
       "team2": "FC Utrecht",
       "score": {
@@ -3332,6 +4052,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-15",
+      "time": "14:30",
       "team1": "AZ",
       "team2": "Heracles Almelo",
       "score": {
@@ -3346,6 +4069,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-15",
+      "time": "14:30",
       "team1": "Feyenoord Rotterdam",
       "team2": "SBV Excelsior",
       "score": {
@@ -3360,6 +4086,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-15",
+      "time": "16:45",
       "team1": "Go Ahead Eagles",
       "team2": "NAC Breda",
       "score": {
@@ -3374,6 +4103,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-03-20",
+      "time": "20:00",
       "team1": "Heracles Almelo",
       "team2": "SBV Excelsior",
       "score": {
@@ -3388,6 +4120,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-03-21",
+      "time": "16:30",
       "team1": "Fortuna Sittard",
       "team2": "FC Twente '65",
       "score": {
@@ -3402,6 +4137,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-03-21",
+      "time": "18:45",
       "team1": "Sparta Rotterdam",
       "team2": "FC Volendam",
       "score": {
@@ -3416,6 +4154,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-03-21",
+      "time": "21:00",
       "team1": "PEC Zwolle",
       "team2": "NAC Breda",
       "score": {
@@ -3430,6 +4171,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-03-22",
+      "time": "12:15",
       "team1": "NEC",
       "team2": "SC Heerenveen",
       "score": {
@@ -3444,6 +4188,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-03-22",
+      "time": "14:30",
       "team1": "FC Utrecht",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -3458,6 +4205,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-03-22",
+      "time": "14:30",
       "team1": "Feyenoord Rotterdam",
       "team2": "AFC Ajax",
       "score": {
@@ -3472,6 +4222,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-03-22",
+      "time": "16:45",
       "team1": "FC Groningen",
       "team2": "AZ",
       "score": {
@@ -3486,6 +4239,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-03-22",
+      "time": "16:45",
       "team1": "Telstar 1963",
       "team2": "PSV",
       "score": {
@@ -3500,6 +4256,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-04",
+      "time": "16:30",
       "team1": "PSV",
       "team2": "FC Utrecht",
       "score": {
@@ -3514,6 +4273,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-04",
+      "time": "18:45",
       "team1": "Telstar 1963",
       "team2": "FC Groningen",
       "score": {
@@ -3528,6 +4290,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-04",
+      "time": "19:00",
       "team1": "AZ",
       "team2": "Fortuna Sittard",
       "score": {
@@ -3542,6 +4307,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-04",
+      "time": "21:00",
       "team1": "AFC Ajax",
       "team2": "FC Twente '65",
       "score": {
@@ -3556,6 +4324,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-04",
+      "time": "21:00",
       "team1": "SBV Excelsior",
       "team2": "NEC",
       "score": {
@@ -3570,6 +4341,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-05",
+      "time": "12:15",
       "team1": "Go Ahead Eagles",
       "team2": "PEC Zwolle",
       "score": {
@@ -3584,6 +4358,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-05",
+      "time": "14:30",
       "team1": "FC Volendam",
       "team2": "Feyenoord Rotterdam",
       "score": [
@@ -3592,6 +4369,9 @@
       ]
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-05",
+      "time": "14:30",
       "team1": "SC Heerenveen",
       "team2": "Heracles Almelo",
       "score": {
@@ -3606,6 +4386,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-05",
+      "time": "16:45",
       "team1": "NAC Breda",
       "team2": "Sparta Rotterdam",
       "score": [
@@ -3614,6 +4397,9 @@
       ]
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-10",
+      "time": "20:00",
       "team1": "FC Twente '65",
       "team2": "FC Volendam",
       "score": {
@@ -3628,6 +4414,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-11",
+      "time": "16:30",
       "team1": "FC Utrecht",
       "team2": "Telstar 1963",
       "score": {
@@ -3642,6 +4431,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-11",
+      "time": "18:45",
       "team1": "Sparta Rotterdam",
       "team2": "PSV",
       "score": {
@@ -3656,6 +4448,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-11",
+      "time": "20:00",
       "team1": "FC Groningen",
       "team2": "Go Ahead Eagles",
       "score": [
@@ -3664,6 +4459,9 @@
       ]
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-11",
+      "time": "21:00",
       "team1": "Heracles Almelo",
       "team2": "AFC Ajax",
       "score": {
@@ -3678,6 +4476,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-12",
+      "time": "12:15",
       "team1": "Fortuna Sittard",
       "team2": "NAC Breda",
       "score": {
@@ -3692,6 +4493,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-12",
+      "time": "14:30",
       "team1": "NEC",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -3706,6 +4510,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-12",
+      "time": "14:30",
       "team1": "PEC Zwolle",
       "team2": "SBV Excelsior",
       "score": {
@@ -3720,6 +4527,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-12",
+      "time": "16:45",
       "team1": "AZ",
       "team2": "SC Heerenveen",
       "score": {
@@ -3734,6 +4544,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-22",
+      "time": "20:00",
       "team1": "Telstar 1963",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -3748,6 +4561,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-23",
+      "time": "18:45",
       "team1": "Go Ahead Eagles",
       "team2": "AZ",
       "score": [
@@ -3756,6 +4572,9 @@
       ]
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-23",
+      "time": "21:00",
       "team1": "PSV",
       "team2": "PEC Zwolle",
       "score": {
@@ -3770,6 +4589,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-25",
+      "time": "16:30",
       "team1": "Feyenoord Rotterdam",
       "team2": "FC Groningen",
       "score": {
@@ -3784,6 +4606,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-25",
+      "time": "18:45",
       "team1": "SC Heerenveen",
       "team2": "Fortuna Sittard",
       "score": {
@@ -3798,6 +4623,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-25",
+      "time": "20:00",
       "team1": "NAC Breda",
       "team2": "AFC Ajax",
       "score": {
@@ -3812,6 +4640,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-25",
+      "time": "21:00",
       "team1": "FC Twente '65",
       "team2": "NEC",
       "score": {
@@ -3826,6 +4657,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-26",
+      "time": "12:15",
       "team1": "SBV Excelsior",
       "team2": "FC Utrecht",
       "score": {
@@ -3840,6 +4674,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-26",
+      "time": "14:30",
       "team1": "Heracles Almelo",
       "team2": "FC Volendam",
       "score": {
@@ -3854,6 +4691,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-02",
+      "time": "16:30",
       "team1": "FC Utrecht",
       "team2": "NAC Breda",
       "score": {
@@ -3868,6 +4708,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-02",
+      "time": "18:45",
       "team1": "FC Groningen",
       "team2": "SBV Excelsior",
       "score": {
@@ -3882,6 +4725,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-02",
+      "time": "20:00",
       "team1": "AFC Ajax",
       "team2": "PSV",
       "score": {
@@ -3896,6 +4742,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-02",
+      "time": "21:00",
       "team1": "NEC",
       "team2": "Telstar 1963",
       "score": {
@@ -3910,6 +4759,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-03",
+      "time": "12:15",
       "team1": "FC Volendam",
       "team2": "SC Heerenveen",
       "score": {
@@ -3924,6 +4776,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-03",
+      "time": "14:30",
       "team1": "Fortuna Sittard",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -3938,6 +4793,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-03",
+      "time": "14:30",
       "team1": "PEC Zwolle",
       "team2": "Heracles Almelo",
       "score": {
@@ -3952,6 +4810,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-03",
+      "time": "16:45",
       "team1": "AZ",
       "team2": "FC Twente '65",
       "score": {
@@ -3966,6 +4827,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-03",
+      "time": "16:45",
       "team1": "Sparta Rotterdam",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -3980,6 +4844,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "16:45",
       "team1": "AFC Ajax",
       "team2": "FC Utrecht",
       "score": {
@@ -3994,6 +4861,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "16:45",
       "team1": "SBV Excelsior",
       "team2": "FC Volendam",
       "score": {
@@ -4008,6 +4878,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "16:45",
       "team1": "FC Groningen",
       "team2": "NEC",
       "score": {
@@ -4022,6 +4895,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "16:45",
       "team1": "Feyenoord Rotterdam",
       "team2": "AZ",
       "score": {
@@ -4036,6 +4912,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "16:45",
       "team1": "Fortuna Sittard",
       "team2": "PEC Zwolle",
       "score": {
@@ -4050,6 +4929,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "16:45",
       "team1": "Go Ahead Eagles",
       "team2": "PSV",
       "score": {
@@ -4064,11 +4946,17 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "16:45",
       "team1": "NAC Breda",
       "team2": "SC Heerenveen",
       "status": "canceled"
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "16:45",
       "team1": "Telstar 1963",
       "team2": "Heracles Almelo",
       "score": {
@@ -4083,6 +4971,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "16:45",
       "team1": "FC Twente '65",
       "team2": "Sparta Rotterdam",
       "score": {
@@ -4097,6 +4988,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "AZ",
       "team2": "NAC Breda",
       "score": {
@@ -4111,6 +5005,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "FC Utrecht",
       "team2": "Fortuna Sittard",
       "score": {
@@ -4125,6 +5022,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "FC Volendam",
       "team2": "Telstar 1963",
       "score": {
@@ -4139,6 +5039,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "Heracles Almelo",
       "team2": "FC Groningen",
       "score": {
@@ -4153,6 +5056,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "NEC",
       "team2": "Go Ahead Eagles",
       "score": {
@@ -4167,6 +5073,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "PEC Zwolle",
       "team2": "Feyenoord Rotterdam",
       "score": {
@@ -4181,6 +5090,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "PSV",
       "team2": "FC Twente '65",
       "score": {
@@ -4195,6 +5107,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "SC Heerenveen",
       "team2": "AFC Ajax",
       "score": [
@@ -4203,6 +5118,9 @@
       ]
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "Sparta Rotterdam",
       "team2": "SBV Excelsior",
       "score": {

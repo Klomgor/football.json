@@ -2,6 +2,9 @@
   "name": "French Ligue 1 2025/26",
   "matches": [
     {
+      "round": "Matchday 1",
+      "date": "2025-08-15",
+      "time": "20:45",
       "team1": "Stade Rennais FC 1901",
       "team2": "Olympique de Marseille",
       "score": {
@@ -16,6 +19,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-16",
+      "time": "17:00",
       "team1": "Racing Club de Lens",
       "team2": "Olympique Lyonnais",
       "score": {
@@ -30,6 +36,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-16",
+      "time": "19:00",
       "team1": "AS Monaco FC",
       "team2": "Le Havre AC",
       "score": {
@@ -44,6 +53,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-16",
+      "time": "21:05",
       "team1": "OGC Nice",
       "team2": "Toulouse FC",
       "score": {
@@ -58,6 +70,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-17",
+      "time": "15:00",
       "team1": "Stade Brestois 29",
       "team2": "Lille OSC",
       "score": {
@@ -72,6 +87,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-17",
+      "time": "17:15",
       "team1": "AJ Auxerre",
       "team2": "FC Lorient",
       "score": {
@@ -86,6 +104,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-17",
+      "time": "17:15",
       "team1": "FC Metz",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -100,6 +121,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-17",
+      "time": "17:15",
       "team1": "Angers SCO",
       "team2": "Paris FC",
       "score": {
@@ -114,6 +138,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-08-17",
+      "time": "20:45",
       "team1": "FC Nantes",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -128,6 +155,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-22",
+      "time": "20:45",
       "team1": "Paris Saint-Germain FC",
       "team2": "Angers SCO",
       "score": {
@@ -142,6 +172,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-23",
+      "time": "17:00",
       "team1": "Olympique de Marseille",
       "team2": "Paris FC",
       "score": {
@@ -156,6 +189,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-23",
+      "time": "19:00",
       "team1": "OGC Nice",
       "team2": "AJ Auxerre",
       "score": {
@@ -170,6 +206,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-23",
+      "time": "21:05",
       "team1": "Olympique Lyonnais",
       "team2": "FC Metz",
       "score": {
@@ -184,6 +223,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-24",
+      "time": "15:00",
       "team1": "FC Lorient",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -198,6 +240,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-24",
+      "time": "17:15",
       "team1": "Le Havre AC",
       "team2": "Racing Club de Lens",
       "score": {
@@ -212,6 +257,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-24",
+      "time": "17:15",
       "team1": "Toulouse FC",
       "team2": "Stade Brestois 29",
       "score": {
@@ -226,6 +274,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-24",
+      "time": "17:15",
       "team1": "RC Strasbourg Alsace",
       "team2": "FC Nantes",
       "score": {
@@ -240,6 +291,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-08-24",
+      "time": "20:45",
       "team1": "Lille OSC",
       "team2": "AS Monaco FC",
       "score": {
@@ -254,6 +308,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-29",
+      "time": "20:45",
       "team1": "Racing Club de Lens",
       "team2": "Stade Brestois 29",
       "score": {
@@ -268,6 +325,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-30",
+      "time": "17:00",
       "team1": "FC Lorient",
       "team2": "Lille OSC",
       "score": {
@@ -282,6 +342,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-30",
+      "time": "19:00",
       "team1": "FC Nantes",
       "team2": "AJ Auxerre",
       "score": {
@@ -296,6 +359,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-30",
+      "time": "21:05",
       "team1": "Toulouse FC",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -310,6 +376,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-31",
+      "time": "15:00",
       "team1": "Angers SCO",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -324,6 +393,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-31",
+      "time": "17:15",
       "team1": "Le Havre AC",
       "team2": "OGC Nice",
       "score": {
@@ -338,6 +410,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-31",
+      "time": "17:15",
       "team1": "AS Monaco FC",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -352,6 +427,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-31",
+      "time": "17:15",
       "team1": "Paris FC",
       "team2": "FC Metz",
       "score": {
@@ -366,6 +444,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-08-31",
+      "time": "20:45",
       "team1": "Olympique Lyonnais",
       "team2": "Olympique de Marseille",
       "score": {
@@ -380,6 +461,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-09-12",
+      "time": "20:45",
       "team1": "Olympique de Marseille",
       "team2": "FC Lorient",
       "score": {
@@ -394,6 +478,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-09-13",
+      "time": "17:00",
       "team1": "OGC Nice",
       "team2": "FC Nantes",
       "score": {
@@ -408,6 +495,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-09-13",
+      "time": "21:05",
       "team1": "AJ Auxerre",
       "team2": "AS Monaco FC",
       "score": {
@@ -422,6 +512,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-09-14",
+      "time": "15:00",
       "team1": "Lille OSC",
       "team2": "Toulouse FC",
       "score": {
@@ -436,6 +529,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-09-14",
+      "time": "17:15",
       "team1": "FC Metz",
       "team2": "Angers SCO",
       "score": {
@@ -450,6 +546,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-09-14",
+      "time": "17:15",
       "team1": "Paris Saint-Germain FC",
       "team2": "Racing Club de Lens",
       "score": {
@@ -464,6 +563,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-09-14",
+      "time": "17:15",
       "team1": "RC Strasbourg Alsace",
       "team2": "Le Havre AC",
       "score": {
@@ -478,6 +580,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-09-14",
+      "time": "17:15",
       "team1": "Stade Brestois 29",
       "team2": "Paris FC",
       "score": {
@@ -492,6 +597,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-09-14",
+      "time": "20:45",
       "team1": "Stade Rennais FC 1901",
       "team2": "Olympique Lyonnais",
       "score": {
@@ -506,6 +614,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-19",
+      "time": "20:45",
       "team1": "Olympique Lyonnais",
       "team2": "Angers SCO",
       "score": {
@@ -520,6 +631,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-20",
+      "time": "17:00",
       "team1": "FC Nantes",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -534,6 +648,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-20",
+      "time": "19:00",
       "team1": "Stade Brestois 29",
       "team2": "OGC Nice",
       "score": {
@@ -548,6 +665,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-20",
+      "time": "21:05",
       "team1": "Racing Club de Lens",
       "team2": "Lille OSC",
       "score": {
@@ -562,6 +682,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-21",
+      "time": "15:00",
       "team1": "Paris FC",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -576,6 +699,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-21",
+      "time": "17:15",
       "team1": "Le Havre AC",
       "team2": "FC Lorient",
       "score": {
@@ -590,6 +716,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-21",
+      "time": "17:15",
       "team1": "AJ Auxerre",
       "team2": "Toulouse FC",
       "score": {
@@ -604,6 +733,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-21",
+      "time": "17:15",
       "team1": "AS Monaco FC",
       "team2": "FC Metz",
       "score": {
@@ -618,6 +750,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-09-22",
+      "time": "20:00",
       "team1": "Olympique de Marseille",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -632,6 +767,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-26",
+      "time": "20:45",
       "team1": "RC Strasbourg Alsace",
       "team2": "Olympique de Marseille",
       "score": {
@@ -646,6 +784,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-27",
+      "time": "17:00",
       "team1": "FC Lorient",
       "team2": "AS Monaco FC",
       "score": {
@@ -660,6 +801,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-27",
+      "time": "19:00",
       "team1": "Toulouse FC",
       "team2": "FC Nantes",
       "score": {
@@ -674,6 +818,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-27",
+      "time": "21:05",
       "team1": "Paris Saint-Germain FC",
       "team2": "AJ Auxerre",
       "score": {
@@ -688,6 +835,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-28",
+      "time": "15:00",
       "team1": "OGC Nice",
       "team2": "Paris FC",
       "score": {
@@ -702,6 +852,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-28",
+      "time": "17:15",
       "team1": "FC Metz",
       "team2": "Le Havre AC",
       "score": [
@@ -710,6 +863,9 @@
       ]
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-28",
+      "time": "17:15",
       "team1": "Lille OSC",
       "team2": "Olympique Lyonnais",
       "score": {
@@ -724,6 +880,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-28",
+      "time": "17:15",
       "team1": "Angers SCO",
       "team2": "Stade Brestois 29",
       "score": {
@@ -738,6 +897,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-09-28",
+      "time": "20:45",
       "team1": "Stade Rennais FC 1901",
       "team2": "Racing Club de Lens",
       "score": [
@@ -746,6 +908,9 @@
       ]
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-10-03",
+      "time": "20:45",
       "team1": "Paris FC",
       "team2": "FC Lorient",
       "score": {
@@ -760,6 +925,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-10-04",
+      "time": "17:00",
       "team1": "FC Metz",
       "team2": "Olympique de Marseille",
       "score": {
@@ -774,6 +942,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-10-04",
+      "time": "19:00",
       "team1": "Stade Brestois 29",
       "team2": "FC Nantes",
       "score": [
@@ -782,6 +953,9 @@
       ]
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-10-04",
+      "time": "21:05",
       "team1": "AJ Auxerre",
       "team2": "Racing Club de Lens",
       "score": {
@@ -796,6 +970,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-10-05",
+      "time": "15:00",
       "team1": "Olympique Lyonnais",
       "team2": "Toulouse FC",
       "score": {
@@ -810,6 +987,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-10-05",
+      "time": "17:15",
       "team1": "RC Strasbourg Alsace",
       "team2": "Angers SCO",
       "score": {
@@ -824,6 +1004,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-10-05",
+      "time": "17:15",
       "team1": "Le Havre AC",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -838,6 +1021,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-10-05",
+      "time": "17:15",
       "team1": "AS Monaco FC",
       "team2": "OGC Nice",
       "score": {
@@ -852,6 +1038,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-10-05",
+      "time": "20:45",
       "team1": "Lille OSC",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -866,6 +1055,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-17",
+      "time": "20:45",
       "team1": "Paris Saint-Germain FC",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -880,6 +1072,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-18",
+      "time": "17:00",
       "team1": "OGC Nice",
       "team2": "Olympique Lyonnais",
       "score": {
@@ -894,6 +1089,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-18",
+      "time": "19:00",
       "team1": "Angers SCO",
       "team2": "AS Monaco FC",
       "score": {
@@ -908,6 +1106,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-18",
+      "time": "21:05",
       "team1": "Olympique de Marseille",
       "team2": "Le Havre AC",
       "score": {
@@ -922,6 +1123,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-19",
+      "time": "15:00",
       "team1": "Racing Club de Lens",
       "team2": "Paris FC",
       "score": {
@@ -936,6 +1140,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-19",
+      "time": "17:15",
       "team1": "FC Lorient",
       "team2": "Stade Brestois 29",
       "score": {
@@ -950,6 +1157,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-19",
+      "time": "17:15",
       "team1": "Toulouse FC",
       "team2": "FC Metz",
       "score": {
@@ -964,6 +1174,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-19",
+      "time": "17:15",
       "team1": "Stade Rennais FC 1901",
       "team2": "AJ Auxerre",
       "score": {
@@ -978,6 +1191,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-10-19",
+      "time": "20:45",
       "team1": "FC Nantes",
       "team2": "Lille OSC",
       "score": {
@@ -992,6 +1208,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-24",
+      "time": "20:45",
       "team1": "Paris FC",
       "team2": "FC Nantes",
       "score": {
@@ -1006,6 +1225,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-25",
+      "time": "17:00",
       "team1": "Stade Brestois 29",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -1020,6 +1242,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-25",
+      "time": "19:00",
       "team1": "AS Monaco FC",
       "team2": "Toulouse FC",
       "score": {
@@ -1034,6 +1259,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-25",
+      "time": "21:05",
       "team1": "Racing Club de Lens",
       "team2": "Olympique de Marseille",
       "score": {
@@ -1048,6 +1276,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-26",
+      "time": "15:00",
       "team1": "Lille OSC",
       "team2": "FC Metz",
       "score": {
@@ -1062,6 +1293,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-26",
+      "time": "17:15",
       "team1": "AJ Auxerre",
       "team2": "Le Havre AC",
       "score": {
@@ -1076,6 +1310,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-26",
+      "time": "17:15",
       "team1": "Angers SCO",
       "team2": "FC Lorient",
       "score": {
@@ -1090,6 +1327,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-26",
+      "time": "17:15",
       "team1": "Stade Rennais FC 1901",
       "team2": "OGC Nice",
       "score": {
@@ -1104,6 +1344,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-10-26",
+      "time": "20:45",
       "team1": "Olympique Lyonnais",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -1118,6 +1361,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-29",
+      "time": "19:00",
       "team1": "Le Havre AC",
       "team2": "Stade Brestois 29",
       "score": {
@@ -1132,6 +1378,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-29",
+      "time": "19:00",
       "team1": "FC Lorient",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -1146,6 +1395,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-29",
+      "time": "19:00",
       "team1": "FC Metz",
       "team2": "Racing Club de Lens",
       "score": {
@@ -1160,6 +1412,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-29",
+      "time": "19:00",
       "team1": "OGC Nice",
       "team2": "Lille OSC",
       "score": {
@@ -1174,6 +1429,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-29",
+      "time": "21:05",
       "team1": "FC Nantes",
       "team2": "AS Monaco FC",
       "score": {
@@ -1188,6 +1446,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-29",
+      "time": "21:05",
       "team1": "Paris FC",
       "team2": "Olympique Lyonnais",
       "score": {
@@ -1202,6 +1463,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-29",
+      "time": "21:05",
       "team1": "Toulouse FC",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -1216,6 +1480,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-29",
+      "time": "21:05",
       "team1": "Olympique de Marseille",
       "team2": "Angers SCO",
       "score": {
@@ -1230,6 +1497,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-10-29",
+      "time": "21:05",
       "team1": "RC Strasbourg Alsace",
       "team2": "AJ Auxerre",
       "score": {
@@ -1244,6 +1514,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-01",
+      "time": "17:00",
       "team1": "Paris Saint-Germain FC",
       "team2": "OGC Nice",
       "score": {
@@ -1258,6 +1531,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-01",
+      "time": "19:00",
       "team1": "AS Monaco FC",
       "team2": "Paris FC",
       "score": {
@@ -1272,6 +1548,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-01",
+      "time": "21:05",
       "team1": "AJ Auxerre",
       "team2": "Olympique de Marseille",
       "score": {
@@ -1286,6 +1565,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-02",
+      "time": "15:00",
       "team1": "Stade Rennais FC 1901",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -1300,6 +1582,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-02",
+      "time": "17:15",
       "team1": "FC Nantes",
       "team2": "FC Metz",
       "score": {
@@ -1314,6 +1599,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-02",
+      "time": "17:15",
       "team1": "Toulouse FC",
       "team2": "Le Havre AC",
       "score": [
@@ -1322,6 +1610,9 @@
       ]
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-02",
+      "time": "17:15",
       "team1": "Lille OSC",
       "team2": "Angers SCO",
       "score": {
@@ -1336,6 +1627,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-02",
+      "time": "17:15",
       "team1": "Racing Club de Lens",
       "team2": "FC Lorient",
       "score": {
@@ -1350,6 +1644,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-11-02",
+      "time": "20:45",
       "team1": "Stade Brestois 29",
       "team2": "Olympique Lyonnais",
       "score": [
@@ -1358,6 +1655,9 @@
       ]
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-07",
+      "time": "20:45",
       "team1": "Paris FC",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -1372,6 +1672,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-08",
+      "time": "17:00",
       "team1": "Olympique de Marseille",
       "team2": "Stade Brestois 29",
       "score": {
@@ -1386,6 +1689,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-08",
+      "time": "19:00",
       "team1": "Le Havre AC",
       "team2": "FC Nantes",
       "score": {
@@ -1400,6 +1706,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-08",
+      "time": "21:05",
       "team1": "AS Monaco FC",
       "team2": "Racing Club de Lens",
       "score": {
@@ -1414,6 +1723,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-09",
+      "time": "15:00",
       "team1": "FC Lorient",
       "team2": "Toulouse FC",
       "score": {
@@ -1428,6 +1740,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-09",
+      "time": "17:15",
       "team1": "FC Metz",
       "team2": "OGC Nice",
       "score": {
@@ -1442,6 +1757,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-09",
+      "time": "17:15",
       "team1": "RC Strasbourg Alsace",
       "team2": "Lille OSC",
       "score": {
@@ -1456,6 +1774,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-09",
+      "time": "17:15",
       "team1": "Angers SCO",
       "team2": "AJ Auxerre",
       "score": {
@@ -1470,6 +1791,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-09",
+      "time": "20:45",
       "team1": "Olympique Lyonnais",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -1484,6 +1808,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-21",
+      "time": "20:45",
       "team1": "OGC Nice",
       "team2": "Olympique de Marseille",
       "score": {
@@ -1498,6 +1825,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-22",
+      "time": "17:00",
       "team1": "Racing Club de Lens",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -1512,6 +1842,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-22",
+      "time": "19:00",
       "team1": "Stade Rennais FC 1901",
       "team2": "AS Monaco FC",
       "score": {
@@ -1526,6 +1859,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-22",
+      "time": "21:05",
       "team1": "Paris Saint-Germain FC",
       "team2": "Le Havre AC",
       "score": {
@@ -1540,6 +1876,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-23",
+      "time": "15:00",
       "team1": "AJ Auxerre",
       "team2": "Olympique Lyonnais",
       "score": [
@@ -1548,6 +1887,9 @@
       ]
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-23",
+      "time": "17:15",
       "team1": "FC Nantes",
       "team2": "FC Lorient",
       "score": {
@@ -1562,6 +1904,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-23",
+      "time": "17:15",
       "team1": "Toulouse FC",
       "team2": "Angers SCO",
       "score": {
@@ -1576,6 +1921,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-23",
+      "time": "17:15",
       "team1": "Stade Brestois 29",
       "team2": "FC Metz",
       "score": {
@@ -1590,6 +1938,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-23",
+      "time": "20:45",
       "team1": "Lille OSC",
       "team2": "Paris FC",
       "score": {
@@ -1604,6 +1955,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-28",
+      "time": "20:45",
       "team1": "FC Metz",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -1618,6 +1972,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-29",
+      "time": "17:00",
       "team1": "AS Monaco FC",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -1632,6 +1989,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-29",
+      "time": "19:00",
       "team1": "Paris FC",
       "team2": "AJ Auxerre",
       "score": {
@@ -1646,6 +2006,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-29",
+      "time": "21:05",
       "team1": "Olympique de Marseille",
       "team2": "Toulouse FC",
       "score": {
@@ -1660,6 +2023,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-30",
+      "time": "15:00",
       "team1": "RC Strasbourg Alsace",
       "team2": "Stade Brestois 29",
       "score": {
@@ -1674,6 +2040,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-30",
+      "time": "17:15",
       "team1": "Le Havre AC",
       "team2": "Lille OSC",
       "score": {
@@ -1688,6 +2057,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-30",
+      "time": "17:15",
       "team1": "FC Lorient",
       "team2": "OGC Nice",
       "score": {
@@ -1702,6 +2074,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-30",
+      "time": "17:15",
       "team1": "Angers SCO",
       "team2": "Racing Club de Lens",
       "score": {
@@ -1716,6 +2091,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-11-30",
+      "time": "20:45",
       "team1": "Olympique Lyonnais",
       "team2": "FC Nantes",
       "score": {
@@ -1730,6 +2108,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-05",
+      "time": "19:00",
       "team1": "Stade Brestois 29",
       "team2": "AS Monaco FC",
       "score": {
@@ -1744,6 +2125,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-05",
+      "time": "21:00",
       "team1": "Lille OSC",
       "team2": "Olympique de Marseille",
       "score": {
@@ -1758,6 +2142,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-06",
+      "time": "17:00",
       "team1": "FC Nantes",
       "team2": "Racing Club de Lens",
       "score": {
@@ -1772,6 +2159,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-06",
+      "time": "19:00",
       "team1": "Toulouse FC",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -1786,6 +2176,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-06",
+      "time": "21:05",
       "team1": "Paris Saint-Germain FC",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -1800,6 +2193,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-07",
+      "time": "15:00",
       "team1": "OGC Nice",
       "team2": "Angers SCO",
       "score": {
@@ -1814,6 +2210,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-07",
+      "time": "17:15",
       "team1": "Le Havre AC",
       "team2": "Paris FC",
       "score": [
@@ -1822,6 +2221,9 @@
       ]
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-07",
+      "time": "17:15",
       "team1": "AJ Auxerre",
       "team2": "FC Metz",
       "score": {
@@ -1836,6 +2238,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-12-07",
+      "time": "20:45",
       "team1": "FC Lorient",
       "team2": "Olympique Lyonnais",
       "score": {
@@ -1850,6 +2255,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-12",
+      "time": "20:45",
       "team1": "Angers SCO",
       "team2": "FC Nantes",
       "score": {
@@ -1864,6 +2272,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-13",
+      "time": "17:00",
       "team1": "Stade Rennais FC 1901",
       "team2": "Stade Brestois 29",
       "score": {
@@ -1878,6 +2289,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-13",
+      "time": "19:00",
       "team1": "FC Metz",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -1892,6 +2306,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-13",
+      "time": "21:05",
       "team1": "Paris FC",
       "team2": "Toulouse FC",
       "score": {
@@ -1906,6 +2323,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-14",
+      "time": "15:00",
       "team1": "Olympique Lyonnais",
       "team2": "Le Havre AC",
       "score": {
@@ -1920,6 +2340,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-14",
+      "time": "17:15",
       "team1": "AJ Auxerre",
       "team2": "Lille OSC",
       "score": {
@@ -1934,6 +2357,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-14",
+      "time": "17:15",
       "team1": "RC Strasbourg Alsace",
       "team2": "FC Lorient",
       "score": [
@@ -1942,6 +2368,9 @@
       ]
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-14",
+      "time": "17:15",
       "team1": "Racing Club de Lens",
       "team2": "OGC Nice",
       "score": {
@@ -1956,6 +2385,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-12-14",
+      "time": "20:45",
       "team1": "Olympique de Marseille",
       "team2": "AS Monaco FC",
       "score": {
@@ -1970,6 +2402,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2026-01-02",
+      "time": "20:45",
       "team1": "Toulouse FC",
       "team2": "Racing Club de Lens",
       "score": {
@@ -1984,6 +2419,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2026-01-03",
+      "time": "17:00",
       "team1": "AS Monaco FC",
       "team2": "Olympique Lyonnais",
       "score": {
@@ -1998,6 +2436,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2026-01-03",
+      "time": "19:00",
       "team1": "OGC Nice",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -2012,6 +2453,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2026-01-03",
+      "time": "21:05",
       "team1": "Lille OSC",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -2026,6 +2470,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2026-01-04",
+      "time": "15:00",
       "team1": "Olympique de Marseille",
       "team2": "FC Nantes",
       "score": {
@@ -2040,6 +2487,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2026-01-04",
+      "time": "17:15",
       "team1": "Le Havre AC",
       "team2": "Angers SCO",
       "score": {
@@ -2054,6 +2504,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2026-01-04",
+      "time": "17:15",
       "team1": "FC Lorient",
       "team2": "FC Metz",
       "score": {
@@ -2068,6 +2521,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2026-01-04",
+      "time": "17:15",
       "team1": "Stade Brestois 29",
       "team2": "AJ Auxerre",
       "score": {
@@ -2082,6 +2538,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2026-01-04",
+      "time": "20:45",
       "team1": "Paris Saint-Germain FC",
       "team2": "Paris FC",
       "score": {
@@ -2096,6 +2555,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-16",
+      "time": "19:00",
       "team1": "AS Monaco FC",
       "team2": "FC Lorient",
       "score": {
@@ -2110,6 +2572,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-16",
+      "time": "21:00",
       "team1": "Paris Saint-Germain FC",
       "team2": "Lille OSC",
       "score": {
@@ -2124,6 +2589,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-17",
+      "time": "17:00",
       "team1": "Racing Club de Lens",
       "team2": "AJ Auxerre",
       "score": {
@@ -2138,6 +2606,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-17",
+      "time": "19:00",
       "team1": "Toulouse FC",
       "team2": "OGC Nice",
       "score": {
@@ -2152,6 +2623,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-17",
+      "time": "21:05",
       "team1": "Angers SCO",
       "team2": "Olympique de Marseille",
       "score": {
@@ -2166,6 +2640,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-18",
+      "time": "15:00",
       "team1": "RC Strasbourg Alsace",
       "team2": "FC Metz",
       "score": {
@@ -2180,6 +2657,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-18",
+      "time": "17:15",
       "team1": "FC Nantes",
       "team2": "Paris FC",
       "score": {
@@ -2194,6 +2674,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-18",
+      "time": "17:15",
       "team1": "Stade Rennais FC 1901",
       "team2": "Le Havre AC",
       "score": {
@@ -2208,6 +2691,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2026-01-18",
+      "time": "20:45",
       "team1": "Olympique Lyonnais",
       "team2": "Stade Brestois 29",
       "score": {
@@ -2222,6 +2708,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-23",
+      "time": "20:00",
       "team1": "AJ Auxerre",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -2236,6 +2725,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-24",
+      "time": "17:00",
       "team1": "Stade Rennais FC 1901",
       "team2": "FC Lorient",
       "score": {
@@ -2250,6 +2742,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-24",
+      "time": "19:00",
       "team1": "Le Havre AC",
       "team2": "AS Monaco FC",
       "score": [
@@ -2258,6 +2753,9 @@
       ]
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-24",
+      "time": "21:05",
       "team1": "Olympique de Marseille",
       "team2": "Racing Club de Lens",
       "score": {
@@ -2272,6 +2770,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-25",
+      "time": "15:00",
       "team1": "FC Nantes",
       "team2": "OGC Nice",
       "score": {
@@ -2286,6 +2787,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-25",
+      "time": "17:15",
       "team1": "FC Metz",
       "team2": "Olympique Lyonnais",
       "score": {
@@ -2300,6 +2804,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-25",
+      "time": "17:15",
       "team1": "Paris FC",
       "team2": "Angers SCO",
       "score": [
@@ -2308,6 +2815,9 @@
       ]
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-25",
+      "time": "17:15",
       "team1": "Stade Brestois 29",
       "team2": "Toulouse FC",
       "score": {
@@ -2322,6 +2832,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2026-01-25",
+      "time": "20:45",
       "team1": "Lille OSC",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -2336,6 +2849,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-01-30",
+      "time": "20:45",
       "team1": "Racing Club de Lens",
       "team2": "Le Havre AC",
       "score": {
@@ -2350,6 +2866,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-01-31",
+      "time": "17:00",
       "team1": "Paris FC",
       "team2": "Olympique de Marseille",
       "score": {
@@ -2364,6 +2883,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-01-31",
+      "time": "19:00",
       "team1": "FC Lorient",
       "team2": "FC Nantes",
       "score": {
@@ -2378,6 +2900,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-01-31",
+      "time": "21:05",
       "team1": "AS Monaco FC",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -2392,6 +2917,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-02-01",
+      "time": "15:00",
       "team1": "Olympique Lyonnais",
       "team2": "Lille OSC",
       "score": {
@@ -2406,6 +2934,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-02-01",
+      "time": "17:15",
       "team1": "Toulouse FC",
       "team2": "AJ Auxerre",
       "score": [
@@ -2414,6 +2945,9 @@
       ]
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-02-01",
+      "time": "17:15",
       "team1": "OGC Nice",
       "team2": "Stade Brestois 29",
       "score": {
@@ -2428,6 +2962,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-02-01",
+      "time": "17:15",
       "team1": "Angers SCO",
       "team2": "FC Metz",
       "score": {
@@ -2442,6 +2979,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2026-02-01",
+      "time": "20:45",
       "team1": "RC Strasbourg Alsace",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -2456,6 +2996,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-02-06",
+      "time": "20:45",
       "team1": "FC Metz",
       "team2": "Lille OSC",
       "score": [
@@ -2464,6 +3007,9 @@
       ]
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-02-07",
+      "time": "17:00",
       "team1": "Racing Club de Lens",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -2478,6 +3024,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-02-07",
+      "time": "19:00",
       "team1": "Stade Brestois 29",
       "team2": "FC Lorient",
       "score": {
@@ -2492,6 +3041,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-02-07",
+      "time": "21:05",
       "team1": "FC Nantes",
       "team2": "Olympique Lyonnais",
       "score": {
@@ -2506,6 +3058,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-02-08",
+      "time": "15:00",
       "team1": "OGC Nice",
       "team2": "AS Monaco FC",
       "score": [
@@ -2514,6 +3069,9 @@
       ]
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-02-08",
+      "time": "17:15",
       "team1": "Le Havre AC",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -2528,6 +3086,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-02-08",
+      "time": "17:15",
       "team1": "AJ Auxerre",
       "team2": "Paris FC",
       "score": [
@@ -2536,6 +3097,9 @@
       ]
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-02-08",
+      "time": "17:15",
       "team1": "Angers SCO",
       "team2": "Toulouse FC",
       "score": {
@@ -2550,6 +3114,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2026-02-08",
+      "time": "20:45",
       "team1": "Paris Saint-Germain FC",
       "team2": "Olympique de Marseille",
       "score": {
@@ -2564,6 +3131,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-13",
+      "time": "19:00",
       "team1": "Stade Rennais FC 1901",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -2578,6 +3148,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-13",
+      "time": "21:05",
       "team1": "AS Monaco FC",
       "team2": "FC Nantes",
       "score": {
@@ -2592,6 +3165,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-14",
+      "time": "17:00",
       "team1": "Olympique de Marseille",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -2606,6 +3182,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-14",
+      "time": "19:00",
       "team1": "Lille OSC",
       "team2": "Stade Brestois 29",
       "score": {
@@ -2620,6 +3199,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-14",
+      "time": "21:05",
       "team1": "Paris FC",
       "team2": "Racing Club de Lens",
       "score": {
@@ -2634,6 +3216,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-15",
+      "time": "15:00",
       "team1": "Le Havre AC",
       "team2": "Toulouse FC",
       "score": {
@@ -2648,6 +3233,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-15",
+      "time": "17:15",
       "team1": "FC Lorient",
       "team2": "Angers SCO",
       "score": {
@@ -2662,6 +3250,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-15",
+      "time": "17:15",
       "team1": "FC Metz",
       "team2": "AJ Auxerre",
       "score": {
@@ -2676,6 +3267,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2026-02-15",
+      "time": "20:45",
       "team1": "Olympique Lyonnais",
       "team2": "OGC Nice",
       "score": {
@@ -2690,6 +3284,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-20",
+      "time": "20:45",
       "team1": "Stade Brestois 29",
       "team2": "Olympique de Marseille",
       "score": {
@@ -2704,6 +3301,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-21",
+      "time": "17:00",
       "team1": "Racing Club de Lens",
       "team2": "AS Monaco FC",
       "score": {
@@ -2718,6 +3318,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-21",
+      "time": "19:00",
       "team1": "Toulouse FC",
       "team2": "Paris FC",
       "score": {
@@ -2732,6 +3335,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-21",
+      "time": "21:05",
       "team1": "Paris Saint-Germain FC",
       "team2": "FC Metz",
       "score": {
@@ -2746,6 +3352,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-22",
+      "time": "15:00",
       "team1": "AJ Auxerre",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -2760,6 +3369,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-22",
+      "time": "17:15",
       "team1": "FC Nantes",
       "team2": "Le Havre AC",
       "score": {
@@ -2774,6 +3386,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-22",
+      "time": "17:15",
       "team1": "OGC Nice",
       "team2": "FC Lorient",
       "score": {
@@ -2788,6 +3403,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-22",
+      "time": "17:15",
       "team1": "Angers SCO",
       "team2": "Lille OSC",
       "score": {
@@ -2802,6 +3420,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2026-02-22",
+      "time": "20:45",
       "team1": "RC Strasbourg Alsace",
       "team2": "Olympique Lyonnais",
       "score": {
@@ -2816,6 +3437,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-02-27",
+      "time": "20:45",
       "team1": "RC Strasbourg Alsace",
       "team2": "Racing Club de Lens",
       "score": {
@@ -2830,6 +3454,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-02-28",
+      "time": "17:00",
       "team1": "Stade Rennais FC 1901",
       "team2": "Toulouse FC",
       "score": {
@@ -2844,6 +3471,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-02-28",
+      "time": "19:00",
       "team1": "AS Monaco FC",
       "team2": "Angers SCO",
       "score": {
@@ -2858,6 +3488,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-02-28",
+      "time": "21:05",
       "team1": "Le Havre AC",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -2872,6 +3505,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-03-01",
+      "time": "15:00",
       "team1": "Paris FC",
       "team2": "OGC Nice",
       "score": {
@@ -2886,6 +3522,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-03-01",
+      "time": "17:15",
       "team1": "FC Lorient",
       "team2": "AJ Auxerre",
       "score": {
@@ -2900,6 +3539,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-03-01",
+      "time": "17:15",
       "team1": "FC Metz",
       "team2": "Stade Brestois 29",
       "score": {
@@ -2914,6 +3556,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-03-01",
+      "time": "17:15",
       "team1": "Lille OSC",
       "team2": "FC Nantes",
       "score": {
@@ -2928,6 +3573,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2026-03-01",
+      "time": "20:45",
       "team1": "Olympique de Marseille",
       "team2": "Olympique Lyonnais",
       "score": {
@@ -2942,6 +3590,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-03-06",
+      "time": "20:45",
       "team1": "Paris Saint-Germain FC",
       "team2": "AS Monaco FC",
       "score": {
@@ -2956,6 +3607,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-03-07",
+      "time": "17:00",
       "team1": "FC Nantes",
       "team2": "Angers SCO",
       "score": {
@@ -2970,6 +3624,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-03-07",
+      "time": "19:00",
       "team1": "AJ Auxerre",
       "team2": "RC Strasbourg Alsace",
       "score": [
@@ -2978,6 +3635,9 @@
       ]
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-03-07",
+      "time": "21:05",
       "team1": "Toulouse FC",
       "team2": "Olympique de Marseille",
       "score": {
@@ -2992,6 +3652,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-03-08",
+      "time": "15:00",
       "team1": "Racing Club de Lens",
       "team2": "FC Metz",
       "score": {
@@ -3006,6 +3669,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-03-08",
+      "time": "17:15",
       "team1": "OGC Nice",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -3020,6 +3686,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-03-08",
+      "time": "17:15",
       "team1": "Lille OSC",
       "team2": "FC Lorient",
       "score": {
@@ -3034,6 +3703,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-03-08",
+      "time": "17:15",
       "team1": "Stade Brestois 29",
       "team2": "Le Havre AC",
       "score": {
@@ -3048,6 +3720,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2026-03-08",
+      "time": "20:45",
       "team1": "Olympique Lyonnais",
       "team2": "Paris FC",
       "score": {
@@ -3062,6 +3737,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-13",
+      "time": "20:45",
       "team1": "Olympique de Marseille",
       "team2": "AJ Auxerre",
       "score": {
@@ -3076,6 +3754,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-14",
+      "time": "17:00",
       "team1": "FC Lorient",
       "team2": "Racing Club de Lens",
       "score": {
@@ -3090,6 +3771,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-14",
+      "time": "19:00",
       "team1": "Angers SCO",
       "team2": "OGC Nice",
       "score": {
@@ -3104,6 +3788,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-14",
+      "time": "21:05",
       "team1": "AS Monaco FC",
       "team2": "Stade Brestois 29",
       "score": {
@@ -3118,6 +3805,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-15",
+      "time": "15:00",
       "team1": "RC Strasbourg Alsace",
       "team2": "Paris FC",
       "score": [
@@ -3126,6 +3816,9 @@
       ]
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-15",
+      "time": "17:15",
       "team1": "Le Havre AC",
       "team2": "Olympique Lyonnais",
       "score": [
@@ -3134,6 +3827,9 @@
       ]
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-15",
+      "time": "17:15",
       "team1": "FC Metz",
       "team2": "Toulouse FC",
       "score": {
@@ -3148,6 +3844,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-03-15",
+      "time": "20:45",
       "team1": "Stade Rennais FC 1901",
       "team2": "Lille OSC",
       "score": {
@@ -3162,6 +3861,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-20",
+      "time": "20:45",
       "team1": "Racing Club de Lens",
       "team2": "Angers SCO",
       "score": {
@@ -3176,6 +3878,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-21",
+      "time": "17:00",
       "team1": "Toulouse FC",
       "team2": "FC Lorient",
       "score": {
@@ -3190,6 +3895,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-21",
+      "time": "19:00",
       "team1": "AJ Auxerre",
       "team2": "Stade Brestois 29",
       "score": {
@@ -3204,6 +3912,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-21",
+      "time": "21:05",
       "team1": "OGC Nice",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -3218,6 +3929,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-22",
+      "time": "15:00",
       "team1": "Olympique Lyonnais",
       "team2": "AS Monaco FC",
       "score": {
@@ -3232,6 +3946,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-22",
+      "time": "17:15",
       "team1": "Paris FC",
       "team2": "Le Havre AC",
       "score": {
@@ -3246,6 +3963,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-22",
+      "time": "17:15",
       "team1": "Olympique de Marseille",
       "team2": "Lille OSC",
       "score": {
@@ -3260,6 +3980,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-22",
+      "time": "17:15",
       "team1": "Stade Rennais FC 1901",
       "team2": "FC Metz",
       "score": [
@@ -3268,6 +3991,9 @@
       ]
     },
     {
+      "round": "Matchday 27",
+      "date": "2026-03-22",
+      "time": "20:45",
       "team1": "FC Nantes",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -3282,6 +4008,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-04-03",
+      "time": "20:45",
       "team1": "Paris Saint-Germain FC",
       "team2": "Toulouse FC",
       "score": {
@@ -3296,6 +4025,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-04-04",
+      "time": "17:00",
       "team1": "RC Strasbourg Alsace",
       "team2": "OGC Nice",
       "score": {
@@ -3310,6 +4042,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-04-04",
+      "time": "19:00",
       "team1": "Stade Brestois 29",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -3324,6 +4059,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-04-04",
+      "time": "21:05",
       "team1": "Lille OSC",
       "team2": "Racing Club de Lens",
       "score": {
@@ -3338,6 +4076,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-04-05",
+      "time": "15:00",
       "team1": "Angers SCO",
       "team2": "Olympique Lyonnais",
       "score": [
@@ -3346,6 +4087,9 @@
       ]
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-04-05",
+      "time": "17:15",
       "team1": "Le Havre AC",
       "team2": "AJ Auxerre",
       "score": {
@@ -3360,6 +4104,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-04-05",
+      "time": "17:15",
       "team1": "FC Lorient",
       "team2": "Paris FC",
       "score": {
@@ -3374,6 +4121,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-04-05",
+      "time": "17:15",
       "team1": "FC Metz",
       "team2": "FC Nantes",
       "score": [
@@ -3382,6 +4132,9 @@
       ]
     },
     {
+      "round": "Matchday 28",
+      "date": "2026-04-05",
+      "time": "20:45",
       "team1": "AS Monaco FC",
       "team2": "Olympique de Marseille",
       "score": {
@@ -3396,6 +4149,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-10",
+      "time": "19:00",
       "team1": "Paris FC",
       "team2": "AS Monaco FC",
       "score": {
@@ -3410,6 +4166,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-10",
+      "time": "21:05",
       "team1": "Olympique de Marseille",
       "team2": "FC Metz",
       "score": {
@@ -3424,6 +4183,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-11",
+      "time": "19:00",
       "team1": "AJ Auxerre",
       "team2": "FC Nantes",
       "score": [
@@ -3432,6 +4194,9 @@
       ]
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-11",
+      "time": "21:05",
       "team1": "Stade Rennais FC 1901",
       "team2": "Angers SCO",
       "score": {
@@ -3446,6 +4211,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-12",
+      "time": "17:15",
       "team1": "Toulouse FC",
       "team2": "Lille OSC",
       "score": {
@@ -3460,6 +4228,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-12",
+      "time": "17:15",
       "team1": "OGC Nice",
       "team2": "Le Havre AC",
       "score": {
@@ -3474,6 +4245,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-04-12",
+      "time": "20:45",
       "team1": "Olympique Lyonnais",
       "team2": "FC Lorient",
       "score": {
@@ -3488,6 +4262,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-17",
+      "time": "20:45",
       "team1": "Racing Club de Lens",
       "team2": "Toulouse FC",
       "score": {
@@ -3502,6 +4279,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-18",
+      "time": "17:00",
       "team1": "FC Lorient",
       "team2": "Olympique de Marseille",
       "score": {
@@ -3516,6 +4296,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-18",
+      "time": "19:00",
       "team1": "Angers SCO",
       "team2": "Le Havre AC",
       "score": {
@@ -3530,6 +4313,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-18",
+      "time": "21:05",
       "team1": "Lille OSC",
       "team2": "OGC Nice",
       "score": [
@@ -3538,6 +4324,9 @@
       ]
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-19",
+      "time": "15:00",
       "team1": "AS Monaco FC",
       "team2": "AJ Auxerre",
       "score": {
@@ -3552,6 +4341,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-19",
+      "time": "17:15",
       "team1": "FC Metz",
       "team2": "Paris FC",
       "score": {
@@ -3566,6 +4358,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-19",
+      "time": "17:15",
       "team1": "FC Nantes",
       "team2": "Stade Brestois 29",
       "score": {
@@ -3580,6 +4375,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-19",
+      "time": "17:15",
       "team1": "RC Strasbourg Alsace",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -3594,6 +4392,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2026-04-19",
+      "time": "20:45",
       "team1": "Paris Saint-Germain FC",
       "team2": "Olympique Lyonnais",
       "score": {
@@ -3608,6 +4409,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2026-04-22",
+      "time": "19:00",
       "team1": "Paris Saint-Germain FC",
       "team2": "FC Nantes",
       "score": {
@@ -3622,6 +4426,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-24",
+      "time": "20:45",
       "team1": "Stade Brestois 29",
       "team2": "Racing Club de Lens",
       "score": {
@@ -3636,6 +4443,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-25",
+      "time": "15:00",
       "team1": "Olympique Lyonnais",
       "team2": "AJ Auxerre",
       "score": {
@@ -3650,6 +4460,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-25",
+      "time": "19:00",
       "team1": "Angers SCO",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -3664,6 +4477,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-25",
+      "time": "21:05",
       "team1": "Toulouse FC",
       "team2": "AS Monaco FC",
       "score": {
@@ -3678,6 +4494,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-26",
+      "time": "15:00",
       "team1": "FC Lorient",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -3692,6 +4511,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-26",
+      "time": "17:15",
       "team1": "Le Havre AC",
       "team2": "FC Metz",
       "score": {
@@ -3706,6 +4528,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-26",
+      "time": "17:15",
       "team1": "Paris FC",
       "team2": "Lille OSC",
       "score": {
@@ -3720,6 +4545,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-26",
+      "time": "17:15",
       "team1": "Stade Rennais FC 1901",
       "team2": "FC Nantes",
       "score": {
@@ -3734,6 +4562,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2026-04-26",
+      "time": "20:45",
       "team1": "Olympique de Marseille",
       "team2": "OGC Nice",
       "score": {
@@ -3748,6 +4579,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-02",
+      "time": "15:00",
       "team1": "FC Nantes",
       "team2": "Olympique de Marseille",
       "score": {
@@ -3762,6 +4596,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-02",
+      "time": "17:00",
       "team1": "Paris Saint-Germain FC",
       "team2": "FC Lorient",
       "score": {
@@ -3776,6 +4613,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-02",
+      "time": "19:00",
       "team1": "FC Metz",
       "team2": "AS Monaco FC",
       "score": {
@@ -3790,6 +4630,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-02",
+      "time": "21:05",
       "team1": "OGC Nice",
       "team2": "Racing Club de Lens",
       "score": {
@@ -3804,6 +4647,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-03",
+      "time": "15:00",
       "team1": "Lille OSC",
       "team2": "Le Havre AC",
       "score": {
@@ -3818,6 +4664,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-03",
+      "time": "17:15",
       "team1": "AJ Auxerre",
       "team2": "Angers SCO",
       "score": {
@@ -3832,6 +4681,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-03",
+      "time": "17:15",
       "team1": "Paris FC",
       "team2": "Stade Brestois 29",
       "score": {
@@ -3846,6 +4698,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-03",
+      "time": "17:15",
       "team1": "RC Strasbourg Alsace",
       "team2": "Toulouse FC",
       "score": {
@@ -3860,6 +4715,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2026-05-03",
+      "time": "20:45",
       "team1": "Olympique Lyonnais",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -3874,6 +4732,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-08",
+      "time": "20:45",
       "team1": "Racing Club de Lens",
       "team2": "FC Nantes",
       "score": {
@@ -3888,6 +4749,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "21:00",
       "team1": "Le Havre AC",
       "team2": "Olympique de Marseille",
       "score": {
@@ -3902,6 +4766,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "21:00",
       "team1": "AJ Auxerre",
       "team2": "OGC Nice",
       "score": {
@@ -3916,6 +4783,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "21:00",
       "team1": "AS Monaco FC",
       "team2": "Lille OSC",
       "score": {
@@ -3930,6 +4800,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "21:00",
       "team1": "FC Metz",
       "team2": "FC Lorient",
       "score": {
@@ -3944,6 +4817,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "21:00",
       "team1": "Toulouse FC",
       "team2": "Olympique Lyonnais",
       "score": {
@@ -3958,6 +4834,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "21:00",
       "team1": "Paris Saint-Germain FC",
       "team2": "Stade Brestois 29",
       "score": {
@@ -3972,6 +4851,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "21:00",
       "team1": "Angers SCO",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -3986,6 +4868,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2026-05-10",
+      "time": "21:00",
       "team1": "Stade Rennais FC 1901",
       "team2": "Paris FC",
       "score": {
@@ -4000,6 +4885,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-05-13",
+      "time": "19:00",
       "team1": "Stade Brestois 29",
       "team2": "RC Strasbourg Alsace",
       "score": {
@@ -4014,6 +4902,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2026-05-13",
+      "time": "21:00",
       "team1": "Racing Club de Lens",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -4028,6 +4919,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "21:00",
       "team1": "FC Lorient",
       "team2": "Le Havre AC",
       "score": {
@@ -4042,11 +4936,17 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "21:00",
       "team1": "FC Nantes",
       "team2": "Toulouse FC",
       "status": "canceled"
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "21:00",
       "team1": "Paris FC",
       "team2": "Paris Saint-Germain FC",
       "score": {
@@ -4061,6 +4961,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "21:00",
       "team1": "OGC Nice",
       "team2": "FC Metz",
       "score": [
@@ -4069,6 +4972,9 @@
       ]
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "21:00",
       "team1": "Olympique Lyonnais",
       "team2": "Racing Club de Lens",
       "score": {
@@ -4083,6 +4989,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "21:00",
       "team1": "Olympique de Marseille",
       "team2": "Stade Rennais FC 1901",
       "score": {
@@ -4097,6 +5006,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "21:00",
       "team1": "Lille OSC",
       "team2": "AJ Auxerre",
       "score": {
@@ -4111,6 +5023,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "21:00",
       "team1": "RC Strasbourg Alsace",
       "team2": "AS Monaco FC",
       "score": {
@@ -4125,6 +5040,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2026-05-17",
+      "time": "21:00",
       "team1": "Stade Brestois 29",
       "team2": "Angers SCO",
       "score": {
