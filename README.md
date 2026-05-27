@@ -1,6 +1,6 @@
 ## What's News?
 
-You can use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any file in the Football.TXT format to JSON. 
+You can use the [`fbtxt2json` command-line tool](https://github.com/sportdb/footty/tree/master/fbtxt2json) to convert any (match data) file in the Football.TXT format to JSON. 
 
 Let's try to convert the English Premier League 2025/26
 in the Football.TXT format (see [`england/2025-26/1-premierleague.txt`](https://github.com/openfootball/england/blob/master/2025-26/1-premierleague.txt)) to JSON:
@@ -23,7 +23,7 @@ Try [openfootball.github.io/england/2025-26/1-premierleague.json](https://openfo
 
 # football.json
 
-Free open public domain football data in the JSON (JavaScript Object Notation)
+Free open public domain football (match fixtures & results) data in the JSON (JavaScript Object Notation)
 data interchange format.
 
 Leagues include:
@@ -141,7 +141,7 @@ Nurgazy Nazhimidinov (@nurgasemetey) writes:
 
 ## License
 
-The football.json schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+The football.json schema, data and scripts are dedicated to the public domain. Use as you please with no restrictions whatsoever.
 
 
 
