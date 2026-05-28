@@ -2,6 +2,9 @@
   "name": "English League One 2025/26",
   "matches": [
     {
+      "round": "1. Round",
+      "date": "2025-08-01",
+      "time": "19:00",
       "team1": "Luton Town",
       "team2": "AFC Wimbledon",
       "score": {
@@ -16,6 +19,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "11:30",
       "team1": "Cardiff City",
       "team2": "Peterborough United",
       "score": {
@@ -30,6 +36,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "Stevenage FC",
       "score": {
@@ -44,6 +53,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Wycombe Wanderers",
       "score": {
@@ -58,6 +70,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Mansfield Town",
       "score": {
@@ -72,6 +87,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Exeter City",
       "score": {
@@ -86,6 +104,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Leyton Orient",
       "score": {
@@ -100,6 +121,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "Reading FC",
       "score": {
@@ -114,6 +138,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Barnsley FC",
       "score": {
@@ -128,6 +155,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Port Vale FC",
       "score": {
@@ -142,6 +172,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Northampton Town",
       "score": {
@@ -156,6 +189,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-03",
+      "time": "11:00",
       "team1": "Stockport County",
       "team2": "Bolton Wanderers",
       "score": {
@@ -170,6 +206,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-07",
+      "time": "19:00",
       "team1": "Port Vale FC",
       "team2": "Cardiff City",
       "score": [
@@ -178,6 +217,9 @@
       ]
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "11:30",
       "team1": "Peterborough United",
       "team2": "Luton Town",
       "score": {
@@ -192,6 +234,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "11:30",
       "team1": "Reading FC",
       "team2": "Huddersfield Town",
       "score": {
@@ -206,6 +251,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Lincoln City",
       "score": {
@@ -220,6 +268,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Burton Albion",
       "score": {
@@ -234,6 +285,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "Plymouth Argyle",
       "score": {
@@ -248,6 +302,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Blackpool FC",
       "score": {
@@ -262,6 +319,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Wigan Athletic",
       "score": {
@@ -276,6 +336,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Doncaster Rovers",
       "score": {
@@ -290,6 +353,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Bradford City",
       "score": [
@@ -298,6 +364,9 @@
       ]
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Rotherham United",
       "score": {
@@ -312,6 +381,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Stockport County",
       "score": {
@@ -326,6 +398,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-16",
+      "time": "11:30",
       "team1": "Burton Albion",
       "team2": "Port Vale FC",
       "score": [
@@ -334,6 +409,9 @@
       ]
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-16",
+      "time": "11:30",
       "team1": "Exeter City",
       "team2": "Mansfield Town",
       "score": {
@@ -348,6 +426,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-16",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Bolton Wanderers",
       "score": {
@@ -362,6 +443,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-16",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "Huddersfield Town",
       "score": {
@@ -376,6 +460,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-16",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Luton Town",
       "score": {
@@ -390,6 +477,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-16",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Rotherham United",
       "score": {
@@ -404,6 +494,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-16",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Wycombe Wanderers",
       "score": {
@@ -418,6 +511,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-16",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Stockport County",
       "score": {
@@ -432,6 +528,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-16",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "Plymouth Argyle",
       "score": {
@@ -446,6 +545,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-16",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "AFC Wimbledon",
       "score": {
@@ -460,6 +562,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-16",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Northampton Town",
       "score": {
@@ -474,6 +579,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-16",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Peterborough United",
       "score": {
@@ -488,6 +596,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-19",
+      "time": "18:45",
       "team1": "AFC Wimbledon",
       "team2": "Cardiff City",
       "score": {
@@ -502,6 +613,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-19",
+      "time": "18:45",
       "team1": "Huddersfield Town",
       "team2": "Doncaster Rovers",
       "score": {
@@ -516,6 +630,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-19",
+      "time": "18:45",
       "team1": "Luton Town",
       "team2": "Wigan Athletic",
       "score": {
@@ -530,6 +647,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-19",
+      "time": "18:45",
       "team1": "Mansfield Town",
       "team2": "Blackpool FC",
       "score": {
@@ -544,6 +664,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-19",
+      "time": "18:45",
       "team1": "Northampton Town",
       "team2": "Lincoln City",
       "score": {
@@ -558,6 +681,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-19",
+      "time": "18:45",
       "team1": "Peterborough United",
       "team2": "Barnsley FC",
       "score": {
@@ -572,6 +698,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-19",
+      "time": "18:45",
       "team1": "Plymouth Argyle",
       "team2": "Leyton Orient",
       "score": {
@@ -586,6 +715,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-19",
+      "time": "18:45",
       "team1": "Port Vale FC",
       "team2": "Stevenage FC",
       "score": {
@@ -600,6 +732,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-19",
+      "time": "18:45",
       "team1": "Stockport County",
       "team2": "Bradford City",
       "score": {
@@ -614,6 +749,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-19",
+      "time": "18:45",
       "team1": "Wycombe Wanderers",
       "team2": "Exeter City",
       "score": {
@@ -628,6 +766,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-20",
+      "time": "19:00",
       "team1": "Bolton Wanderers",
       "team2": "Reading FC",
       "score": {
@@ -642,10 +783,16 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-11-04",
+      "time": "18:45",
       "team1": "Rotherham United",
       "team2": "Burton Albion"
     },
     {
+      "round": "5. Round",
+      "date": "2025-08-23",
+      "time": "11:30",
       "team1": "Luton Town",
       "team2": "Cardiff City",
       "score": {
@@ -660,6 +807,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-08-23",
+      "time": "11:30",
       "team1": "Rotherham United",
       "team2": "Wigan Athletic",
       "score": {
@@ -674,6 +824,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-08-23",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Barnsley FC",
       "score": {
@@ -688,6 +841,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-08-23",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "Lincoln City",
       "score": {
@@ -702,6 +858,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-08-23",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Stevenage FC",
       "score": {
@@ -716,6 +875,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-08-23",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Leyton Orient",
       "score": {
@@ -730,6 +892,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-08-23",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Exeter City",
       "score": {
@@ -744,6 +909,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-08-23",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Bradford City",
       "score": {
@@ -758,6 +926,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-08-23",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Blackpool FC",
       "score": {
@@ -772,6 +943,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-08-23",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Doncaster Rovers",
       "score": {
@@ -786,6 +960,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-08-23",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Burton Albion",
       "score": {
@@ -800,6 +977,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-08-23",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Reading FC",
       "score": {
@@ -814,6 +994,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-08-30",
+      "time": "11:30",
       "team1": "Cardiff City",
       "team2": "Plymouth Argyle",
       "score": {
@@ -828,6 +1011,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-08-30",
+      "time": "11:30",
       "team1": "Doncaster Rovers",
       "team2": "Rotherham United",
       "score": {
@@ -842,6 +1028,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-08-30",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Huddersfield Town",
       "score": {
@@ -856,6 +1045,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-08-30",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "Bolton Wanderers",
       "score": {
@@ -870,6 +1062,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-08-30",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "AFC Wimbledon",
       "score": {
@@ -884,6 +1079,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-08-30",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Luton Town",
       "score": {
@@ -898,6 +1096,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-08-30",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Peterborough United",
       "score": {
@@ -912,6 +1113,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-08-30",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Northampton Town",
       "score": {
@@ -926,6 +1130,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-08-30",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "Port Vale FC",
       "score": {
@@ -940,6 +1147,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-08-30",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Wycombe Wanderers",
       "score": {
@@ -954,6 +1164,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-08-30",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Stockport County",
       "score": {
@@ -968,6 +1181,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-08-30",
+      "time": "14:15",
       "team1": "Lincoln City",
       "team2": "Mansfield Town",
       "score": {
@@ -982,11 +1198,16 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-06",
       "team1": "Stevenage FC",
       "team2": "Barnsley FC",
       "status": "postponed"
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-06",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "AFC Wimbledon",
       "score": {
@@ -1001,6 +1222,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-06",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Bradford City",
       "score": {
@@ -1015,6 +1239,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-06",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Peterborough United",
       "score": {
@@ -1029,6 +1256,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-06",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "Wigan Athletic",
       "score": {
@@ -1043,6 +1273,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-06",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Stockport County",
       "score": {
@@ -1057,6 +1290,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-06",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Leyton Orient",
       "score": {
@@ -1071,6 +1307,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-06",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Exeter City",
       "score": {
@@ -1085,6 +1324,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-06",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Mansfield Town",
       "score": {
@@ -1099,6 +1341,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-30",
+      "time": "18:45",
       "team1": "Blackpool FC",
       "team2": "Luton Town",
       "score": {
@@ -1113,6 +1358,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-30",
+      "time": "18:45",
       "team1": "Cardiff City",
       "team2": "Burton Albion",
       "score": {
@@ -1127,6 +1375,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-10-21",
+      "time": "19:00",
       "team1": "Reading FC",
       "team2": "Northampton Town",
       "score": {
@@ -1141,6 +1392,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-13",
+      "time": "11:30",
       "team1": "Bradford City",
       "team2": "Huddersfield Town",
       "score": {
@@ -1155,6 +1409,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-13",
+      "time": "11:30",
       "team1": "Northampton Town",
       "team2": "Blackpool FC",
       "score": {
@@ -1169,6 +1426,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-13",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Rotherham United",
       "score": {
@@ -1183,6 +1443,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-13",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Reading FC",
       "score": {
@@ -1197,6 +1460,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-13",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Lincoln City",
       "score": {
@@ -1211,6 +1477,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-13",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Port Vale FC",
       "score": {
@@ -1225,6 +1494,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-13",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Bolton Wanderers",
       "score": {
@@ -1239,6 +1511,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-13",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Plymouth Argyle",
       "score": {
@@ -1253,6 +1528,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-13",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Stevenage FC",
       "score": {
@@ -1267,6 +1545,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-13",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Wycombe Wanderers",
       "score": {
@@ -1281,6 +1562,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-13",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Cardiff City",
       "score": {
@@ -1295,6 +1579,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-13",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Doncaster Rovers",
       "score": {
@@ -1309,6 +1596,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-09-20",
+      "time": "11:30",
       "team1": "Blackpool FC",
       "team2": "Barnsley FC",
       "score": {
@@ -1323,6 +1613,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-09-20",
+      "time": "11:30",
       "team1": "Bolton Wanderers",
       "team2": "Wigan Athletic",
       "score": {
@@ -1337,6 +1630,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-09-20",
+      "time": "11:30",
       "team1": "Lincoln City",
       "team2": "Luton Town",
       "score": {
@@ -1351,6 +1647,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-09-20",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Bradford City",
       "score": {
@@ -1365,6 +1664,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-09-20",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "AFC Wimbledon",
       "score": {
@@ -1379,6 +1681,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-09-20",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Burton Albion",
       "score": [
@@ -1387,6 +1692,9 @@
       ]
     },
     {
+      "round": "9. Round",
+      "date": "2025-09-20",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Peterborough United",
       "score": {
@@ -1401,6 +1709,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-09-20",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Mansfield Town",
       "score": {
@@ -1415,6 +1726,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-09-20",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "Leyton Orient",
       "score": {
@@ -1429,6 +1743,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-09-20",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Stockport County",
       "score": {
@@ -1443,6 +1760,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-09-20",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Exeter City",
       "score": {
@@ -1457,6 +1777,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-09-20",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Northampton Town",
       "score": {
@@ -1471,6 +1794,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-09-27",
+      "time": "11:30",
       "team1": "AFC Wimbledon",
       "team2": "Wycombe Wanderers",
       "score": {
@@ -1485,6 +1811,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-09-27",
+      "time": "11:30",
       "team1": "Leyton Orient",
       "team2": "Stevenage FC",
       "score": {
@@ -1499,6 +1828,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-09-27",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Port Vale FC",
       "score": {
@@ -1513,6 +1845,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-09-27",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Blackpool FC",
       "score": {
@@ -1527,6 +1862,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-09-27",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Plymouth Argyle",
       "score": {
@@ -1541,6 +1879,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-09-27",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Huddersfield Town",
       "score": {
@@ -1555,6 +1896,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-09-27",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Doncaster Rovers",
       "score": {
@@ -1569,6 +1913,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-09-27",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Rotherham United",
       "score": {
@@ -1583,6 +1930,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-09-27",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Bolton Wanderers",
       "score": {
@@ -1597,6 +1947,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-09-27",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Lincoln City",
       "score": {
@@ -1611,6 +1964,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-09-27",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Reading FC",
       "score": {
@@ -1625,6 +1981,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-09-27",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Cardiff City",
       "score": {
@@ -1639,6 +1998,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-02",
+      "time": "19:00",
       "team1": "Rotherham United",
       "team2": "Bradford City",
       "score": {
@@ -1653,6 +2015,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-04",
+      "time": "11:30",
       "team1": "Doncaster Rovers",
       "team2": "Burton Albion",
       "score": {
@@ -1667,6 +2032,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-04",
+      "time": "11:30",
       "team1": "Wycombe Wanderers",
       "team2": "Barnsley FC",
       "score": {
@@ -1681,6 +2049,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-04",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "AFC Wimbledon",
       "score": {
@@ -1695,6 +2066,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-04",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "Peterborough United",
       "score": {
@@ -1709,6 +2083,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-04",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Leyton Orient",
       "score": {
@@ -1723,6 +2100,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-04",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Stockport County",
       "score": {
@@ -1737,6 +2117,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-04",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "Exeter City",
       "score": {
@@ -1751,6 +2134,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-04",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Wigan Athletic",
       "score": {
@@ -1765,6 +2151,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-04",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Northampton Town",
       "score": [
@@ -1773,6 +2162,9 @@
       ]
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-04",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "Mansfield Town",
       "score": {
@@ -1787,6 +2179,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-04",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Luton Town",
       "score": {
@@ -1801,11 +2196,16 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-11",
       "team1": "Barnsley FC",
       "team2": "Cardiff City",
       "status": "postponed"
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-11",
+      "time": "13:00",
       "team1": "Northampton Town",
       "team2": "Rotherham United",
       "score": {
@@ -1820,6 +2220,9 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-11",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Port Vale FC",
       "score": {
@@ -1834,6 +2237,9 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-11",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Bolton Wanderers",
       "score": {
@@ -1848,6 +2254,9 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-11",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Reading FC",
       "score": {
@@ -1862,6 +2271,9 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-11",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Doncaster Rovers",
       "score": {
@@ -1876,6 +2288,9 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-11",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Blackpool FC",
       "score": {
@@ -1890,6 +2305,9 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-11",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Wycombe Wanderers",
       "score": {
@@ -1904,6 +2322,9 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-28",
+      "time": "18:45",
       "team1": "Bradford City",
       "team2": "Lincoln City",
       "score": [
@@ -1912,6 +2333,9 @@
       ]
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-28",
+      "time": "18:45",
       "team1": "Mansfield Town",
       "team2": "Plymouth Argyle",
       "score": {
@@ -1926,14 +2350,23 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-25",
+      "time": "18:45",
       "team1": "Luton Town",
       "team2": "Huddersfield Town"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-25",
+      "time": "18:45",
       "team1": "Peterborough United",
       "team2": "Stevenage FC"
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-16",
+      "time": "19:00",
       "team1": "Huddersfield Town",
       "team2": "Bolton Wanderers",
       "score": {
@@ -1948,6 +2381,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-18",
+      "time": "11:30",
       "team1": "Burton Albion",
       "team2": "Peterborough United",
       "score": {
@@ -1962,6 +2398,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-18",
+      "time": "11:30",
       "team1": "Lincoln City",
       "team2": "Stevenage FC",
       "score": {
@@ -1976,6 +2415,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-18",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "Wycombe Wanderers",
       "score": {
@@ -1990,6 +2432,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-18",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Barnsley FC",
       "score": {
@@ -2004,6 +2449,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-18",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Reading FC",
       "score": {
@@ -2018,6 +2466,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-18",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Northampton Town",
       "score": {
@@ -2032,6 +2483,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-18",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Mansfield Town",
       "score": {
@@ -2046,6 +2500,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-18",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "AFC Wimbledon",
       "score": {
@@ -2060,6 +2517,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-18",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Leyton Orient",
       "score": {
@@ -2074,6 +2534,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-18",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Exeter City",
       "score": {
@@ -2088,6 +2551,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-18",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Port Vale FC",
       "score": {
@@ -2102,6 +2568,9 @@
       }
     },
     {
+      "round": "14. Round",
+      "date": "2025-10-23",
+      "time": "19:00",
       "team1": "Exeter City",
       "team2": "Plymouth Argyle",
       "score": {
@@ -2116,6 +2585,9 @@
       }
     },
     {
+      "round": "14. Round",
+      "date": "2025-10-25",
+      "time": "11:30",
       "team1": "Bolton Wanderers",
       "team2": "Cardiff City",
       "score": {
@@ -2130,6 +2602,9 @@
       }
     },
     {
+      "round": "14. Round",
+      "date": "2025-10-25",
+      "time": "11:30",
       "team1": "Mansfield Town",
       "team2": "Wigan Athletic",
       "score": {
@@ -2144,6 +2619,9 @@
       }
     },
     {
+      "round": "14. Round",
+      "date": "2025-10-25",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Burton Albion",
       "score": {
@@ -2158,6 +2636,9 @@
       }
     },
     {
+      "round": "14. Round",
+      "date": "2025-10-25",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Rotherham United",
       "score": {
@@ -2172,6 +2653,9 @@
       }
     },
     {
+      "round": "14. Round",
+      "date": "2025-10-25",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Lincoln City",
       "score": {
@@ -2186,6 +2670,9 @@
       }
     },
     {
+      "round": "14. Round",
+      "date": "2025-10-25",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Luton Town",
       "score": {
@@ -2200,6 +2687,9 @@
       }
     },
     {
+      "round": "14. Round",
+      "date": "2025-10-25",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Blackpool FC",
       "score": {
@@ -2214,6 +2704,9 @@
       }
     },
     {
+      "round": "14. Round",
+      "date": "2025-10-25",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "Doncaster Rovers",
       "score": {
@@ -2228,6 +2721,9 @@
       }
     },
     {
+      "round": "14. Round",
+      "date": "2025-10-25",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Bradford City",
       "score": {
@@ -2242,6 +2738,9 @@
       }
     },
     {
+      "round": "14. Round",
+      "date": "2025-10-25",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Huddersfield Town",
       "score": {
@@ -2256,6 +2755,9 @@
       }
     },
     {
+      "round": "14. Round",
+      "date": "2025-10-27",
+      "time": "19:00",
       "team1": "Port Vale FC",
       "team2": "Stockport County",
       "score": {
@@ -2270,6 +2772,9 @@
       }
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-06",
+      "time": "19:00",
       "team1": "Reading FC",
       "team2": "Stevenage FC",
       "score": {
@@ -2284,6 +2789,9 @@
       }
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-08",
+      "time": "11:30",
       "team1": "Northampton Town",
       "team2": "Mansfield Town",
       "score": {
@@ -2298,6 +2806,9 @@
       }
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-08",
+      "time": "11:30",
       "team1": "Wycombe Wanderers",
       "team2": "Leyton Orient",
       "score": {
@@ -2312,6 +2823,9 @@
       }
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-08",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "Cardiff City",
       "score": {
@@ -2326,6 +2840,9 @@
       }
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-08",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "Port Vale FC",
       "score": {
@@ -2340,6 +2857,9 @@
       }
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-08",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Burton Albion",
       "score": {
@@ -2354,6 +2874,9 @@
       }
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-08",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Barnsley FC",
       "score": {
@@ -2368,6 +2891,9 @@
       }
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-08",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Wigan Athletic",
       "score": {
@@ -2382,6 +2908,9 @@
       }
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-08",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Plymouth Argyle",
       "score": {
@@ -2396,6 +2925,9 @@
       }
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-08",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "AFC Wimbledon",
       "score": {
@@ -2410,6 +2942,9 @@
       }
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-08",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Lincoln City",
       "score": {
@@ -2424,6 +2959,9 @@
       }
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-08",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Luton Town",
       "score": {
@@ -2438,6 +2976,9 @@
       }
     },
     {
+      "round": "16. Round",
+      "date": "2025-11-15",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Stockport County",
       "score": {
@@ -2452,6 +2993,9 @@
       }
     },
     {
+      "round": "16. Round",
+      "date": "2025-11-15",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Northampton Town",
       "score": [
@@ -2460,6 +3004,9 @@
       ]
     },
     {
+      "round": "16. Round",
+      "date": "2025-11-15",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Blackpool FC",
       "score": {
@@ -2474,6 +3021,9 @@
       }
     },
     {
+      "round": "16. Round",
+      "date": "2025-11-15",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Huddersfield Town",
       "score": {
@@ -2488,6 +3038,9 @@
       }
     },
     {
+      "round": "16. Round",
+      "date": "2025-11-15",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Exeter City",
       "score": {
@@ -2502,6 +3055,9 @@
       }
     },
     {
+      "round": "16. Round",
+      "date": "2025-11-15",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "Doncaster Rovers",
       "score": {
@@ -2516,6 +3072,9 @@
       }
     },
     {
+      "round": "16. Round",
+      "date": "2025-11-15",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Rotherham United",
       "score": {
@@ -2530,6 +3089,9 @@
       }
     },
     {
+      "round": "16. Round",
+      "date": "2025-11-15",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Peterborough United",
       "score": {
@@ -2544,6 +3106,9 @@
       }
     },
     {
+      "round": "16. Round",
+      "date": "2025-11-15",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Bradford City",
       "score": [
@@ -2552,6 +3117,9 @@
       ]
     },
     {
+      "round": "16. Round",
+      "date": "2025-11-15",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Wycombe Wanderers",
       "score": {
@@ -2566,6 +3134,9 @@
       }
     },
     {
+      "round": "16. Round",
+      "date": "2025-11-15",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Bolton Wanderers",
       "score": [
@@ -2574,6 +3145,9 @@
       ]
     },
     {
+      "round": "16. Round",
+      "date": "2025-11-15",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Reading FC",
       "score": {
@@ -2588,6 +3162,9 @@
       }
     },
     {
+      "round": "17. Round",
+      "date": "2025-11-20",
+      "time": "19:00",
       "team1": "Peterborough United",
       "team2": "Stockport County",
       "score": {
@@ -2602,6 +3179,9 @@
       }
     },
     {
+      "round": "17. Round",
+      "date": "2025-11-22",
+      "time": "11:30",
       "team1": "Exeter City",
       "team2": "Burton Albion",
       "score": {
@@ -2616,6 +3196,9 @@
       }
     },
     {
+      "round": "17. Round",
+      "date": "2025-11-22",
+      "time": "11:30",
       "team1": "Port Vale FC",
       "team2": "Plymouth Argyle",
       "score": {
@@ -2630,6 +3213,9 @@
       }
     },
     {
+      "round": "17. Round",
+      "date": "2025-11-22",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Wigan Athletic",
       "score": {
@@ -2644,6 +3230,9 @@
       }
     },
     {
+      "round": "17. Round",
+      "date": "2025-11-22",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Luton Town",
       "score": {
@@ -2658,6 +3247,9 @@
       }
     },
     {
+      "round": "17. Round",
+      "date": "2025-11-22",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "Bradford City",
       "score": {
@@ -2672,6 +3264,9 @@
       }
     },
     {
+      "round": "17. Round",
+      "date": "2025-11-22",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Blackpool FC",
       "score": {
@@ -2686,6 +3281,9 @@
       }
     },
     {
+      "round": "17. Round",
+      "date": "2025-11-22",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Huddersfield Town",
       "score": {
@@ -2700,6 +3298,9 @@
       }
     },
     {
+      "round": "17. Round",
+      "date": "2025-11-22",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Cardiff City",
       "score": {
@@ -2714,6 +3315,9 @@
       }
     },
     {
+      "round": "17. Round",
+      "date": "2025-11-22",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "Rotherham United",
       "score": {
@@ -2728,6 +3332,9 @@
       }
     },
     {
+      "round": "17. Round",
+      "date": "2025-11-22",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Doncaster Rovers",
       "score": {
@@ -2742,6 +3349,9 @@
       }
     },
     {
+      "round": "17. Round",
+      "date": "2025-11-22",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Lincoln City",
       "score": {
@@ -2756,6 +3366,9 @@
       }
     },
     {
+      "round": "18. Round",
+      "date": "2025-11-29",
+      "time": "11:30",
       "team1": "Blackpool FC",
       "team2": "Reading FC",
       "score": {
@@ -2770,6 +3383,9 @@
       }
     },
     {
+      "round": "18. Round",
+      "date": "2025-11-29",
+      "time": "11:30",
       "team1": "Stockport County",
       "team2": "Barnsley FC",
       "score": {
@@ -2784,6 +3400,9 @@
       }
     },
     {
+      "round": "18. Round",
+      "date": "2025-11-29",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Exeter City",
       "score": {
@@ -2798,6 +3417,9 @@
       }
     },
     {
+      "round": "18. Round",
+      "date": "2025-11-29",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Leyton Orient",
       "score": {
@@ -2812,6 +3434,9 @@
       }
     },
     {
+      "round": "18. Round",
+      "date": "2025-11-29",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Mansfield Town",
       "score": {
@@ -2826,6 +3451,9 @@
       }
     },
     {
+      "round": "18. Round",
+      "date": "2025-11-29",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Peterborough United",
       "score": {
@@ -2840,6 +3468,9 @@
       }
     },
     {
+      "round": "18. Round",
+      "date": "2025-11-29",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "AFC Wimbledon",
       "score": {
@@ -2854,6 +3485,9 @@
       }
     },
     {
+      "round": "18. Round",
+      "date": "2025-11-29",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "Port Vale FC",
       "score": {
@@ -2868,6 +3502,9 @@
       }
     },
     {
+      "round": "18. Round",
+      "date": "2025-11-29",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Bolton Wanderers",
       "score": {
@@ -2882,6 +3519,9 @@
       }
     },
     {
+      "round": "18. Round",
+      "date": "2025-11-29",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Northampton Town",
       "score": {
@@ -2896,6 +3536,9 @@
       }
     },
     {
+      "round": "18. Round",
+      "date": "2025-11-29",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Wycombe Wanderers",
       "score": {
@@ -2910,6 +3553,9 @@
       }
     },
     {
+      "round": "18. Round",
+      "date": "2025-11-29",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Stevenage FC",
       "score": {
@@ -2924,6 +3570,9 @@
       }
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-09",
+      "time": "18:45",
       "team1": "Doncaster Rovers",
       "team2": "Stockport County",
       "score": {
@@ -2938,6 +3587,9 @@
       }
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-09",
+      "time": "18:45",
       "team1": "Exeter City",
       "team2": "AFC Wimbledon",
       "score": {
@@ -2952,6 +3604,9 @@
       }
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-09",
+      "time": "18:45",
       "team1": "Leyton Orient",
       "team2": "Luton Town",
       "score": {
@@ -2966,6 +3621,9 @@
       }
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-09",
+      "time": "18:45",
       "team1": "Lincoln City",
       "team2": "Barnsley FC",
       "score": {
@@ -2980,6 +3638,9 @@
       }
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-09",
+      "time": "18:45",
       "team1": "Mansfield Town",
       "team2": "Bolton Wanderers",
       "score": {
@@ -2994,6 +3655,9 @@
       }
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-09",
+      "time": "18:45",
       "team1": "Northampton Town",
       "team2": "Huddersfield Town",
       "score": {
@@ -3008,6 +3672,9 @@
       }
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-09",
+      "time": "18:45",
       "team1": "Port Vale FC",
       "team2": "Bradford City",
       "score": [
@@ -3016,6 +3683,9 @@
       ]
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-09",
+      "time": "18:45",
       "team1": "Rotherham United",
       "team2": "Blackpool FC",
       "score": {
@@ -3030,6 +3700,9 @@
       }
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-09",
+      "time": "18:45",
       "team1": "Stevenage FC",
       "team2": "Cardiff City",
       "score": {
@@ -3044,6 +3717,9 @@
       }
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-09",
+      "time": "18:45",
       "team1": "Wigan Athletic",
       "team2": "Burton Albion",
       "score": {
@@ -3058,6 +3734,9 @@
       }
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-09",
+      "time": "18:45",
       "team1": "Wycombe Wanderers",
       "team2": "Plymouth Argyle",
       "score": {
@@ -3072,6 +3751,9 @@
       }
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-09",
+      "time": "19:00",
       "team1": "Reading FC",
       "team2": "Peterborough United",
       "score": {
@@ -3086,6 +3768,9 @@
       }
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-13",
+      "time": "11:30",
       "team1": "AFC Wimbledon",
       "team2": "Mansfield Town",
       "score": {
@@ -3100,6 +3785,9 @@
       }
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-13",
+      "time": "11:30",
       "team1": "Huddersfield Town",
       "team2": "Wigan Athletic",
       "score": {
@@ -3114,6 +3802,9 @@
       }
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-13",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Leyton Orient",
       "score": {
@@ -3128,6 +3819,9 @@
       }
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-13",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "Lincoln City",
       "score": {
@@ -3142,6 +3836,9 @@
       }
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-13",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "Exeter City",
       "score": {
@@ -3156,6 +3853,9 @@
       }
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-13",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Reading FC",
       "score": {
@@ -3170,6 +3870,9 @@
       }
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-13",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Wycombe Wanderers",
       "score": {
@@ -3184,6 +3887,9 @@
       }
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-13",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Doncaster Rovers",
       "score": {
@@ -3198,6 +3904,9 @@
       }
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-13",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Port Vale FC",
       "score": {
@@ -3212,6 +3921,9 @@
       }
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-13",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Northampton Town",
       "score": {
@@ -3226,6 +3938,9 @@
       }
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-13",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Rotherham United",
       "score": {
@@ -3240,6 +3955,9 @@
       }
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-13",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Stevenage FC",
       "score": {
@@ -3254,6 +3972,9 @@
       }
     },
     {
+      "round": "21. Round",
+      "date": "2025-12-18",
+      "time": "19:00",
       "team1": "Reading FC",
       "team2": "Luton Town",
       "score": {
@@ -3268,6 +3989,9 @@
       }
     },
     {
+      "round": "21. Round",
+      "date": "2025-12-20",
+      "time": "11:30",
       "team1": "Stevenage FC",
       "team2": "Burton Albion",
       "score": {
@@ -3282,6 +4006,9 @@
       }
     },
     {
+      "round": "21. Round",
+      "date": "2025-12-20",
+      "time": "11:30",
       "team1": "Wigan Athletic",
       "team2": "Blackpool FC",
       "score": {
@@ -3296,6 +4023,9 @@
       }
     },
     {
+      "round": "21. Round",
+      "date": "2025-12-20",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Plymouth Argyle",
       "score": {
@@ -3310,6 +4040,9 @@
       }
     },
     {
+      "round": "21. Round",
+      "date": "2025-12-20",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Barnsley FC",
       "score": {
@@ -3324,6 +4057,9 @@
       }
     },
     {
+      "round": "21. Round",
+      "date": "2025-12-20",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Bradford City",
       "score": {
@@ -3338,6 +4074,9 @@
       }
     },
     {
+      "round": "21. Round",
+      "date": "2025-12-20",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "Cardiff City",
       "score": {
@@ -3352,6 +4091,9 @@
       }
     },
     {
+      "round": "21. Round",
+      "date": "2025-12-20",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Stockport County",
       "score": {
@@ -3366,6 +4108,9 @@
       }
     },
     {
+      "round": "21. Round",
+      "date": "2025-12-20",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "AFC Wimbledon",
       "score": {
@@ -3380,6 +4125,9 @@
       }
     },
     {
+      "round": "21. Round",
+      "date": "2025-12-20",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Peterborough United",
       "score": {
@@ -3394,6 +4142,9 @@
       }
     },
     {
+      "round": "21. Round",
+      "date": "2025-12-20",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Huddersfield Town",
       "score": {
@@ -3408,6 +4159,9 @@
       }
     },
     {
+      "round": "21. Round",
+      "date": "2025-12-20",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Bolton Wanderers",
       "score": {
@@ -3422,6 +4176,9 @@
       }
     },
     {
+      "round": "22. Round",
+      "date": "2025-12-26",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Stevenage FC",
       "score": {
@@ -3436,6 +4193,9 @@
       }
     },
     {
+      "round": "22. Round",
+      "date": "2025-12-26",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Mansfield Town",
       "score": {
@@ -3450,6 +4210,9 @@
       }
     },
     {
+      "round": "22. Round",
+      "date": "2025-12-26",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "Doncaster Rovers",
       "score": {
@@ -3464,6 +4227,9 @@
       }
     },
     {
+      "round": "22. Round",
+      "date": "2025-12-26",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "Rotherham United",
       "score": {
@@ -3478,6 +4244,9 @@
       }
     },
     {
+      "round": "22. Round",
+      "date": "2025-12-26",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Wigan Athletic",
       "score": {
@@ -3492,6 +4261,9 @@
       }
     },
     {
+      "round": "22. Round",
+      "date": "2025-12-26",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Northampton Town",
       "score": {
@@ -3506,6 +4278,9 @@
       }
     },
     {
+      "round": "22. Round",
+      "date": "2025-12-26",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Exeter City",
       "score": {
@@ -3520,6 +4295,9 @@
       }
     },
     {
+      "round": "22. Round",
+      "date": "2025-12-26",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Port Vale FC",
       "score": {
@@ -3534,6 +4312,9 @@
       }
     },
     {
+      "round": "22. Round",
+      "date": "2025-12-26",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Wycombe Wanderers",
       "score": {
@@ -3548,6 +4329,9 @@
       }
     },
     {
+      "round": "22. Round",
+      "date": "2025-12-26",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Leyton Orient",
       "score": {
@@ -3562,6 +4346,9 @@
       }
     },
     {
+      "round": "22. Round",
+      "date": "2025-12-26",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Reading FC",
       "score": {
@@ -3576,6 +4363,9 @@
       }
     },
     {
+      "round": "22. Round",
+      "date": "2025-12-26",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Lincoln City",
       "score": {
@@ -3590,6 +4380,9 @@
       }
     },
     {
+      "round": "23. Round",
+      "date": "2025-12-29",
+      "time": "18:45",
       "team1": "AFC Wimbledon",
       "team2": "Exeter City",
       "score": {
@@ -3604,6 +4397,9 @@
       }
     },
     {
+      "round": "23. Round",
+      "date": "2025-12-29",
+      "time": "18:45",
       "team1": "Barnsley FC",
       "team2": "Lincoln City",
       "score": {
@@ -3618,6 +4414,9 @@
       }
     },
     {
+      "round": "23. Round",
+      "date": "2025-12-29",
+      "time": "18:45",
       "team1": "Blackpool FC",
       "team2": "Rotherham United",
       "score": {
@@ -3632,6 +4431,9 @@
       }
     },
     {
+      "round": "23. Round",
+      "date": "2025-12-29",
+      "time": "18:45",
       "team1": "Bolton Wanderers",
       "team2": "Mansfield Town",
       "score": {
@@ -3646,6 +4448,9 @@
       }
     },
     {
+      "round": "23. Round",
+      "date": "2025-12-29",
+      "time": "18:45",
       "team1": "Bradford City",
       "team2": "Port Vale FC",
       "score": {
@@ -3660,6 +4465,9 @@
       }
     },
     {
+      "round": "23. Round",
+      "date": "2025-12-29",
+      "time": "18:45",
       "team1": "Burton Albion",
       "team2": "Wigan Athletic",
       "score": {
@@ -3674,6 +4482,9 @@
       }
     },
     {
+      "round": "23. Round",
+      "date": "2025-12-29",
+      "time": "18:45",
       "team1": "Cardiff City",
       "team2": "Stevenage FC",
       "score": {
@@ -3688,6 +4499,9 @@
       }
     },
     {
+      "round": "23. Round",
+      "date": "2025-12-29",
+      "time": "18:45",
       "team1": "Huddersfield Town",
       "team2": "Northampton Town",
       "score": {
@@ -3702,6 +4516,9 @@
       }
     },
     {
+      "round": "23. Round",
+      "date": "2025-12-29",
+      "time": "18:45",
       "team1": "Luton Town",
       "team2": "Leyton Orient",
       "score": {
@@ -3716,6 +4533,9 @@
       }
     },
     {
+      "round": "23. Round",
+      "date": "2025-12-29",
+      "time": "18:45",
       "team1": "Peterborough United",
       "team2": "Reading FC",
       "score": {
@@ -3730,6 +4550,9 @@
       }
     },
     {
+      "round": "23. Round",
+      "date": "2025-12-29",
+      "time": "18:45",
       "team1": "Plymouth Argyle",
       "team2": "Wycombe Wanderers",
       "score": {
@@ -3744,6 +4567,9 @@
       }
     },
     {
+      "round": "23. Round",
+      "date": "2025-12-29",
+      "time": "18:45",
       "team1": "Stockport County",
       "team2": "Doncaster Rovers",
       "score": {
@@ -3758,6 +4584,9 @@
       }
     },
     {
+      "round": "24. Round",
+      "date": "2025-01-01",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Bolton Wanderers",
       "score": [
@@ -3766,6 +4595,9 @@
       ]
     },
     {
+      "round": "24. Round",
+      "date": "2025-01-01",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Luton Town",
       "score": [
@@ -3774,6 +4606,9 @@
       ]
     },
     {
+      "round": "24. Round",
+      "date": "2025-01-01",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "AFC Wimbledon",
       "score": [
@@ -3782,6 +4617,9 @@
       ]
     },
     {
+      "round": "24. Round",
+      "date": "2025-01-01",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "Huddersfield Town",
       "score": [
@@ -3790,6 +4628,9 @@
       ]
     },
     {
+      "round": "24. Round",
+      "date": "2025-01-01",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Bradford City",
       "score": [
@@ -3798,6 +4639,9 @@
       ]
     },
     {
+      "round": "24. Round",
+      "date": "2025-01-01",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Stockport County",
       "score": [
@@ -3806,6 +4650,9 @@
       ]
     },
     {
+      "round": "24. Round",
+      "date": "2025-01-01",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Blackpool FC",
       "score": [
@@ -3814,6 +4661,9 @@
       ]
     },
     {
+      "round": "24. Round",
+      "date": "2025-01-01",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "Burton Albion",
       "score": [
@@ -3822,6 +4672,9 @@
       ]
     },
     {
+      "round": "24. Round",
+      "date": "2025-01-01",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Peterborough United",
       "score": [
@@ -3830,6 +4683,9 @@
       ]
     },
     {
+      "round": "24. Round",
+      "date": "2025-01-01",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Plymouth Argyle",
       "score": [
@@ -3838,6 +4694,9 @@
       ]
     },
     {
+      "round": "24. Round",
+      "date": "2025-01-01",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Barnsley FC",
       "score": [
@@ -3846,6 +4705,9 @@
       ]
     },
     {
+      "round": "24. Round",
+      "date": "2025-01-01",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Cardiff City",
       "score": [
@@ -3854,6 +4716,9 @@
       ]
     },
     {
+      "round": "25. Round",
+      "date": "2025-01-04",
+      "time": "11:00",
       "team1": "Bolton Wanderers",
       "team2": "Northampton Town",
       "score": [
@@ -3862,6 +4727,9 @@
       ]
     },
     {
+      "round": "25. Round",
+      "date": "2025-01-04",
+      "time": "11:00",
       "team1": "Lincoln City",
       "team2": "Peterborough United",
       "score": [
@@ -3870,6 +4738,9 @@
       ]
     },
     {
+      "round": "25. Round",
+      "date": "2025-01-04",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "Bradford City",
       "score": [
@@ -3878,6 +4749,9 @@
       ]
     },
     {
+      "round": "25. Round",
+      "date": "2025-01-04",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Wigan Athletic",
       "score": [
@@ -3886,10 +4760,16 @@
       ]
     },
     {
+      "round": "25. Round",
+      "date": "2025-01-04",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Luton Town"
     },
     {
+      "round": "25. Round",
+      "date": "2025-01-04",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Exeter City",
       "score": [
@@ -3898,6 +4778,9 @@
       ]
     },
     {
+      "round": "25. Round",
+      "date": "2025-01-04",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Burton Albion",
       "score": [
@@ -3906,10 +4789,16 @@
       ]
     },
     {
+      "round": "25. Round",
+      "date": "2025-01-04",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Barnsley FC"
     },
     {
+      "round": "25. Round",
+      "date": "2025-01-04",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "Stockport County",
       "score": [
@@ -3918,14 +4807,23 @@
       ]
     },
     {
+      "round": "25. Round",
+      "date": "2025-01-04",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Mansfield Town"
     },
     {
+      "round": "25. Round",
+      "date": "2025-01-04",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Leyton Orient"
     },
     {
+      "round": "25. Round",
+      "date": "2025-01-04",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "AFC Wimbledon",
       "score": [
@@ -3934,18 +4832,30 @@
       ]
     },
     {
+      "round": "26. Round",
+      "date": "2025-01-10",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Blackpool FC"
     },
     {
+      "round": "26. Round",
+      "date": "2025-01-10",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Wycombe Wanderers"
     },
     {
+      "round": "26. Round",
+      "date": "2025-01-10",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Rotherham United"
     },
     {
+      "round": "26. Round",
+      "date": "2025-01-10",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Doncaster Rovers",
       "score": [
@@ -3954,10 +4864,16 @@
       ]
     },
     {
+      "round": "26. Round",
+      "date": "2025-01-10",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Lincoln City"
     },
     {
+      "round": "26. Round",
+      "date": "2025-01-10",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Cardiff City",
       "score": [
@@ -3966,6 +4882,9 @@
       ]
     },
     {
+      "round": "26. Round",
+      "date": "2025-01-10",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Stevenage FC",
       "score": [
@@ -3974,14 +4893,23 @@
       ]
     },
     {
+      "round": "26. Round",
+      "date": "2025-01-10",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Reading FC"
     },
     {
+      "round": "26. Round",
+      "date": "2025-01-10",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Port Vale FC"
     },
     {
+      "round": "26. Round",
+      "date": "2025-01-10",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Bolton Wanderers",
       "score": [
@@ -3990,6 +4918,9 @@
       ]
     },
     {
+      "round": "26. Round",
+      "date": "2025-01-10",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Huddersfield Town",
       "score": [
@@ -3998,10 +4929,16 @@
       ]
     },
     {
+      "round": "26. Round",
+      "date": "2025-01-10",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Plymouth Argyle"
     },
     {
+      "round": "27. Round",
+      "date": "2025-01-17",
+      "time": "11:30",
       "team1": "Wigan Athletic",
       "team2": "Bolton Wanderers",
       "score": [
@@ -4010,6 +4947,9 @@
       ]
     },
     {
+      "round": "27. Round",
+      "date": "2025-01-17",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Doncaster Rovers",
       "score": [
@@ -4018,6 +4958,9 @@
       ]
     },
     {
+      "round": "27. Round",
+      "date": "2025-01-17",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Blackpool FC",
       "score": [
@@ -4026,6 +4969,9 @@
       ]
     },
     {
+      "round": "27. Round",
+      "date": "2025-01-17",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Cardiff City",
       "score": [
@@ -4034,6 +4980,9 @@
       ]
     },
     {
+      "round": "27. Round",
+      "date": "2025-01-17",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Huddersfield Town",
       "score": [
@@ -4042,6 +4991,9 @@
       ]
     },
     {
+      "round": "27. Round",
+      "date": "2025-01-17",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Stevenage FC",
       "score": [
@@ -4050,6 +5002,9 @@
       ]
     },
     {
+      "round": "27. Round",
+      "date": "2025-01-17",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Reading FC",
       "score": [
@@ -4058,6 +5013,9 @@
       ]
     },
     {
+      "round": "27. Round",
+      "date": "2025-01-17",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Lincoln City",
       "score": [
@@ -4066,6 +5024,9 @@
       ]
     },
     {
+      "round": "27. Round",
+      "date": "2025-01-17",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Port Vale FC",
       "score": [
@@ -4074,6 +5035,9 @@
       ]
     },
     {
+      "round": "27. Round",
+      "date": "2025-01-17",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Wycombe Wanderers",
       "score": [
@@ -4082,6 +5046,9 @@
       ]
     },
     {
+      "round": "27. Round",
+      "date": "2025-01-17",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Plymouth Argyle",
       "score": [
@@ -4090,6 +5057,9 @@
       ]
     },
     {
+      "round": "27. Round",
+      "date": "2025-01-17",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Rotherham United",
       "score": [
@@ -4098,6 +5068,9 @@
       ]
     },
     {
+      "round": "28. Round",
+      "date": "2025-01-24",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "Northampton Town",
       "score": [
@@ -4106,6 +5079,9 @@
       ]
     },
     {
+      "round": "28. Round",
+      "date": "2025-01-24",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "Leyton Orient",
       "score": [
@@ -4114,6 +5090,9 @@
       ]
     },
     {
+      "round": "28. Round",
+      "date": "2025-01-24",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Stockport County",
       "score": [
@@ -4122,6 +5101,9 @@
       ]
     },
     {
+      "round": "28. Round",
+      "date": "2025-01-24",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Wigan Athletic",
       "score": [
@@ -4130,6 +5112,9 @@
       ]
     },
     {
+      "round": "28. Round",
+      "date": "2025-01-24",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Bradford City",
       "score": [
@@ -4138,6 +5123,9 @@
       ]
     },
     {
+      "round": "28. Round",
+      "date": "2025-01-24",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "Burton Albion",
       "score": [
@@ -4146,6 +5134,9 @@
       ]
     },
     {
+      "round": "28. Round",
+      "date": "2025-01-24",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Luton Town",
       "score": [
@@ -4154,6 +5145,9 @@
       ]
     },
     {
+      "round": "28. Round",
+      "date": "2025-01-24",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Exeter City",
       "score": [
@@ -4162,6 +5156,9 @@
       ]
     },
     {
+      "round": "28. Round",
+      "date": "2025-01-24",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "Barnsley FC",
       "score": [
@@ -4170,6 +5167,9 @@
       ]
     },
     {
+      "round": "28. Round",
+      "date": "2025-01-24",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "AFC Wimbledon",
       "score": [
@@ -4178,6 +5178,9 @@
       ]
     },
     {
+      "round": "28. Round",
+      "date": "2025-01-24",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Mansfield Town",
       "score": [
@@ -4186,6 +5189,9 @@
       ]
     },
     {
+      "round": "28. Round",
+      "date": "2025-01-24",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Peterborough United",
       "score": [
@@ -4194,6 +5200,9 @@
       ]
     },
     {
+      "round": "29. Round",
+      "date": "2025-01-27",
+      "time": "18:45",
       "team1": "Blackpool FC",
       "team2": "Stockport County",
       "score": [
@@ -4202,6 +5211,9 @@
       ]
     },
     {
+      "round": "29. Round",
+      "date": "2025-01-27",
+      "time": "18:45",
       "team1": "Bolton Wanderers",
       "team2": "Burton Albion",
       "score": [
@@ -4210,6 +5222,9 @@
       ]
     },
     {
+      "round": "29. Round",
+      "date": "2025-01-27",
+      "time": "18:45",
       "team1": "Cardiff City",
       "team2": "Barnsley FC",
       "score": [
@@ -4218,6 +5233,9 @@
       ]
     },
     {
+      "round": "29. Round",
+      "date": "2025-01-27",
+      "time": "18:45",
       "team1": "Doncaster Rovers",
       "team2": "Leyton Orient",
       "score": [
@@ -4226,6 +5244,9 @@
       ]
     },
     {
+      "round": "29. Round",
+      "date": "2025-01-27",
+      "time": "18:45",
       "team1": "Huddersfield Town",
       "team2": "Luton Town",
       "score": [
@@ -4234,6 +5255,9 @@
       ]
     },
     {
+      "round": "29. Round",
+      "date": "2025-01-27",
+      "time": "18:45",
       "team1": "Lincoln City",
       "team2": "Bradford City",
       "score": [
@@ -4242,6 +5266,9 @@
       ]
     },
     {
+      "round": "29. Round",
+      "date": "2025-01-27",
+      "time": "18:45",
       "team1": "Plymouth Argyle",
       "team2": "Mansfield Town",
       "score": [
@@ -4250,6 +5277,9 @@
       ]
     },
     {
+      "round": "29. Round",
+      "date": "2025-01-27",
+      "time": "18:45",
       "team1": "Port Vale FC",
       "team2": "AFC Wimbledon",
       "score": [
@@ -4258,6 +5288,9 @@
       ]
     },
     {
+      "round": "29. Round",
+      "date": "2025-01-27",
+      "time": "18:45",
       "team1": "Rotherham United",
       "team2": "Northampton Town",
       "score": [
@@ -4266,6 +5299,9 @@
       ]
     },
     {
+      "round": "29. Round",
+      "date": "2025-01-27",
+      "time": "18:45",
       "team1": "Stevenage FC",
       "team2": "Peterborough United",
       "score": [
@@ -4274,6 +5310,9 @@
       ]
     },
     {
+      "round": "29. Round",
+      "date": "2025-01-27",
+      "time": "18:45",
       "team1": "Wycombe Wanderers",
       "team2": "Wigan Athletic",
       "score": [
@@ -4282,6 +5321,9 @@
       ]
     },
     {
+      "round": "29. Round",
+      "date": "2025-01-27",
+      "time": "19:00",
       "team1": "Reading FC",
       "team2": "Exeter City",
       "score": [
@@ -4290,6 +5332,9 @@
       ]
     },
     {
+      "round": "30. Round",
+      "date": "2025-01-31",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Bolton Wanderers",
       "score": [
@@ -4298,6 +5343,9 @@
       ]
     },
     {
+      "round": "30. Round",
+      "date": "2025-01-31",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Stevenage FC",
       "score": [
@@ -4306,6 +5354,9 @@
       ]
     },
     {
+      "round": "30. Round",
+      "date": "2025-01-31",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Doncaster Rovers",
       "score": [
@@ -4314,6 +5365,9 @@
       ]
     },
     {
+      "round": "30. Round",
+      "date": "2025-01-31",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Cardiff City",
       "score": [
@@ -4322,6 +5376,9 @@
       ]
     },
     {
+      "round": "30. Round",
+      "date": "2025-01-31",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Rotherham United",
       "score": [
@@ -4330,6 +5387,9 @@
       ]
     },
     {
+      "round": "30. Round",
+      "date": "2025-01-31",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Port Vale FC",
       "score": [
@@ -4338,6 +5398,9 @@
       ]
     },
     {
+      "round": "30. Round",
+      "date": "2025-01-31",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Blackpool FC",
       "score": [
@@ -4346,6 +5409,9 @@
       ]
     },
     {
+      "round": "30. Round",
+      "date": "2025-01-31",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Wycombe Wanderers",
       "score": [
@@ -4354,6 +5420,9 @@
       ]
     },
     {
+      "round": "30. Round",
+      "date": "2025-01-31",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Reading FC",
       "score": [
@@ -4362,6 +5431,9 @@
       ]
     },
     {
+      "round": "30. Round",
+      "date": "2025-01-31",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Huddersfield Town",
       "score": [
@@ -4370,6 +5442,9 @@
       ]
     },
     {
+      "round": "30. Round",
+      "date": "2025-01-31",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Plymouth Argyle",
       "score": [
@@ -4378,6 +5453,9 @@
       ]
     },
     {
+      "round": "30. Round",
+      "date": "2025-01-31",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Lincoln City",
       "score": [
@@ -4386,6 +5464,9 @@
       ]
     },
     {
+      "round": "31. Round",
+      "date": "2025-02-07",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Reading FC",
       "score": [
@@ -4394,6 +5475,9 @@
       ]
     },
     {
+      "round": "31. Round",
+      "date": "2025-02-07",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "Barnsley FC",
       "score": [
@@ -4402,6 +5486,9 @@
       ]
     },
     {
+      "round": "31. Round",
+      "date": "2025-02-07",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Blackpool FC",
       "score": [
@@ -4410,6 +5497,9 @@
       ]
     },
     {
+      "round": "31. Round",
+      "date": "2025-02-07",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Bradford City",
       "score": [
@@ -4418,6 +5508,9 @@
       ]
     },
     {
+      "round": "31. Round",
+      "date": "2025-02-07",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Exeter City",
       "score": [
@@ -4426,6 +5519,9 @@
       ]
     },
     {
+      "round": "31. Round",
+      "date": "2025-02-07",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Stevenage FC",
       "score": [
@@ -4434,6 +5530,9 @@
       ]
     },
     {
+      "round": "31. Round",
+      "date": "2025-02-07",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Wigan Athletic",
       "score": [
@@ -4442,6 +5541,9 @@
       ]
     },
     {
+      "round": "31. Round",
+      "date": "2025-02-07",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Lincoln City",
       "score": [
@@ -4450,6 +5552,9 @@
       ]
     },
     {
+      "round": "31. Round",
+      "date": "2025-02-07",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Burton Albion",
       "score": [
@@ -4458,6 +5563,9 @@
       ]
     },
     {
+      "round": "31. Round",
+      "date": "2025-02-07",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Cardiff City",
       "score": [
@@ -4466,6 +5574,9 @@
       ]
     },
     {
+      "round": "31. Round",
+      "date": "2025-02-07",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Leyton Orient",
       "score": [
@@ -4474,6 +5585,9 @@
       ]
     },
     {
+      "round": "31. Round",
+      "date": "2025-02-07",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Doncaster Rovers",
       "score": [
@@ -4482,722 +5596,1262 @@
       ]
     },
     {
+      "round": "32. Round",
+      "date": "2025-02-14",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "AFC Wimbledon"
     },
     {
+      "round": "32. Round",
+      "date": "2025-02-14",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "Plymouth Argyle"
     },
     {
+      "round": "32. Round",
+      "date": "2025-02-14",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Peterborough United"
     },
     {
+      "round": "32. Round",
+      "date": "2025-02-14",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Stockport County"
     },
     {
+      "round": "32. Round",
+      "date": "2025-02-14",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Luton Town"
     },
     {
+      "round": "32. Round",
+      "date": "2025-02-14",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Port Vale FC"
     },
     {
+      "round": "32. Round",
+      "date": "2025-02-14",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Northampton Town"
     },
     {
+      "round": "32. Round",
+      "date": "2025-02-14",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Mansfield Town"
     },
     {
+      "round": "32. Round",
+      "date": "2025-02-14",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "Bolton Wanderers"
     },
     {
+      "round": "32. Round",
+      "date": "2025-02-14",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "Wycombe Wanderers"
     },
     {
+      "round": "32. Round",
+      "date": "2025-02-14",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Huddersfield Town"
     },
     {
+      "round": "32. Round",
+      "date": "2025-02-14",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Rotherham United"
     },
     {
+      "round": "33. Round",
+      "date": "2025-02-17",
+      "time": "18:45",
       "team1": "Barnsley FC",
       "team2": "Peterborough United"
     },
     {
+      "round": "33. Round",
+      "date": "2025-02-17",
+      "time": "18:45",
       "team1": "Blackpool FC",
       "team2": "Mansfield Town"
     },
     {
+      "round": "33. Round",
+      "date": "2025-02-17",
+      "time": "18:45",
       "team1": "Bradford City",
       "team2": "Stockport County"
     },
     {
+      "round": "33. Round",
+      "date": "2025-02-17",
+      "time": "18:45",
       "team1": "Burton Albion",
       "team2": "Rotherham United"
     },
     {
+      "round": "33. Round",
+      "date": "2025-02-17",
+      "time": "18:45",
       "team1": "Cardiff City",
       "team2": "AFC Wimbledon"
     },
     {
+      "round": "33. Round",
+      "date": "2025-02-17",
+      "time": "18:45",
       "team1": "Doncaster Rovers",
       "team2": "Huddersfield Town"
     },
     {
+      "round": "33. Round",
+      "date": "2025-02-17",
+      "time": "18:45",
       "team1": "Exeter City",
       "team2": "Wycombe Wanderers"
     },
     {
+      "round": "33. Round",
+      "date": "2025-02-17",
+      "time": "18:45",
       "team1": "Leyton Orient",
       "team2": "Plymouth Argyle"
     },
     {
+      "round": "33. Round",
+      "date": "2025-02-17",
+      "time": "18:45",
       "team1": "Lincoln City",
       "team2": "Northampton Town"
     },
     {
+      "round": "33. Round",
+      "date": "2025-02-17",
+      "time": "18:45",
       "team1": "Stevenage FC",
       "team2": "Port Vale FC"
     },
     {
+      "round": "33. Round",
+      "date": "2025-02-17",
+      "time": "18:45",
       "team1": "Wigan Athletic",
       "team2": "Luton Town"
     },
     {
+      "round": "33. Round",
+      "date": "2025-02-17",
+      "time": "19:00",
       "team1": "Reading FC",
       "team2": "Bolton Wanderers"
     },
     {
+      "round": "34. Round",
+      "date": "2025-02-21",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Bradford City"
     },
     {
+      "round": "34. Round",
+      "date": "2025-02-21",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "Blackpool FC"
     },
     {
+      "round": "34. Round",
+      "date": "2025-02-21",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Barnsley FC"
     },
     {
+      "round": "34. Round",
+      "date": "2025-02-21",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Burton Albion"
     },
     {
+      "round": "34. Round",
+      "date": "2025-02-21",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Lincoln City"
     },
     {
+      "round": "34. Round",
+      "date": "2025-02-21",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Leyton Orient"
     },
     {
+      "round": "34. Round",
+      "date": "2025-02-21",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Exeter City"
     },
     {
+      "round": "34. Round",
+      "date": "2025-02-21",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Cardiff City"
     },
     {
+      "round": "34. Round",
+      "date": "2025-02-21",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Reading FC"
     },
     {
+      "round": "34. Round",
+      "date": "2025-02-21",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Doncaster Rovers"
     },
     {
+      "round": "34. Round",
+      "date": "2025-02-21",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Wigan Athletic"
     },
     {
+      "round": "34. Round",
+      "date": "2025-02-21",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Stevenage FC"
     },
     {
+      "round": "35. Round",
+      "date": "2025-02-28",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Cardiff City"
     },
     {
+      "round": "35. Round",
+      "date": "2025-02-28",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Bolton Wanderers"
     },
     {
+      "round": "35. Round",
+      "date": "2025-02-28",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Barnsley FC"
     },
     {
+      "round": "35. Round",
+      "date": "2025-02-28",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "Blackpool FC"
     },
     {
+      "round": "35. Round",
+      "date": "2025-02-28",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "AFC Wimbledon"
     },
     {
+      "round": "35. Round",
+      "date": "2025-02-28",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Peterborough United"
     },
     {
+      "round": "35. Round",
+      "date": "2025-02-28",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Luton Town"
     },
     {
+      "round": "35. Round",
+      "date": "2025-02-28",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "Bradford City"
     },
     {
+      "round": "35. Round",
+      "date": "2025-02-28",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Plymouth Argyle"
     },
     {
+      "round": "35. Round",
+      "date": "2025-02-28",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Stockport County"
     },
     {
+      "round": "35. Round",
+      "date": "2025-02-28",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Huddersfield Town"
     },
     {
+      "round": "35. Round",
+      "date": "2025-02-28",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Burton Albion"
     },
     {
+      "round": "36. Round",
+      "date": "2025-03-07",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Northampton Town"
     },
     {
+      "round": "36. Round",
+      "date": "2025-03-07",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Exeter City"
     },
     {
+      "round": "36. Round",
+      "date": "2025-03-07",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "Wigan Athletic"
     },
     {
+      "round": "36. Round",
+      "date": "2025-03-07",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "Wycombe Wanderers"
     },
     {
+      "round": "36. Round",
+      "date": "2025-03-07",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Leyton Orient"
     },
     {
+      "round": "36. Round",
+      "date": "2025-03-07",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Stevenage FC"
     },
     {
+      "round": "36. Round",
+      "date": "2025-03-07",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Lincoln City"
     },
     {
+      "round": "36. Round",
+      "date": "2025-03-07",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Rotherham United"
     },
     {
+      "round": "36. Round",
+      "date": "2025-03-07",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Reading FC"
     },
     {
+      "round": "36. Round",
+      "date": "2025-03-07",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Port Vale FC"
     },
     {
+      "round": "36. Round",
+      "date": "2025-03-07",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Doncaster Rovers"
     },
     {
+      "round": "36. Round",
+      "date": "2025-03-07",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Mansfield Town"
     },
     {
+      "round": "37. Round",
+      "date": "2025-03-14",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Blackpool FC"
     },
     {
+      "round": "37. Round",
+      "date": "2025-03-14",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Cardiff City"
     },
     {
+      "round": "37. Round",
+      "date": "2025-03-14",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Peterborough United"
     },
     {
+      "round": "37. Round",
+      "date": "2025-03-14",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "Stockport County"
     },
     {
+      "round": "37. Round",
+      "date": "2025-03-14",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Barnsley FC"
     },
     {
+      "round": "37. Round",
+      "date": "2025-03-14",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Burton Albion"
     },
     {
+      "round": "37. Round",
+      "date": "2025-03-14",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Huddersfield Town"
     },
     {
+      "round": "37. Round",
+      "date": "2025-03-14",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "Plymouth Argyle"
     },
     {
+      "round": "37. Round",
+      "date": "2025-03-14",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Bolton Wanderers"
     },
     {
+      "round": "37. Round",
+      "date": "2025-03-14",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "AFC Wimbledon"
     },
     {
+      "round": "37. Round",
+      "date": "2025-03-14",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Bradford City"
     },
     {
+      "round": "37. Round",
+      "date": "2025-03-14",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Luton Town"
     },
     {
+      "round": "38. Round",
+      "date": "2025-03-17",
+      "time": "18:45",
       "team1": "AFC Wimbledon",
       "team2": "Leyton Orient"
     },
     {
+      "round": "38. Round",
+      "date": "2025-03-17",
+      "time": "18:45",
       "team1": "Barnsley FC",
       "team2": "Wigan Athletic"
     },
     {
+      "round": "38. Round",
+      "date": "2025-03-17",
+      "time": "18:45",
       "team1": "Blackpool FC",
       "team2": "Port Vale FC"
     },
     {
+      "round": "38. Round",
+      "date": "2025-03-17",
+      "time": "18:45",
       "team1": "Bolton Wanderers",
       "team2": "Doncaster Rovers"
     },
     {
+      "round": "38. Round",
+      "date": "2025-03-17",
+      "time": "18:45",
       "team1": "Bradford City",
       "team2": "Mansfield Town"
     },
     {
+      "round": "38. Round",
+      "date": "2025-03-17",
+      "time": "18:45",
       "team1": "Burton Albion",
       "team2": "Reading FC"
     },
     {
+      "round": "38. Round",
+      "date": "2025-03-17",
+      "time": "18:45",
       "team1": "Cardiff City",
       "team2": "Wycombe Wanderers"
     },
     {
+      "round": "38. Round",
+      "date": "2025-03-17",
+      "time": "18:45",
       "team1": "Huddersfield Town",
       "team2": "Lincoln City"
     },
     {
+      "round": "38. Round",
+      "date": "2025-03-17",
+      "time": "18:45",
       "team1": "Luton Town",
       "team2": "Exeter City"
     },
     {
+      "round": "38. Round",
+      "date": "2025-03-17",
+      "time": "18:45",
       "team1": "Peterborough United",
       "team2": "Rotherham United"
     },
     {
+      "round": "38. Round",
+      "date": "2025-03-17",
+      "time": "18:45",
       "team1": "Plymouth Argyle",
       "team2": "Stevenage FC"
     },
     {
+      "round": "38. Round",
+      "date": "2025-03-17",
+      "time": "18:45",
       "team1": "Stockport County",
       "team2": "Northampton Town"
     },
     {
+      "round": "39. Round",
+      "date": "2025-03-21",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Peterborough United"
     },
     {
+      "round": "39. Round",
+      "date": "2025-03-21",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Doncaster Rovers"
     },
     {
+      "round": "39. Round",
+      "date": "2025-03-21",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Bradford City"
     },
     {
+      "round": "39. Round",
+      "date": "2025-03-21",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Blackpool FC"
     },
     {
+      "round": "39. Round",
+      "date": "2025-03-21",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Wycombe Wanderers"
     },
     {
+      "round": "39. Round",
+      "date": "2025-03-21",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "Rotherham United"
     },
     {
+      "round": "39. Round",
+      "date": "2025-03-21",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Stockport County"
     },
     {
+      "round": "39. Round",
+      "date": "2025-03-21",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Northampton Town"
     },
     {
+      "round": "39. Round",
+      "date": "2025-03-21",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Huddersfield Town"
     },
     {
+      "round": "39. Round",
+      "date": "2025-03-21",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Bolton Wanderers"
     },
     {
+      "round": "39. Round",
+      "date": "2025-03-21",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Reading FC"
     },
     {
+      "round": "39. Round",
+      "date": "2025-03-21",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Exeter City"
     },
     {
+      "round": "40. Round",
+      "date": "2025-03-28",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "Burton Albion"
     },
     {
+      "round": "40. Round",
+      "date": "2025-03-28",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "Stevenage FC"
     },
     {
+      "round": "40. Round",
+      "date": "2025-03-28",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Plymouth Argyle"
     },
     {
+      "round": "40. Round",
+      "date": "2025-03-28",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Lincoln City"
     },
     {
+      "round": "40. Round",
+      "date": "2025-03-28",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Leyton Orient"
     },
     {
+      "round": "40. Round",
+      "date": "2025-03-28",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Cardiff City"
     },
     {
+      "round": "40. Round",
+      "date": "2025-03-28",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Barnsley FC"
     },
     {
+      "round": "40. Round",
+      "date": "2025-03-28",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Mansfield Town"
     },
     {
+      "round": "40. Round",
+      "date": "2025-03-28",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "Wigan Athletic"
     },
     {
+      "round": "40. Round",
+      "date": "2025-03-28",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Luton Town"
     },
     {
+      "round": "40. Round",
+      "date": "2025-03-28",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "AFC Wimbledon"
     },
     {
+      "round": "40. Round",
+      "date": "2025-03-28",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Port Vale FC"
     },
     {
+      "round": "41. Round",
+      "date": "2025-04-03",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "Exeter City"
     },
     {
+      "round": "41. Round",
+      "date": "2025-04-03",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Northampton Town"
     },
     {
+      "round": "41. Round",
+      "date": "2025-04-03",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Barnsley FC"
     },
     {
+      "round": "41. Round",
+      "date": "2025-04-03",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Port Vale FC"
     },
     {
+      "round": "41. Round",
+      "date": "2025-04-03",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Mansfield Town"
     },
     {
+      "round": "41. Round",
+      "date": "2025-04-03",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Reading FC"
     },
     {
+      "round": "41. Round",
+      "date": "2025-04-03",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "AFC Wimbledon"
     },
     {
+      "round": "41. Round",
+      "date": "2025-04-03",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Peterborough United"
     },
     {
+      "round": "41. Round",
+      "date": "2025-04-03",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Bolton Wanderers"
     },
     {
+      "round": "41. Round",
+      "date": "2025-04-03",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Stevenage FC"
     },
     {
+      "round": "41. Round",
+      "date": "2025-04-03",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Wycombe Wanderers"
     },
     {
+      "round": "41. Round",
+      "date": "2025-04-03",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Leyton Orient"
     },
     {
+      "round": "42. Round",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Luton Town"
     },
     {
+      "round": "42. Round",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Plymouth Argyle"
     },
     {
+      "round": "42. Round",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "Stockport County"
     },
     {
+      "round": "42. Round",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Doncaster Rovers"
     },
     {
+      "round": "42. Round",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Huddersfield Town"
     },
     {
+      "round": "42. Round",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Burton Albion"
     },
     {
+      "round": "42. Round",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Wigan Athletic"
     },
     {
+      "round": "42. Round",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Cardiff City"
     },
     {
+      "round": "42. Round",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Rotherham United"
     },
     {
+      "round": "42. Round",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "Lincoln City"
     },
     {
+      "round": "42. Round",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Blackpool FC"
     },
     {
+      "round": "42. Round",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Bradford City"
     },
     {
+      "round": "43. Round",
+      "date": "2025-04-11",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "Peterborough United"
     },
     {
+      "round": "43. Round",
+      "date": "2025-04-11",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Stevenage FC"
     },
     {
+      "round": "43. Round",
+      "date": "2025-04-11",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "AFC Wimbledon"
     },
     {
+      "round": "43. Round",
+      "date": "2025-04-11",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Bolton Wanderers"
     },
     {
+      "round": "43. Round",
+      "date": "2025-04-11",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Reading FC"
     },
     {
+      "round": "43. Round",
+      "date": "2025-04-11",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Wycombe Wanderers"
     },
     {
+      "round": "43. Round",
+      "date": "2025-04-11",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "Leyton Orient"
     },
     {
+      "round": "43. Round",
+      "date": "2025-04-11",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Northampton Town"
     },
     {
+      "round": "43. Round",
+      "date": "2025-04-11",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Exeter City"
     },
     {
+      "round": "43. Round",
+      "date": "2025-04-11",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Barnsley FC"
     },
     {
+      "round": "43. Round",
+      "date": "2025-04-11",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Port Vale FC"
     },
     {
+      "round": "43. Round",
+      "date": "2025-04-11",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "Mansfield Town"
     },
     {
+      "round": "44. Round",
+      "date": "2025-04-18",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Plymouth Argyle"
     },
     {
+      "round": "44. Round",
+      "date": "2025-04-18",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Bradford City"
     },
     {
+      "round": "44. Round",
+      "date": "2025-04-18",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "Huddersfield Town"
     },
     {
+      "round": "44. Round",
+      "date": "2025-04-18",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Stockport County"
     },
     {
+      "round": "44. Round",
+      "date": "2025-04-18",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Rotherham United"
     },
     {
+      "round": "44. Round",
+      "date": "2025-04-18",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Luton Town"
     },
     {
+      "round": "44. Round",
+      "date": "2025-04-18",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Doncaster Rovers"
     },
     {
+      "round": "44. Round",
+      "date": "2025-04-18",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Burton Albion"
     },
     {
+      "round": "44. Round",
+      "date": "2025-04-18",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Wigan Athletic"
     },
     {
+      "round": "44. Round",
+      "date": "2025-04-18",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "Cardiff City"
     },
     {
+      "round": "44. Round",
+      "date": "2025-04-18",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Lincoln City"
     },
     {
+      "round": "44. Round",
+      "date": "2025-04-18",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Blackpool FC"
     },
     {
+      "round": "45. Round",
+      "date": "2025-04-25",
+      "time": "14:00",
       "team1": "Blackpool FC",
       "team2": "Leyton Orient"
     },
     {
+      "round": "45. Round",
+      "date": "2025-04-25",
+      "time": "14:00",
       "team1": "Bradford City",
       "team2": "Bolton Wanderers"
     },
     {
+      "round": "45. Round",
+      "date": "2025-04-25",
+      "time": "14:00",
       "team1": "Burton Albion",
       "team2": "Exeter City"
     },
     {
+      "round": "45. Round",
+      "date": "2025-04-25",
+      "time": "14:00",
       "team1": "Cardiff City",
       "team2": "Northampton Town"
     },
     {
+      "round": "45. Round",
+      "date": "2025-04-25",
+      "time": "14:00",
       "team1": "Doncaster Rovers",
       "team2": "Stevenage FC"
     },
     {
+      "round": "45. Round",
+      "date": "2025-04-25",
+      "time": "14:00",
       "team1": "Huddersfield Town",
       "team2": "Mansfield Town"
     },
     {
+      "round": "45. Round",
+      "date": "2025-04-25",
+      "time": "14:00",
       "team1": "Lincoln City",
       "team2": "Wycombe Wanderers"
     },
     {
+      "round": "45. Round",
+      "date": "2025-04-25",
+      "time": "14:00",
       "team1": "Luton Town",
       "team2": "Barnsley FC"
     },
     {
+      "round": "45. Round",
+      "date": "2025-04-25",
+      "time": "14:00",
       "team1": "Plymouth Argyle",
       "team2": "Port Vale FC"
     },
     {
+      "round": "45. Round",
+      "date": "2025-04-25",
+      "time": "14:00",
       "team1": "Rotherham United",
       "team2": "Reading FC"
     },
     {
+      "round": "45. Round",
+      "date": "2025-04-25",
+      "time": "14:00",
       "team1": "Stockport County",
       "team2": "Peterborough United"
     },
     {
+      "round": "45. Round",
+      "date": "2025-04-25",
+      "time": "14:00",
       "team1": "Wigan Athletic",
       "team2": "AFC Wimbledon"
     },
     {
+      "round": "46. Round",
+      "date": "2025-05-02",
+      "time": "14:00",
       "team1": "AFC Wimbledon",
       "team2": "Huddersfield Town"
     },
     {
+      "round": "46. Round",
+      "date": "2025-05-02",
+      "time": "14:00",
       "team1": "Barnsley FC",
       "team2": "Stockport County"
     },
     {
+      "round": "46. Round",
+      "date": "2025-05-02",
+      "time": "14:00",
       "team1": "Bolton Wanderers",
       "team2": "Luton Town"
     },
     {
+      "round": "46. Round",
+      "date": "2025-05-02",
+      "time": "14:00",
       "team1": "Exeter City",
       "team2": "Bradford City"
     },
     {
+      "round": "46. Round",
+      "date": "2025-05-02",
+      "time": "14:00",
       "team1": "Leyton Orient",
       "team2": "Burton Albion"
     },
     {
+      "round": "46. Round",
+      "date": "2025-05-02",
+      "time": "14:00",
       "team1": "Mansfield Town",
       "team2": "Cardiff City"
     },
     {
+      "round": "46. Round",
+      "date": "2025-05-02",
+      "time": "14:00",
       "team1": "Northampton Town",
       "team2": "Plymouth Argyle"
     },
     {
+      "round": "46. Round",
+      "date": "2025-05-02",
+      "time": "14:00",
       "team1": "Peterborough United",
       "team2": "Doncaster Rovers"
     },
     {
+      "round": "46. Round",
+      "date": "2025-05-02",
+      "time": "14:00",
       "team1": "Port Vale FC",
       "team2": "Lincoln City"
     },
     {
+      "round": "46. Round",
+      "date": "2025-05-02",
+      "time": "14:00",
       "team1": "Reading FC",
       "team2": "Blackpool FC"
     },
     {
+      "round": "46. Round",
+      "date": "2025-05-02",
+      "time": "14:00",
       "team1": "Stevenage FC",
       "team2": "Wigan Athletic"
     },
     {
+      "round": "46. Round",
+      "date": "2025-05-02",
+      "time": "14:00",
       "team1": "Wycombe Wanderers",
       "team2": "Rotherham United"
     }
