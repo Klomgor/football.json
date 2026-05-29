@@ -2,6 +2,9 @@
   "name": "Colombia Primera A 2025",
   "matches": [
     {
+      "round": "Apertura, Matchday 1",
+      "date": "2025-01-24",
+      "time": "18:00",
       "team1": "Boyacá Chicó",
       "team2": "Atlético Bucaramanga",
       "score": {
@@ -16,6 +19,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 1",
+      "date": "2025-01-25",
+      "time": "17:00",
       "team1": "América de Cali",
       "team2": "Llaneros FC",
       "score": {
@@ -30,6 +36,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 1",
+      "date": "2025-01-25",
+      "time": "19:30",
       "team1": "Atlético Nacional",
       "team2": "Once Caldas",
       "score": [
@@ -38,6 +47,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 1",
+      "date": "2025-01-26",
+      "time": "15:00",
       "team1": "Santa Fe",
       "team2": "Deportivo Pereira",
       "score": {
@@ -52,6 +64,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 1",
+      "date": "2025-01-26",
+      "time": "17:10",
       "team1": "Atlético Junior",
       "team2": "Deportivo Cali",
       "score": [
@@ -60,6 +75,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 1",
+      "date": "2025-01-26",
+      "time": "19:20",
       "team1": "Alianza FC",
       "team2": "Independiente Medellín",
       "score": {
@@ -74,6 +92,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 1",
+      "date": "2025-01-27",
+      "time": "18:00",
       "team1": "Águilas Doradas",
       "team2": "La Equidad",
       "score": {
@@ -88,6 +109,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 1",
+      "date": "2025-01-27",
+      "time": "20:10",
       "team1": "Deportes Tolima",
       "team2": "Deportivo Pasto",
       "score": {
@@ -102,6 +126,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 1",
+      "date": "2025-01-28",
+      "time": "20:00",
       "team1": "Fortaleza FC",
       "team2": "Envigado FC",
       "score": [
@@ -110,6 +137,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 1",
+      "date": "2025-02-20",
+      "time": "18:30",
       "team1": "Unión Magdalena",
       "team2": "Millonarios",
       "score": {
@@ -124,6 +154,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 2",
+      "date": "2025-01-31",
+      "time": "19:30",
       "team1": "Santa Fe",
       "team2": "Deportes Tolima",
       "score": [
@@ -132,6 +165,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 2",
+      "date": "2025-02-01",
+      "time": "15:00",
       "team1": "Once Caldas",
       "team2": "Fortaleza FC",
       "score": {
@@ -146,6 +182,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 2",
+      "date": "2025-02-01",
+      "time": "17:10",
       "team1": "Deportivo Pasto",
       "team2": "Millonarios",
       "score": {
@@ -160,6 +199,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 2",
+      "date": "2025-02-01",
+      "time": "19:20",
       "team1": "Atlético Junior",
       "team2": "Águilas Doradas",
       "score": {
@@ -174,6 +216,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 2",
+      "date": "2025-02-02",
+      "time": "14:00",
       "team1": "La Equidad",
       "team2": "Atlético Nacional",
       "score": {
@@ -188,6 +233,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 2",
+      "date": "2025-02-02",
+      "time": "16:10",
       "team1": "Deportivo Cali",
       "team2": "Envigado FC",
       "score": {
@@ -202,6 +250,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 2",
+      "date": "2025-02-02",
+      "time": "18:20",
       "team1": "Independiente Medellín",
       "team2": "Boyacá Chicó",
       "score": {
@@ -216,6 +267,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 2",
+      "date": "2025-02-02",
+      "time": "20:30",
       "team1": "Atlético Bucaramanga",
       "team2": "América de Cali",
       "score": {
@@ -230,6 +284,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 2",
+      "date": "2025-02-03",
+      "time": "18:30",
       "team1": "Deportivo Pereira",
       "team2": "Alianza FC",
       "score": [
@@ -238,6 +295,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 2",
+      "date": "2025-02-03",
+      "time": "20:30",
       "team1": "Llaneros FC",
       "team2": "Unión Magdalena",
       "score": {
@@ -252,6 +312,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 3",
+      "date": "2025-02-07",
+      "time": "18:00",
       "team1": "Águilas Doradas",
       "team2": "Santa Fe",
       "score": [
@@ -260,6 +323,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 3",
+      "date": "2025-02-07",
+      "time": "20:10",
       "team1": "Deportes Tolima",
       "team2": "Alianza FC",
       "score": {
@@ -274,6 +340,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 3",
+      "date": "2025-02-08",
+      "time": "14:00",
       "team1": "Boyacá Chicó",
       "team2": "Llaneros FC",
       "score": {
@@ -288,6 +357,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 3",
+      "date": "2025-02-08",
+      "time": "16:10",
       "team1": "América de Cali",
       "team2": "Deportivo Pasto",
       "score": {
@@ -302,6 +374,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 3",
+      "date": "2025-02-08",
+      "time": "18:20",
       "team1": "Unión Magdalena",
       "team2": "Atlético Junior",
       "score": [
@@ -310,6 +385,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 3",
+      "date": "2025-02-08",
+      "time": "20:30",
       "team1": "Millonarios",
       "team2": "La Equidad",
       "score": {
@@ -324,6 +402,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 3",
+      "date": "2025-02-09",
+      "time": "14:00",
       "team1": "Envigado FC",
       "team2": "Independiente Medellín",
       "score": {
@@ -338,6 +419,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 3",
+      "date": "2025-02-09",
+      "time": "16:10",
       "team1": "Once Caldas",
       "team2": "Atlético Bucaramanga",
       "score": {
@@ -352,6 +436,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 3",
+      "date": "2025-02-09",
+      "time": "18:20",
       "team1": "Fortaleza FC",
       "team2": "Deportivo Cali",
       "score": {
@@ -366,6 +453,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 3",
+      "date": "2025-02-09",
+      "time": "20:30",
       "team1": "Atlético Nacional",
       "team2": "Deportivo Pereira",
       "score": {
@@ -380,6 +470,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 4",
+      "date": "2025-02-11",
+      "time": "19:30",
       "team1": "Llaneros FC",
       "team2": "Millonarios",
       "score": {
@@ -394,6 +487,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 4",
+      "date": "2025-02-12",
+      "time": "16:30",
       "team1": "Deportivo Pasto",
       "team2": "Boyacá Chicó",
       "score": {
@@ -408,6 +504,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 4",
+      "date": "2025-02-12",
+      "time": "18:30",
       "team1": "Independiente Medellín",
       "team2": "Unión Magdalena",
       "score": {
@@ -422,6 +521,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 4",
+      "date": "2025-02-12",
+      "time": "20:30",
       "team1": "Santa Fe",
       "team2": "Atlético Nacional",
       "score": {
@@ -436,6 +538,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 4",
+      "date": "2025-02-13",
+      "time": "16:30",
       "team1": "La Equidad",
       "team2": "Envigado FC",
       "score": {
@@ -450,6 +555,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 4",
+      "date": "2025-02-13",
+      "time": "18:30",
       "team1": "Atlético Junior",
       "team2": "Once Caldas",
       "score": {
@@ -464,6 +572,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 4",
+      "date": "2025-02-14",
+      "time": "10:00",
       "team1": "Deportivo Pereira",
       "team2": "Deportes Tolima",
       "score": [
@@ -472,6 +583,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 4",
+      "date": "2025-02-14",
+      "time": "19:30",
       "team1": "Deportivo Cali",
       "team2": "Atlético Bucaramanga",
       "score": [
@@ -480,6 +594,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 4",
+      "date": "2025-03-26",
+      "time": "16:00",
       "team1": "Alianza FC",
       "team2": "Fortaleza FC",
       "score": [
@@ -488,6 +605,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 4",
+      "date": "2025-04-30",
+      "time": "18:00",
       "team1": "Águilas Doradas",
       "team2": "América de Cali",
       "score": {
@@ -502,6 +622,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 5",
+      "date": "2025-02-15",
+      "time": "16:00",
       "team1": "América de Cali",
       "team2": "Santa Fe",
       "score": {
@@ -516,6 +639,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 5",
+      "date": "2025-02-15",
+      "time": "20:10",
       "team1": "Millonarios",
       "team2": "Independiente Medellín",
       "score": {
@@ -530,6 +656,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 5",
+      "date": "2025-02-16",
+      "time": "17:10",
       "team1": "Unión Magdalena",
       "team2": "La Equidad",
       "score": [
@@ -538,6 +667,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 5",
+      "date": "2025-02-17",
+      "time": "16:00",
       "team1": "Envigado FC",
       "team2": "Deportivo Pasto",
       "score": {
@@ -552,6 +684,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 5",
+      "date": "2025-02-17",
+      "time": "20:10",
       "team1": "Fortaleza FC",
       "team2": "Águilas Doradas",
       "score": {
@@ -566,6 +701,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 5",
+      "date": "2025-02-18",
+      "time": "16:00",
       "team1": "Atlético Bucaramanga",
       "team2": "Alianza FC",
       "score": [
@@ -574,6 +712,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 5",
+      "date": "2025-02-18",
+      "time": "18:10",
       "team1": "Llaneros FC",
       "team2": "Deportivo Cali",
       "score": {
@@ -588,6 +729,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 5",
+      "date": "2025-02-18",
+      "time": "20:20",
       "team1": "Boyacá Chicó",
       "team2": "Atlético Junior",
       "score": {
@@ -602,6 +746,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 5",
+      "date": "2025-02-19",
+      "time": "20:10",
       "team1": "Once Caldas",
       "team2": "Deportivo Pereira",
       "score": {
@@ -616,6 +763,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 5",
+      "date": "2025-03-19",
+      "time": "20:30",
       "team1": "Atlético Nacional",
       "team2": "Deportes Tolima",
       "score": {
@@ -630,6 +780,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 6",
+      "date": "2025-02-21",
+      "time": "19:30",
       "team1": "La Equidad",
       "team2": "Boyacá Chicó",
       "score": {
@@ -644,6 +797,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 6",
+      "date": "2025-02-22",
+      "time": "18:20",
       "team1": "Águilas Doradas",
       "team2": "Once Caldas",
       "score": {
@@ -658,6 +814,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 6",
+      "date": "2025-02-22",
+      "time": "20:30",
       "team1": "Deportivo Pereira",
       "team2": "Fortaleza FC",
       "score": {
@@ -672,6 +831,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 6",
+      "date": "2025-02-23",
+      "time": "16:00",
       "team1": "Alianza FC",
       "team2": "Atlético Nacional",
       "score": {
@@ -686,6 +848,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 6",
+      "date": "2025-02-23",
+      "time": "18:10",
       "team1": "Deportivo Cali",
       "team2": "Millonarios",
       "score": {
@@ -700,6 +865,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 6",
+      "date": "2025-02-23",
+      "time": "20:20",
       "team1": "Deportes Tolima",
       "team2": "América de Cali",
       "score": [
@@ -708,6 +876,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 6",
+      "date": "2025-02-24",
+      "time": "19:30",
       "team1": "Atlético Junior",
       "team2": "Envigado FC",
       "score": {
@@ -722,6 +893,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 6",
+      "date": "2025-02-25",
+      "time": "19:30",
       "team1": "Deportivo Pasto",
       "team2": "Unión Magdalena",
       "score": {
@@ -736,6 +910,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 6",
+      "date": "2025-02-27",
+      "time": "20:00",
       "team1": "Independiente Medellín",
       "team2": "Llaneros FC",
       "score": {
@@ -750,6 +927,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 6",
+      "date": "2025-03-19",
+      "time": "18:30",
       "team1": "Santa Fe",
       "team2": "Atlético Bucaramanga",
       "score": {
@@ -764,6 +944,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 7",
+      "date": "2025-02-28",
+      "time": "16:10",
       "team1": "Envigado FC",
       "team2": "Santa Fe",
       "score": {
@@ -778,6 +961,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 7",
+      "date": "2025-02-28",
+      "time": "20:10",
       "team1": "Boyacá Chicó",
       "team2": "Águilas Doradas",
       "score": {
@@ -792,6 +978,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 7",
+      "date": "2025-03-01",
+      "time": "15:00",
       "team1": "Atlético Bucaramanga",
       "team2": "Atlético Junior",
       "score": {
@@ -806,6 +995,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 7",
+      "date": "2025-03-01",
+      "time": "20:00",
       "team1": "América de Cali",
       "team2": "Deportivo Pereira",
       "score": {
@@ -820,6 +1012,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 7",
+      "date": "2025-03-02",
+      "time": "15:00",
       "team1": "Once Caldas",
       "team2": "Alianza FC",
       "score": {
@@ -834,6 +1029,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 7",
+      "date": "2025-03-02",
+      "time": "17:30",
       "team1": "Millonarios",
       "team2": "Deportes Tolima",
       "score": {
@@ -848,6 +1046,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 7",
+      "date": "2025-03-03",
+      "time": "17:00",
       "team1": "Unión Magdalena",
       "team2": "Deportivo Cali",
       "score": {
@@ -862,6 +1063,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 7",
+      "date": "2025-03-03",
+      "time": "19:30",
       "team1": "Independiente Medellín",
       "team2": "Deportivo Pasto",
       "score": {
@@ -876,6 +1080,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 7",
+      "date": "2025-03-04",
+      "time": "18:30",
       "team1": "Llaneros FC",
       "team2": "La Equidad",
       "score": {
@@ -890,6 +1097,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 7",
+      "date": "2025-03-04",
+      "time": "20:30",
       "team1": "Fortaleza FC",
       "team2": "Atlético Nacional",
       "score": {
@@ -904,6 +1114,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 8",
+      "date": "2025-03-07",
+      "time": "19:30",
       "team1": "Águilas Doradas",
       "team2": "Atlético Bucaramanga",
       "score": {
@@ -918,6 +1131,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 8",
+      "date": "2025-03-08",
+      "time": "14:00",
       "team1": "Deportivo Pereira",
       "team2": "Envigado FC",
       "score": {
@@ -932,6 +1148,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 8",
+      "date": "2025-03-08",
+      "time": "16:10",
       "team1": "Alianza FC",
       "team2": "Unión Magdalena",
       "score": {
@@ -946,6 +1165,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 8",
+      "date": "2025-03-08",
+      "time": "18:20",
       "team1": "Deportivo Pasto",
       "team2": "Llaneros FC",
       "score": {
@@ -960,6 +1182,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 8",
+      "date": "2025-03-08",
+      "time": "20:30",
       "team1": "La Equidad",
       "team2": "Independiente Medellín",
       "score": [
@@ -968,6 +1193,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 8",
+      "date": "2025-03-09",
+      "time": "15:00",
       "team1": "Santa Fe",
       "team2": "Fortaleza FC",
       "score": {
@@ -982,6 +1210,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 8",
+      "date": "2025-03-09",
+      "time": "17:30",
       "team1": "Atlético Junior",
       "team2": "Millonarios",
       "score": {
@@ -996,6 +1227,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 8",
+      "date": "2025-03-09",
+      "time": "19:45",
       "team1": "Atlético Nacional",
       "team2": "América de Cali",
       "score": {
@@ -1010,6 +1244,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 8",
+      "date": "2025-03-10",
+      "time": "18:20",
       "team1": "Deportivo Cali",
       "team2": "Boyacá Chicó",
       "score": [
@@ -1018,6 +1255,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 8",
+      "date": "2025-03-10",
+      "time": "20:30",
       "team1": "Deportes Tolima",
       "team2": "Once Caldas",
       "score": {
@@ -1032,6 +1272,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 9",
+      "date": "2025-03-14",
+      "time": "18:30",
       "team1": "Atlético Bucaramanga",
       "team2": "Deportivo Pereira",
       "score": {
@@ -1046,6 +1289,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 9",
+      "date": "2025-03-14",
+      "time": "20:30",
       "team1": "Deportivo Pasto",
       "team2": "La Equidad",
       "score": {
@@ -1060,6 +1306,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 9",
+      "date": "2025-03-15",
+      "time": "14:00",
       "team1": "Envigado FC",
       "team2": "Atlético Nacional",
       "score": [
@@ -1068,6 +1317,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 9",
+      "date": "2025-03-15",
+      "time": "16:10",
       "team1": "Fortaleza FC",
       "team2": "Deportes Tolima",
       "score": {
@@ -1082,6 +1334,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 9",
+      "date": "2025-03-15",
+      "time": "18:20",
       "team1": "América de Cali",
       "team2": "Alianza FC",
       "score": {
@@ -1096,6 +1351,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 9",
+      "date": "2025-03-15",
+      "time": "20:30",
       "team1": "Once Caldas",
       "team2": "Santa Fe",
       "score": {
@@ -1110,6 +1368,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 9",
+      "date": "2025-03-16",
+      "time": "14:00",
       "team1": "Millonarios",
       "team2": "Águilas Doradas",
       "score": {
@@ -1124,6 +1385,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 9",
+      "date": "2025-03-16",
+      "time": "16:10",
       "team1": "Unión Magdalena",
       "team2": "Boyacá Chicó",
       "score": {
@@ -1138,6 +1402,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 9",
+      "date": "2025-03-16",
+      "time": "18:20",
       "team1": "Independiente Medellín",
       "team2": "Deportivo Cali",
       "score": [
@@ -1146,6 +1413,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 9",
+      "date": "2025-03-16",
+      "time": "20:30",
       "team1": "Llaneros FC",
       "team2": "Atlético Junior",
       "score": {
@@ -1160,6 +1430,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 10",
+      "date": "2025-03-22",
+      "time": "14:00",
       "team1": "Boyacá Chicó",
       "team2": "Deportivo Pasto",
       "score": [
@@ -1168,6 +1441,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 10",
+      "date": "2025-03-22",
+      "time": "16:10",
       "team1": "La Equidad",
       "team2": "Fortaleza FC",
       "score": {
@@ -1182,6 +1458,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 10",
+      "date": "2025-03-22",
+      "time": "18:20",
       "team1": "Deportivo Pereira",
       "team2": "Once Caldas",
       "score": {
@@ -1196,6 +1475,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 10",
+      "date": "2025-03-22",
+      "time": "20:30",
       "team1": "Santa Fe",
       "team2": "Millonarios",
       "score": {
@@ -1210,6 +1492,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 10",
+      "date": "2025-03-23",
+      "time": "15:30",
       "team1": "Alianza FC",
       "team2": "Atlético Bucaramanga",
       "score": {
@@ -1224,6 +1509,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 10",
+      "date": "2025-03-23",
+      "time": "17:45",
       "team1": "Atlético Nacional",
       "team2": "Independiente Medellín",
       "score": {
@@ -1238,6 +1526,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 10",
+      "date": "2025-03-23",
+      "time": "20:00",
       "team1": "Águilas Doradas",
       "team2": "Envigado FC",
       "score": {
@@ -1252,6 +1543,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 10",
+      "date": "2025-03-24",
+      "time": "16:00",
       "team1": "Deportes Tolima",
       "team2": "Llaneros FC",
       "score": {
@@ -1266,6 +1560,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 10",
+      "date": "2025-03-24",
+      "time": "18:10",
       "team1": "Deportivo Cali",
       "team2": "América de Cali",
       "score": {
@@ -1280,6 +1577,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 10",
+      "date": "2025-03-26",
+      "time": "18:30",
       "team1": "Atlético Junior",
       "team2": "Unión Magdalena",
       "score": {
@@ -1294,6 +1594,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 11",
+      "date": "2025-03-28",
+      "time": "19:30",
       "team1": "Atlético Bucaramanga",
       "team2": "Atlético Nacional",
       "score": {
@@ -1308,6 +1611,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 11",
+      "date": "2025-03-29",
+      "time": "18:05",
       "team1": "Deportivo Pasto",
       "team2": "Deportivo Cali",
       "score": {
@@ -1322,6 +1628,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 11",
+      "date": "2025-03-29",
+      "time": "20:10",
       "team1": "Independiente Medellín",
       "team2": "Águilas Doradas",
       "score": [
@@ -1330,6 +1639,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 11",
+      "date": "2025-03-30",
+      "time": "15:30",
       "team1": "Millonarios",
       "team2": "Alianza FC",
       "score": {
@@ -1344,6 +1656,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 11",
+      "date": "2025-03-30",
+      "time": "17:45",
       "team1": "Unión Magdalena",
       "team2": "Santa Fe",
       "score": {
@@ -1358,6 +1673,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 11",
+      "date": "2025-03-30",
+      "time": "20:00",
       "team1": "América de Cali",
       "team2": "Fortaleza FC",
       "score": {
@@ -1372,6 +1690,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 11",
+      "date": "2025-03-31",
+      "time": "19:30",
       "team1": "La Equidad",
       "team2": "Atlético Junior",
       "score": {
@@ -1386,6 +1707,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 11",
+      "date": "2025-04-01",
+      "time": "18:00",
       "team1": "Llaneros FC",
       "team2": "Deportivo Pereira",
       "score": {
@@ -1400,6 +1724,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 11",
+      "date": "2025-04-01",
+      "time": "20:10",
       "team1": "Boyacá Chicó",
       "team2": "Deportes Tolima",
       "score": {
@@ -1414,6 +1741,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 11",
+      "date": "2025-05-01",
+      "time": "14:00",
       "team1": "Envigado FC",
       "team2": "Once Caldas",
       "score": {
@@ -1428,6 +1758,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 12",
+      "date": "2025-04-04",
+      "time": "16:00",
       "team1": "Alianza FC",
       "team2": "Envigado FC",
       "score": {
@@ -1442,6 +1775,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 12",
+      "date": "2025-04-04",
+      "time": "19:00",
       "team1": "Santa Fe",
       "team2": "Deportivo Pasto",
       "score": {
@@ -1456,6 +1792,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 12",
+      "date": "2025-04-05",
+      "time": "14:00",
       "team1": "Atlético Nacional",
       "team2": "Unión Magdalena",
       "score": {
@@ -1470,6 +1809,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 12",
+      "date": "2025-04-05",
+      "time": "16:10",
       "team1": "Deportivo Cali",
       "team2": "La Equidad",
       "score": {
@@ -1484,6 +1826,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 12",
+      "date": "2025-04-05",
+      "time": "18:20",
       "team1": "Once Caldas",
       "team2": "América de Cali",
       "score": {
@@ -1498,6 +1843,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 12",
+      "date": "2025-04-05",
+      "time": "20:30",
       "team1": "Deportes Tolima",
       "team2": "Atlético Bucaramanga",
       "score": {
@@ -1512,6 +1860,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 12",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "Deportivo Pereira",
       "team2": "Boyacá Chicó",
       "score": {
@@ -1526,6 +1877,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 12",
+      "date": "2025-04-06",
+      "time": "16:10",
       "team1": "Fortaleza FC",
       "team2": "Millonarios",
       "score": {
@@ -1540,6 +1894,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 12",
+      "date": "2025-04-06",
+      "time": "18:20",
       "team1": "Atlético Junior",
       "team2": "Independiente Medellín",
       "score": {
@@ -1554,6 +1911,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 12",
+      "date": "2025-04-06",
+      "time": "20:30",
       "team1": "Águilas Doradas",
       "team2": "Llaneros FC",
       "score": {
@@ -1568,6 +1928,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 13",
+      "date": "2025-04-10",
+      "time": "19:00",
       "team1": "La Equidad",
       "team2": "Santa Fe",
       "score": {
@@ -1582,6 +1945,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 13",
+      "date": "2025-04-11",
+      "time": "18:00",
       "team1": "Llaneros FC",
       "team2": "Alianza FC",
       "score": {
@@ -1596,6 +1962,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 13",
+      "date": "2025-04-11",
+      "time": "20:10",
       "team1": "Deportivo Cali",
       "team2": "Águilas Doradas",
       "score": [
@@ -1604,6 +1973,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 13",
+      "date": "2025-04-12",
+      "time": "14:00",
       "team1": "Envigado FC",
       "team2": "América de Cali",
       "score": {
@@ -1618,6 +1990,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 13",
+      "date": "2025-04-12",
+      "time": "16:10",
       "team1": "Unión Magdalena",
       "team2": "Deportivo Pereira",
       "score": {
@@ -1632,6 +2007,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 13",
+      "date": "2025-04-12",
+      "time": "18:20",
       "team1": "Deportivo Pasto",
       "team2": "Atlético Junior",
       "score": {
@@ -1646,6 +2024,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 13",
+      "date": "2025-04-12",
+      "time": "20:30",
       "team1": "Boyacá Chicó",
       "team2": "Once Caldas",
       "score": [
@@ -1654,6 +2035,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 13",
+      "date": "2025-04-13",
+      "time": "18:00",
       "team1": "Millonarios",
       "team2": "Atlético Nacional",
       "score": [
@@ -1662,6 +2046,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 13",
+      "date": "2025-04-13",
+      "time": "20:10",
       "team1": "Atlético Bucaramanga",
       "team2": "Fortaleza FC",
       "score": {
@@ -1676,10 +2063,16 @@
       }
     },
     {
+      "round": "Apertura, Matchday 13",
+      "date": "2025-05-15",
+      "time": "19:30",
       "team1": "Independiente Medellín",
       "team2": "Deportes Tolima"
     },
     {
+      "round": "Apertura, Matchday 14",
+      "date": "2025-04-14",
+      "time": "19:00",
       "team1": "Santa Fe",
       "team2": "Independiente Medellín",
       "score": {
@@ -1694,6 +2087,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 14",
+      "date": "2025-04-15",
+      "time": "16:00",
       "team1": "Alianza FC",
       "team2": "Deportivo Pasto",
       "score": {
@@ -1708,6 +2104,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 14",
+      "date": "2025-04-15",
+      "time": "18:15",
       "team1": "Deportivo Pereira",
       "team2": "Deportivo Cali",
       "score": {
@@ -1722,6 +2121,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 14",
+      "date": "2025-04-15",
+      "time": "20:30",
       "team1": "Deportes Tolima",
       "team2": "Atlético Junior",
       "score": [
@@ -1730,6 +2132,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 14",
+      "date": "2025-04-16",
+      "time": "14:00",
       "team1": "Águilas Doradas",
       "team2": "Unión Magdalena",
       "score": {
@@ -1744,6 +2149,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 14",
+      "date": "2025-04-16",
+      "time": "16:10",
       "team1": "Once Caldas",
       "team2": "La Equidad",
       "score": {
@@ -1758,6 +2166,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 14",
+      "date": "2025-04-16",
+      "time": "18:20",
       "team1": "Atlético Nacional",
       "team2": "Boyacá Chicó",
       "score": {
@@ -1772,6 +2183,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 14",
+      "date": "2025-04-16",
+      "time": "20:30",
       "team1": "América de Cali",
       "team2": "Millonarios",
       "score": [
@@ -1780,6 +2194,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 14",
+      "date": "2025-04-17",
+      "time": "16:00",
       "team1": "Atlético Bucaramanga",
       "team2": "Envigado FC",
       "score": {
@@ -1794,6 +2211,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 14",
+      "date": "2025-04-17",
+      "time": "19:00",
       "team1": "Fortaleza FC",
       "team2": "Llaneros FC",
       "score": {
@@ -1808,6 +2228,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 15",
+      "date": "2025-04-19",
+      "time": "16:00",
       "team1": "La Equidad",
       "team2": "América de Cali",
       "score": {
@@ -1822,6 +2245,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 15",
+      "date": "2025-04-19",
+      "time": "18:10",
       "team1": "Atlético Junior",
       "team2": "Alianza FC",
       "score": {
@@ -1836,6 +2262,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 15",
+      "date": "2025-04-19",
+      "time": "20:20",
       "team1": "Independiente Medellín",
       "team2": "Once Caldas",
       "score": {
@@ -1850,6 +2279,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 15",
+      "date": "2025-04-20",
+      "time": "14:00",
       "team1": "Envigado FC",
       "team2": "Deportes Tolima",
       "score": {
@@ -1864,6 +2296,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 15",
+      "date": "2025-04-20",
+      "time": "16:10",
       "team1": "Unión Magdalena",
       "team2": "Atlético Bucaramanga",
       "score": {
@@ -1878,6 +2313,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 15",
+      "date": "2025-04-20",
+      "time": "18:20",
       "team1": "Deportivo Cali",
       "team2": "Atlético Nacional",
       "score": {
@@ -1892,6 +2330,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 15",
+      "date": "2025-04-21",
+      "time": "18:00",
       "team1": "Boyacá Chicó",
       "team2": "Fortaleza FC",
       "score": {
@@ -1906,6 +2347,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 15",
+      "date": "2025-04-21",
+      "time": "20:10",
       "team1": "Deportivo Pasto",
       "team2": "Águilas Doradas",
       "score": {
@@ -1920,6 +2364,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 15",
+      "date": "2025-04-30",
+      "time": "20:10",
       "team1": "Llaneros FC",
       "team2": "Santa Fe",
       "score": {
@@ -1934,10 +2381,16 @@
       }
     },
     {
+      "round": "Apertura, Matchday 15",
+      "date": "2025-05-08",
+      "time": "19:30",
       "team1": "Millonarios",
       "team2": "Deportivo Pereira"
     },
     {
+      "round": "Apertura, Matchday 16",
+      "date": "2025-03-27",
+      "time": "18:00",
       "team1": "Once Caldas",
       "team2": "Llaneros FC",
       "score": {
@@ -1952,6 +2405,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 16",
+      "date": "2025-04-26",
+      "time": "14:00",
       "team1": "Envigado FC",
       "team2": "Unión Magdalena",
       "score": {
@@ -1966,6 +2422,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 16",
+      "date": "2025-04-26",
+      "time": "16:10",
       "team1": "Alianza FC",
       "team2": "Águilas Doradas",
       "score": [
@@ -1974,6 +2433,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 16",
+      "date": "2025-04-26",
+      "time": "18:20",
       "team1": "Deportes Tolima",
       "team2": "La Equidad",
       "score": {
@@ -1988,6 +2450,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 16",
+      "date": "2025-04-26",
+      "time": "20:30",
       "team1": "Deportivo Pereira",
       "team2": "Atlético Junior",
       "score": {
@@ -2002,6 +2467,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 16",
+      "date": "2025-04-27",
+      "time": "14:00",
       "team1": "Santa Fe",
       "team2": "Boyacá Chicó",
       "score": [
@@ -2010,6 +2478,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 16",
+      "date": "2025-04-27",
+      "time": "16:10",
       "team1": "Fortaleza FC",
       "team2": "Independiente Medellín",
       "score": [
@@ -2018,6 +2489,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 16",
+      "date": "2025-04-27",
+      "time": "18:20",
       "team1": "América de Cali",
       "team2": "Deportivo Cali",
       "score": {
@@ -2032,6 +2506,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 16",
+      "date": "2025-04-27",
+      "time": "20:30",
       "team1": "Atlético Bucaramanga",
       "team2": "Millonarios",
       "score": {
@@ -2046,6 +2523,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 16",
+      "date": "2025-04-29",
+      "time": "19:30",
       "team1": "Atlético Nacional",
       "team2": "Deportivo Pasto",
       "score": {
@@ -2060,6 +2540,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 17",
+      "date": "2025-03-26",
+      "time": "20:30",
       "team1": "Millonarios",
       "team2": "Santa Fe",
       "score": {
@@ -2074,6 +2557,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 17",
+      "date": "2025-05-02",
+      "time": "19:00",
       "team1": "La Equidad",
       "team2": "Alianza FC",
       "score": {
@@ -2088,6 +2574,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 17",
+      "date": "2025-05-03",
+      "time": "16:00",
       "team1": "Llaneros FC",
       "team2": "Atlético Bucaramanga",
       "score": {
@@ -2102,6 +2591,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 17",
+      "date": "2025-05-03",
+      "time": "18:10",
       "team1": "Deportivo Cali",
       "team2": "Deportes Tolima",
       "score": {
@@ -2116,6 +2608,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 17",
+      "date": "2025-05-03",
+      "time": "20:20",
       "team1": "Atlético Junior",
       "team2": "América de Cali",
       "score": [
@@ -2124,6 +2619,9 @@
       ]
     },
     {
+      "round": "Apertura, Matchday 17",
+      "date": "2025-05-04",
+      "time": "14:00",
       "team1": "Deportivo Pasto",
       "team2": "Fortaleza FC",
       "score": {
@@ -2138,6 +2636,9 @@
       }
     },
     {
+      "round": "Apertura, Matchday 17",
+      "date": "2025-05-04",
+      "time": "16:10",
       "team1": "Independiente Medellín",
       "team2": "Atlético Nacional",
       "score": {
@@ -2152,11 +2653,17 @@
       }
     },
     {
+      "round": "Apertura, Matchday 17",
+      "date": "2025-05-04",
+      "time": "18:20",
       "team1": "Unión Magdalena",
       "team2": "Once Caldas",
       "status": "abandoned"
     },
     {
+      "round": "Apertura, Matchday 17",
+      "date": "2025-05-04",
+      "time": "20:30",
       "team1": "Águilas Doradas",
       "team2": "Deportivo Pereira",
       "score": {
@@ -2171,10 +2678,16 @@
       }
     },
     {
+      "round": "Apertura, Matchday 17",
+      "date": "2025-05-05",
+      "time": "20:00",
       "team1": "Boyacá Chicó",
       "team2": "Envigado FC"
     },
     {
+      "round": "Apertura, Matchday 18",
+      "date": "2025-03-27",
+      "time": "20:10",
       "team1": "América de Cali",
       "team2": "Boyacá Chicó",
       "score": {
@@ -2189,118 +2702,185 @@
       }
     },
     {
+      "round": "Apertura, Matchday 18",
+      "date": "2025-05-09",
+      "time": "18:20",
       "team1": "Deportes Tolima",
       "team2": "Unión Magdalena"
     },
     {
+      "round": "Apertura, Matchday 18",
+      "date": "2025-05-09",
+      "time": "20:30",
       "team1": "Atlético Bucaramanga",
       "team2": "Independiente Medellín"
     },
     {
+      "round": "Apertura, Matchday 18",
+      "date": "2025-05-10",
+      "time": "15:00",
       "team1": "Envigado FC",
       "team2": "Águilas Doradas"
     },
     {
+      "round": "Apertura, Matchday 18",
+      "date": "2025-05-10",
+      "time": "17:10",
       "team1": "Fortaleza FC",
       "team2": "La Equidad"
     },
     {
+      "round": "Apertura, Matchday 18",
+      "date": "2025-05-10",
+      "time": "19:20",
       "team1": "Santa Fe",
       "team2": "Atlético Junior"
     },
     {
+      "round": "Apertura, Matchday 18",
+      "date": "2025-05-11",
+      "time": "16:00",
       "team1": "Alianza FC",
       "team2": "Deportivo Cali"
     },
     {
+      "round": "Apertura, Matchday 18",
+      "date": "2025-05-11",
+      "time": "18:10",
       "team1": "Atlético Nacional",
       "team2": "Llaneros FC"
     },
     {
+      "round": "Apertura, Matchday 18",
+      "date": "2025-05-11",
+      "time": "20:20",
       "team1": "Once Caldas",
       "team2": "Millonarios"
     },
     {
+      "round": "Apertura, Matchday 18",
+      "date": "2025-05-13",
+      "time": "19:30",
       "team1": "Deportivo Pereira",
       "team2": "Deportivo Pasto"
     },
     {
+      "round": "Apertura, Matchday 19",
+      "date": "2025-05-18",
       "team1": "Millonarios",
       "team2": "Envigado FC"
     },
     {
+      "round": "Apertura, Matchday 19",
+      "date": "2025-05-18",
       "team1": "Águilas Doradas",
       "team2": "Atlético Nacional"
     },
     {
+      "round": "Apertura, Matchday 19",
+      "date": "2025-05-18",
       "team1": "Atlético Junior",
       "team2": "Fortaleza FC"
     },
     {
+      "round": "Apertura, Matchday 19",
+      "date": "2025-05-18",
       "team1": "Unión Magdalena",
       "team2": "América de Cali"
     },
     {
+      "round": "Apertura, Matchday 19",
+      "date": "2025-05-18",
       "team1": "Boyacá Chicó",
       "team2": "Alianza FC"
     },
     {
+      "round": "Apertura, Matchday 19",
+      "date": "2025-05-18",
       "team1": "Deportivo Pasto",
       "team2": "Once Caldas"
     },
     {
+      "round": "Apertura, Matchday 19",
+      "date": "2025-05-18",
       "team1": "Deportivo Cali",
       "team2": "Santa Fe"
     },
     {
+      "round": "Apertura, Matchday 19",
+      "date": "2025-05-18",
       "team1": "Independiente Medellín",
       "team2": "Deportivo Pereira"
     },
     {
+      "round": "Apertura, Matchday 19",
+      "date": "2025-05-18",
       "team1": "La Equidad",
       "team2": "Atlético Bucaramanga"
     },
     {
+      "round": "Apertura, Matchday 19",
+      "date": "2025-05-18",
       "team1": "Llaneros FC",
       "team2": "Deportes Tolima"
     },
     {
+      "round": "Apertura, Matchday 20",
+      "date": "2025-05-25",
       "team1": "Millonarios",
       "team2": "Boyacá Chicó"
     },
     {
+      "round": "Apertura, Matchday 20",
+      "date": "2025-05-25",
       "team1": "Alianza FC",
       "team2": "Santa Fe"
     },
     {
+      "round": "Apertura, Matchday 20",
+      "date": "2025-05-25",
       "team1": "Atlético Bucaramanga",
       "team2": "Deportivo Pasto"
     },
     {
+      "round": "Apertura, Matchday 20",
+      "date": "2025-05-25",
       "team1": "Once Caldas",
       "team2": "Deportivo Cali"
     },
     {
+      "round": "Apertura, Matchday 20",
+      "date": "2025-05-25",
       "team1": "Deportivo Pereira",
       "team2": "La Equidad"
     },
     {
+      "round": "Apertura, Matchday 20",
+      "date": "2025-05-25",
       "team1": "América de Cali",
       "team2": "Independiente Medellín"
     },
     {
+      "round": "Apertura, Matchday 20",
+      "date": "2025-05-25",
       "team1": "Atlético Nacional",
       "team2": "Atlético Junior"
     },
     {
+      "round": "Apertura, Matchday 20",
+      "date": "2025-05-25",
       "team1": "Fortaleza FC",
       "team2": "Unión Magdalena"
     },
     {
+      "round": "Apertura, Matchday 20",
+      "date": "2025-05-25",
       "team1": "Deportes Tolima",
       "team2": "Águilas Doradas"
     },
     {
+      "round": "Apertura, Matchday 20",
+      "date": "2025-05-25",
       "team1": "Envigado FC",
       "team2": "Llaneros FC"
     }

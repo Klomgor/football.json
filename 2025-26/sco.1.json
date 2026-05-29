@@ -2,6 +2,9 @@
   "name": "Scottish Premiership 2025/26",
   "matches": [
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "14:00",
       "team1": "Kilmarnock FC",
       "team2": "Livingston FC",
       "score": {
@@ -16,6 +19,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "16:30",
       "team1": "Motherwell FC",
       "team2": "Rangers FC",
       "score": {
@@ -30,6 +36,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-03",
+      "time": "13:00",
       "team1": "Falkirk FC",
       "team2": "Dundee United",
       "score": {
@@ -44,6 +53,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-03",
+      "time": "14:00",
       "team1": "Dundee FC",
       "team2": "Hibernian FC",
       "score": {
@@ -58,6 +70,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-03",
+      "time": "15:30",
       "team1": "Celtic FC",
       "team2": "St. Mirren FC",
       "score": {
@@ -72,6 +87,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-04",
+      "time": "19:00",
       "team1": "Heart of Midlothian",
       "team2": "Aberdeen FC",
       "score": {
@@ -86,6 +104,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "14:00",
       "team1": "St. Mirren FC",
       "team2": "Motherwell FC",
       "score": [
@@ -94,6 +115,9 @@
       ]
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "14:00",
       "team1": "Livingston FC",
       "team2": "Falkirk FC",
       "score": {
@@ -108,6 +132,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "16:45",
       "team1": "Rangers FC",
       "team2": "Dundee FC",
       "score": {
@@ -122,6 +149,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-10",
+      "time": "11:30",
       "team1": "Aberdeen FC",
       "team2": "Celtic FC",
       "score": {
@@ -136,6 +166,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-10",
+      "time": "14:00",
       "team1": "Dundee United",
       "team2": "Heart of Midlothian",
       "score": {
@@ -150,6 +183,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-10",
+      "time": "14:00",
       "team1": "Hibernian FC",
       "team2": "Kilmarnock FC",
       "score": {
@@ -164,6 +200,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-23",
+      "time": "14:00",
       "team1": "Celtic FC",
       "team2": "Livingston FC",
       "score": {
@@ -178,6 +217,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-23",
+      "time": "14:00",
       "team1": "Kilmarnock FC",
       "team2": "Dundee FC",
       "score": [
@@ -186,6 +228,9 @@
       ]
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-23",
+      "time": "14:00",
       "team1": "Heart of Midlothian",
       "team2": "Motherwell FC",
       "score": {
@@ -200,6 +245,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-24",
+      "time": "11:00",
       "team1": "St. Mirren FC",
       "team2": "Rangers FC",
       "score": {
@@ -214,6 +262,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-09-23",
+      "time": "18:45",
       "team1": "Dundee United",
       "team2": "Aberdeen FC",
       "score": {
@@ -228,6 +279,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-09-23",
+      "time": "18:45",
       "team1": "Falkirk FC",
       "team2": "Hibernian FC",
       "score": {
@@ -242,6 +296,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-30",
+      "time": "14:00",
       "team1": "Livingston FC",
       "team2": "Heart of Midlothian",
       "score": {
@@ -256,6 +313,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-30",
+      "time": "14:00",
       "team1": "Motherwell FC",
       "team2": "Kilmarnock FC",
       "score": {
@@ -270,6 +330,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-31",
+      "time": "11:00",
       "team1": "Rangers FC",
       "team2": "Celtic FC",
       "score": [
@@ -278,6 +341,9 @@
       ]
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-31",
+      "time": "13:00",
       "team1": "Dundee FC",
       "team2": "Dundee United",
       "score": {
@@ -292,6 +358,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-31",
+      "time": "14:00",
       "team1": "Aberdeen FC",
       "team2": "Falkirk FC",
       "score": {
@@ -306,6 +375,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-31",
+      "time": "14:00",
       "team1": "Hibernian FC",
       "team2": "St. Mirren FC",
       "score": {
@@ -320,6 +392,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "14:00",
       "team1": "Dundee FC",
       "team2": "Motherwell FC",
       "score": {
@@ -334,6 +409,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "14:00",
       "team1": "Falkirk FC",
       "team2": "St. Mirren FC",
       "score": {
@@ -348,6 +426,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "14:00",
       "team1": "Aberdeen FC",
       "team2": "Livingston FC",
       "score": [
@@ -356,6 +437,9 @@
       ]
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "14:00",
       "team1": "Rangers FC",
       "team2": "Heart of Midlothian",
       "score": {
@@ -370,6 +454,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "16:45",
       "team1": "Hibernian FC",
       "team2": "Dundee United",
       "score": {
@@ -384,6 +471,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-14",
+      "time": "14:00",
       "team1": "Kilmarnock FC",
       "team2": "Celtic FC",
       "score": {
@@ -398,6 +488,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-27",
+      "time": "14:00",
       "team1": "Celtic FC",
       "team2": "Hibernian FC",
       "score": [
@@ -406,6 +499,9 @@
       ]
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-27",
+      "time": "14:00",
       "team1": "Dundee United",
       "team2": "Kilmarnock FC",
       "score": {
@@ -420,6 +516,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-27",
+      "time": "14:00",
       "team1": "St. Mirren FC",
       "team2": "Dundee FC",
       "score": {
@@ -434,6 +533,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-27",
+      "time": "14:00",
       "team1": "Heart of Midlothian",
       "team2": "Falkirk FC",
       "score": {
@@ -448,6 +550,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-27",
+      "time": "16:45",
       "team1": "Motherwell FC",
       "team2": "Aberdeen FC",
       "score": {
@@ -462,6 +567,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-28",
+      "time": "14:00",
       "team1": "Livingston FC",
       "team2": "Rangers FC",
       "score": {
@@ -476,6 +584,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-10-04",
+      "time": "14:00",
       "team1": "Dundee United",
       "team2": "Livingston FC",
       "score": {
@@ -490,6 +601,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-10-04",
+      "time": "14:00",
       "team1": "Kilmarnock FC",
       "team2": "St. Mirren FC",
       "score": {
@@ -504,6 +618,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-10-04",
+      "time": "16:45",
       "team1": "Heart of Midlothian",
       "team2": "Hibernian FC",
       "score": {
@@ -518,6 +635,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-10-05",
+      "time": "14:00",
       "team1": "Celtic FC",
       "team2": "Motherwell FC",
       "score": {
@@ -532,6 +652,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-10-05",
+      "time": "14:00",
       "team1": "Falkirk FC",
       "team2": "Rangers FC",
       "score": {
@@ -546,6 +669,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-10-05",
+      "time": "14:00",
       "team1": "Aberdeen FC",
       "team2": "Dundee FC",
       "score": {
@@ -560,6 +686,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-18",
+      "time": "14:00",
       "team1": "St. Mirren FC",
       "team2": "Aberdeen FC",
       "score": {
@@ -574,6 +703,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-18",
+      "time": "14:00",
       "team1": "Rangers FC",
       "team2": "Dundee United",
       "score": {
@@ -588,6 +720,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-18",
+      "time": "14:00",
       "team1": "Hibernian FC",
       "team2": "Livingston FC",
       "score": {
@@ -602,6 +737,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-18",
+      "time": "14:00",
       "team1": "Motherwell FC",
       "team2": "Falkirk FC",
       "score": {
@@ -616,6 +754,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-18",
+      "time": "16:45",
       "team1": "Kilmarnock FC",
       "team2": "Heart of Midlothian",
       "score": {
@@ -630,6 +771,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-19",
+      "time": "11:00",
       "team1": "Dundee FC",
       "team2": "Celtic FC",
       "score": {
@@ -644,6 +788,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-25",
+      "time": "14:00",
       "team1": "Dundee United",
       "team2": "St. Mirren FC",
       "score": {
@@ -658,6 +805,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-25",
+      "time": "14:00",
       "team1": "Falkirk FC",
       "team2": "Dundee FC",
       "score": {
@@ -672,6 +822,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-25",
+      "time": "14:00",
       "team1": "Livingston FC",
       "team2": "Motherwell FC",
       "score": {
@@ -686,6 +839,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-26",
+      "time": "11:00",
       "team1": "Heart of Midlothian",
       "team2": "Celtic FC",
       "score": {
@@ -700,6 +856,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-26",
+      "time": "13:30",
       "team1": "Aberdeen FC",
       "team2": "Hibernian FC",
       "score": {
@@ -714,6 +873,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-26",
+      "time": "14:00",
       "team1": "Rangers FC",
       "team2": "Kilmarnock FC",
       "score": {
@@ -728,6 +890,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-09-20",
+      "time": "14:00",
       "team1": "Dundee FC",
       "team2": "Livingston FC",
       "score": {
@@ -742,6 +907,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-29",
+      "time": "18:45",
       "team1": "Celtic FC",
       "team2": "Falkirk FC",
       "score": {
@@ -756,6 +924,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-29",
+      "time": "18:45",
       "team1": "Kilmarnock FC",
       "team2": "Aberdeen FC",
       "score": {
@@ -770,6 +941,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-29",
+      "time": "18:45",
       "team1": "St. Mirren FC",
       "team2": "Heart of Midlothian",
       "score": {
@@ -784,6 +958,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-29",
+      "time": "18:45",
       "team1": "Hibernian FC",
       "team2": "Rangers FC",
       "score": {
@@ -798,6 +975,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-29",
+      "time": "18:45",
       "team1": "Motherwell FC",
       "team2": "Dundee United",
       "score": {
@@ -812,6 +992,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-01",
+      "time": "14:00",
       "team1": "Falkirk FC",
       "team2": "Kilmarnock FC",
       "score": {
@@ -826,6 +1009,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-01",
+      "time": "14:00",
       "team1": "Heart of Midlothian",
       "team2": "Dundee FC",
       "score": {
@@ -840,94 +1026,163 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-25",
+      "time": "18:45",
       "team1": "Motherwell FC",
       "team2": "Hibernian FC"
     },
     {
+      "round": "11. Round",
+      "date": "2025-12-17",
+      "time": "19:00",
       "team1": "Dundee United",
       "team2": "Celtic FC"
     },
     {
+      "round": "11. Round",
+      "date": "2026-01-06",
+      "time": "18:45",
       "team1": "Livingston FC",
       "team2": "St. Mirren FC"
     },
     {
+      "round": "11. Round",
+      "date": "2026-01-06",
+      "time": "19:00",
       "team1": "Rangers FC",
       "team2": "Aberdeen FC"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-08",
+      "time": "14:00",
       "team1": "Falkirk FC",
       "team2": "Livingston FC"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-08",
+      "time": "16:45",
       "team1": "St. Mirren FC",
       "team2": "Hibernian FC"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-09",
+      "time": "14:00",
       "team1": "Dundee FC",
       "team2": "Rangers FC"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-09",
+      "time": "14:00",
       "team1": "Aberdeen FC",
       "team2": "Motherwell FC"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-09",
+      "time": "14:00",
       "team1": "Heart of Midlothian",
       "team2": "Dundee United"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-09",
+      "time": "15:00",
       "team1": "Celtic FC",
       "team2": "Kilmarnock FC"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-22",
+      "time": "14:00",
       "team1": "Dundee United",
       "team2": "Falkirk FC"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-22",
+      "time": "14:00",
       "team1": "Kilmarnock FC",
       "team2": "Motherwell FC"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-22",
+      "time": "14:00",
       "team1": "Rangers FC",
       "team2": "Livingston FC"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-22",
+      "time": "14:00",
       "team1": "Hibernian FC",
       "team2": "Dundee FC"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-22",
+      "time": "19:00",
       "team1": "St. Mirren FC",
       "team2": "Celtic FC"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-23",
+      "time": "14:00",
       "team1": "Aberdeen FC",
       "team2": "Heart of Midlothian"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-29",
+      "time": "14:00",
       "team1": "Dundee FC",
       "team2": "St. Mirren FC"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-29",
+      "time": "14:00",
       "team1": "Motherwell FC",
       "team2": "Heart of Midlothian"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-29",
+      "time": "16:45",
       "team1": "Kilmarnock FC",
       "team2": "Dundee United"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-30",
+      "time": "11:00",
       "team1": "Hibernian FC",
       "team2": "Celtic FC"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-30",
+      "time": "13:00",
       "team1": "Rangers FC",
       "team2": "Falkirk FC"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-30",
+      "time": "14:00",
       "team1": "Livingston FC",
       "team2": "Aberdeen FC"
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-01",
+      "time": "14:00",
       "team1": "Livingston FC",
       "team2": "Hibernian FC",
       "score": {
@@ -942,454 +1197,739 @@
       }
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-03",
+      "time": "18:45",
       "team1": "Celtic FC",
       "team2": "Dundee FC"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-03",
+      "time": "18:45",
       "team1": "Dundee United",
       "team2": "Rangers FC"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-03",
+      "time": "18:45",
       "team1": "Falkirk FC",
       "team2": "Motherwell FC"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-03",
+      "time": "18:45",
       "team1": "Aberdeen FC",
       "team2": "St. Mirren FC"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-03",
+      "time": "18:45",
       "team1": "Heart of Midlothian",
       "team2": "Kilmarnock FC"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-06",
+      "time": "14:00",
       "team1": "Dundee FC",
       "team2": "Aberdeen FC"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-06",
+      "time": "14:00",
       "team1": "Kilmarnock FC",
       "team2": "Rangers FC"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-06",
+      "time": "14:00",
       "team1": "St. Mirren FC",
       "team2": "Dundee United"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-06",
+      "time": "14:00",
       "team1": "Hibernian FC",
       "team2": "Falkirk FC"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-06",
+      "time": "14:00",
       "team1": "Motherwell FC",
       "team2": "Livingston FC"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-07",
+      "time": "14:00",
       "team1": "Celtic FC",
       "team2": "Heart of Midlothian"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-13",
+      "time": "14:00",
       "team1": "Dundee United",
       "team2": "Motherwell FC"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-13",
+      "time": "14:00",
       "team1": "Heart of Midlothian",
       "team2": "St. Mirren FC"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-13",
+      "time": "14:00",
       "team1": "Livingston FC",
       "team2": "Dundee FC"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-14",
+      "time": "14:00",
       "team1": "Falkirk FC",
       "team2": "Celtic FC"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-14",
+      "time": "14:00",
       "team1": "Aberdeen FC",
       "team2": "Kilmarnock FC"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-14",
+      "time": "14:00",
       "team1": "Rangers FC",
       "team2": "Hibernian FC"
     },
     {
+      "round": "18. Round",
+      "date": "2025-12-20",
+      "time": "14:00",
       "team1": "Dundee United",
       "team2": "Hibernian FC"
     },
     {
+      "round": "18. Round",
+      "date": "2025-12-20",
+      "time": "14:00",
       "team1": "Kilmarnock FC",
       "team2": "Falkirk FC"
     },
     {
+      "round": "18. Round",
+      "date": "2025-12-20",
+      "time": "14:00",
       "team1": "St. Mirren FC",
       "team2": "Livingston FC"
     },
     {
+      "round": "18. Round",
+      "date": "2025-12-20",
+      "time": "14:00",
       "team1": "Heart of Midlothian",
       "team2": "Rangers FC"
     },
     {
+      "round": "18. Round",
+      "date": "2025-12-20",
+      "time": "14:00",
       "team1": "Motherwell FC",
       "team2": "Dundee FC"
     },
     {
+      "round": "18. Round",
+      "date": "2025-12-21",
+      "time": "14:00",
       "team1": "Celtic FC",
       "team2": "Aberdeen FC"
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-27",
+      "time": "11:30",
       "team1": "Hibernian FC",
       "team2": "Heart of Midlothian"
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-27",
+      "time": "14:00",
       "team1": "Dundee FC",
       "team2": "Falkirk FC"
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-27",
+      "time": "14:00",
       "team1": "St. Mirren FC",
       "team2": "Kilmarnock FC"
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-27",
+      "time": "14:00",
       "team1": "Rangers FC",
       "team2": "Motherwell FC"
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-27",
+      "time": "14:00",
       "team1": "Livingston FC",
       "team2": "Celtic FC"
     },
     {
+      "round": "19. Round",
+      "date": "2025-12-27",
+      "time": "16:45",
       "team1": "Aberdeen FC",
       "team2": "Dundee United"
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-30",
+      "time": "18:45",
       "team1": "Dundee FC",
       "team2": "Kilmarnock FC"
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-30",
+      "time": "18:45",
       "team1": "Falkirk FC",
       "team2": "Heart of Midlothian"
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-30",
+      "time": "18:45",
       "team1": "Rangers FC",
       "team2": "St. Mirren FC"
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-30",
+      "time": "18:45",
       "team1": "Hibernian FC",
       "team2": "Aberdeen FC"
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-30",
+      "time": "18:45",
       "team1": "Livingston FC",
       "team2": "Dundee United"
     },
     {
+      "round": "20. Round",
+      "date": "2025-12-30",
+      "time": "19:00",
       "team1": "Motherwell FC",
       "team2": "Celtic FC"
     },
     {
+      "round": "21. Round",
+      "date": "2026-01-03",
+      "time": "11:30",
       "team1": "Celtic FC",
       "team2": "Rangers FC"
     },
     {
+      "round": "21. Round",
+      "date": "2026-01-03",
+      "time": "14:00",
       "team1": "Dundee United",
       "team2": "Dundee FC"
     },
     {
+      "round": "21. Round",
+      "date": "2026-01-03",
+      "time": "14:00",
       "team1": "Falkirk FC",
       "team2": "Aberdeen FC"
     },
     {
+      "round": "21. Round",
+      "date": "2026-01-03",
+      "time": "14:00",
       "team1": "Kilmarnock FC",
       "team2": "Hibernian FC"
     },
     {
+      "round": "21. Round",
+      "date": "2026-01-03",
+      "time": "14:00",
       "team1": "Heart of Midlothian",
       "team2": "Livingston FC"
     },
     {
+      "round": "21. Round",
+      "date": "2026-01-03",
+      "time": "14:00",
       "team1": "Motherwell FC",
       "team2": "St. Mirren FC"
     },
     {
+      "round": "22. Round",
+      "date": "2026-01-10",
+      "time": "14:00",
       "team1": "Celtic FC",
       "team2": "Dundee United"
     },
     {
+      "round": "22. Round",
+      "date": "2026-01-10",
+      "time": "14:00",
       "team1": "Dundee FC",
       "team2": "Heart of Midlothian"
     },
     {
+      "round": "22. Round",
+      "date": "2026-01-10",
+      "time": "14:00",
       "team1": "Aberdeen FC",
       "team2": "Rangers FC"
     },
     {
+      "round": "22. Round",
+      "date": "2026-01-10",
+      "time": "14:00",
       "team1": "St. Mirren FC",
       "team2": "Falkirk FC"
     },
     {
+      "round": "22. Round",
+      "date": "2026-01-10",
+      "time": "14:00",
       "team1": "Hibernian FC",
       "team2": "Motherwell FC"
     },
     {
+      "round": "22. Round",
+      "date": "2026-01-10",
+      "time": "14:00",
       "team1": "Livingston FC",
       "team2": "Kilmarnock FC"
     },
     {
+      "round": "23. Round",
+      "date": "2026-01-24",
+      "time": "14:00",
       "team1": "Dundee United",
       "team2": "St. Mirren FC"
     },
     {
+      "round": "23. Round",
+      "date": "2026-01-24",
+      "time": "14:00",
       "team1": "Falkirk FC",
       "team2": "Hibernian FC"
     },
     {
+      "round": "23. Round",
+      "date": "2026-01-24",
+      "time": "14:00",
       "team1": "Aberdeen FC",
       "team2": "Livingston FC"
     },
     {
+      "round": "23. Round",
+      "date": "2026-01-24",
+      "time": "14:00",
       "team1": "Motherwell FC",
       "team2": "Kilmarnock FC"
     },
     {
+      "round": "23. Round",
+      "date": "2026-01-25",
+      "time": "14:00",
       "team1": "Rangers FC",
       "team2": "Dundee FC"
     },
     {
+      "round": "23. Round",
+      "date": "2026-01-25",
+      "time": "14:00",
       "team1": "Heart of Midlothian",
       "team2": "Celtic FC"
     },
     {
+      "round": "24. Round",
+      "date": "2026-01-31",
+      "time": "14:00",
       "team1": "Dundee United",
       "team2": "Heart of Midlothian"
     },
     {
+      "round": "24. Round",
+      "date": "2026-01-31",
+      "time": "14:00",
       "team1": "Kilmarnock FC",
       "team2": "Aberdeen FC"
     },
     {
+      "round": "24. Round",
+      "date": "2026-01-31",
+      "time": "14:00",
       "team1": "St. Mirren FC",
       "team2": "Dundee FC"
     },
     {
+      "round": "24. Round",
+      "date": "2026-01-31",
+      "time": "14:00",
       "team1": "Livingston FC",
       "team2": "Motherwell FC"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-01",
+      "time": "14:00",
       "team1": "Celtic FC",
       "team2": "Falkirk FC"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-01",
+      "time": "14:00",
       "team1": "Hibernian FC",
       "team2": "Rangers FC"
     },
     {
+      "round": "25. Round",
+      "date": "2026-02-04",
       "team1": "Dundee FC",
       "team2": "Motherwell FC"
     },
     {
+      "round": "25. Round",
+      "date": "2026-02-04",
       "team1": "Aberdeen FC",
       "team2": "Celtic FC"
     },
     {
+      "round": "25. Round",
+      "date": "2026-02-04",
       "team1": "St. Mirren FC",
       "team2": "Heart of Midlothian"
     },
     {
+      "round": "25. Round",
+      "date": "2026-02-04",
       "team1": "Rangers FC",
       "team2": "Kilmarnock FC"
     },
     {
+      "round": "25. Round",
+      "date": "2026-02-04",
       "team1": "Hibernian FC",
       "team2": "Dundee United"
     },
     {
+      "round": "25. Round",
+      "date": "2026-02-04",
       "team1": "Livingston FC",
       "team2": "Falkirk FC"
     },
     {
+      "round": "26. Round",
+      "date": "2026-02-11",
       "team1": "Celtic FC",
       "team2": "Livingston FC"
     },
     {
+      "round": "26. Round",
+      "date": "2026-02-11",
       "team1": "Dundee United",
       "team2": "Aberdeen FC"
     },
     {
+      "round": "26. Round",
+      "date": "2026-02-11",
       "team1": "Falkirk FC",
       "team2": "Dundee FC"
     },
     {
+      "round": "26. Round",
+      "date": "2026-02-11",
       "team1": "Kilmarnock FC",
       "team2": "St. Mirren FC"
     },
     {
+      "round": "26. Round",
+      "date": "2026-02-11",
       "team1": "Heart of Midlothian",
       "team2": "Hibernian FC"
     },
     {
+      "round": "26. Round",
+      "date": "2026-02-11",
       "team1": "Motherwell FC",
       "team2": "Rangers FC"
     },
     {
+      "round": "27. Round",
+      "date": "2026-02-14",
       "team1": "Dundee FC",
       "team2": "Livingston FC"
     },
     {
+      "round": "27. Round",
+      "date": "2026-02-14",
       "team1": "Falkirk FC",
       "team2": "Dundee United"
     },
     {
+      "round": "27. Round",
+      "date": "2026-02-14",
       "team1": "Kilmarnock FC",
       "team2": "Celtic FC"
     },
     {
+      "round": "27. Round",
+      "date": "2026-02-14",
       "team1": "Rangers FC",
       "team2": "Heart of Midlothian"
     },
     {
+      "round": "27. Round",
+      "date": "2026-02-14",
       "team1": "Hibernian FC",
       "team2": "St. Mirren FC"
     },
     {
+      "round": "27. Round",
+      "date": "2026-02-14",
       "team1": "Motherwell FC",
       "team2": "Aberdeen FC"
     },
     {
+      "round": "28. Round",
+      "date": "2026-02-21",
       "team1": "Celtic FC",
       "team2": "Hibernian FC"
     },
     {
+      "round": "28. Round",
+      "date": "2026-02-21",
       "team1": "Dundee United",
       "team2": "Kilmarnock FC"
     },
     {
+      "round": "28. Round",
+      "date": "2026-02-21",
       "team1": "Aberdeen FC",
       "team2": "Dundee FC"
     },
     {
+      "round": "28. Round",
+      "date": "2026-02-21",
       "team1": "St. Mirren FC",
       "team2": "Motherwell FC"
     },
     {
+      "round": "28. Round",
+      "date": "2026-02-21",
       "team1": "Heart of Midlothian",
       "team2": "Falkirk FC"
     },
     {
+      "round": "28. Round",
+      "date": "2026-02-21",
       "team1": "Livingston FC",
       "team2": "Rangers FC"
     },
     {
+      "round": "29. Round",
+      "date": "2026-02-28",
       "team1": "Dundee FC",
       "team2": "Hibernian FC"
     },
     {
+      "round": "29. Round",
+      "date": "2026-02-28",
       "team1": "Falkirk FC",
       "team2": "Kilmarnock FC"
     },
     {
+      "round": "29. Round",
+      "date": "2026-02-28",
       "team1": "Rangers FC",
       "team2": "Celtic FC"
     },
     {
+      "round": "29. Round",
+      "date": "2026-02-28",
       "team1": "Heart of Midlothian",
       "team2": "Aberdeen FC"
     },
     {
+      "round": "29. Round",
+      "date": "2026-02-28",
       "team1": "Livingston FC",
       "team2": "St. Mirren FC"
     },
     {
+      "round": "29. Round",
+      "date": "2026-02-28",
       "team1": "Motherwell FC",
       "team2": "Dundee United"
     },
     {
+      "round": "30. Round",
+      "date": "2026-03-14",
       "team1": "Celtic FC",
       "team2": "Motherwell FC"
     },
     {
+      "round": "30. Round",
+      "date": "2026-03-14",
       "team1": "Dundee FC",
       "team2": "Dundee United"
     },
     {
+      "round": "30. Round",
+      "date": "2026-03-14",
       "team1": "Aberdeen FC",
       "team2": "Falkirk FC"
     },
     {
+      "round": "30. Round",
+      "date": "2026-03-14",
       "team1": "Kilmarnock FC",
       "team2": "Heart of Midlothian"
     },
     {
+      "round": "30. Round",
+      "date": "2026-03-14",
       "team1": "St. Mirren FC",
       "team2": "Rangers FC"
     },
     {
+      "round": "30. Round",
+      "date": "2026-03-14",
       "team1": "Hibernian FC",
       "team2": "Livingston FC"
     },
     {
+      "round": "31. Round",
+      "date": "2026-03-21",
       "team1": "Dundee United",
       "team2": "Celtic FC"
     },
     {
+      "round": "31. Round",
+      "date": "2026-03-21",
       "team1": "Falkirk FC",
       "team2": "St. Mirren FC"
     },
     {
+      "round": "31. Round",
+      "date": "2026-03-21",
       "team1": "Kilmarnock FC",
       "team2": "Livingston FC"
     },
     {
+      "round": "31. Round",
+      "date": "2026-03-21",
       "team1": "Rangers FC",
       "team2": "Aberdeen FC"
     },
     {
+      "round": "31. Round",
+      "date": "2026-03-21",
       "team1": "Heart of Midlothian",
       "team2": "Dundee FC"
     },
     {
+      "round": "31. Round",
+      "date": "2026-03-21",
       "team1": "Motherwell FC",
       "team2": "Hibernian FC"
     },
     {
+      "round": "32. Round",
+      "date": "2026-04-04",
       "team1": "Dundee FC",
       "team2": "Celtic FC"
     },
     {
+      "round": "32. Round",
+      "date": "2026-04-04",
       "team1": "St. Mirren FC",
       "team2": "Aberdeen FC"
     },
     {
+      "round": "32. Round",
+      "date": "2026-04-04",
       "team1": "Rangers FC",
       "team2": "Dundee United"
     },
     {
+      "round": "32. Round",
+      "date": "2026-04-04",
       "team1": "Hibernian FC",
       "team2": "Kilmarnock FC"
     },
     {
+      "round": "32. Round",
+      "date": "2026-04-04",
       "team1": "Livingston FC",
       "team2": "Heart of Midlothian"
     },
     {
+      "round": "32. Round",
+      "date": "2026-04-04",
       "team1": "Motherwell FC",
       "team2": "Falkirk FC"
     },
     {
+      "round": "33. Round",
+      "date": "2026-04-11",
       "team1": "Celtic FC",
       "team2": "St. Mirren FC"
     },
     {
+      "round": "33. Round",
+      "date": "2026-04-11",
       "team1": "Dundee United",
       "team2": "Livingston FC"
     },
     {
+      "round": "33. Round",
+      "date": "2026-04-11",
       "team1": "Falkirk FC",
       "team2": "Rangers FC"
     },
     {
+      "round": "33. Round",
+      "date": "2026-04-11",
       "team1": "Aberdeen FC",
       "team2": "Hibernian FC"
     },
     {
+      "round": "33. Round",
+      "date": "2026-04-11",
       "team1": "Kilmarnock FC",
       "team2": "Dundee FC"
     },
     {
+      "round": "33. Round",
+      "date": "2026-04-11",
       "team1": "Heart of Midlothian",
       "team2": "Motherwell FC"
     }

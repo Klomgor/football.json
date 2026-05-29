@@ -2,6 +2,9 @@
   "name": "French Ligue 2 2025/26",
   "matches": [
     {
+      "round": "1. Round",
+      "date": "2025-08-09",
+      "time": "13:00",
       "team1": "EA Guingamp",
       "team2": "Le Mans FC",
       "score": {
@@ -16,6 +19,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-09",
+      "time": "19:00",
       "team1": "ESTAC Troyes",
       "team2": "Grenoble Foot 38",
       "score": {
@@ -30,6 +36,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-09",
+      "time": "19:00",
       "team1": "Pau FC",
       "team2": "FC Annecy",
       "score": {
@@ -44,6 +53,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-09",
+      "time": "19:00",
       "team1": "Montpellier HSC",
       "team2": "Red Star FC",
       "score": {
@@ -58,6 +70,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-09",
+      "time": "19:00",
       "team1": "Rodez AF",
       "team2": "AS Nancy Lorraine",
       "score": [
@@ -66,6 +81,9 @@
       ]
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-09",
+      "time": "19:00",
       "team1": "Stade Lavallois",
       "team2": "AS Saint-Étienne",
       "score": {
@@ -80,6 +98,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-09",
+      "time": "19:00",
       "team1": "USL Dunkerque",
       "team2": "Clermont Foot 63",
       "score": {
@@ -94,6 +115,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-11",
+      "time": "19:45",
       "team1": "Amiens SC",
       "team2": "Stade de Reims",
       "score": {
@@ -108,6 +132,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-09-16",
+      "time": "18:00",
       "team1": "US Boulogne",
       "team2": "SC Bastia",
       "score": {
@@ -122,6 +149,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-15",
+      "time": "19:00",
       "team1": "AS Nancy Lorraine",
       "team2": "US Boulogne",
       "score": {
@@ -136,6 +166,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-15",
+      "time": "19:00",
       "team1": "Clermont Foot 63",
       "team2": "ESTAC Troyes",
       "score": [
@@ -144,6 +177,9 @@
       ]
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-15",
+      "time": "19:00",
       "team1": "Red Star FC",
       "team2": "Amiens SC",
       "score": {
@@ -158,6 +194,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-15",
+      "time": "19:00",
       "team1": "Grenoble Foot 38",
       "team2": "Stade Lavallois",
       "score": {
@@ -172,6 +211,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-15",
+      "time": "19:00",
       "team1": "SC Bastia",
       "team2": "Pau FC",
       "score": {
@@ -186,6 +228,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-16",
+      "time": "13:00",
       "team1": "FC Annecy",
       "team2": "USL Dunkerque",
       "score": {
@@ -200,6 +245,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-16",
+      "time": "13:00",
       "team1": "Stade de Reims",
       "team2": "EA Guingamp",
       "score": {
@@ -214,6 +262,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-16",
+      "time": "19:00",
       "team1": "AS Saint-Étienne",
       "team2": "Rodez AF",
       "score": {
@@ -228,6 +279,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-18",
+      "time": "19:45",
       "team1": "Le Mans FC",
       "team2": "Montpellier HSC",
       "score": {
@@ -242,6 +296,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-22",
+      "time": "19:00",
       "team1": "Clermont Foot 63",
       "team2": "Grenoble Foot 38",
       "score": {
@@ -256,6 +313,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-22",
+      "time": "19:00",
       "team1": "Le Mans FC",
       "team2": "SC Bastia",
       "score": {
@@ -270,6 +330,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-22",
+      "time": "19:00",
       "team1": "Rodez AF",
       "team2": "Stade Lavallois",
       "score": {
@@ -284,6 +347,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-22",
+      "time": "19:00",
       "team1": "Amiens SC",
       "team2": "FC Annecy",
       "score": {
@@ -298,6 +364,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-22",
+      "time": "19:00",
       "team1": "USL Dunkerque",
       "team2": "AS Nancy Lorraine",
       "score": {
@@ -312,6 +381,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-23",
+      "time": "13:00",
       "team1": "EA Guingamp",
       "team2": "Red Star FC",
       "score": {
@@ -326,6 +398,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-23",
+      "time": "13:00",
       "team1": "ESTAC Troyes",
       "team2": "Montpellier HSC",
       "score": {
@@ -340,6 +415,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-23",
+      "time": "19:00",
       "team1": "US Boulogne",
       "team2": "AS Saint-Étienne",
       "score": {
@@ -354,6 +432,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-25",
+      "time": "19:45",
       "team1": "Pau FC",
       "team2": "Stade de Reims",
       "score": {
@@ -368,6 +449,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-29",
+      "time": "19:00",
       "team1": "AS Nancy Lorraine",
       "team2": "Pau FC",
       "score": {
@@ -382,6 +466,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-29",
+      "time": "19:00",
       "team1": "Red Star FC",
       "team2": "FC Annecy",
       "score": {
@@ -396,6 +483,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-29",
+      "time": "19:00",
       "team1": "Montpellier HSC",
       "team2": "Amiens SC",
       "score": {
@@ -410,6 +500,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-29",
+      "time": "19:00",
       "team1": "Rodez AF",
       "team2": "US Boulogne",
       "score": {
@@ -424,6 +517,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-29",
+      "time": "19:00",
       "team1": "Stade Lavallois",
       "team2": "Clermont Foot 63",
       "score": [
@@ -432,6 +528,9 @@
       ]
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-29",
+      "time": "19:00",
       "team1": "USL Dunkerque",
       "team2": "ESTAC Troyes",
       "score": {
@@ -446,6 +545,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-30",
+      "time": "13:00",
       "team1": "SC Bastia",
       "team2": "EA Guingamp",
       "score": {
@@ -460,6 +562,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-30",
+      "time": "13:00",
       "team1": "Stade de Reims",
       "team2": "Le Mans FC",
       "score": {
@@ -474,6 +579,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-30",
+      "time": "19:00",
       "team1": "AS Saint-Étienne",
       "team2": "Grenoble Foot 38",
       "score": {
@@ -488,6 +596,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-12",
+      "time": "19:00",
       "team1": "US Boulogne",
       "team2": "Stade Lavallois",
       "score": {
@@ -502,6 +613,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-12",
+      "time": "19:00",
       "team1": "ESTAC Troyes",
       "team2": "AS Nancy Lorraine",
       "score": {
@@ -516,6 +630,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-12",
+      "time": "19:00",
       "team1": "Pau FC",
       "team2": "Red Star FC",
       "score": {
@@ -530,6 +647,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-12",
+      "time": "19:00",
       "team1": "Le Mans FC",
       "team2": "Rodez AF",
       "score": {
@@ -544,6 +664,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-12",
+      "time": "19:00",
       "team1": "Amiens SC",
       "team2": "SC Bastia",
       "score": [
@@ -552,6 +675,9 @@
       ]
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "13:00",
       "team1": "FC Annecy",
       "team2": "Stade de Reims",
       "score": {
@@ -566,6 +692,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "13:00",
       "team1": "Grenoble Foot 38",
       "team2": "USL Dunkerque",
       "score": {
@@ -580,6 +709,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "19:00",
       "team1": "Clermont Foot 63",
       "team2": "AS Saint-Étienne",
       "score": {
@@ -594,6 +726,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-15",
+      "time": "19:45",
       "team1": "EA Guingamp",
       "team2": "Montpellier HSC",
       "score": {
@@ -608,6 +743,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-19",
+      "time": "19:00",
       "team1": "US Boulogne",
       "team2": "Pau FC",
       "score": {
@@ -622,6 +760,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-19",
+      "time": "19:00",
       "team1": "AS Nancy Lorraine",
       "team2": "Red Star FC",
       "score": {
@@ -636,6 +777,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-19",
+      "time": "19:00",
       "team1": "Grenoble Foot 38",
       "team2": "FC Annecy",
       "score": {
@@ -650,6 +794,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-19",
+      "time": "19:00",
       "team1": "Rodez AF",
       "team2": "Clermont Foot 63",
       "score": {
@@ -664,6 +811,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-19",
+      "time": "19:00",
       "team1": "Stade Lavallois",
       "team2": "Amiens SC",
       "score": {
@@ -678,6 +828,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-19",
+      "time": "19:00",
       "team1": "USL Dunkerque",
       "team2": "Le Mans FC",
       "score": {
@@ -692,6 +845,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-20",
+      "time": "13:00",
       "team1": "ESTAC Troyes",
       "team2": "EA Guingamp",
       "score": {
@@ -706,6 +862,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-20",
+      "time": "13:00",
       "team1": "Montpellier HSC",
       "team2": "SC Bastia",
       "score": {
@@ -720,6 +879,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-20",
+      "time": "19:00",
       "team1": "AS Saint-Étienne",
       "team2": "Stade de Reims",
       "score": {
@@ -734,6 +896,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-23",
+      "time": "19:30",
       "team1": "EA Guingamp",
       "team2": "USL Dunkerque",
       "score": {
@@ -748,6 +913,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-23",
+      "time": "19:30",
       "team1": "FC Annecy",
       "team2": "AS Nancy Lorraine",
       "score": {
@@ -762,6 +930,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-23",
+      "time": "19:30",
       "team1": "Pau FC",
       "team2": "Stade Lavallois",
       "score": {
@@ -776,6 +947,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-23",
+      "time": "19:30",
       "team1": "Red Star FC",
       "team2": "ESTAC Troyes",
       "score": {
@@ -790,6 +964,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-23",
+      "time": "19:30",
       "team1": "Montpellier HSC",
       "team2": "US Boulogne",
       "score": {
@@ -804,6 +981,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-23",
+      "time": "19:30",
       "team1": "Le Mans FC",
       "team2": "Grenoble Foot 38",
       "score": {
@@ -818,6 +998,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-23",
+      "time": "19:30",
       "team1": "Amiens SC",
       "team2": "AS Saint-Étienne",
       "score": {
@@ -832,6 +1015,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-23",
+      "time": "19:30",
       "team1": "SC Bastia",
       "team2": "Rodez AF",
       "score": {
@@ -846,6 +1032,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-23",
+      "time": "19:30",
       "team1": "Stade de Reims",
       "team2": "Clermont Foot 63",
       "score": {
@@ -860,6 +1049,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-26",
+      "time": "19:00",
       "team1": "AS Nancy Lorraine",
       "team2": "Stade de Reims",
       "score": {
@@ -874,6 +1066,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-26",
+      "time": "19:00",
       "team1": "Clermont Foot 63",
       "team2": "Le Mans FC",
       "score": {
@@ -888,6 +1083,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-26",
+      "time": "19:00",
       "team1": "ESTAC Troyes",
       "team2": "FC Annecy",
       "score": {
@@ -902,6 +1100,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-26",
+      "time": "19:00",
       "team1": "Grenoble Foot 38",
       "team2": "SC Bastia",
       "score": [
@@ -910,6 +1111,9 @@
       ]
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-26",
+      "time": "19:00",
       "team1": "Rodez AF",
       "team2": "Pau FC",
       "score": {
@@ -924,6 +1128,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-27",
+      "time": "13:00",
       "team1": "Stade Lavallois",
       "team2": "Montpellier HSC",
       "score": {
@@ -938,6 +1145,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-27",
+      "time": "13:00",
       "team1": "USL Dunkerque",
       "team2": "Amiens SC",
       "score": {
@@ -952,6 +1162,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-27",
+      "time": "19:00",
       "team1": "AS Saint-Étienne",
       "team2": "EA Guingamp",
       "score": {
@@ -966,6 +1179,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-09-29",
+      "time": "19:45",
       "team1": "US Boulogne",
       "team2": "Red Star FC",
       "score": {
@@ -980,6 +1196,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-03",
+      "time": "19:00",
       "team1": "EA Guingamp",
       "team2": "AS Nancy Lorraine",
       "score": {
@@ -994,6 +1213,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-03",
+      "time": "19:00",
       "team1": "FC Annecy",
       "team2": "Stade Lavallois",
       "score": [
@@ -1002,6 +1224,9 @@
       ]
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-03",
+      "time": "19:00",
       "team1": "Pau FC",
       "team2": "Clermont Foot 63",
       "score": {
@@ -1016,6 +1241,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-03",
+      "time": "19:00",
       "team1": "Le Mans FC",
       "team2": "ESTAC Troyes",
       "score": {
@@ -1030,6 +1258,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-03",
+      "time": "19:00",
       "team1": "Amiens SC",
       "team2": "US Boulogne",
       "score": {
@@ -1044,6 +1275,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-03",
+      "time": "19:00",
       "team1": "SC Bastia",
       "team2": "USL Dunkerque",
       "score": [
@@ -1052,6 +1286,9 @@
       ]
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-04",
+      "time": "13:00",
       "team1": "Red Star FC",
       "team2": "Rodez AF",
       "score": {
@@ -1066,6 +1303,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-04",
+      "time": "13:00",
       "team1": "Stade de Reims",
       "team2": "Grenoble Foot 38",
       "score": {
@@ -1080,6 +1320,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-04",
+      "time": "19:00",
       "team1": "Montpellier HSC",
       "team2": "AS Saint-Étienne",
       "score": {
@@ -1094,6 +1337,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-17",
+      "time": "19:00",
       "team1": "US Boulogne",
       "team2": "EA Guingamp",
       "score": {
@@ -1108,6 +1354,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-17",
+      "time": "19:00",
       "team1": "Clermont Foot 63",
       "team2": "FC Annecy",
       "score": {
@@ -1122,6 +1371,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-17",
+      "time": "19:00",
       "team1": "ESTAC Troyes",
       "team2": "SC Bastia",
       "score": {
@@ -1136,6 +1388,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-17",
+      "time": "19:00",
       "team1": "Grenoble Foot 38",
       "team2": "Pau FC",
       "score": {
@@ -1150,6 +1405,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-17",
+      "time": "19:00",
       "team1": "Rodez AF",
       "team2": "Stade de Reims",
       "score": {
@@ -1164,6 +1422,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-18",
+      "time": "13:00",
       "team1": "Stade Lavallois",
       "team2": "Red Star FC",
       "score": {
@@ -1178,6 +1439,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-18",
+      "time": "13:00",
       "team1": "USL Dunkerque",
       "team2": "Montpellier HSC",
       "score": {
@@ -1192,6 +1456,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-18",
+      "time": "19:00",
       "team1": "AS Saint-Étienne",
       "team2": "Le Mans FC",
       "score": {
@@ -1206,6 +1473,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-20",
+      "time": "19:45",
       "team1": "AS Nancy Lorraine",
       "team2": "Amiens SC",
       "score": {
@@ -1220,11 +1490,16 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-24",
       "team1": "SC Bastia",
       "team2": "Stade Lavallois",
       "status": "postponed"
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-24",
+      "time": "19:00",
       "team1": "EA Guingamp",
       "team2": "Clermont Foot 63",
       "score": {
@@ -1239,6 +1514,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-24",
+      "time": "19:00",
       "team1": "Pau FC",
       "team2": "USL Dunkerque",
       "score": {
@@ -1253,6 +1531,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-24",
+      "time": "19:00",
       "team1": "Red Star FC",
       "team2": "Grenoble Foot 38",
       "score": {
@@ -1267,6 +1548,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-24",
+      "time": "19:00",
       "team1": "Le Mans FC",
       "team2": "US Boulogne",
       "score": {
@@ -1281,6 +1565,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-24",
+      "time": "19:00",
       "team1": "Stade de Reims",
       "team2": "ESTAC Troyes",
       "score": [
@@ -1289,6 +1576,9 @@
       ]
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-25",
+      "time": "13:00",
       "team1": "Montpellier HSC",
       "team2": "AS Nancy Lorraine",
       "score": {
@@ -1303,6 +1593,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-25",
+      "time": "13:00",
       "team1": "Amiens SC",
       "team2": "Rodez AF",
       "score": {
@@ -1317,6 +1610,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-25",
+      "time": "19:00",
       "team1": "FC Annecy",
       "team2": "AS Saint-Étienne",
       "score": {
@@ -1331,6 +1627,9 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-28",
+      "time": "19:30",
       "team1": "US Boulogne",
       "team2": "Stade de Reims",
       "score": {
@@ -1345,6 +1644,9 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-28",
+      "time": "19:30",
       "team1": "AS Nancy Lorraine",
       "team2": "SC Bastia",
       "score": {
@@ -1359,6 +1661,9 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-28",
+      "time": "19:30",
       "team1": "AS Saint-Étienne",
       "team2": "Pau FC",
       "score": {
@@ -1373,6 +1678,9 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-28",
+      "time": "19:30",
       "team1": "Clermont Foot 63",
       "team2": "Montpellier HSC",
       "score": {
@@ -1387,6 +1695,9 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-28",
+      "time": "19:30",
       "team1": "ESTAC Troyes",
       "team2": "Amiens SC",
       "score": {
@@ -1401,6 +1712,9 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-28",
+      "time": "19:30",
       "team1": "Grenoble Foot 38",
       "team2": "EA Guingamp",
       "score": [
@@ -1409,6 +1723,9 @@
       ]
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-28",
+      "time": "19:30",
       "team1": "Rodez AF",
       "team2": "FC Annecy",
       "score": {
@@ -1423,6 +1740,9 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-28",
+      "time": "19:30",
       "team1": "Stade Lavallois",
       "team2": "Le Mans FC",
       "score": {
@@ -1437,6 +1757,9 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-10-28",
+      "time": "19:30",
       "team1": "USL Dunkerque",
       "team2": "Red Star FC",
       "score": {
@@ -1451,6 +1774,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-31",
+      "time": "19:00",
       "team1": "EA Guingamp",
       "team2": "Stade Lavallois",
       "score": {
@@ -1465,6 +1791,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-31",
+      "time": "19:00",
       "team1": "FC Annecy",
       "team2": "US Boulogne",
       "score": {
@@ -1479,6 +1808,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-31",
+      "time": "19:00",
       "team1": "Montpellier HSC",
       "team2": "Rodez AF",
       "score": {
@@ -1493,6 +1825,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-31",
+      "time": "19:00",
       "team1": "Le Mans FC",
       "team2": "AS Nancy Lorraine",
       "score": {
@@ -1507,6 +1842,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-10-31",
+      "time": "19:00",
       "team1": "SC Bastia",
       "team2": "Clermont Foot 63",
       "score": {
@@ -1521,6 +1859,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-01",
+      "time": "13:00",
       "team1": "Amiens SC",
       "team2": "Grenoble Foot 38",
       "score": {
@@ -1535,6 +1876,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-01",
+      "time": "13:00",
       "team1": "Stade de Reims",
       "team2": "USL Dunkerque",
       "score": {
@@ -1549,6 +1893,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-01",
+      "time": "19:00",
       "team1": "Red Star FC",
       "team2": "AS Saint-Étienne",
       "score": {
@@ -1563,6 +1910,9 @@
       }
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-03",
+      "time": "19:45",
       "team1": "Pau FC",
       "team2": "ESTAC Troyes",
       "score": {
@@ -1577,758 +1927,1172 @@
       }
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-07",
+      "time": "19:00",
       "team1": "AS Nancy Lorraine",
       "team2": "Stade Lavallois"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-07",
+      "time": "19:00",
       "team1": "Clermont Foot 63",
       "team2": "Amiens SC"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-07",
+      "time": "19:00",
       "team1": "Grenoble Foot 38",
       "team2": "Rodez AF"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-07",
+      "time": "19:00",
       "team1": "Montpellier HSC",
       "team2": "FC Annecy"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-07",
+      "time": "19:00",
       "team1": "SC Bastia",
       "team2": "Stade de Reims"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-07",
+      "time": "19:00",
       "team1": "USL Dunkerque",
       "team2": "US Boulogne"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-08",
+      "time": "13:00",
       "team1": "EA Guingamp",
       "team2": "Pau FC"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-08",
+      "time": "13:00",
       "team1": "Le Mans FC",
       "team2": "Red Star FC"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-08",
+      "time": "19:00",
       "team1": "ESTAC Troyes",
       "team2": "AS Saint-Étienne"
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-21",
+      "time": "19:00",
       "team1": "US Boulogne",
       "team2": "Grenoble Foot 38"
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-21",
+      "time": "19:00",
       "team1": "FC Annecy",
       "team2": "SC Bastia"
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-21",
+      "time": "19:00",
       "team1": "Pau FC",
       "team2": "Le Mans FC"
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-21",
+      "time": "19:00",
       "team1": "Rodez AF",
       "team2": "USL Dunkerque"
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-21",
+      "time": "19:00",
       "team1": "Stade Lavallois",
       "team2": "ESTAC Troyes"
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-22",
+      "time": "13:00",
       "team1": "Red Star FC",
       "team2": "Clermont Foot 63"
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-22",
+      "time": "13:00",
       "team1": "Amiens SC",
       "team2": "EA Guingamp"
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-22",
+      "time": "19:00",
       "team1": "AS Saint-Étienne",
       "team2": "AS Nancy Lorraine"
     },
     {
+      "round": "15. Round",
+      "date": "2025-11-24",
+      "time": "19:45",
       "team1": "Stade de Reims",
       "team2": "Montpellier HSC"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-05",
+      "time": "19:00",
       "team1": "Clermont Foot 63",
       "team2": "US Boulogne"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-05",
+      "time": "19:00",
       "team1": "EA Guingamp",
       "team2": "FC Annecy"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-05",
+      "time": "19:00",
       "team1": "Grenoble Foot 38",
       "team2": "AS Nancy Lorraine"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-05",
+      "time": "19:00",
       "team1": "Le Mans FC",
       "team2": "Amiens SC"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-05",
+      "time": "19:00",
       "team1": "SC Bastia",
       "team2": "Red Star FC"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-06",
+      "time": "13:00",
       "team1": "ESTAC Troyes",
       "team2": "Rodez AF"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-06",
+      "time": "13:00",
       "team1": "Montpellier HSC",
       "team2": "Pau FC"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-06",
+      "time": "19:00",
       "team1": "USL Dunkerque",
       "team2": "AS Saint-Étienne"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-08",
+      "time": "19:45",
       "team1": "Stade de Reims",
       "team2": "Stade Lavallois"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-12",
+      "time": "19:00",
       "team1": "AS Nancy Lorraine",
       "team2": "Clermont Foot 63"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-12",
+      "time": "19:00",
       "team1": "FC Annecy",
       "team2": "Le Mans FC"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-12",
+      "time": "19:00",
       "team1": "Pau FC",
       "team2": "Amiens SC"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-12",
+      "time": "19:00",
       "team1": "Rodez AF",
       "team2": "EA Guingamp"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-12",
+      "time": "19:00",
       "team1": "Stade Lavallois",
       "team2": "USL Dunkerque"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-13",
+      "time": "13:00",
       "team1": "Red Star FC",
       "team2": "Stade de Reims"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-13",
+      "time": "13:00",
       "team1": "Grenoble Foot 38",
       "team2": "Montpellier HSC"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-13",
+      "time": "19:00",
       "team1": "AS Saint-Étienne",
       "team2": "SC Bastia"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-15",
+      "time": "19:45",
       "team1": "US Boulogne",
       "team2": "ESTAC Troyes"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-02",
       "team1": "Clermont Foot 63",
       "team2": "Stade Lavallois"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-02",
       "team1": "EA Guingamp",
       "team2": "US Boulogne"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-02",
       "team1": "ESTAC Troyes",
       "team2": "Red Star FC"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-02",
       "team1": "Pau FC",
       "team2": "Rodez AF"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-02",
       "team1": "Montpellier HSC",
       "team2": "USL Dunkerque"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-02",
       "team1": "Le Mans FC",
       "team2": "AS Saint-Étienne"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-02",
       "team1": "Amiens SC",
       "team2": "AS Nancy Lorraine"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-02",
       "team1": "SC Bastia",
       "team2": "Grenoble Foot 38"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-02",
       "team1": "Stade de Reims",
       "team2": "FC Annecy"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-16",
       "team1": "US Boulogne",
       "team2": "Montpellier HSC"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-16",
       "team1": "AS Nancy Lorraine",
       "team2": "EA Guingamp"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-16",
       "team1": "AS Saint-Étienne",
       "team2": "Clermont Foot 63"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-16",
       "team1": "ESTAC Troyes",
       "team2": "Stade de Reims"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-16",
       "team1": "FC Annecy",
       "team2": "Amiens SC"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-16",
       "team1": "Grenoble Foot 38",
       "team2": "Red Star FC"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-16",
       "team1": "Rodez AF",
       "team2": "Le Mans FC"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-16",
       "team1": "Stade Lavallois",
       "team2": "SC Bastia"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-16",
       "team1": "USL Dunkerque",
       "team2": "Pau FC"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-23",
       "team1": "AS Nancy Lorraine",
       "team2": "Rodez AF"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-23",
       "team1": "EA Guingamp",
       "team2": "ESTAC Troyes"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-23",
       "team1": "FC Annecy",
       "team2": "Clermont Foot 63"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-23",
       "team1": "Pau FC",
       "team2": "Grenoble Foot 38"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-23",
       "team1": "Red Star FC",
       "team2": "US Boulogne"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-23",
       "team1": "Le Mans FC",
       "team2": "USL Dunkerque"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-23",
       "team1": "Amiens SC",
       "team2": "Stade Lavallois"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-23",
       "team1": "SC Bastia",
       "team2": "Montpellier HSC"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-23",
       "team1": "Stade de Reims",
       "team2": "AS Saint-Étienne"
     },
     {
+      "round": "21. Round",
+      "date": "2026-01-30",
       "team1": "AS Saint-Étienne",
       "team2": "US Boulogne"
     },
     {
+      "round": "21. Round",
+      "date": "2026-01-30",
       "team1": "Clermont Foot 63",
       "team2": "Stade de Reims"
     },
     {
+      "round": "21. Round",
+      "date": "2026-01-30",
       "team1": "ESTAC Troyes",
       "team2": "Le Mans FC"
     },
     {
+      "round": "21. Round",
+      "date": "2026-01-30",
       "team1": "Grenoble Foot 38",
       "team2": "Amiens SC"
     },
     {
+      "round": "21. Round",
+      "date": "2026-01-30",
       "team1": "Montpellier HSC",
       "team2": "EA Guingamp"
     },
     {
+      "round": "21. Round",
+      "date": "2026-01-30",
       "team1": "Rodez AF",
       "team2": "Red Star FC"
     },
     {
+      "round": "21. Round",
+      "date": "2026-01-30",
       "team1": "SC Bastia",
       "team2": "AS Nancy Lorraine"
     },
     {
+      "round": "21. Round",
+      "date": "2026-01-30",
       "team1": "Stade Lavallois",
       "team2": "Pau FC"
     },
     {
+      "round": "21. Round",
+      "date": "2026-01-30",
       "team1": "USL Dunkerque",
       "team2": "FC Annecy"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-06",
       "team1": "US Boulogne",
       "team2": "Rodez AF"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-06",
       "team1": "AS Nancy Lorraine",
       "team2": "ESTAC Troyes"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-06",
       "team1": "AS Saint-Étienne",
       "team2": "Montpellier HSC"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-06",
       "team1": "FC Annecy",
       "team2": "Grenoble Foot 38"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-06",
       "team1": "Red Star FC",
       "team2": "Pau FC"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-06",
       "team1": "Le Mans FC",
       "team2": "Stade Lavallois"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-06",
       "team1": "Amiens SC",
       "team2": "Clermont Foot 63"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-06",
       "team1": "Stade de Reims",
       "team2": "SC Bastia"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-06",
       "team1": "USL Dunkerque",
       "team2": "EA Guingamp"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-13",
       "team1": "Clermont Foot 63",
       "team2": "Rodez AF"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-13",
       "team1": "EA Guingamp",
       "team2": "AS Saint-Étienne"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-13",
       "team1": "Pau FC",
       "team2": "US Boulogne"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-13",
       "team1": "Red Star FC",
       "team2": "AS Nancy Lorraine"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-13",
       "team1": "Grenoble Foot 38",
       "team2": "Stade de Reims"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-13",
       "team1": "Montpellier HSC",
       "team2": "Le Mans FC"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-13",
       "team1": "Amiens SC",
       "team2": "USL Dunkerque"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-13",
       "team1": "SC Bastia",
       "team2": "ESTAC Troyes"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-13",
       "team1": "Stade Lavallois",
       "team2": "FC Annecy"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-20",
       "team1": "US Boulogne",
       "team2": "Clermont Foot 63"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-20",
       "team1": "AS Nancy Lorraine",
       "team2": "Grenoble Foot 38"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-20",
       "team1": "AS Saint-Étienne",
       "team2": "Stade Lavallois"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-20",
       "team1": "ESTAC Troyes",
       "team2": "Pau FC"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-20",
       "team1": "FC Annecy",
       "team2": "Red Star FC"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-20",
       "team1": "Le Mans FC",
       "team2": "EA Guingamp"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-20",
       "team1": "Rodez AF",
       "team2": "Montpellier HSC"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-20",
       "team1": "Stade de Reims",
       "team2": "Amiens SC"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-20",
       "team1": "USL Dunkerque",
       "team2": "SC Bastia"
     },
     {
+      "round": "25. Round",
+      "date": "2026-02-27",
       "team1": "Clermont Foot 63",
       "team2": "USL Dunkerque"
     },
     {
+      "round": "25. Round",
+      "date": "2026-02-27",
       "team1": "EA Guingamp",
       "team2": "Rodez AF"
     },
     {
+      "round": "25. Round",
+      "date": "2026-02-27",
       "team1": "Pau FC",
       "team2": "AS Saint-Étienne"
     },
     {
+      "round": "25. Round",
+      "date": "2026-02-27",
       "team1": "Red Star FC",
       "team2": "Le Mans FC"
     },
     {
+      "round": "25. Round",
+      "date": "2026-02-27",
       "team1": "Grenoble Foot 38",
       "team2": "US Boulogne"
     },
     {
+      "round": "25. Round",
+      "date": "2026-02-27",
       "team1": "Montpellier HSC",
       "team2": "Stade de Reims"
     },
     {
+      "round": "25. Round",
+      "date": "2026-02-27",
       "team1": "Amiens SC",
       "team2": "ESTAC Troyes"
     },
     {
+      "round": "25. Round",
+      "date": "2026-02-27",
       "team1": "SC Bastia",
       "team2": "FC Annecy"
     },
     {
+      "round": "25. Round",
+      "date": "2026-02-27",
       "team1": "Stade Lavallois",
       "team2": "AS Nancy Lorraine"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-06",
       "team1": "US Boulogne",
       "team2": "Amiens SC"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-06",
       "team1": "AS Nancy Lorraine",
       "team2": "Montpellier HSC"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-06",
       "team1": "AS Saint-Étienne",
       "team2": "Red Star FC"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-06",
       "team1": "ESTAC Troyes",
       "team2": "Clermont Foot 63"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-06",
       "team1": "Pau FC",
       "team2": "SC Bastia"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-06",
       "team1": "Le Mans FC",
       "team2": "FC Annecy"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-06",
       "team1": "Rodez AF",
       "team2": "Grenoble Foot 38"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-06",
       "team1": "Stade Lavallois",
       "team2": "EA Guingamp"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-06",
       "team1": "USL Dunkerque",
       "team2": "Stade de Reims"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-13",
       "team1": "AS Nancy Lorraine",
       "team2": "Le Mans FC"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-13",
       "team1": "Clermont Foot 63",
       "team2": "Pau FC"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-13",
       "team1": "EA Guingamp",
       "team2": "Amiens SC"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-13",
       "team1": "FC Annecy",
       "team2": "ESTAC Troyes"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-13",
       "team1": "Red Star FC",
       "team2": "USL Dunkerque"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-13",
       "team1": "Grenoble Foot 38",
       "team2": "AS Saint-Étienne"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-13",
       "team1": "Montpellier HSC",
       "team2": "Stade Lavallois"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-13",
       "team1": "SC Bastia",
       "team2": "US Boulogne"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-13",
       "team1": "Stade de Reims",
       "team2": "Rodez AF"
     },
     {
+      "round": "28. Round",
+      "date": "2026-03-20",
       "team1": "US Boulogne",
       "team2": "AS Nancy Lorraine"
     },
     {
+      "round": "28. Round",
+      "date": "2026-03-20",
       "team1": "AS Saint-Étienne",
       "team2": "FC Annecy"
     },
     {
+      "round": "28. Round",
+      "date": "2026-03-20",
       "team1": "Clermont Foot 63",
       "team2": "Red Star FC"
     },
     {
+      "round": "28. Round",
+      "date": "2026-03-20",
       "team1": "EA Guingamp",
       "team2": "Stade de Reims"
     },
     {
+      "round": "28. Round",
+      "date": "2026-03-20",
       "team1": "ESTAC Troyes",
       "team2": "USL Dunkerque"
     },
     {
+      "round": "28. Round",
+      "date": "2026-03-20",
       "team1": "Pau FC",
       "team2": "Montpellier HSC"
     },
     {
+      "round": "28. Round",
+      "date": "2026-03-20",
       "team1": "Rodez AF",
       "team2": "SC Bastia"
     },
     {
+      "round": "28. Round",
+      "date": "2026-03-20",
       "team1": "Amiens SC",
       "team2": "Le Mans FC"
     },
     {
+      "round": "28. Round",
+      "date": "2026-03-20",
       "team1": "Stade Lavallois",
       "team2": "Grenoble Foot 38"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-03",
       "team1": "AS Nancy Lorraine",
       "team2": "AS Saint-Étienne"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-03",
       "team1": "FC Annecy",
       "team2": "EA Guingamp"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-03",
       "team1": "Red Star FC",
       "team2": "Stade Lavallois"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-03",
       "team1": "Grenoble Foot 38",
       "team2": "Clermont Foot 63"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-03",
       "team1": "Montpellier HSC",
       "team2": "ESTAC Troyes"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-03",
       "team1": "Le Mans FC",
       "team2": "Pau FC"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-03",
       "team1": "SC Bastia",
       "team2": "Amiens SC"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-03",
       "team1": "Stade de Reims",
       "team2": "US Boulogne"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-03",
       "team1": "USL Dunkerque",
       "team2": "Rodez AF"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-10",
       "team1": "US Boulogne",
       "team2": "Le Mans FC"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-10",
       "team1": "AS Saint-Étienne",
       "team2": "USL Dunkerque"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-10",
       "team1": "Clermont Foot 63",
       "team2": "AS Nancy Lorraine"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-10",
       "team1": "EA Guingamp",
       "team2": "Grenoble Foot 38"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-10",
       "team1": "FC Annecy",
       "team2": "Montpellier HSC"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-10",
       "team1": "Red Star FC",
       "team2": "SC Bastia"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-10",
       "team1": "Rodez AF",
       "team2": "ESTAC Troyes"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-10",
       "team1": "Amiens SC",
       "team2": "Pau FC"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-10",
       "team1": "Stade Lavallois",
       "team2": "Stade de Reims"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-17",
       "team1": "AS Nancy Lorraine",
       "team2": "FC Annecy"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-17",
       "team1": "ESTAC Troyes",
       "team2": "US Boulogne"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-17",
       "team1": "Pau FC",
       "team2": "EA Guingamp"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-17",
       "team1": "Montpellier HSC",
       "team2": "Grenoble Foot 38"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-17",
       "team1": "Le Mans FC",
       "team2": "Clermont Foot 63"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-17",
       "team1": "Rodez AF",
       "team2": "Amiens SC"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-17",
       "team1": "SC Bastia",
       "team2": "AS Saint-Étienne"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-17",
       "team1": "Stade de Reims",
       "team2": "Red Star FC"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-17",
       "team1": "USL Dunkerque",
       "team2": "Stade Lavallois"
     },
     {
+      "round": "32. Round",
+      "date": "2026-04-24",
       "team1": "US Boulogne",
       "team2": "USL Dunkerque"
     },
     {
+      "round": "32. Round",
+      "date": "2026-04-24",
       "team1": "AS Saint-Étienne",
       "team2": "ESTAC Troyes"
     },
     {
+      "round": "32. Round",
+      "date": "2026-04-24",
       "team1": "Clermont Foot 63",
       "team2": "SC Bastia"
     },
     {
+      "round": "32. Round",
+      "date": "2026-04-24",
       "team1": "FC Annecy",
       "team2": "Pau FC"
     },
     {
+      "round": "32. Round",
+      "date": "2026-04-24",
       "team1": "Red Star FC",
       "team2": "EA Guingamp"
     },
     {
+      "round": "32. Round",
+      "date": "2026-04-24",
       "team1": "Grenoble Foot 38",
       "team2": "Le Mans FC"
     },
     {
+      "round": "32. Round",
+      "date": "2026-04-24",
       "team1": "Amiens SC",
       "team2": "Montpellier HSC"
     },
     {
+      "round": "32. Round",
+      "date": "2026-04-24",
       "team1": "Stade Lavallois",
       "team2": "Rodez AF"
     },
     {
+      "round": "32. Round",
+      "date": "2026-04-24",
       "team1": "Stade de Reims",
       "team2": "AS Nancy Lorraine"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-01",
       "team1": "US Boulogne",
       "team2": "FC Annecy"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-01",
       "team1": "EA Guingamp",
       "team2": "SC Bastia"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-01",
       "team1": "ESTAC Troyes",
       "team2": "Stade Lavallois"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-01",
       "team1": "Pau FC",
       "team2": "AS Nancy Lorraine"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-01",
       "team1": "Montpellier HSC",
       "team2": "Clermont Foot 63"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-01",
       "team1": "Le Mans FC",
       "team2": "Stade de Reims"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-01",
       "team1": "Rodez AF",
       "team2": "AS Saint-Étienne"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-01",
       "team1": "Amiens SC",
       "team2": "Red Star FC"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-01",
       "team1": "USL Dunkerque",
       "team2": "Grenoble Foot 38"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-08",
       "team1": "AS Nancy Lorraine",
       "team2": "USL Dunkerque"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-08",
       "team1": "AS Saint-Étienne",
       "team2": "Amiens SC"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-08",
       "team1": "Clermont Foot 63",
       "team2": "EA Guingamp"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-08",
       "team1": "FC Annecy",
       "team2": "Rodez AF"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-08",
       "team1": "Red Star FC",
       "team2": "Montpellier HSC"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-08",
       "team1": "Grenoble Foot 38",
       "team2": "ESTAC Troyes"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-08",
       "team1": "SC Bastia",
       "team2": "Le Mans FC"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-08",
       "team1": "Stade Lavallois",
       "team2": "US Boulogne"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-08",
       "team1": "Stade de Reims",
       "team2": "Pau FC"
     }

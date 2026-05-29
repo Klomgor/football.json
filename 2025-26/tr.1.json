@@ -2,6 +2,9 @@
   "name": "Turkish Süper Lig 2025/26",
   "matches": [
     {
+      "round": "1. Round",
+      "date": "2025-08-08",
+      "time": "20:30",
       "team1": "Gaziantep FK",
       "team2": "Galatasaray",
       "score": {
@@ -16,6 +19,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-09",
+      "time": "18:00",
       "team1": "Samsunspor",
       "team2": "Gençlerbirliği",
       "score": {
@@ -30,6 +36,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-09",
+      "time": "20:30",
       "team1": "Antalyaspor",
       "team2": "Kasımpaşa SK",
       "score": {
@@ -44,6 +53,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-10",
+      "time": "18:00",
       "team1": "Çaykur Rizespor",
       "team2": "Göztepe",
       "score": {
@@ -58,6 +70,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-10",
+      "time": "20:30",
       "team1": "Eyüpspor",
       "team2": "Konyaspor",
       "score": {
@@ -72,6 +87,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-11",
+      "time": "20:30",
       "team1": "Trabzonspor",
       "team2": "Kocaelispor",
       "score": {
@@ -86,6 +104,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-09-17",
+      "time": "19:00",
       "team1": "Fatih Karagümrük",
       "team2": "İstanbul Başakşehir",
       "score": {
@@ -100,6 +121,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-09-17",
+      "time": "19:00",
       "team1": "Fenerbahçe",
       "team2": "Alanyaspor",
       "score": {
@@ -114,6 +138,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-09-24",
+      "time": "19:00",
       "team1": "Kayserispor",
       "team2": "Beşiktaş",
       "score": {
@@ -128,6 +155,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-15",
+      "time": "20:30",
       "team1": "Galatasaray",
       "team2": "Fatih Karagümrük",
       "score": {
@@ -142,6 +172,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-16",
+      "time": "18:00",
       "team1": "Kocaelispor",
       "team2": "Samsunspor",
       "score": {
@@ -156,6 +189,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-16",
+      "time": "20:30",
       "team1": "Alanyaspor",
       "team2": "Çaykur Rizespor",
       "score": [
@@ -164,6 +200,9 @@
       ]
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-16",
+      "time": "20:30",
       "team1": "Göztepe",
       "team2": "Fenerbahçe",
       "score": [
@@ -172,6 +211,9 @@
       ]
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-17",
+      "time": "18:00",
       "team1": "Konyaspor",
       "team2": "Gaziantep FK",
       "score": {
@@ -186,6 +228,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-17",
+      "time": "18:00",
       "team1": "Gençlerbirliği",
       "team2": "Antalyaspor",
       "score": {
@@ -200,6 +245,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-17",
+      "time": "20:30",
       "team1": "Beşiktaş",
       "team2": "Eyüpspor",
       "score": {
@@ -214,6 +262,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-17",
+      "time": "20:30",
       "team1": "İstanbul Başakşehir",
       "team2": "Kayserispor",
       "score": {
@@ -228,6 +279,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-18",
+      "time": "20:30",
       "team1": "Kasımpaşa SK",
       "team2": "Trabzonspor",
       "score": {
@@ -242,6 +296,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-22",
+      "time": "20:30",
       "team1": "Fatih Karagümrük",
       "team2": "Göztepe",
       "score": {
@@ -256,6 +313,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-23",
+      "time": "20:30",
       "team1": "Gaziantep FK",
       "team2": "Gençlerbirliği",
       "score": {
@@ -270,6 +330,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-23",
+      "time": "20:30",
       "team1": "Fenerbahçe",
       "team2": "Kocaelispor",
       "score": {
@@ -284,6 +347,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-24",
+      "time": "18:00",
       "team1": "Trabzonspor",
       "team2": "Antalyaspor",
       "score": {
@@ -298,6 +364,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-24",
+      "time": "20:30",
       "team1": "Kayserispor",
       "team2": "Galatasaray",
       "score": {
@@ -312,6 +381,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-25",
+      "time": "18:00",
       "team1": "Eyüpspor",
       "team2": "Alanyaspor",
       "score": {
@@ -326,6 +398,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-09-17",
+      "time": "19:00",
       "team1": "Samsunspor",
       "team2": "Kasımpaşa SK",
       "score": [
@@ -334,6 +409,9 @@
       ]
     },
     {
+      "round": "3. Round",
+      "date": "2025-10-22",
+      "time": "19:00",
       "team1": "Konyaspor",
       "team2": "Beşiktaş",
       "score": {
@@ -348,6 +426,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-10-22",
+      "time": "19:00",
       "team1": "Çaykur Rizespor",
       "team2": "İstanbul Başakşehir",
       "score": [
@@ -356,6 +437,9 @@
       ]
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-29",
+      "time": "20:30",
       "team1": "Göztepe",
       "team2": "Konyaspor",
       "score": {
@@ -370,6 +454,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-30",
+      "time": "18:00",
       "team1": "Kasımpaşa SK",
       "team2": "Gaziantep FK",
       "score": {
@@ -384,6 +471,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-30",
+      "time": "18:00",
       "team1": "Kocaelispor",
       "team2": "Kayserispor",
       "score": {
@@ -398,6 +488,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-30",
+      "time": "20:30",
       "team1": "Antalyaspor",
       "team2": "Fatih Karagümrük",
       "score": {
@@ -412,6 +505,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-30",
+      "time": "20:30",
       "team1": "Galatasaray",
       "team2": "Çaykur Rizespor",
       "score": {
@@ -426,6 +522,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-31",
+      "time": "18:00",
       "team1": "İstanbul Başakşehir",
       "team2": "Eyüpspor",
       "score": [
@@ -434,6 +533,9 @@
       ]
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-31",
+      "time": "18:00",
       "team1": "Gençlerbirliği",
       "team2": "Fenerbahçe",
       "score": {
@@ -448,6 +550,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-31",
+      "time": "20:30",
       "team1": "Trabzonspor",
       "team2": "Samsunspor",
       "score": {
@@ -462,6 +567,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-31",
+      "time": "20:30",
       "team1": "Alanyaspor",
       "team2": "Beşiktaş",
       "score": {
@@ -476,6 +584,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "16:00",
       "team1": "Eyüpspor",
       "team2": "Galatasaray",
       "score": {
@@ -490,6 +601,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "16:00",
       "team1": "Samsunspor",
       "team2": "Antalyaspor",
       "score": {
@@ -504,6 +618,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "16:00",
       "team1": "Fatih Karagümrük",
       "team2": "Kasımpaşa SK",
       "score": {
@@ -518,6 +635,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "19:00",
       "team1": "Konyaspor",
       "team2": "Alanyaspor",
       "score": {
@@ -532,6 +652,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "19:00",
       "team1": "Beşiktaş",
       "team2": "İstanbul Başakşehir",
       "score": {
@@ -546,6 +669,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-14",
+      "time": "16:00",
       "team1": "Kayserispor",
       "team2": "Göztepe",
       "score": {
@@ -560,6 +686,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-14",
+      "time": "18:00",
       "team1": "Gaziantep FK",
       "team2": "Kocaelispor",
       "score": {
@@ -574,6 +703,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-14",
+      "time": "18:00",
       "team1": "Fenerbahçe",
       "team2": "Trabzonspor",
       "score": {
@@ -588,6 +720,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-15",
+      "time": "19:00",
       "team1": "Çaykur Rizespor",
       "team2": "Gençlerbirliği",
       "score": {
@@ -602,6 +737,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-19",
+      "time": "19:00",
       "team1": "Göztepe",
       "team2": "Beşiktaş",
       "score": {
@@ -616,6 +754,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-20",
+      "time": "16:00",
       "team1": "Gençlerbirliği",
       "team2": "Eyüpspor",
       "score": {
@@ -630,6 +771,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-20",
+      "time": "19:00",
       "team1": "Antalyaspor",
       "team2": "Kayserispor",
       "score": {
@@ -644,6 +788,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-20",
+      "time": "19:00",
       "team1": "Trabzonspor",
       "team2": "Gaziantep FK",
       "score": {
@@ -658,6 +805,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-21",
+      "time": "16:00",
       "team1": "İstanbul Başakşehir",
       "team2": "Alanyaspor",
       "score": {
@@ -672,6 +822,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-21",
+      "time": "16:00",
       "team1": "Kocaelispor",
       "team2": "Çaykur Rizespor",
       "score": {
@@ -686,6 +839,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-21",
+      "time": "19:00",
       "team1": "Kasımpaşa SK",
       "team2": "Fenerbahçe",
       "score": {
@@ -700,6 +856,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-21",
+      "time": "19:00",
       "team1": "Samsunspor",
       "team2": "Fatih Karagümrük",
       "score": {
@@ -714,6 +873,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-22",
+      "time": "19:00",
       "team1": "Galatasaray",
       "team2": "Konyaspor",
       "score": {
@@ -728,6 +890,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-26",
+      "time": "19:00",
       "team1": "Alanyaspor",
       "team2": "Galatasaray",
       "score": {
@@ -742,6 +907,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-27",
+      "time": "16:00",
       "team1": "Eyüpspor",
       "team2": "Göztepe",
       "score": [
@@ -750,6 +918,9 @@
       ]
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-27",
+      "time": "16:00",
       "team1": "Gaziantep FK",
       "team2": "Samsunspor",
       "score": {
@@ -764,6 +935,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-27",
+      "time": "19:00",
       "team1": "Fatih Karagümrük",
       "team2": "Trabzonspor",
       "score": {
@@ -778,6 +952,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-28",
+      "time": "16:00",
       "team1": "Konyaspor",
       "team2": "İstanbul Başakşehir",
       "score": {
@@ -792,6 +969,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-28",
+      "time": "16:00",
       "team1": "Çaykur Rizespor",
       "team2": "Kasımpaşa SK",
       "score": {
@@ -806,6 +986,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-28",
+      "time": "19:00",
       "team1": "Fenerbahçe",
       "team2": "Antalyaspor",
       "score": {
@@ -820,6 +1003,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-28",
+      "time": "19:00",
       "team1": "Kayserispor",
       "team2": "Gençlerbirliği",
       "score": {
@@ -834,6 +1020,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-29",
+      "time": "19:00",
       "team1": "Beşiktaş",
       "team2": "Kocaelispor",
       "score": {
@@ -848,6 +1037,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-03",
+      "time": "19:00",
       "team1": "Antalyaspor",
       "team2": "Çaykur Rizespor",
       "score": {
@@ -862,6 +1054,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-03",
+      "time": "19:00",
       "team1": "Trabzonspor",
       "team2": "Kayserispor",
       "score": {
@@ -876,6 +1071,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-04",
+      "time": "13:30",
       "team1": "Gençlerbirliği",
       "team2": "Alanyaspor",
       "score": {
@@ -890,6 +1088,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-04",
+      "time": "16:00",
       "team1": "Kocaelispor",
       "team2": "Eyüpspor",
       "score": {
@@ -904,6 +1105,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-04",
+      "time": "19:00",
       "team1": "Galatasaray",
       "team2": "Beşiktaş",
       "score": {
@@ -918,6 +1122,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-05",
+      "time": "13:30",
       "team1": "Kasımpaşa SK",
       "team2": "Konyaspor",
       "score": {
@@ -932,6 +1139,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-05",
+      "time": "16:00",
       "team1": "Fatih Karagümrük",
       "team2": "Gaziantep FK",
       "score": {
@@ -946,6 +1156,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-05",
+      "time": "19:00",
       "team1": "Samsunspor",
       "team2": "Fenerbahçe",
       "score": [
@@ -954,6 +1167,9 @@
       ]
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-05",
+      "time": "19:00",
       "team1": "Göztepe",
       "team2": "İstanbul Başakşehir",
       "score": {
@@ -968,6 +1184,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-18",
+      "time": "13:30",
       "team1": "Konyaspor",
       "team2": "Kocaelispor",
       "score": {
@@ -982,6 +1201,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-18",
+      "time": "16:00",
       "team1": "Beşiktaş",
       "team2": "Gençlerbirliği",
       "score": {
@@ -996,6 +1218,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-18",
+      "time": "16:00",
       "team1": "Çaykur Rizespor",
       "team2": "Trabzonspor",
       "score": {
@@ -1010,6 +1235,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-18",
+      "time": "19:00",
       "team1": "İstanbul Başakşehir",
       "team2": "Galatasaray",
       "score": {
@@ -1024,6 +1252,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-19",
+      "time": "13:30",
       "team1": "Kayserispor",
       "team2": "Samsunspor",
       "score": {
@@ -1038,6 +1269,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-19",
+      "time": "16:00",
       "team1": "Alanyaspor",
       "team2": "Göztepe",
       "score": {
@@ -1052,6 +1286,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-19",
+      "time": "16:00",
       "team1": "Gaziantep FK",
       "team2": "Antalyaspor",
       "score": {
@@ -1066,6 +1303,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-19",
+      "time": "19:00",
       "team1": "Fenerbahçe",
       "team2": "Fatih Karagümrük",
       "score": {
@@ -1080,6 +1320,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-20",
+      "time": "19:00",
       "team1": "Eyüpspor",
       "team2": "Kasımpaşa SK",
       "score": {
@@ -1094,6 +1337,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-24",
+      "time": "19:00",
       "team1": "Fatih Karagümrük",
       "team2": "Kayserispor",
       "score": {
@@ -1108,6 +1354,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-25",
+      "time": "16:00",
       "team1": "Kocaelispor",
       "team2": "Alanyaspor",
       "score": {
@@ -1122,6 +1371,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-25",
+      "time": "19:00",
       "team1": "Trabzonspor",
       "team2": "Eyüpspor",
       "score": {
@@ -1136,6 +1388,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-26",
+      "time": "13:30",
       "team1": "Antalyaspor",
       "team2": "İstanbul Başakşehir",
       "score": {
@@ -1150,6 +1405,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-26",
+      "time": "16:00",
       "team1": "Galatasaray",
       "team2": "Göztepe",
       "score": {
@@ -1164,6 +1422,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-26",
+      "time": "16:00",
       "team1": "Gençlerbirliği",
       "team2": "Konyaspor",
       "score": {
@@ -1178,6 +1439,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-26",
+      "time": "19:00",
       "team1": "Kasımpaşa SK",
       "team2": "Beşiktaş",
       "score": {
@@ -1192,6 +1456,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-27",
+      "time": "19:00",
       "team1": "Samsunspor",
       "team2": "Çaykur Rizespor",
       "score": {
@@ -1206,6 +1473,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-27",
+      "time": "19:00",
       "team1": "Gaziantep FK",
       "team2": "Fenerbahçe",
       "score": {
@@ -1220,6 +1490,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-31",
+      "time": "19:00",
       "team1": "İstanbul Başakşehir",
       "team2": "Kocaelispor",
       "score": {
@@ -1234,6 +1507,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-01",
+      "time": "16:00",
       "team1": "Göztepe",
       "team2": "Gençlerbirliği",
       "score": {
@@ -1248,6 +1524,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-01",
+      "time": "19:00",
       "team1": "Galatasaray",
       "team2": "Trabzonspor",
       "score": [
@@ -1256,6 +1535,9 @@
       ]
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-02",
+      "time": "13:30",
       "team1": "Konyaspor",
       "team2": "Samsunspor",
       "score": {
@@ -1270,6 +1552,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-02",
+      "time": "16:00",
       "team1": "Kayserispor",
       "team2": "Kasımpaşa SK",
       "score": {
@@ -1284,6 +1569,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-02",
+      "time": "19:00",
       "team1": "Beşiktaş",
       "team2": "Fenerbahçe",
       "score": {
@@ -1298,6 +1586,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-03",
+      "time": "19:00",
       "team1": "Eyüpspor",
       "team2": "Antalyaspor",
       "score": {
@@ -1312,6 +1603,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-03",
+      "time": "19:00",
       "team1": "Alanyaspor",
       "team2": "Gaziantep FK",
       "score": [
@@ -1320,6 +1614,9 @@
       ]
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-03",
+      "time": "19:00",
       "team1": "Çaykur Rizespor",
       "team2": "Fatih Karagümrük",
       "score": {
@@ -1334,830 +1631,1289 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-07",
+      "time": "19:00",
       "team1": "Gençlerbirliği",
       "team2": "İstanbul Başakşehir"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-08",
+      "time": "13:30",
       "team1": "Gaziantep FK",
       "team2": "Çaykur Rizespor"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-08",
+      "time": "16:00",
       "team1": "Trabzonspor",
       "team2": "Alanyaspor"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-08",
+      "time": "19:00",
       "team1": "Kasımpaşa SK",
       "team2": "Göztepe"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-08",
+      "time": "19:00",
       "team1": "Antalyaspor",
       "team2": "Beşiktaş"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-09",
+      "time": "13:30",
       "team1": "Fatih Karagümrük",
       "team2": "Konyaspor"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-09",
+      "time": "16:00",
       "team1": "Kocaelispor",
       "team2": "Galatasaray"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-09",
+      "time": "19:00",
       "team1": "Samsunspor",
       "team2": "Eyüpspor"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-09",
+      "time": "19:00",
       "team1": "Fenerbahçe",
       "team2": "Kayserispor"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-22",
+      "time": "13:30",
       "team1": "Kayserispor",
       "team2": "Gaziantep FK"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-22",
+      "time": "16:00",
       "team1": "Eyüpspor",
       "team2": "Fatih Karagümrük"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-22",
+      "time": "19:00",
       "team1": "Galatasaray",
       "team2": "Gençlerbirliği"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-23",
+      "time": "13:30",
       "team1": "Göztepe",
       "team2": "Kocaelispor"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-23",
+      "time": "16:00",
       "team1": "Beşiktaş",
       "team2": "Samsunspor"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-23",
+      "time": "16:00",
       "team1": "Alanyaspor",
       "team2": "Kasımpaşa SK"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-23",
+      "time": "19:00",
       "team1": "Çaykur Rizespor",
       "team2": "Fenerbahçe"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-24",
+      "time": "19:00",
       "team1": "Konyaspor",
       "team2": "Antalyaspor"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-24",
+      "time": "19:00",
       "team1": "İstanbul Başakşehir",
       "team2": "Trabzonspor"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-28",
+      "time": "19:00",
       "team1": "Kocaelispor",
       "team2": "Gençlerbirliği"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-29",
+      "time": "13:30",
       "team1": "Çaykur Rizespor",
       "team2": "Kayserispor"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-29",
+      "time": "16:00",
       "team1": "Gaziantep FK",
       "team2": "Eyüpspor"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-29",
+      "time": "19:00",
       "team1": "Kasımpaşa SK",
       "team2": "İstanbul Başakşehir"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-29",
+      "time": "19:00",
       "team1": "Trabzonspor",
       "team2": "Konyaspor"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-30",
+      "time": "16:00",
       "team1": "Antalyaspor",
       "team2": "Göztepe"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-30",
+      "time": "19:00",
       "team1": "Fatih Karagümrük",
       "team2": "Beşiktaş"
     },
     {
+      "round": "14. Round",
+      "date": "2025-12-01",
+      "time": "19:00",
       "team1": "Samsunspor",
       "team2": "Alanyaspor"
     },
     {
+      "round": "14. Round",
+      "date": "2025-12-01",
+      "time": "19:00",
       "team1": "Fenerbahçe",
       "team2": "Galatasaray"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-05",
+      "time": "19:00",
       "team1": "Galatasaray",
       "team2": "Samsunspor"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-06",
+      "time": "13:30",
       "team1": "Eyüpspor",
       "team2": "Kayserispor"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-06",
+      "time": "16:00",
       "team1": "Konyaspor",
       "team2": "Çaykur Rizespor"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-06",
+      "time": "19:00",
       "team1": "İstanbul Başakşehir",
       "team2": "Fenerbahçe"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-07",
+      "time": "13:30",
       "team1": "Gençlerbirliği",
       "team2": "Fatih Karagümrük"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-07",
+      "time": "16:00",
       "team1": "Kocaelispor",
       "team2": "Kasımpaşa SK"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-07",
+      "time": "19:00",
       "team1": "Göztepe",
       "team2": "Trabzonspor"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-08",
+      "time": "19:00",
       "team1": "Beşiktaş",
       "team2": "Gaziantep FK"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-08",
+      "time": "19:00",
       "team1": "Alanyaspor",
       "team2": "Antalyaspor"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-12",
+      "time": "19:00",
       "team1": "Kasımpaşa SK",
       "team2": "Gençlerbirliği"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-13",
+      "time": "13:30",
       "team1": "Çaykur Rizespor",
       "team2": "Eyüpspor"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-13",
+      "time": "16:00",
       "team1": "Kayserispor",
       "team2": "Alanyaspor"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-13",
+      "time": "19:00",
       "team1": "Antalyaspor",
       "team2": "Galatasaray"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-14",
+      "time": "13:30",
       "team1": "Gaziantep FK",
       "team2": "Göztepe"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-14",
+      "time": "16:00",
       "team1": "Fatih Karagümrük",
       "team2": "Kocaelispor"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-14",
+      "time": "19:00",
       "team1": "Trabzonspor",
       "team2": "Beşiktaş"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-14",
+      "time": "19:00",
       "team1": "Samsunspor",
       "team2": "İstanbul Başakşehir"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-14",
+      "time": "19:00",
       "team1": "Fenerbahçe",
       "team2": "Konyaspor"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-21",
       "team1": "Eyüpspor",
       "team2": "Fenerbahçe"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-21",
       "team1": "Konyaspor",
       "team2": "Kayserispor"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-21",
       "team1": "Beşiktaş",
       "team2": "Çaykur Rizespor"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-21",
       "team1": "Alanyaspor",
       "team2": "Fatih Karagümrük"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-21",
       "team1": "İstanbul Başakşehir",
       "team2": "Gaziantep FK"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-21",
       "team1": "Göztepe",
       "team2": "Samsunspor"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-21",
       "team1": "Galatasaray",
       "team2": "Kasımpaşa SK"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-21",
       "team1": "Gençlerbirliği",
       "team2": "Trabzonspor"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-21",
       "team1": "Kocaelispor",
       "team2": "Antalyaspor"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-18",
       "team1": "Konyaspor",
       "team2": "Eyüpspor"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-18",
       "team1": "Kasımpaşa SK",
       "team2": "Antalyaspor"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-18",
       "team1": "Kocaelispor",
       "team2": "Trabzonspor"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-18",
       "team1": "Gençlerbirliği",
       "team2": "Samsunspor"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-18",
       "team1": "İstanbul Başakşehir",
       "team2": "Fatih Karagümrük"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-18",
       "team1": "Galatasaray",
       "team2": "Gaziantep FK"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-18",
       "team1": "Alanyaspor",
       "team2": "Fenerbahçe"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-18",
       "team1": "Göztepe",
       "team2": "Çaykur Rizespor"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-18",
       "team1": "Beşiktaş",
       "team2": "Kayserispor"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-25",
       "team1": "Trabzonspor",
       "team2": "Kasımpaşa SK"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-25",
       "team1": "Gaziantep FK",
       "team2": "Konyaspor"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-25",
       "team1": "Eyüpspor",
       "team2": "Beşiktaş"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-25",
       "team1": "Çaykur Rizespor",
       "team2": "Alanyaspor"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-25",
       "team1": "Kayserispor",
       "team2": "İstanbul Başakşehir"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-25",
       "team1": "Fenerbahçe",
       "team2": "Göztepe"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-25",
       "team1": "Fatih Karagümrük",
       "team2": "Galatasaray"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-25",
       "team1": "Antalyaspor",
       "team2": "Gençlerbirliği"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-25",
       "team1": "Samsunspor",
       "team2": "Kocaelispor"
     },
     {
+      "round": "20. Round",
+      "date": "2026-02-01",
       "team1": "Alanyaspor",
       "team2": "Eyüpspor"
     },
     {
+      "round": "20. Round",
+      "date": "2026-02-01",
       "team1": "Beşiktaş",
       "team2": "Konyaspor"
     },
     {
+      "round": "20. Round",
+      "date": "2026-02-01",
       "team1": "Antalyaspor",
       "team2": "Trabzonspor"
     },
     {
+      "round": "20. Round",
+      "date": "2026-02-01",
       "team1": "Kasımpaşa SK",
       "team2": "Samsunspor"
     },
     {
+      "round": "20. Round",
+      "date": "2026-02-01",
       "team1": "Göztepe",
       "team2": "Fatih Karagümrük"
     },
     {
+      "round": "20. Round",
+      "date": "2026-02-01",
       "team1": "Gençlerbirliği",
       "team2": "Gaziantep FK"
     },
     {
+      "round": "20. Round",
+      "date": "2026-02-01",
       "team1": "Kocaelispor",
       "team2": "Fenerbahçe"
     },
     {
+      "round": "20. Round",
+      "date": "2026-02-01",
       "team1": "İstanbul Başakşehir",
       "team2": "Çaykur Rizespor"
     },
     {
+      "round": "20. Round",
+      "date": "2026-02-01",
       "team1": "Galatasaray",
       "team2": "Kayserispor"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-08",
       "team1": "Gaziantep FK",
       "team2": "Kasımpaşa SK"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-08",
       "team1": "Fatih Karagümrük",
       "team2": "Antalyaspor"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-08",
       "team1": "Samsunspor",
       "team2": "Trabzonspor"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-08",
       "team1": "Beşiktaş",
       "team2": "Alanyaspor"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-08",
       "team1": "Eyüpspor",
       "team2": "İstanbul Başakşehir"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-08",
       "team1": "Konyaspor",
       "team2": "Göztepe"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-08",
       "team1": "Çaykur Rizespor",
       "team2": "Galatasaray"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-08",
       "team1": "Fenerbahçe",
       "team2": "Gençlerbirliği"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-08",
       "team1": "Kayserispor",
       "team2": "Kocaelispor"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-15",
       "team1": "Galatasaray",
       "team2": "Eyüpspor"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-15",
       "team1": "Alanyaspor",
       "team2": "Konyaspor"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-15",
       "team1": "İstanbul Başakşehir",
       "team2": "Beşiktaş"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-15",
       "team1": "Antalyaspor",
       "team2": "Samsunspor"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-15",
       "team1": "Kasımpaşa SK",
       "team2": "Fatih Karagümrük"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-15",
       "team1": "Kocaelispor",
       "team2": "Gaziantep FK"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-15",
       "team1": "Trabzonspor",
       "team2": "Fenerbahçe"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-15",
       "team1": "Gençlerbirliği",
       "team2": "Çaykur Rizespor"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-15",
       "team1": "Göztepe",
       "team2": "Kayserispor"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-22",
       "team1": "Fenerbahçe",
       "team2": "Kasımpaşa SK"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-22",
       "team1": "Kayserispor",
       "team2": "Antalyaspor"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-22",
       "team1": "Gaziantep FK",
       "team2": "Trabzonspor"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-22",
       "team1": "Fatih Karagümrük",
       "team2": "Samsunspor"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-22",
       "team1": "Alanyaspor",
       "team2": "İstanbul Başakşehir"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-22",
       "team1": "Beşiktaş",
       "team2": "Göztepe"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-22",
       "team1": "Konyaspor",
       "team2": "Galatasaray"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-22",
       "team1": "Eyüpspor",
       "team2": "Gençlerbirliği"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-22",
       "team1": "Çaykur Rizespor",
       "team2": "Kocaelispor"
     },
     {
+      "round": "24. Round",
+      "date": "2026-03-01",
       "team1": "Göztepe",
       "team2": "Eyüpspor"
     },
     {
+      "round": "24. Round",
+      "date": "2026-03-01",
       "team1": "İstanbul Başakşehir",
       "team2": "Konyaspor"
     },
     {
+      "round": "24. Round",
+      "date": "2026-03-01",
       "team1": "Kocaelispor",
       "team2": "Beşiktaş"
     },
     {
+      "round": "24. Round",
+      "date": "2026-03-01",
       "team1": "Galatasaray",
       "team2": "Alanyaspor"
     },
     {
+      "round": "24. Round",
+      "date": "2026-03-01",
       "team1": "Trabzonspor",
       "team2": "Fatih Karagümrük"
     },
     {
+      "round": "24. Round",
+      "date": "2026-03-01",
       "team1": "Samsunspor",
       "team2": "Gaziantep FK"
     },
     {
+      "round": "24. Round",
+      "date": "2026-03-01",
       "team1": "Antalyaspor",
       "team2": "Fenerbahçe"
     },
     {
+      "round": "24. Round",
+      "date": "2026-03-01",
       "team1": "Kasımpaşa SK",
       "team2": "Çaykur Rizespor"
     },
     {
+      "round": "24. Round",
+      "date": "2026-03-01",
       "team1": "Gençlerbirliği",
       "team2": "Kayserispor"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-08",
       "team1": "Konyaspor",
       "team2": "Kasımpaşa SK"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-08",
       "team1": "Çaykur Rizespor",
       "team2": "Antalyaspor"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-08",
       "team1": "Kayserispor",
       "team2": "Trabzonspor"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-08",
       "team1": "Fenerbahçe",
       "team2": "Samsunspor"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-08",
       "team1": "Gaziantep FK",
       "team2": "Fatih Karagümrük"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-08",
       "team1": "İstanbul Başakşehir",
       "team2": "Göztepe"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-08",
       "team1": "Beşiktaş",
       "team2": "Galatasaray"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-08",
       "team1": "Alanyaspor",
       "team2": "Gençlerbirliği"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-08",
       "team1": "Eyüpspor",
       "team2": "Kocaelispor"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-15",
       "team1": "Kasımpaşa SK",
       "team2": "Eyüpspor"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-15",
       "team1": "Kocaelispor",
       "team2": "Konyaspor"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-15",
       "team1": "Gençlerbirliği",
       "team2": "Beşiktaş"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-15",
       "team1": "Göztepe",
       "team2": "Alanyaspor"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-15",
       "team1": "Galatasaray",
       "team2": "İstanbul Başakşehir"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-15",
       "team1": "Antalyaspor",
       "team2": "Gaziantep FK"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-15",
       "team1": "Fatih Karagümrük",
       "team2": "Fenerbahçe"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-15",
       "team1": "Trabzonspor",
       "team2": "Çaykur Rizespor"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-15",
       "team1": "Samsunspor",
       "team2": "Kayserispor"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-22",
       "team1": "Beşiktaş",
       "team2": "Kasımpaşa SK"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-22",
       "team1": "İstanbul Başakşehir",
       "team2": "Antalyaspor"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-22",
       "team1": "Eyüpspor",
       "team2": "Trabzonspor"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-22",
       "team1": "Çaykur Rizespor",
       "team2": "Samsunspor"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-22",
       "team1": "Kayserispor",
       "team2": "Fatih Karagümrük"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-22",
       "team1": "Fenerbahçe",
       "team2": "Gaziantep FK"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-22",
       "team1": "Göztepe",
       "team2": "Galatasaray"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-22",
       "team1": "Konyaspor",
       "team2": "Gençlerbirliği"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-22",
       "team1": "Alanyaspor",
       "team2": "Kocaelispor"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "Antalyaspor",
       "team2": "Eyüpspor"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "Samsunspor",
       "team2": "Konyaspor"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "Fenerbahçe",
       "team2": "Beşiktaş"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "Gaziantep FK",
       "team2": "Alanyaspor"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "Kocaelispor",
       "team2": "İstanbul Başakşehir"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "Gençlerbirliği",
       "team2": "Göztepe"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "Trabzonspor",
       "team2": "Galatasaray"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "Fatih Karagümrük",
       "team2": "Çaykur Rizespor"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "Kasımpaşa SK",
       "team2": "Kayserispor"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-12",
       "team1": "Göztepe",
       "team2": "Kasımpaşa SK"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-12",
       "team1": "Beşiktaş",
       "team2": "Antalyaspor"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-12",
       "team1": "Alanyaspor",
       "team2": "Trabzonspor"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-12",
       "team1": "Eyüpspor",
       "team2": "Samsunspor"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-12",
       "team1": "Konyaspor",
       "team2": "Fatih Karagümrük"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-12",
       "team1": "Çaykur Rizespor",
       "team2": "Gaziantep FK"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-12",
       "team1": "Kayserispor",
       "team2": "Fenerbahçe"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-12",
       "team1": "İstanbul Başakşehir",
       "team2": "Gençlerbirliği"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-12",
       "team1": "Galatasaray",
       "team2": "Kocaelispor"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-19",
       "team1": "Fatih Karagümrük",
       "team2": "Eyüpspor"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-19",
       "team1": "Antalyaspor",
       "team2": "Konyaspor"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-19",
       "team1": "Samsunspor",
       "team2": "Beşiktaş"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-19",
       "team1": "Kasımpaşa SK",
       "team2": "Alanyaspor"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-19",
       "team1": "Trabzonspor",
       "team2": "İstanbul Başakşehir"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-19",
       "team1": "Kocaelispor",
       "team2": "Göztepe"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-19",
       "team1": "Gençlerbirliği",
       "team2": "Galatasaray"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-19",
       "team1": "Fenerbahçe",
       "team2": "Çaykur Rizespor"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-19",
       "team1": "Gaziantep FK",
       "team2": "Kayserispor"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-26",
       "team1": "İstanbul Başakşehir",
       "team2": "Kasımpaşa SK"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-26",
       "team1": "Göztepe",
       "team2": "Antalyaspor"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-26",
       "team1": "Konyaspor",
       "team2": "Trabzonspor"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-26",
       "team1": "Alanyaspor",
       "team2": "Samsunspor"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-26",
       "team1": "Beşiktaş",
       "team2": "Fatih Karagümrük"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-26",
       "team1": "Eyüpspor",
       "team2": "Gaziantep FK"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-26",
       "team1": "Galatasaray",
       "team2": "Fenerbahçe"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-26",
       "team1": "Kayserispor",
       "team2": "Çaykur Rizespor"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-26",
       "team1": "Gençlerbirliği",
       "team2": "Kocaelispor"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "Kayserispor",
       "team2": "Eyüpspor"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "Çaykur Rizespor",
       "team2": "Konyaspor"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "Gaziantep FK",
       "team2": "Beşiktaş"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "Antalyaspor",
       "team2": "Alanyaspor"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "Fenerbahçe",
       "team2": "İstanbul Başakşehir"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "Trabzonspor",
       "team2": "Göztepe"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "Samsunspor",
       "team2": "Galatasaray"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "Fatih Karagümrük",
       "team2": "Gençlerbirliği"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "Kasımpaşa SK",
       "team2": "Kocaelispor"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-10",
       "team1": "Gençlerbirliği",
       "team2": "Kasımpaşa SK"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-10",
       "team1": "Galatasaray",
       "team2": "Antalyaspor"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-10",
       "team1": "Beşiktaş",
       "team2": "Trabzonspor"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-10",
       "team1": "İstanbul Başakşehir",
       "team2": "Samsunspor"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-10",
       "team1": "Kocaelispor",
       "team2": "Fatih Karagümrük"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-10",
       "team1": "Göztepe",
       "team2": "Gaziantep FK"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-10",
       "team1": "Konyaspor",
       "team2": "Fenerbahçe"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-10",
       "team1": "Eyüpspor",
       "team2": "Çaykur Rizespor"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-10",
       "team1": "Alanyaspor",
       "team2": "Kayserispor"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
       "team1": "Fenerbahçe",
       "team2": "Eyüpspor"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
       "team1": "Kayserispor",
       "team2": "Konyaspor"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
       "team1": "Çaykur Rizespor",
       "team2": "Beşiktaş"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
       "team1": "Fatih Karagümrük",
       "team2": "Alanyaspor"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
       "team1": "Gaziantep FK",
       "team2": "İstanbul Başakşehir"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
       "team1": "Samsunspor",
       "team2": "Göztepe"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
       "team1": "Kasımpaşa SK",
       "team2": "Galatasaray"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
       "team1": "Trabzonspor",
       "team2": "Gençlerbirliği"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
       "team1": "Antalyaspor",
       "team2": "Kocaelispor"
     }

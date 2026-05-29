@@ -2,6 +2,9 @@
   "name": "Deutsche 2. Bundesliga 2025/26",
   "matches": [
     {
+      "round": "1. Round",
+      "date": "2025-08-01",
+      "time": "19:30",
       "team1": "FC Schalke 04",
       "team2": "Hertha BSC",
       "score": {
@@ -16,6 +19,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "12:00",
       "team1": "SV 07 Elversberg",
       "team2": "1. FC Nürnberg",
       "score": {
@@ -30,6 +36,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "12:00",
       "team1": "SC Paderborn 07",
       "team2": "Holstein Kiel",
       "score": {
@@ -44,6 +53,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "12:00",
       "team1": "Karlsruher SC",
       "team2": "Preußen Münster",
       "score": {
@@ -58,6 +70,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "12:00",
       "team1": "SV Darmstadt 98",
       "team2": "VfL Bochum",
       "score": {
@@ -72,6 +87,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-02",
+      "time": "19:30",
       "team1": "Arminia Bielefeld",
       "team2": "Fortuna Düsseldorf",
       "score": {
@@ -86,6 +104,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-03",
+      "time": "12:30",
       "team1": "1. FC Magdeburg",
       "team2": "Eintracht Braunschweig",
       "score": {
@@ -100,6 +121,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-03",
+      "time": "12:30",
       "team1": "Hannover 96",
       "team2": "1. FC Kaiserslautern",
       "score": {
@@ -114,6 +138,9 @@
       }
     },
     {
+      "round": "1. Round",
+      "date": "2025-08-03",
+      "time": "12:30",
       "team1": "SpVgg Greuther Fürth",
       "team2": "Dynamo Dresden",
       "score": {
@@ -128,6 +155,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-08",
+      "time": "17:30",
       "team1": "1. FC Nürnberg",
       "team2": "SV Darmstadt 98",
       "score": {
@@ -142,6 +172,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-08",
+      "time": "17:30",
       "team1": "Preußen Münster",
       "team2": "SC Paderborn 07",
       "score": {
@@ -156,6 +189,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "12:00",
       "team1": "Fortuna Düsseldorf",
       "team2": "Hannover 96",
       "score": {
@@ -170,6 +206,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "12:00",
       "team1": "Eintracht Braunschweig",
       "team2": "SpVgg Greuther Fürth",
       "score": {
@@ -184,6 +223,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "12:00",
       "team1": "Dynamo Dresden",
       "team2": "1. FC Magdeburg",
       "score": {
@@ -198,6 +240,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-09",
+      "time": "19:30",
       "team1": "1. FC Kaiserslautern",
       "team2": "FC Schalke 04",
       "score": {
@@ -212,6 +257,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-10",
+      "time": "12:30",
       "team1": "Holstein Kiel",
       "team2": "Arminia Bielefeld",
       "score": {
@@ -226,6 +274,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-10",
+      "time": "12:30",
       "team1": "VfL Bochum",
       "team2": "SV 07 Elversberg",
       "score": {
@@ -240,6 +291,9 @@
       }
     },
     {
+      "round": "2. Round",
+      "date": "2025-08-10",
+      "time": "12:30",
       "team1": "Hertha BSC",
       "team2": "Karlsruher SC",
       "score": [
@@ -248,6 +302,9 @@
       ]
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-22",
+      "time": "17:30",
       "team1": "SV 07 Elversberg",
       "team2": "1. FC Kaiserslautern",
       "score": {
@@ -262,6 +319,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-22",
+      "time": "17:30",
       "team1": "Preußen Münster",
       "team2": "1. FC Nürnberg",
       "score": {
@@ -276,6 +336,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-23",
+      "time": "12:00",
       "team1": "SC Paderborn 07",
       "team2": "Fortuna Düsseldorf",
       "score": {
@@ -290,6 +353,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-23",
+      "time": "12:00",
       "team1": "Karlsruher SC",
       "team2": "Eintracht Braunschweig",
       "score": {
@@ -304,6 +370,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-23",
+      "time": "12:00",
       "team1": "Hannover 96",
       "team2": "1. FC Magdeburg",
       "score": {
@@ -318,6 +387,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-23",
+      "time": "19:30",
       "team1": "FC Schalke 04",
       "team2": "VfL Bochum",
       "score": {
@@ -332,6 +404,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-24",
+      "time": "12:30",
       "team1": "SV Darmstadt 98",
       "team2": "Hertha BSC",
       "score": [
@@ -340,6 +415,9 @@
       ]
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-24",
+      "time": "12:30",
       "team1": "SpVgg Greuther Fürth",
       "team2": "Holstein Kiel",
       "score": {
@@ -354,6 +432,9 @@
       }
     },
     {
+      "round": "3. Round",
+      "date": "2025-08-24",
+      "time": "12:30",
       "team1": "Arminia Bielefeld",
       "team2": "Dynamo Dresden",
       "score": {
@@ -368,6 +449,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-29",
+      "time": "17:30",
       "team1": "1. FC Nürnberg",
       "team2": "SC Paderborn 07",
       "score": [
@@ -376,6 +460,9 @@
       ]
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-29",
+      "time": "17:30",
       "team1": "Hertha BSC",
       "team2": "SV 07 Elversberg",
       "score": {
@@ -390,6 +477,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-30",
+      "time": "12:00",
       "team1": "Holstein Kiel",
       "team2": "Hannover 96",
       "score": {
@@ -404,6 +494,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-30",
+      "time": "12:00",
       "team1": "VfL Bochum",
       "team2": "Preußen Münster",
       "score": {
@@ -418,6 +511,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-30",
+      "time": "12:00",
       "team1": "Eintracht Braunschweig",
       "team2": "Arminia Bielefeld",
       "score": {
@@ -432,6 +528,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-30",
+      "time": "19:30",
       "team1": "Fortuna Düsseldorf",
       "team2": "Karlsruher SC",
       "score": [
@@ -440,6 +539,9 @@
       ]
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-31",
+      "time": "12:30",
       "team1": "1. FC Magdeburg",
       "team2": "SpVgg Greuther Fürth",
       "score": {
@@ -454,6 +556,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-31",
+      "time": "12:30",
       "team1": "1. FC Kaiserslautern",
       "team2": "SV Darmstadt 98",
       "score": {
@@ -468,6 +573,9 @@
       }
     },
     {
+      "round": "4. Round",
+      "date": "2025-08-31",
+      "time": "12:30",
       "team1": "Dynamo Dresden",
       "team2": "FC Schalke 04",
       "score": {
@@ -482,6 +590,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-12",
+      "time": "17:30",
       "team1": "SC Paderborn 07",
       "team2": "VfL Bochum",
       "score": {
@@ -496,6 +607,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-12",
+      "time": "17:30",
       "team1": "Arminia Bielefeld",
       "team2": "1. FC Magdeburg",
       "score": {
@@ -510,6 +624,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "12:00",
       "team1": "Karlsruher SC",
       "team2": "1. FC Nürnberg",
       "score": {
@@ -524,6 +641,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "12:00",
       "team1": "SV Darmstadt 98",
       "team2": "Eintracht Braunschweig",
       "score": {
@@ -538,6 +658,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "12:00",
       "team1": "FC Schalke 04",
       "team2": "Holstein Kiel",
       "score": {
@@ -552,6 +675,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-13",
+      "time": "19:30",
       "team1": "Hannover 96",
       "team2": "Hertha BSC",
       "score": {
@@ -566,6 +692,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-14",
+      "time": "12:30",
       "team1": "SV 07 Elversberg",
       "team2": "Dynamo Dresden",
       "score": {
@@ -580,6 +709,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-14",
+      "time": "12:30",
       "team1": "SpVgg Greuther Fürth",
       "team2": "1. FC Kaiserslautern",
       "score": {
@@ -594,6 +726,9 @@
       }
     },
     {
+      "round": "5. Round",
+      "date": "2025-09-14",
+      "time": "12:30",
       "team1": "Preußen Münster",
       "team2": "Fortuna Düsseldorf",
       "score": {
@@ -608,6 +743,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-19",
+      "time": "17:30",
       "team1": "1. FC Kaiserslautern",
       "team2": "Preußen Münster",
       "score": {
@@ -622,6 +760,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-19",
+      "time": "17:30",
       "team1": "Arminia Bielefeld",
       "team2": "SpVgg Greuther Fürth",
       "score": {
@@ -636,6 +777,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-20",
+      "time": "12:00",
       "team1": "1. FC Magdeburg",
       "team2": "FC Schalke 04",
       "score": {
@@ -650,6 +794,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-20",
+      "time": "12:00",
       "team1": "Hertha BSC",
       "team2": "SC Paderborn 07",
       "score": {
@@ -664,6 +811,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-20",
+      "time": "12:00",
       "team1": "Eintracht Braunschweig",
       "team2": "SV 07 Elversberg",
       "score": {
@@ -678,6 +828,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-20",
+      "time": "19:30",
       "team1": "1. FC Nürnberg",
       "team2": "VfL Bochum",
       "score": {
@@ -692,6 +845,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-21",
+      "time": "12:30",
       "team1": "Holstein Kiel",
       "team2": "Karlsruher SC",
       "score": {
@@ -706,6 +862,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-21",
+      "time": "12:30",
       "team1": "Fortuna Düsseldorf",
       "team2": "SV Darmstadt 98",
       "score": {
@@ -720,6 +879,9 @@
       }
     },
     {
+      "round": "6. Round",
+      "date": "2025-09-21",
+      "time": "12:30",
       "team1": "Dynamo Dresden",
       "team2": "Hannover 96",
       "score": {
@@ -734,6 +896,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-26",
+      "time": "17:30",
       "team1": "SV Darmstadt 98",
       "team2": "Dynamo Dresden",
       "score": {
@@ -748,6 +913,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-26",
+      "time": "17:30",
       "team1": "FC Schalke 04",
       "team2": "SpVgg Greuther Fürth",
       "score": {
@@ -762,6 +930,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-27",
+      "time": "12:00",
       "team1": "SV 07 Elversberg",
       "team2": "Holstein Kiel",
       "score": {
@@ -776,6 +947,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-27",
+      "time": "12:00",
       "team1": "SC Paderborn 07",
       "team2": "1. FC Kaiserslautern",
       "score": {
@@ -790,6 +964,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-27",
+      "time": "12:00",
       "team1": "Karlsruher SC",
       "team2": "1. FC Magdeburg",
       "score": {
@@ -804,6 +981,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-27",
+      "time": "19:30",
       "team1": "VfL Bochum",
       "team2": "Fortuna Düsseldorf",
       "score": {
@@ -818,6 +998,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-28",
+      "time": "12:30",
       "team1": "Hannover 96",
       "team2": "Arminia Bielefeld",
       "score": {
@@ -832,6 +1015,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-28",
+      "time": "12:30",
       "team1": "1. FC Nürnberg",
       "team2": "Hertha BSC",
       "score": {
@@ -846,6 +1032,9 @@
       }
     },
     {
+      "round": "7. Round",
+      "date": "2025-09-28",
+      "time": "12:30",
       "team1": "Preußen Münster",
       "team2": "Eintracht Braunschweig",
       "score": {
@@ -860,6 +1049,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-03",
+      "time": "17:30",
       "team1": "Fortuna Düsseldorf",
       "team2": "1. FC Nürnberg",
       "score": {
@@ -874,6 +1066,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-03",
+      "time": "17:30",
       "team1": "Eintracht Braunschweig",
       "team2": "SC Paderborn 07",
       "score": {
@@ -888,6 +1083,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-04",
+      "time": "12:00",
       "team1": "Holstein Kiel",
       "team2": "SV Darmstadt 98",
       "score": {
@@ -902,6 +1100,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-04",
+      "time": "12:00",
       "team1": "1. FC Kaiserslautern",
       "team2": "VfL Bochum",
       "score": {
@@ -916,6 +1117,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-04",
+      "time": "12:00",
       "team1": "Hertha BSC",
       "team2": "Preußen Münster",
       "score": {
@@ -930,6 +1134,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-04",
+      "time": "19:30",
       "team1": "Dynamo Dresden",
       "team2": "Karlsruher SC",
       "score": {
@@ -944,6 +1151,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-05",
+      "time": "12:30",
       "team1": "1. FC Magdeburg",
       "team2": "SV 07 Elversberg",
       "score": {
@@ -958,6 +1168,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-05",
+      "time": "12:30",
       "team1": "SpVgg Greuther Fürth",
       "team2": "Hannover 96",
       "score": {
@@ -972,6 +1185,9 @@
       }
     },
     {
+      "round": "8. Round",
+      "date": "2025-10-05",
+      "time": "12:30",
       "team1": "Arminia Bielefeld",
       "team2": "FC Schalke 04",
       "score": {
@@ -986,6 +1202,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-17",
+      "time": "17:30",
       "team1": "Fortuna Düsseldorf",
       "team2": "Eintracht Braunschweig",
       "score": {
@@ -1000,6 +1219,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-17",
+      "time": "17:30",
       "team1": "Hannover 96",
       "team2": "FC Schalke 04",
       "score": {
@@ -1014,6 +1236,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-18",
+      "time": "12:00",
       "team1": "SC Paderborn 07",
       "team2": "Arminia Bielefeld",
       "score": {
@@ -1028,6 +1253,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-18",
+      "time": "12:00",
       "team1": "Karlsruher SC",
       "team2": "1. FC Kaiserslautern",
       "score": {
@@ -1042,6 +1270,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-18",
+      "time": "12:00",
       "team1": "Preußen Münster",
       "team2": "Dynamo Dresden",
       "score": {
@@ -1056,6 +1287,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-18",
+      "time": "19:30",
       "team1": "VfL Bochum",
       "team2": "Hertha BSC",
       "score": {
@@ -1070,6 +1304,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-19",
+      "time": "12:30",
       "team1": "SV 07 Elversberg",
       "team2": "SpVgg Greuther Fürth",
       "score": {
@@ -1084,6 +1321,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-19",
+      "time": "12:30",
       "team1": "1. FC Nürnberg",
       "team2": "Holstein Kiel",
       "score": {
@@ -1098,6 +1338,9 @@
       }
     },
     {
+      "round": "9. Round",
+      "date": "2025-10-19",
+      "time": "12:30",
       "team1": "SV Darmstadt 98",
       "team2": "1. FC Magdeburg",
       "score": [
@@ -1106,6 +1349,9 @@
       ]
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-24",
+      "time": "17:30",
       "team1": "SpVgg Greuther Fürth",
       "team2": "Karlsruher SC",
       "score": {
@@ -1120,6 +1366,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-24",
+      "time": "17:30",
       "team1": "FC Schalke 04",
       "team2": "SV Darmstadt 98",
       "score": {
@@ -1134,6 +1383,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-25",
+      "time": "12:00",
       "team1": "Holstein Kiel",
       "team2": "VfL Bochum",
       "score": {
@@ -1148,6 +1400,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-25",
+      "time": "12:00",
       "team1": "Arminia Bielefeld",
       "team2": "SV 07 Elversberg",
       "score": {
@@ -1162,6 +1417,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-25",
+      "time": "12:00",
       "team1": "Dynamo Dresden",
       "team2": "SC Paderborn 07",
       "score": {
@@ -1176,6 +1434,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-25",
+      "time": "19:30",
       "team1": "Hertha BSC",
       "team2": "Fortuna Düsseldorf",
       "score": {
@@ -1190,6 +1451,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-26",
+      "time": "12:30",
       "team1": "1. FC Magdeburg",
       "team2": "Preußen Münster",
       "score": {
@@ -1204,6 +1468,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-26",
+      "time": "12:30",
       "team1": "1. FC Kaiserslautern",
       "team2": "1. FC Nürnberg",
       "score": {
@@ -1218,6 +1485,9 @@
       }
     },
     {
+      "round": "10. Round",
+      "date": "2025-10-26",
+      "time": "12:30",
       "team1": "Eintracht Braunschweig",
       "team2": "Hannover 96",
       "score": {
@@ -1232,6 +1502,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-31",
+      "time": "17:30",
       "team1": "SV 07 Elversberg",
       "team2": "Hannover 96",
       "score": {
@@ -1246,6 +1519,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-10-31",
+      "time": "17:30",
       "team1": "Preußen Münster",
       "team2": "Holstein Kiel",
       "score": {
@@ -1260,6 +1536,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-01",
+      "time": "12:00",
       "team1": "Karlsruher SC",
       "team2": "FC Schalke 04",
       "score": {
@@ -1274,6 +1553,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-01",
+      "time": "12:00",
       "team1": "1. FC Nürnberg",
       "team2": "Eintracht Braunschweig",
       "score": {
@@ -1288,6 +1570,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-01",
+      "time": "12:00",
       "team1": "Hertha BSC",
       "team2": "Dynamo Dresden",
       "score": {
@@ -1302,6 +1587,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-01",
+      "time": "19:30",
       "team1": "SV Darmstadt 98",
       "team2": "Arminia Bielefeld",
       "score": {
@@ -1316,6 +1604,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-02",
+      "time": "12:30",
       "team1": "VfL Bochum",
       "team2": "1. FC Magdeburg",
       "score": {
@@ -1330,6 +1621,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-02",
+      "time": "12:30",
       "team1": "SC Paderborn 07",
       "team2": "SpVgg Greuther Fürth",
       "score": {
@@ -1344,6 +1638,9 @@
       }
     },
     {
+      "round": "11. Round",
+      "date": "2025-11-02",
+      "time": "12:30",
       "team1": "Fortuna Düsseldorf",
       "team2": "1. FC Kaiserslautern",
       "score": {
@@ -1358,830 +1655,1280 @@
       }
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-07",
+      "time": "17:30",
       "team1": "SpVgg Greuther Fürth",
       "team2": "Preußen Münster"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-07",
+      "time": "17:30",
       "team1": "Dynamo Dresden",
       "team2": "1. FC Nürnberg"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-08",
+      "time": "12:00",
       "team1": "Hannover 96",
       "team2": "SV Darmstadt 98"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-08",
+      "time": "12:00",
       "team1": "FC Schalke 04",
       "team2": "SV 07 Elversberg"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-08",
+      "time": "12:00",
       "team1": "Arminia Bielefeld",
       "team2": "Karlsruher SC"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-08",
+      "time": "19:30",
       "team1": "1. FC Kaiserslautern",
       "team2": "Hertha BSC"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-09",
+      "time": "12:30",
       "team1": "Holstein Kiel",
       "team2": "Fortuna Düsseldorf"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-09",
+      "time": "12:30",
       "team1": "1. FC Magdeburg",
       "team2": "SC Paderborn 07"
     },
     {
+      "round": "12. Round",
+      "date": "2025-11-09",
+      "time": "12:30",
       "team1": "Eintracht Braunschweig",
       "team2": "VfL Bochum"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-21",
+      "time": "17:30",
       "team1": "VfL Bochum",
       "team2": "Dynamo Dresden"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-21",
+      "time": "17:30",
       "team1": "Hertha BSC",
       "team2": "Eintracht Braunschweig"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-22",
+      "time": "12:00",
       "team1": "SC Paderborn 07",
       "team2": "Hannover 96"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-22",
+      "time": "12:00",
       "team1": "Fortuna Düsseldorf",
       "team2": "1. FC Magdeburg"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-22",
+      "time": "12:00",
       "team1": "Preußen Münster",
       "team2": "FC Schalke 04"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-22",
+      "time": "19:30",
       "team1": "SV Darmstadt 98",
       "team2": "SpVgg Greuther Fürth"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-23",
+      "time": "12:30",
       "team1": "1. FC Kaiserslautern",
       "team2": "Holstein Kiel"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-23",
+      "time": "12:30",
       "team1": "Karlsruher SC",
       "team2": "SV 07 Elversberg"
     },
     {
+      "round": "13. Round",
+      "date": "2025-11-23",
+      "time": "12:30",
       "team1": "1. FC Nürnberg",
       "team2": "Arminia Bielefeld"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-28",
+      "time": "17:30",
       "team1": "Hannover 96",
       "team2": "Karlsruher SC"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-28",
+      "time": "17:30",
       "team1": "FC Schalke 04",
       "team2": "SC Paderborn 07"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-29",
+      "time": "12:00",
       "team1": "Holstein Kiel",
       "team2": "Hertha BSC"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-29",
+      "time": "12:00",
       "team1": "SpVgg Greuther Fürth",
       "team2": "VfL Bochum"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-29",
+      "time": "12:00",
       "team1": "Eintracht Braunschweig",
       "team2": "1. FC Kaiserslautern"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-29",
+      "time": "19:30",
       "team1": "1. FC Magdeburg",
       "team2": "1. FC Nürnberg"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-30",
+      "time": "12:30",
       "team1": "SV 07 Elversberg",
       "team2": "SV Darmstadt 98"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-30",
+      "time": "12:30",
       "team1": "Arminia Bielefeld",
       "team2": "Preußen Münster"
     },
     {
+      "round": "14. Round",
+      "date": "2025-11-30",
+      "time": "12:30",
       "team1": "Dynamo Dresden",
       "team2": "Fortuna Düsseldorf"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-06",
       "team1": "VfL Bochum",
       "team2": "Arminia Bielefeld"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-06",
       "team1": "SC Paderborn 07",
       "team2": "SV 07 Elversberg"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-06",
       "team1": "Fortuna Düsseldorf",
       "team2": "FC Schalke 04"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-06",
       "team1": "1. FC Kaiserslautern",
       "team2": "Dynamo Dresden"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-06",
       "team1": "1. FC Nürnberg",
       "team2": "SpVgg Greuther Fürth"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-06",
       "team1": "Hertha BSC",
       "team2": "1. FC Magdeburg"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-06",
       "team1": "SV Darmstadt 98",
       "team2": "Karlsruher SC"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-06",
       "team1": "Preußen Münster",
       "team2": "Hannover 96"
     },
     {
+      "round": "15. Round",
+      "date": "2025-12-06",
       "team1": "Eintracht Braunschweig",
       "team2": "Holstein Kiel"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-12",
       "team1": "SV 07 Elversberg",
       "team2": "Fortuna Düsseldorf"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-12",
       "team1": "1. FC Magdeburg",
       "team2": "Holstein Kiel"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-12",
       "team1": "Karlsruher SC",
       "team2": "SC Paderborn 07"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-12",
       "team1": "Hannover 96",
       "team2": "VfL Bochum"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-12",
       "team1": "SV Darmstadt 98",
       "team2": "Preußen Münster"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-12",
       "team1": "SpVgg Greuther Fürth",
       "team2": "Hertha BSC"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-12",
       "team1": "FC Schalke 04",
       "team2": "1. FC Nürnberg"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-12",
       "team1": "Arminia Bielefeld",
       "team2": "1. FC Kaiserslautern"
     },
     {
+      "round": "16. Round",
+      "date": "2025-12-12",
       "team1": "Dynamo Dresden",
       "team2": "Eintracht Braunschweig"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-20",
       "team1": "Holstein Kiel",
       "team2": "Dynamo Dresden"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-20",
       "team1": "VfL Bochum",
       "team2": "Karlsruher SC"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-20",
       "team1": "SC Paderborn 07",
       "team2": "SV Darmstadt 98"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-20",
       "team1": "Fortuna Düsseldorf",
       "team2": "SpVgg Greuther Fürth"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-20",
       "team1": "1. FC Kaiserslautern",
       "team2": "1. FC Magdeburg"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-20",
       "team1": "1. FC Nürnberg",
       "team2": "Hannover 96"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-20",
       "team1": "Hertha BSC",
       "team2": "Arminia Bielefeld"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-20",
       "team1": "Preußen Münster",
       "team2": "SV 07 Elversberg"
     },
     {
+      "round": "17. Round",
+      "date": "2025-12-20",
       "team1": "Eintracht Braunschweig",
       "team2": "FC Schalke 04"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-17",
       "team1": "1. FC Nürnberg",
       "team2": "SV 07 Elversberg"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-17",
       "team1": "Holstein Kiel",
       "team2": "SC Paderborn 07"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-17",
       "team1": "Eintracht Braunschweig",
       "team2": "1. FC Magdeburg"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-17",
       "team1": "Preußen Münster",
       "team2": "Karlsruher SC"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-17",
       "team1": "1. FC Kaiserslautern",
       "team2": "Hannover 96"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-17",
       "team1": "VfL Bochum",
       "team2": "SV Darmstadt 98"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-17",
       "team1": "Dynamo Dresden",
       "team2": "SpVgg Greuther Fürth"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-17",
       "team1": "Fortuna Düsseldorf",
       "team2": "Arminia Bielefeld"
     },
     {
+      "round": "18. Round",
+      "date": "2026-01-17",
       "team1": "Hertha BSC",
       "team2": "FC Schalke 04"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-23",
       "team1": "SV 07 Elversberg",
       "team2": "VfL Bochum"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-23",
       "team1": "Hannover 96",
       "team2": "Fortuna Düsseldorf"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-23",
       "team1": "FC Schalke 04",
       "team2": "1. FC Kaiserslautern"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-23",
       "team1": "SV Darmstadt 98",
       "team2": "1. FC Nürnberg"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-23",
       "team1": "Karlsruher SC",
       "team2": "Hertha BSC"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-23",
       "team1": "SC Paderborn 07",
       "team2": "Preußen Münster"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-23",
       "team1": "SpVgg Greuther Fürth",
       "team2": "Eintracht Braunschweig"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-23",
       "team1": "1. FC Magdeburg",
       "team2": "Dynamo Dresden"
     },
     {
+      "round": "19. Round",
+      "date": "2026-01-23",
       "team1": "Arminia Bielefeld",
       "team2": "Holstein Kiel"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-31",
       "team1": "1. FC Kaiserslautern",
       "team2": "SV 07 Elversberg"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-31",
       "team1": "Fortuna Düsseldorf",
       "team2": "SC Paderborn 07"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-31",
       "team1": "Eintracht Braunschweig",
       "team2": "Karlsruher SC"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-31",
       "team1": "1. FC Magdeburg",
       "team2": "Hannover 96"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-31",
       "team1": "Hertha BSC",
       "team2": "SV Darmstadt 98"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-31",
       "team1": "Holstein Kiel",
       "team2": "SpVgg Greuther Fürth"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-31",
       "team1": "VfL Bochum",
       "team2": "FC Schalke 04"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-31",
       "team1": "1. FC Nürnberg",
       "team2": "Preußen Münster"
     },
     {
+      "round": "20. Round",
+      "date": "2026-01-31",
       "team1": "Dynamo Dresden",
       "team2": "Arminia Bielefeld"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-06",
       "team1": "Hannover 96",
       "team2": "Holstein Kiel"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-06",
       "team1": "Preußen Münster",
       "team2": "VfL Bochum"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-06",
       "team1": "SpVgg Greuther Fürth",
       "team2": "1. FC Magdeburg"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-06",
       "team1": "Karlsruher SC",
       "team2": "Fortuna Düsseldorf"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-06",
       "team1": "SV Darmstadt 98",
       "team2": "1. FC Kaiserslautern"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-06",
       "team1": "SC Paderborn 07",
       "team2": "1. FC Nürnberg"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-06",
       "team1": "SV 07 Elversberg",
       "team2": "Hertha BSC"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-06",
       "team1": "Arminia Bielefeld",
       "team2": "Eintracht Braunschweig"
     },
     {
+      "round": "21. Round",
+      "date": "2026-02-06",
       "team1": "FC Schalke 04",
       "team2": "Dynamo Dresden"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-14",
       "team1": "Dynamo Dresden",
       "team2": "SV 07 Elversberg"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-14",
       "team1": "VfL Bochum",
       "team2": "SC Paderborn 07"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-14",
       "team1": "1. FC Nürnberg",
       "team2": "Karlsruher SC"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-14",
       "team1": "Hertha BSC",
       "team2": "Hannover 96"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-14",
       "team1": "Eintracht Braunschweig",
       "team2": "SV Darmstadt 98"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-14",
       "team1": "1. FC Kaiserslautern",
       "team2": "SpVgg Greuther Fürth"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-14",
       "team1": "Holstein Kiel",
       "team2": "FC Schalke 04"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-14",
       "team1": "Fortuna Düsseldorf",
       "team2": "Preußen Münster"
     },
     {
+      "round": "22. Round",
+      "date": "2026-02-14",
       "team1": "1. FC Magdeburg",
       "team2": "Arminia Bielefeld"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-20",
       "team1": "Karlsruher SC",
       "team2": "Holstein Kiel"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-20",
       "team1": "FC Schalke 04",
       "team2": "1. FC Magdeburg"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-20",
       "team1": "SV Darmstadt 98",
       "team2": "Fortuna Düsseldorf"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-20",
       "team1": "Preußen Münster",
       "team2": "1. FC Kaiserslautern"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-20",
       "team1": "VfL Bochum",
       "team2": "1. FC Nürnberg"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-20",
       "team1": "SC Paderborn 07",
       "team2": "Hertha BSC"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-20",
       "team1": "SV 07 Elversberg",
       "team2": "Eintracht Braunschweig"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-20",
       "team1": "SpVgg Greuther Fürth",
       "team2": "Arminia Bielefeld"
     },
     {
+      "round": "23. Round",
+      "date": "2026-02-20",
       "team1": "Hannover 96",
       "team2": "Dynamo Dresden"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-28",
       "team1": "Fortuna Düsseldorf",
       "team2": "VfL Bochum"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-28",
       "team1": "Holstein Kiel",
       "team2": "SV 07 Elversberg"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-28",
       "team1": "1. FC Kaiserslautern",
       "team2": "SC Paderborn 07"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-28",
       "team1": "1. FC Magdeburg",
       "team2": "Karlsruher SC"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-28",
       "team1": "Arminia Bielefeld",
       "team2": "Hannover 96"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-28",
       "team1": "Hertha BSC",
       "team2": "1. FC Nürnberg"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-28",
       "team1": "Dynamo Dresden",
       "team2": "SV Darmstadt 98"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-28",
       "team1": "SpVgg Greuther Fürth",
       "team2": "FC Schalke 04"
     },
     {
+      "round": "24. Round",
+      "date": "2026-02-28",
       "team1": "Eintracht Braunschweig",
       "team2": "Preußen Münster"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-06",
       "team1": "SV Darmstadt 98",
       "team2": "Holstein Kiel"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-06",
       "team1": "SV 07 Elversberg",
       "team2": "1. FC Magdeburg"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-06",
       "team1": "1. FC Nürnberg",
       "team2": "Fortuna Düsseldorf"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-06",
       "team1": "VfL Bochum",
       "team2": "1. FC Kaiserslautern"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-06",
       "team1": "Preußen Münster",
       "team2": "Hertha BSC"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-06",
       "team1": "Hannover 96",
       "team2": "SpVgg Greuther Fürth"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-06",
       "team1": "SC Paderborn 07",
       "team2": "Eintracht Braunschweig"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-06",
       "team1": "FC Schalke 04",
       "team2": "Arminia Bielefeld"
     },
     {
+      "round": "25. Round",
+      "date": "2026-03-06",
       "team1": "Karlsruher SC",
       "team2": "Dynamo Dresden"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-14",
       "team1": "Hertha BSC",
       "team2": "VfL Bochum"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-14",
       "team1": "SpVgg Greuther Fürth",
       "team2": "SV 07 Elversberg"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-14",
       "team1": "Arminia Bielefeld",
       "team2": "SC Paderborn 07"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-14",
       "team1": "Eintracht Braunschweig",
       "team2": "Fortuna Düsseldorf"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-14",
       "team1": "1. FC Kaiserslautern",
       "team2": "Karlsruher SC"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-14",
       "team1": "FC Schalke 04",
       "team2": "Hannover 96"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-14",
       "team1": "Holstein Kiel",
       "team2": "1. FC Nürnberg"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-14",
       "team1": "1. FC Magdeburg",
       "team2": "SV Darmstadt 98"
     },
     {
+      "round": "26. Round",
+      "date": "2026-03-14",
       "team1": "Dynamo Dresden",
       "team2": "Preußen Münster"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-20",
       "team1": "VfL Bochum",
       "team2": "Holstein Kiel"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-20",
       "team1": "Preußen Münster",
       "team2": "1. FC Magdeburg"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-20",
       "team1": "1. FC Nürnberg",
       "team2": "1. FC Kaiserslautern"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-20",
       "team1": "Fortuna Düsseldorf",
       "team2": "Hertha BSC"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-20",
       "team1": "Karlsruher SC",
       "team2": "SpVgg Greuther Fürth"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-20",
       "team1": "SV Darmstadt 98",
       "team2": "FC Schalke 04"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-20",
       "team1": "Hannover 96",
       "team2": "Eintracht Braunschweig"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-20",
       "team1": "SV 07 Elversberg",
       "team2": "Arminia Bielefeld"
     },
     {
+      "round": "27. Round",
+      "date": "2026-03-20",
       "team1": "SC Paderborn 07",
       "team2": "Dynamo Dresden"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "1. FC Magdeburg",
       "team2": "VfL Bochum"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "Hannover 96",
       "team2": "SV 07 Elversberg"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "SpVgg Greuther Fürth",
       "team2": "SC Paderborn 07"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "1. FC Kaiserslautern",
       "team2": "Fortuna Düsseldorf"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "FC Schalke 04",
       "team2": "Karlsruher SC"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "Eintracht Braunschweig",
       "team2": "1. FC Nürnberg"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "Dynamo Dresden",
       "team2": "Hertha BSC"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "Arminia Bielefeld",
       "team2": "SV Darmstadt 98"
     },
     {
+      "round": "28. Round",
+      "date": "2026-04-05",
       "team1": "Holstein Kiel",
       "team2": "Preußen Münster"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-10",
       "team1": "Fortuna Düsseldorf",
       "team2": "Holstein Kiel"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-10",
       "team1": "SC Paderborn 07",
       "team2": "1. FC Magdeburg"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-10",
       "team1": "Hertha BSC",
       "team2": "1. FC Kaiserslautern"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-10",
       "team1": "SV Darmstadt 98",
       "team2": "Hannover 96"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-10",
       "team1": "Preußen Münster",
       "team2": "SpVgg Greuther Fürth"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-10",
       "team1": "SV 07 Elversberg",
       "team2": "FC Schalke 04"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-10",
       "team1": "VfL Bochum",
       "team2": "Eintracht Braunschweig"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-10",
       "team1": "Karlsruher SC",
       "team2": "Arminia Bielefeld"
     },
     {
+      "round": "29. Round",
+      "date": "2026-04-10",
       "team1": "1. FC Nürnberg",
       "team2": "Dynamo Dresden"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-18",
       "team1": "Dynamo Dresden",
       "team2": "VfL Bochum"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-18",
       "team1": "Hannover 96",
       "team2": "SC Paderborn 07"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-18",
       "team1": "1. FC Magdeburg",
       "team2": "Fortuna Düsseldorf"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-18",
       "team1": "Holstein Kiel",
       "team2": "1. FC Kaiserslautern"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-18",
       "team1": "SV 07 Elversberg",
       "team2": "Karlsruher SC"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-18",
       "team1": "Arminia Bielefeld",
       "team2": "1. FC Nürnberg"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-18",
       "team1": "Eintracht Braunschweig",
       "team2": "Hertha BSC"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-18",
       "team1": "SpVgg Greuther Fürth",
       "team2": "SV Darmstadt 98"
     },
     {
+      "round": "30. Round",
+      "date": "2026-04-18",
       "team1": "FC Schalke 04",
       "team2": "Preußen Münster"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-24",
       "team1": "Hertha BSC",
       "team2": "Holstein Kiel"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-24",
       "team1": "SV Darmstadt 98",
       "team2": "SV 07 Elversberg"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-24",
       "team1": "1. FC Nürnberg",
       "team2": "1. FC Magdeburg"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-24",
       "team1": "Karlsruher SC",
       "team2": "Hannover 96"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-24",
       "team1": "VfL Bochum",
       "team2": "SpVgg Greuther Fürth"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-24",
       "team1": "SC Paderborn 07",
       "team2": "FC Schalke 04"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-24",
       "team1": "1. FC Kaiserslautern",
       "team2": "Eintracht Braunschweig"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-24",
       "team1": "Preußen Münster",
       "team2": "Arminia Bielefeld"
     },
     {
+      "round": "31. Round",
+      "date": "2026-04-24",
       "team1": "Fortuna Düsseldorf",
       "team2": "Dynamo Dresden"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "Arminia Bielefeld",
       "team2": "VfL Bochum"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "SV 07 Elversberg",
       "team2": "SC Paderborn 07"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "FC Schalke 04",
       "team2": "Fortuna Düsseldorf"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "Dynamo Dresden",
       "team2": "1. FC Kaiserslautern"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "SpVgg Greuther Fürth",
       "team2": "1. FC Nürnberg"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "1. FC Magdeburg",
       "team2": "Hertha BSC"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "Karlsruher SC",
       "team2": "SV Darmstadt 98"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "Hannover 96",
       "team2": "Preußen Münster"
     },
     {
+      "round": "32. Round",
+      "date": "2026-05-03",
       "team1": "Holstein Kiel",
       "team2": "Eintracht Braunschweig"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-08",
       "team1": "Fortuna Düsseldorf",
       "team2": "SV 07 Elversberg"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-08",
       "team1": "Holstein Kiel",
       "team2": "1. FC Magdeburg"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-08",
       "team1": "SC Paderborn 07",
       "team2": "Karlsruher SC"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-08",
       "team1": "VfL Bochum",
       "team2": "Hannover 96"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-08",
       "team1": "Preußen Münster",
       "team2": "SV Darmstadt 98"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-08",
       "team1": "Hertha BSC",
       "team2": "SpVgg Greuther Fürth"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-08",
       "team1": "1. FC Nürnberg",
       "team2": "FC Schalke 04"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-08",
       "team1": "1. FC Kaiserslautern",
       "team2": "Arminia Bielefeld"
     },
     {
+      "round": "33. Round",
+      "date": "2026-05-08",
       "team1": "Eintracht Braunschweig",
       "team2": "Dynamo Dresden"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "Dynamo Dresden",
       "team2": "Holstein Kiel"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "Karlsruher SC",
       "team2": "VfL Bochum"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "SV Darmstadt 98",
       "team2": "SC Paderborn 07"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "SpVgg Greuther Fürth",
       "team2": "Fortuna Düsseldorf"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "1. FC Magdeburg",
       "team2": "1. FC Kaiserslautern"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "Hannover 96",
       "team2": "1. FC Nürnberg"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "Arminia Bielefeld",
       "team2": "Hertha BSC"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "SV 07 Elversberg",
       "team2": "Preußen Münster"
     },
     {
+      "round": "34. Round",
+      "date": "2026-05-17",
+      "time": "14:30",
       "team1": "FC Schalke 04",
       "team2": "Eintracht Braunschweig"
     }

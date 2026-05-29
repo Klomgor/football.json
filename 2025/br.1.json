@@ -2,6 +2,9 @@
   "name": "Brasileiro Série A 2025",
   "matches": [
     {
+      "round": "Matchday 1",
+      "date": "2025-03-29",
+      "time": "18:30",
       "team1": "São Paulo FC",
       "team2": "SC Recife",
       "score": [
@@ -10,6 +13,9 @@
       ]
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-03-29",
+      "time": "18:30",
       "team1": "Cruzeiro EC",
       "team2": "Mirassol FC",
       "score": {
@@ -24,6 +30,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-03-29",
+      "time": "18:30",
       "team1": "Grêmio FBPA",
       "team2": "CA Mineiro",
       "score": {
@@ -38,6 +47,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-03-29",
+      "time": "18:30",
       "team1": "Fortaleza EC",
       "team2": "Fluminense FC",
       "score": {
@@ -52,6 +64,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-03-29",
+      "time": "18:30",
       "team1": "EC Juventude",
       "team2": "EC Vitória",
       "score": {
@@ -66,6 +81,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-03-29",
+      "time": "21:00",
       "team1": "CR Flamengo",
       "team2": "SC Internacional",
       "score": {
@@ -80,6 +98,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-03-30",
+      "time": "16:00",
       "team1": "SE Palmeiras",
       "team2": "Botafogo FR",
       "score": [
@@ -88,6 +109,9 @@
       ]
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-03-30",
+      "time": "18:30",
       "team1": "CR Vasco da Gama",
       "team2": "Santos FC",
       "score": {
@@ -102,6 +126,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-03-30",
+      "time": "20:00",
       "team1": "EC Bahia",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -116,6 +143,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-03-31",
+      "time": "20:00",
       "team1": "RB Bragantino",
       "team2": "Ceará SC",
       "score": {
@@ -130,6 +160,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-04-05",
+      "time": "18:30",
       "team1": "SC Corinthians Paulista",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -144,6 +177,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-04-05",
+      "time": "18:30",
       "team1": "Ceará SC",
       "team2": "Grêmio FBPA",
       "score": {
@@ -158,6 +194,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-04-05",
+      "time": "21:00",
       "team1": "Botafogo FR",
       "team2": "EC Juventude",
       "score": {
@@ -172,6 +211,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-04-06",
+      "time": "16:00",
       "team1": "Fluminense FC",
       "team2": "RB Bragantino",
       "score": {
@@ -186,6 +228,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-04-06",
+      "time": "16:00",
       "team1": "CA Mineiro",
       "team2": "São Paulo FC",
       "score": [
@@ -194,6 +239,9 @@
       ]
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-04-06",
+      "time": "18:30",
       "team1": "Mirassol FC",
       "team2": "Fortaleza EC",
       "score": {
@@ -208,6 +256,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-04-06",
+      "time": "18:30",
       "team1": "SC Internacional",
       "team2": "Cruzeiro EC",
       "score": {
@@ -222,6 +273,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-04-06",
+      "time": "18:30",
       "team1": "EC Vitória",
       "team2": "CR Flamengo",
       "score": {
@@ -236,6 +290,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-04-06",
+      "time": "18:30",
       "team1": "SC Recife",
       "team2": "SE Palmeiras",
       "score": {
@@ -250,6 +307,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-04-06",
+      "time": "20:30",
       "team1": "Santos FC",
       "team2": "EC Bahia",
       "score": {
@@ -264,6 +324,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-04-12",
+      "time": "16:00",
       "team1": "RB Bragantino",
       "team2": "Botafogo FR",
       "score": {
@@ -278,6 +341,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-04-12",
+      "time": "16:00",
       "team1": "EC Juventude",
       "team2": "Ceará SC",
       "score": {
@@ -292,6 +358,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-04-12",
+      "time": "18:30",
       "team1": "SE Palmeiras",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -306,6 +375,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-04-12",
+      "time": "21:00",
       "team1": "CR Vasco da Gama",
       "team2": "SC Recife",
       "score": {
@@ -320,6 +392,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-04-13",
+      "time": "16:00",
       "team1": "EC Bahia",
       "team2": "Mirassol FC",
       "score": {
@@ -334,6 +409,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-04-13",
+      "time": "17:30",
       "team1": "São Paulo FC",
       "team2": "Cruzeiro EC",
       "score": {
@@ -348,6 +426,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-04-13",
+      "time": "17:30",
       "team1": "Grêmio FBPA",
       "team2": "CR Flamengo",
       "score": {
@@ -362,6 +443,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-04-13",
+      "time": "19:30",
       "team1": "Fluminense FC",
       "team2": "Santos FC",
       "score": {
@@ -376,6 +460,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-04-13",
+      "time": "20:00",
       "team1": "Fortaleza EC",
       "team2": "SC Internacional",
       "score": [
@@ -384,6 +471,9 @@
       ]
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-04-13",
+      "time": "20:30",
       "team1": "CA Mineiro",
       "team2": "EC Vitória",
       "score": {
@@ -398,6 +488,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-04-15",
+      "time": "21:30",
       "team1": "Ceará SC",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -412,6 +505,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-04-16",
+      "time": "18:30",
       "team1": "Botafogo FR",
       "team2": "São Paulo FC",
       "score": {
@@ -426,6 +522,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-04-16",
+      "time": "19:00",
       "team1": "Mirassol FC",
       "team2": "Grêmio FBPA",
       "score": {
@@ -440,6 +539,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-04-16",
+      "time": "19:00",
       "team1": "SC Recife",
       "team2": "RB Bragantino",
       "score": {
@@ -454,6 +556,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-04-16",
+      "time": "19:30",
       "team1": "SC Corinthians Paulista",
       "team2": "Fluminense FC",
       "score": {
@@ -468,6 +573,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-04-16",
+      "time": "19:30",
       "team1": "SC Internacional",
       "team2": "SE Palmeiras",
       "score": {
@@ -482,6 +590,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-04-16",
+      "time": "21:30",
       "team1": "CR Flamengo",
       "team2": "EC Juventude",
       "score": {
@@ -496,6 +607,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-04-16",
+      "time": "21:30",
       "team1": "Santos FC",
       "team2": "CA Mineiro",
       "score": {
@@ -510,6 +624,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-04-16",
+      "time": "21:30",
       "team1": "EC Vitória",
       "team2": "Fortaleza EC",
       "score": {
@@ -524,6 +641,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-04-17",
+      "time": "21:30",
       "team1": "Cruzeiro EC",
       "team2": "EC Bahia",
       "score": {
@@ -538,6 +658,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-04-19",
+      "time": "16:00",
       "team1": "SC Corinthians Paulista",
       "team2": "SC Recife",
       "score": {
@@ -552,6 +675,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-04-19",
+      "time": "18:30",
       "team1": "CR Vasco da Gama",
       "team2": "CR Flamengo",
       "score": [
@@ -560,6 +686,9 @@
       ]
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-04-19",
+      "time": "21:00",
       "team1": "Grêmio FBPA",
       "team2": "SC Internacional",
       "score": {
@@ -574,6 +703,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-04-20",
+      "time": "11:00",
       "team1": "EC Juventude",
       "team2": "Mirassol FC",
       "score": {
@@ -588,6 +720,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-04-20",
+      "time": "16:00",
       "team1": "São Paulo FC",
       "team2": "Santos FC",
       "score": {
@@ -602,6 +737,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-04-20",
+      "time": "16:00",
       "team1": "CA Mineiro",
       "team2": "Botafogo FR",
       "score": {
@@ -616,6 +754,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-04-20",
+      "time": "18:30",
       "team1": "Fluminense FC",
       "team2": "EC Vitória",
       "score": {
@@ -630,6 +771,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-04-20",
+      "time": "18:30",
       "team1": "Fortaleza EC",
       "team2": "SE Palmeiras",
       "score": {
@@ -644,6 +788,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-04-20",
+      "time": "20:30",
       "team1": "RB Bragantino",
       "team2": "Cruzeiro EC",
       "score": {
@@ -658,6 +805,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-04-21",
+      "time": "20:00",
       "team1": "EC Bahia",
       "team2": "Ceará SC",
       "score": {
@@ -672,6 +822,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-04-26",
+      "time": "16:00",
       "team1": "SC Internacional",
       "team2": "EC Juventude",
       "score": {
@@ -686,6 +839,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-04-26",
+      "time": "18:30",
       "team1": "Mirassol FC",
       "team2": "CA Mineiro",
       "score": {
@@ -700,6 +856,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-04-26",
+      "time": "18:30",
       "team1": "Ceará SC",
       "team2": "São Paulo FC",
       "score": {
@@ -714,6 +873,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-04-26",
+      "time": "20:00",
       "team1": "SC Recife",
       "team2": "Fortaleza EC",
       "score": [
@@ -722,6 +884,9 @@
       ]
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-04-26",
+      "time": "21:00",
       "team1": "Botafogo FR",
       "team2": "Fluminense FC",
       "score": {
@@ -736,6 +901,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-04-27",
+      "time": "16:00",
       "team1": "CR Flamengo",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -750,6 +918,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-04-27",
+      "time": "18:30",
       "team1": "SE Palmeiras",
       "team2": "EC Bahia",
       "score": {
@@ -764,6 +935,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-04-27",
+      "time": "18:30",
       "team1": "Cruzeiro EC",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -778,6 +952,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-04-27",
+      "time": "18:30",
       "team1": "EC Vitória",
       "team2": "Grêmio FBPA",
       "score": {
@@ -792,6 +969,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-04-27",
+      "time": "20:30",
       "team1": "Santos FC",
       "team2": "RB Bragantino",
       "score": {
@@ -806,6 +986,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-05-02",
+      "time": "21:30",
       "team1": "São Paulo FC",
       "team2": "Fortaleza EC",
       "score": [
@@ -814,6 +997,9 @@
       ]
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-05-03",
+      "time": "18:30",
       "team1": "Fluminense FC",
       "team2": "SC Recife",
       "score": {
@@ -828,6 +1014,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-05-03",
+      "time": "18:30",
       "team1": "SC Corinthians Paulista",
       "team2": "SC Internacional",
       "score": {
@@ -842,6 +1031,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-05-03",
+      "time": "18:30",
       "team1": "Ceará SC",
       "team2": "EC Vitória",
       "score": {
@@ -856,6 +1048,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-05-03",
+      "time": "21:00",
       "team1": "EC Bahia",
       "team2": "Botafogo FR",
       "score": {
@@ -870,6 +1065,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-05-04",
+      "time": "16:00",
       "team1": "CR Vasco da Gama",
       "team2": "SE Palmeiras",
       "score": {
@@ -884,6 +1082,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-05-04",
+      "time": "16:00",
       "team1": "Grêmio FBPA",
       "team2": "Santos FC",
       "score": {
@@ -898,6 +1099,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-05-04",
+      "time": "18:30",
       "team1": "Cruzeiro EC",
       "team2": "CR Flamengo",
       "score": {
@@ -912,6 +1116,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-05-05",
+      "time": "19:00",
       "team1": "RB Bragantino",
       "team2": "Mirassol FC",
       "score": {
@@ -926,6 +1133,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-05-05",
+      "time": "20:00",
       "team1": "EC Juventude",
       "team2": "CA Mineiro",
       "score": {
@@ -940,6 +1150,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-05-10",
+      "time": "16:00",
       "team1": "Fortaleza EC",
       "team2": "EC Juventude",
       "score": {
@@ -954,6 +1167,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-05-10",
+      "time": "18:30",
       "team1": "Mirassol FC",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -968,6 +1184,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-05-10",
+      "time": "18:30",
       "team1": "Grêmio FBPA",
       "team2": "RB Bragantino",
       "score": {
@@ -982,6 +1201,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-05-10",
+      "time": "18:30",
       "team1": "EC Vitória",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -996,6 +1218,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-05-10",
+      "time": "21:00",
       "team1": "CR Flamengo",
       "team2": "EC Bahia",
       "score": {
@@ -1010,6 +1235,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-05-11",
+      "time": "16:00",
       "team1": "SC Recife",
       "team2": "Cruzeiro EC",
       "score": {
@@ -1024,6 +1252,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-05-11",
+      "time": "17:30",
       "team1": "SE Palmeiras",
       "team2": "São Paulo FC",
       "score": {
@@ -1038,6 +1269,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-05-11",
+      "time": "17:30",
       "team1": "CA Mineiro",
       "team2": "Fluminense FC",
       "score": {
@@ -1052,6 +1286,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-05-11",
+      "time": "20:00",
       "team1": "Botafogo FR",
       "team2": "SC Internacional",
       "score": {
@@ -1066,6 +1303,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-05-12",
+      "time": "20:00",
       "team1": "Santos FC",
       "team2": "Ceará SC",
       "score": [
@@ -1074,6 +1314,9 @@
       ]
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-05-17",
+      "time": "16:00",
       "team1": "Ceará SC",
       "team2": "SC Recife",
       "score": {
@@ -1088,6 +1331,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-05-17",
+      "time": "18:30",
       "team1": "CR Vasco da Gama",
       "team2": "Fortaleza EC",
       "score": {
@@ -1102,6 +1348,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-05-17",
+      "time": "21:00",
       "team1": "São Paulo FC",
       "team2": "Grêmio FBPA",
       "score": {
@@ -1116,6 +1365,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-05-18",
+      "time": "16:00",
       "team1": "SC Corinthians Paulista",
       "team2": "Santos FC",
       "score": {
@@ -1130,6 +1382,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-05-18",
+      "time": "16:00",
       "team1": "EC Bahia",
       "team2": "EC Vitória",
       "score": {
@@ -1144,6 +1399,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-05-18",
+      "time": "16:00",
       "team1": "EC Juventude",
       "team2": "Fluminense FC",
       "score": {
@@ -1158,6 +1416,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-05-18",
+      "time": "18:30",
       "team1": "CR Flamengo",
       "team2": "Botafogo FR",
       "score": [
@@ -1166,6 +1427,9 @@
       ]
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-05-18",
+      "time": "18:30",
       "team1": "RB Bragantino",
       "team2": "SE Palmeiras",
       "score": {
@@ -1180,6 +1444,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-05-18",
+      "time": "20:30",
       "team1": "Cruzeiro EC",
       "team2": "CA Mineiro",
       "score": [
@@ -1188,6 +1455,9 @@
       ]
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-05-18",
+      "time": "20:30",
       "team1": "SC Internacional",
       "team2": "Mirassol FC",
       "score": {
@@ -1202,6 +1472,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-05-24",
+      "time": "18:30",
       "team1": "Fluminense FC",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -1216,6 +1489,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-05-24",
+      "time": "18:30",
       "team1": "São Paulo FC",
       "team2": "Mirassol FC",
       "score": {
@@ -1230,6 +1506,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-05-24",
+      "time": "21:00",
       "team1": "CA Mineiro",
       "team2": "SC Corinthians Paulista",
       "score": [
@@ -1238,6 +1517,9 @@
       ]
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-05-25",
+      "time": "11:00",
       "team1": "Grêmio FBPA",
       "team2": "EC Bahia",
       "score": {
@@ -1252,6 +1534,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-05-25",
+      "time": "16:00",
       "team1": "SE Palmeiras",
       "team2": "CR Flamengo",
       "score": {
@@ -1266,6 +1551,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-05-25",
+      "time": "16:00",
       "team1": "SC Recife",
       "team2": "SC Internacional",
       "score": {
@@ -1280,6 +1568,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-05-25",
+      "time": "18:30",
       "team1": "EC Vitória",
       "team2": "Santos FC",
       "score": {
@@ -1294,6 +1585,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-05-25",
+      "time": "20:30",
       "team1": "Fortaleza EC",
       "team2": "Cruzeiro EC",
       "score": {
@@ -1308,6 +1602,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-05-26",
+      "time": "20:00",
       "team1": "RB Bragantino",
       "team2": "EC Juventude",
       "score": {
@@ -1322,6 +1619,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-31",
+      "time": "18:30",
       "team1": "EC Bahia",
       "team2": "São Paulo FC",
       "score": {
@@ -1336,6 +1636,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-31",
+      "time": "21:00",
       "team1": "CR Vasco da Gama",
       "team2": "RB Bragantino",
       "score": {
@@ -1350,6 +1653,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-06-01",
+      "time": "11:00",
       "team1": "Mirassol FC",
       "team2": "SC Recife",
       "score": {
@@ -1364,6 +1670,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-06-01",
+      "time": "16:00",
       "team1": "EC Juventude",
       "team2": "Grêmio FBPA",
       "score": {
@@ -1378,6 +1687,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-06-01",
+      "time": "16:00",
       "team1": "Santos FC",
       "team2": "Botafogo FR",
       "score": {
@@ -1392,6 +1704,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-06-01",
+      "time": "18:30",
       "team1": "Ceará SC",
       "team2": "CA Mineiro",
       "score": {
@@ -1406,6 +1721,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-06-01",
+      "time": "18:30",
       "team1": "CR Flamengo",
       "team2": "Fortaleza EC",
       "score": {
@@ -1420,6 +1738,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-06-01",
+      "time": "18:30",
       "team1": "SC Corinthians Paulista",
       "team2": "EC Vitória",
       "score": [
@@ -1428,6 +1749,9 @@
       ]
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-06-01",
+      "time": "19:30",
       "team1": "Cruzeiro EC",
       "team2": "SE Palmeiras",
       "score": {
@@ -1442,6 +1766,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-06-01",
+      "time": "20:30",
       "team1": "SC Internacional",
       "team2": "Fluminense FC",
       "score": {
@@ -1456,6 +1783,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-06-04",
+      "time": "20:00",
       "team1": "Botafogo FR",
       "team2": "Ceará SC",
       "score": {
@@ -1470,6 +1800,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-06-12",
+      "time": "19:00",
       "team1": "RB Bragantino",
       "team2": "EC Bahia",
       "score": {
@@ -1484,6 +1817,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-06-12",
+      "time": "19:00",
       "team1": "EC Vitória",
       "team2": "Cruzeiro EC",
       "score": [
@@ -1492,6 +1828,9 @@
       ]
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-06-12",
+      "time": "19:30",
       "team1": "Fortaleza EC",
       "team2": "Santos FC",
       "score": {
@@ -1506,6 +1845,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-06-12",
+      "time": "20:00",
       "team1": "Grêmio FBPA",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -1520,6 +1862,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-06-12",
+      "time": "21:30",
       "team1": "São Paulo FC",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -1534,6 +1879,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-06-12",
+      "time": "21:30",
       "team1": "CA Mineiro",
       "team2": "SC Internacional",
       "score": {
@@ -1548,6 +1896,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-07-12",
+      "time": "16:30",
       "team1": "CR Flamengo",
       "team2": "São Paulo FC",
       "score": {
@@ -1562,6 +1913,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-07-12",
+      "time": "16:30",
       "team1": "SC Internacional",
       "team2": "EC Vitória",
       "score": {
@@ -1576,6 +1930,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-07-12",
+      "time": "18:30",
       "team1": "CR Vasco da Gama",
       "team2": "Botafogo FR",
       "score": {
@@ -1590,6 +1947,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-07-12",
+      "time": "21:00",
       "team1": "EC Bahia",
       "team2": "CA Mineiro",
       "score": {
@@ -1604,6 +1964,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-07-13",
+      "time": "19:00",
       "team1": "SC Corinthians Paulista",
       "team2": "RB Bragantino",
       "score": {
@@ -1618,6 +1981,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-07-13",
+      "time": "20:30",
       "team1": "Cruzeiro EC",
       "team2": "Grêmio FBPA",
       "score": {
@@ -1632,6 +1998,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-07-13",
+      "time": "20:30",
       "team1": "Fortaleza EC",
       "team2": "Ceará SC",
       "score": {
@@ -1646,6 +2015,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-07-14",
+      "time": "20:00",
       "team1": "EC Juventude",
       "team2": "SC Recife",
       "score": {
@@ -1660,6 +2032,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-07-16",
+      "time": "19:00",
       "team1": "SE Palmeiras",
       "team2": "Mirassol FC",
       "score": {
@@ -1674,6 +2049,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-07-16",
+      "time": "19:30",
       "team1": "Ceará SC",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -1688,6 +2066,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-07-16",
+      "time": "20:00",
       "team1": "Santos FC",
       "team2": "CR Flamengo",
       "score": {
@@ -1702,6 +2083,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-07-16",
+      "time": "21:30",
       "team1": "Botafogo FR",
       "team2": "EC Vitória",
       "score": [
@@ -1710,6 +2094,9 @@
       ]
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-07-16",
+      "time": "21:30",
       "team1": "RB Bragantino",
       "team2": "São Paulo FC",
       "score": {
@@ -1724,6 +2111,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-07-17",
+      "time": "19:30",
       "team1": "Fluminense FC",
       "team2": "Cruzeiro EC",
       "score": {
@@ -1738,6 +2128,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-07-19",
+      "time": "16:00",
       "team1": "Fortaleza EC",
       "team2": "EC Bahia",
       "score": {
@@ -1752,6 +2145,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-07-19",
+      "time": "17:30",
       "team1": "CR Vasco da Gama",
       "team2": "Grêmio FBPA",
       "score": {
@@ -1766,6 +2162,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-07-19",
+      "time": "18:30",
       "team1": "Mirassol FC",
       "team2": "Santos FC",
       "score": {
@@ -1780,6 +2179,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-07-19",
+      "time": "21:00",
       "team1": "São Paulo FC",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -1794,6 +2196,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-07-20",
+      "time": "11:00",
       "team1": "SC Internacional",
       "team2": "Ceará SC",
       "score": {
@@ -1808,6 +2213,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-07-20",
+      "time": "16:00",
       "team1": "Cruzeiro EC",
       "team2": "EC Juventude",
       "score": {
@@ -1822,6 +2230,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-07-20",
+      "time": "16:00",
       "team1": "EC Vitória",
       "team2": "RB Bragantino",
       "score": {
@@ -1836,6 +2247,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-07-20",
+      "time": "17:30",
       "team1": "SE Palmeiras",
       "team2": "CA Mineiro",
       "score": {
@@ -1850,6 +2264,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-07-20",
+      "time": "17:30",
       "team1": "SC Recife",
       "team2": "Botafogo FR",
       "score": {
@@ -1864,6 +2281,9 @@
       }
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-07-20",
+      "time": "19:30",
       "team1": "CR Flamengo",
       "team2": "Fluminense FC",
       "score": {
@@ -1878,6 +2298,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-07-23",
+      "time": "19:00",
       "team1": "Fluminense FC",
       "team2": "SE Palmeiras",
       "score": {
@@ -1892,6 +2315,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-07-23",
+      "time": "19:00",
       "team1": "Ceará SC",
       "team2": "Mirassol FC",
       "score": {
@@ -1906,6 +2332,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-07-23",
+      "time": "19:30",
       "team1": "SC Corinthians Paulista",
       "team2": "Cruzeiro EC",
       "score": [
@@ -1914,6 +2343,9 @@
       ]
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-07-23",
+      "time": "21:30",
       "team1": "Santos FC",
       "team2": "SC Internacional",
       "score": {
@@ -1928,6 +2360,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-07-23",
+      "time": "21:30",
       "team1": "RB Bragantino",
       "team2": "CR Flamengo",
       "score": {
@@ -1942,6 +2377,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-07-23",
+      "time": "21:30",
       "team1": "EC Vitória",
       "team2": "SC Recife",
       "score": {
@@ -1956,6 +2394,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-07-24",
+      "time": "19:00",
       "team1": "EC Juventude",
       "team2": "São Paulo FC",
       "score": {
@@ -1970,6 +2411,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-07-26",
+      "time": "18:30",
       "team1": "Botafogo FR",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -1984,6 +2428,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-07-26",
+      "time": "18:30",
       "team1": "Mirassol FC",
       "team2": "EC Vitória",
       "score": {
@@ -1998,6 +2445,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-07-26",
+      "time": "18:30",
       "team1": "Fortaleza EC",
       "team2": "RB Bragantino",
       "score": {
@@ -2012,6 +2462,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-07-26",
+      "time": "18:30",
       "team1": "SC Recife",
       "team2": "Santos FC",
       "score": {
@@ -2026,6 +2479,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-07-26",
+      "time": "21:00",
       "team1": "SE Palmeiras",
       "team2": "Grêmio FBPA",
       "score": {
@@ -2040,6 +2496,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-07-27",
+      "time": "16:00",
       "team1": "São Paulo FC",
       "team2": "Fluminense FC",
       "score": {
@@ -2054,6 +2513,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-07-27",
+      "time": "16:00",
       "team1": "Cruzeiro EC",
       "team2": "Ceará SC",
       "score": {
@@ -2068,6 +2530,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-07-27",
+      "time": "18:30",
       "team1": "SC Internacional",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -2082,6 +2547,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-07-27",
+      "time": "18:30",
       "team1": "EC Bahia",
       "team2": "EC Juventude",
       "score": {
@@ -2096,6 +2564,9 @@
       }
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-07-27",
+      "time": "20:30",
       "team1": "CR Flamengo",
       "team2": "CA Mineiro",
       "score": {
@@ -2110,6 +2581,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-07-29",
+      "time": "20:30",
       "team1": "Grêmio FBPA",
       "team2": "Fortaleza EC",
       "score": {
@@ -2124,6 +2598,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-08-02",
+      "time": "16:00",
       "team1": "SC Recife",
       "team2": "EC Bahia",
       "score": [
@@ -2132,6 +2609,9 @@
       ]
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-08-02",
+      "time": "18:30",
       "team1": "Mirassol FC",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -2146,6 +2626,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-08-02",
+      "time": "21:00",
       "team1": "Fluminense FC",
       "team2": "Grêmio FBPA",
       "score": {
@@ -2160,6 +2643,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-08-03",
+      "time": "16:00",
       "team1": "Botafogo FR",
       "team2": "Cruzeiro EC",
       "score": {
@@ -2174,6 +2660,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-08-03",
+      "time": "16:00",
       "team1": "SC Corinthians Paulista",
       "team2": "Fortaleza EC",
       "score": {
@@ -2188,6 +2677,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-08-03",
+      "time": "18:30",
       "team1": "CA Mineiro",
       "team2": "RB Bragantino",
       "score": {
@@ -2202,6 +2694,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-08-03",
+      "time": "18:30",
       "team1": "Ceará SC",
       "team2": "CR Flamengo",
       "score": {
@@ -2216,6 +2711,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-08-03",
+      "time": "19:30",
       "team1": "EC Vitória",
       "team2": "SE Palmeiras",
       "score": {
@@ -2230,6 +2728,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-08-03",
+      "time": "20:30",
       "team1": "SC Internacional",
       "team2": "São Paulo FC",
       "score": {
@@ -2244,6 +2745,9 @@
       }
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-08-04",
+      "time": "20:00",
       "team1": "Santos FC",
       "team2": "EC Juventude",
       "score": {
@@ -2258,6 +2762,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-08-09",
+      "time": "18:30",
       "team1": "CR Flamengo",
       "team2": "Mirassol FC",
       "score": {
@@ -2272,6 +2779,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-08-09",
+      "time": "18:30",
       "team1": "São Paulo FC",
       "team2": "EC Vitória",
       "score": {
@@ -2286,6 +2796,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-08-09",
+      "time": "18:30",
       "team1": "RB Bragantino",
       "team2": "SC Internacional",
       "score": {
@@ -2300,6 +2813,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-08-09",
+      "time": "20:30",
       "team1": "Fortaleza EC",
       "team2": "Botafogo FR",
       "score": {
@@ -2314,6 +2830,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-08-09",
+      "time": "21:00",
       "team1": "EC Bahia",
       "team2": "Fluminense FC",
       "score": {
@@ -2328,6 +2847,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-08-10",
+      "time": "16:00",
       "team1": "CR Vasco da Gama",
       "team2": "CA Mineiro",
       "score": {
@@ -2342,6 +2864,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-08-10",
+      "time": "16:00",
       "team1": "SE Palmeiras",
       "team2": "Ceará SC",
       "score": {
@@ -2356,6 +2881,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-08-10",
+      "time": "18:30",
       "team1": "Cruzeiro EC",
       "team2": "Santos FC",
       "score": {
@@ -2370,6 +2898,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-08-10",
+      "time": "20:30",
       "team1": "Grêmio FBPA",
       "team2": "SC Recife",
       "score": {
@@ -2384,6 +2915,9 @@
       }
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-08-11",
+      "time": "20:00",
       "team1": "EC Juventude",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -2398,6 +2932,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-08-16",
+      "time": "16:00",
       "team1": "Fluminense FC",
       "team2": "Fortaleza EC",
       "score": {
@@ -2412,6 +2949,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-08-16",
+      "time": "16:00",
       "team1": "Ceará SC",
       "team2": "RB Bragantino",
       "score": {
@@ -2426,6 +2966,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-08-16",
+      "time": "18:30",
       "team1": "EC Vitória",
       "team2": "EC Juventude",
       "score": {
@@ -2440,6 +2983,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-08-16",
+      "time": "18:30",
       "team1": "SC Recife",
       "team2": "São Paulo FC",
       "score": {
@@ -2454,6 +3000,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-08-16",
+      "time": "21:00",
       "team1": "SC Corinthians Paulista",
       "team2": "EC Bahia",
       "score": {
@@ -2468,6 +3017,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-08-17",
+      "time": "16:00",
       "team1": "Santos FC",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -2482,6 +3034,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-08-17",
+      "time": "16:00",
       "team1": "CA Mineiro",
       "team2": "Grêmio FBPA",
       "score": {
@@ -2496,6 +3051,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-08-17",
+      "time": "18:30",
       "team1": "SC Internacional",
       "team2": "CR Flamengo",
       "score": {
@@ -2510,6 +3068,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-08-17",
+      "time": "20:30",
       "team1": "Botafogo FR",
       "team2": "SE Palmeiras",
       "score": {
@@ -2524,6 +3085,9 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-08-18",
+      "time": "20:00",
       "team1": "Mirassol FC",
       "team2": "Cruzeiro EC",
       "score": {
@@ -2538,6 +3102,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-08-20",
+      "time": "19:00",
       "team1": "EC Juventude",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -2552,6 +3119,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-08-23",
+      "time": "16:00",
       "team1": "RB Bragantino",
       "team2": "Fluminense FC",
       "score": {
@@ -2566,6 +3136,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-08-23",
+      "time": "18:30",
       "team1": "Cruzeiro EC",
       "team2": "SC Internacional",
       "score": {
@@ -2580,6 +3153,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-08-23",
+      "time": "21:00",
       "team1": "Grêmio FBPA",
       "team2": "Ceará SC",
       "score": [
@@ -2588,6 +3164,9 @@
       ]
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-08-24",
+      "time": "16:00",
       "team1": "CR Vasco da Gama",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -2602,6 +3181,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-08-24",
+      "time": "16:00",
       "team1": "EC Bahia",
       "team2": "Santos FC",
       "score": {
@@ -2616,6 +3198,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-08-24",
+      "time": "18:30",
       "team1": "Fortaleza EC",
       "team2": "Mirassol FC",
       "score": {
@@ -2630,6 +3215,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-08-24",
+      "time": "18:30",
       "team1": "EC Juventude",
       "team2": "Botafogo FR",
       "score": {
@@ -2644,6 +3232,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-08-24",
+      "time": "20:30",
       "team1": "São Paulo FC",
       "team2": "CA Mineiro",
       "score": {
@@ -2658,6 +3249,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-08-25",
+      "time": "19:00",
       "team1": "SE Palmeiras",
       "team2": "SC Recife",
       "score": {
@@ -2672,6 +3266,9 @@
       }
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-08-25",
+      "time": "21:00",
       "team1": "CR Flamengo",
       "team2": "EC Vitória",
       "score": {
@@ -2686,6 +3283,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-08-30",
+      "time": "16:00",
       "team1": "Ceará SC",
       "team2": "EC Juventude",
       "score": {
@@ -2700,6 +3300,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-08-30",
+      "time": "18:30",
       "team1": "Botafogo FR",
       "team2": "RB Bragantino",
       "score": {
@@ -2714,6 +3317,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-08-30",
+      "time": "21:00",
       "team1": "Cruzeiro EC",
       "team2": "São Paulo FC",
       "score": {
@@ -2728,6 +3334,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-08-31",
+      "time": "16:00",
       "team1": "CR Flamengo",
       "team2": "Grêmio FBPA",
       "score": {
@@ -2742,6 +3351,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-08-31",
+      "time": "16:00",
       "team1": "Santos FC",
       "team2": "Fluminense FC",
       "score": [
@@ -2750,6 +3362,9 @@
       ]
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-08-31",
+      "time": "18:30",
       "team1": "SC Corinthians Paulista",
       "team2": "SE Palmeiras",
       "score": {
@@ -2764,6 +3379,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-08-31",
+      "time": "18:30",
       "team1": "Mirassol FC",
       "team2": "EC Bahia",
       "score": {
@@ -2778,6 +3396,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-08-31",
+      "time": "18:30",
       "team1": "EC Vitória",
       "team2": "CA Mineiro",
       "score": {
@@ -2792,6 +3413,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-08-31",
+      "time": "20:30",
       "team1": "SC Internacional",
       "team2": "Fortaleza EC",
       "score": {
@@ -2806,6 +3430,9 @@
       }
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-08-31",
+      "time": "20:30",
       "team1": "SC Recife",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -2820,6 +3447,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-09-13",
+      "time": "16:00",
       "team1": "Grêmio FBPA",
       "team2": "Mirassol FC",
       "score": {
@@ -2834,6 +3464,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-09-13",
+      "time": "16:00",
       "team1": "Fortaleza EC",
       "team2": "EC Vitória",
       "score": {
@@ -2848,6 +3481,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-09-13",
+      "time": "18:30",
       "team1": "SE Palmeiras",
       "team2": "SC Internacional",
       "score": {
@@ -2862,6 +3498,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-09-13",
+      "time": "21:00",
       "team1": "Fluminense FC",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -2876,6 +3515,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-09-14",
+      "time": "11:00",
       "team1": "RB Bragantino",
       "team2": "SC Recife",
       "score": {
@@ -2890,6 +3532,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-09-14",
+      "time": "16:00",
       "team1": "CA Mineiro",
       "team2": "Santos FC",
       "score": {
@@ -2904,6 +3549,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-09-14",
+      "time": "16:00",
       "team1": "EC Juventude",
       "team2": "CR Flamengo",
       "score": {
@@ -2918,6 +3566,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-09-14",
+      "time": "17:30",
       "team1": "São Paulo FC",
       "team2": "Botafogo FR",
       "score": {
@@ -2932,6 +3583,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-09-14",
+      "time": "20:30",
       "team1": "CR Vasco da Gama",
       "team2": "Ceará SC",
       "score": {
@@ -2946,6 +3600,9 @@
       }
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-09-15",
+      "time": "20:00",
       "team1": "EC Bahia",
       "team2": "Cruzeiro EC",
       "score": {
@@ -2960,6 +3617,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-09-17",
+      "time": "19:30",
       "team1": "Botafogo FR",
       "team2": "Mirassol FC",
       "score": {
@@ -2974,6 +3634,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-09-20",
+      "time": "16:00",
       "team1": "EC Vitória",
       "team2": "Fluminense FC",
       "score": {
@@ -2988,6 +3651,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-09-20",
+      "time": "18:30",
       "team1": "Botafogo FR",
       "team2": "CA Mineiro",
       "score": {
@@ -3002,6 +3668,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-09-20",
+      "time": "18:30",
       "team1": "Ceará SC",
       "team2": "EC Bahia",
       "score": {
@@ -3016,6 +3685,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-09-20",
+      "time": "21:00",
       "team1": "SE Palmeiras",
       "team2": "Fortaleza EC",
       "score": {
@@ -3030,6 +3702,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-09-21",
+      "time": "16:00",
       "team1": "Mirassol FC",
       "team2": "EC Juventude",
       "score": {
@@ -3044,6 +3719,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-09-21",
+      "time": "17:30",
       "team1": "CR Flamengo",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -3058,6 +3736,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-09-21",
+      "time": "17:30",
       "team1": "SC Internacional",
       "team2": "Grêmio FBPA",
       "score": {
@@ -3072,6 +3753,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-09-21",
+      "time": "17:30",
       "team1": "SC Recife",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -3086,6 +3770,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-09-21",
+      "time": "20:30",
       "team1": "Santos FC",
       "team2": "São Paulo FC",
       "score": {
@@ -3100,6 +3787,9 @@
       }
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-09-21",
+      "time": "20:30",
       "team1": "Cruzeiro EC",
       "team2": "RB Bragantino",
       "score": {
@@ -3114,6 +3804,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-09-24",
+      "time": "19:30",
       "team1": "CR Vasco da Gama",
       "team2": "EC Bahia",
       "score": {
@@ -3128,6 +3821,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-09-24",
+      "time": "19:30",
       "team1": "Grêmio FBPA",
       "team2": "Botafogo FR",
       "score": {
@@ -3142,6 +3838,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-09-27",
+      "time": "16:00",
       "team1": "Fortaleza EC",
       "team2": "SC Recife",
       "score": {
@@ -3156,6 +3855,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-09-27",
+      "time": "18:30",
       "team1": "CR Vasco da Gama",
       "team2": "Cruzeiro EC",
       "score": {
@@ -3170,6 +3872,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-09-27",
+      "time": "18:30",
       "team1": "EC Juventude",
       "team2": "SC Internacional",
       "score": {
@@ -3184,6 +3889,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-09-27",
+      "time": "21:00",
       "team1": "CA Mineiro",
       "team2": "Mirassol FC",
       "score": {
@@ -3198,6 +3906,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-09-28",
+      "time": "11:00",
       "team1": "Grêmio FBPA",
       "team2": "EC Vitória",
       "score": {
@@ -3212,6 +3923,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-09-28",
+      "time": "16:00",
       "team1": "Fluminense FC",
       "team2": "Botafogo FR",
       "score": {
@@ -3226,6 +3940,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-09-28",
+      "time": "16:00",
       "team1": "EC Bahia",
       "team2": "SE Palmeiras",
       "score": {
@@ -3240,6 +3957,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-09-28",
+      "time": "18:30",
       "team1": "RB Bragantino",
       "team2": "Santos FC",
       "score": {
@@ -3254,6 +3974,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-09-28",
+      "time": "20:30",
       "team1": "SC Corinthians Paulista",
       "team2": "CR Flamengo",
       "score": {
@@ -3268,6 +3991,9 @@
       }
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-09-29",
+      "time": "20:00",
       "team1": "São Paulo FC",
       "team2": "Ceará SC",
       "score": {
@@ -3282,6 +4008,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-09-30",
+      "time": "21:30",
       "team1": "CA Mineiro",
       "team2": "EC Juventude",
       "score": [
@@ -3290,6 +4019,9 @@
       ]
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-10-01",
+      "time": "19:00",
       "team1": "SE Palmeiras",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -3304,6 +4036,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-10-01",
+      "time": "19:00",
       "team1": "Mirassol FC",
       "team2": "RB Bragantino",
       "score": {
@@ -3318,6 +4053,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-10-01",
+      "time": "19:00",
       "team1": "SC Recife",
       "team2": "Fluminense FC",
       "score": {
@@ -3332,6 +4070,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-10-01",
+      "time": "19:30",
       "team1": "SC Internacional",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -3346,6 +4087,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-10-01",
+      "time": "21:30",
       "team1": "Botafogo FR",
       "team2": "EC Bahia",
       "score": {
@@ -3360,6 +4104,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-10-01",
+      "time": "21:30",
       "team1": "Santos FC",
       "team2": "Grêmio FBPA",
       "score": {
@@ -3374,6 +4121,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-10-02",
+      "time": "19:00",
       "team1": "EC Vitória",
       "team2": "Ceará SC",
       "score": {
@@ -3388,6 +4138,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-10-02",
+      "time": "19:30",
       "team1": "Fortaleza EC",
       "team2": "São Paulo FC",
       "score": {
@@ -3402,6 +4155,9 @@
       }
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-10-02",
+      "time": "20:30",
       "team1": "CR Flamengo",
       "team2": "Cruzeiro EC",
       "score": [
@@ -3410,6 +4166,9 @@
       ]
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-10-04",
+      "time": "18:30",
       "team1": "Fluminense FC",
       "team2": "CA Mineiro",
       "score": {
@@ -3424,6 +4183,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-10-04",
+      "time": "18:30",
       "team1": "RB Bragantino",
       "team2": "Grêmio FBPA",
       "score": {
@@ -3438,6 +4200,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-10-04",
+      "time": "18:30",
       "team1": "SC Internacional",
       "team2": "Botafogo FR",
       "score": {
@@ -3452,6 +4217,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-10-04",
+      "time": "21:00",
       "team1": "SC Corinthians Paulista",
       "team2": "Mirassol FC",
       "score": {
@@ -3466,6 +4234,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-10-05",
+      "time": "16:00",
       "team1": "CR Vasco da Gama",
       "team2": "EC Vitória",
       "score": {
@@ -3480,6 +4251,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-10-05",
+      "time": "16:00",
       "team1": "São Paulo FC",
       "team2": "SE Palmeiras",
       "score": {
@@ -3494,6 +4268,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-10-05",
+      "time": "18:30",
       "team1": "EC Bahia",
       "team2": "CR Flamengo",
       "score": {
@@ -3508,6 +4285,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-10-05",
+      "time": "18:30",
       "team1": "EC Juventude",
       "team2": "Fortaleza EC",
       "score": {
@@ -3522,6 +4302,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-10-05",
+      "time": "20:30",
       "team1": "Cruzeiro EC",
       "team2": "SC Recife",
       "score": {
@@ -3536,6 +4319,9 @@
       }
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-10-05",
+      "time": "20:30",
       "team1": "Ceará SC",
       "team2": "Santos FC",
       "score": {
@@ -3550,6 +4336,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-10-08",
+      "time": "19:00",
       "team1": "CA Mineiro",
       "team2": "SC Recife",
       "score": {
@@ -3564,6 +4353,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-10-08",
+      "time": "21:00",
       "team1": "Mirassol FC",
       "team2": "Fluminense FC",
       "score": {
@@ -3578,6 +4370,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-10-11",
+      "time": "19:00",
       "team1": "SE Palmeiras",
       "team2": "EC Juventude",
       "score": {
@@ -3592,6 +4387,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-10-15",
+      "time": "19:00",
       "team1": "SE Palmeiras",
       "team2": "RB Bragantino",
       "score": {
@@ -3606,6 +4404,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-10-15",
+      "time": "19:30",
       "team1": "Botafogo FR",
       "team2": "CR Flamengo",
       "score": {
@@ -3620,6 +4421,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-10-15",
+      "time": "20:00",
       "team1": "Mirassol FC",
       "team2": "SC Internacional",
       "score": {
@@ -3634,6 +4438,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-10-15",
+      "time": "20:00",
       "team1": "SC Recife",
       "team2": "Ceará SC",
       "score": {
@@ -3648,6 +4455,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-10-15",
+      "time": "21:30",
       "team1": "Santos FC",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -3662,6 +4472,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-10-15",
+      "time": "21:30",
       "team1": "CA Mineiro",
       "team2": "Cruzeiro EC",
       "score": {
@@ -3676,6 +4489,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-10-15",
+      "time": "21:30",
       "team1": "Fortaleza EC",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -3690,6 +4506,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-10-16",
+      "time": "19:00",
       "team1": "Grêmio FBPA",
       "team2": "São Paulo FC",
       "score": {
@@ -3704,6 +4523,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-10-16",
+      "time": "21:30",
       "team1": "Fluminense FC",
       "team2": "EC Juventude",
       "score": {
@@ -3718,6 +4540,9 @@
       }
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-10-16",
+      "time": "21:30",
       "team1": "EC Vitória",
       "team2": "EC Bahia",
       "score": {
@@ -3732,6 +4557,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-10-18",
+      "time": "18:30",
       "team1": "SC Corinthians Paulista",
       "team2": "CA Mineiro",
       "score": {
@@ -3746,6 +4574,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-10-18",
+      "time": "21:00",
       "team1": "Cruzeiro EC",
       "team2": "Fortaleza EC",
       "score": {
@@ -3760,6 +4591,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-10-19",
+      "time": "16:00",
       "team1": "CR Flamengo",
       "team2": "SE Palmeiras",
       "score": {
@@ -3774,6 +4608,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-10-19",
+      "time": "18:30",
       "team1": "Mirassol FC",
       "team2": "São Paulo FC",
       "score": {
@@ -3788,6 +4625,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-10-19",
+      "time": "18:30",
       "team1": "SC Internacional",
       "team2": "SC Recife",
       "score": {
@@ -3802,6 +4642,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-10-19",
+      "time": "18:30",
       "team1": "Ceará SC",
       "team2": "Botafogo FR",
       "score": {
@@ -3816,6 +4659,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-10-19",
+      "time": "20:30",
       "team1": "EC Bahia",
       "team2": "Grêmio FBPA",
       "score": {
@@ -3830,6 +4676,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-10-20",
+      "time": "19:00",
       "team1": "EC Juventude",
       "team2": "RB Bragantino",
       "score": {
@@ -3844,6 +4693,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-10-20",
+      "time": "19:30",
       "team1": "CR Vasco da Gama",
       "team2": "Fluminense FC",
       "score": {
@@ -3858,6 +4710,9 @@
       }
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-10-20",
+      "time": "21:30",
       "team1": "Santos FC",
       "team2": "EC Vitória",
       "score": {
@@ -3872,6 +4727,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-10-22",
+      "time": "19:00",
       "team1": "EC Bahia",
       "team2": "SC Internacional",
       "score": {
@@ -3886,6 +4744,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-10-25",
+      "time": "16:00",
       "team1": "CA Mineiro",
       "team2": "Ceará SC",
       "score": {
@@ -3900,6 +4761,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-10-25",
+      "time": "16:00",
       "team1": "EC Vitória",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -3914,6 +4778,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-10-25",
+      "time": "17:30",
       "team1": "Fluminense FC",
       "team2": "SC Internacional",
       "score": {
@@ -3928,6 +4795,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-10-25",
+      "time": "18:30",
       "team1": "SC Recife",
       "team2": "Mirassol FC",
       "score": {
@@ -3942,6 +4812,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-10-25",
+      "time": "19:30",
       "team1": "Fortaleza EC",
       "team2": "CR Flamengo",
       "score": {
@@ -3956,6 +4829,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-10-25",
+      "time": "22:30",
       "team1": "São Paulo FC",
       "team2": "EC Bahia",
       "score": {
@@ -3970,6 +4846,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-10-26",
+      "time": "16:00",
       "team1": "Botafogo FR",
       "team2": "Santos FC",
       "score": {
@@ -3984,6 +4863,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-10-26",
+      "time": "16:00",
       "team1": "Grêmio FBPA",
       "team2": "EC Juventude",
       "score": {
@@ -3998,6 +4880,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-10-26",
+      "time": "18:30",
       "team1": "RB Bragantino",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -4012,6 +4897,9 @@
       }
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-10-26",
+      "time": "20:30",
       "team1": "SE Palmeiras",
       "team2": "Cruzeiro EC",
       "score": [
@@ -4020,6 +4908,9 @@
       ]
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-10-29",
+      "time": "19:00",
       "team1": "Fluminense FC",
       "team2": "Ceará SC",
       "score": {
@@ -4034,6 +4925,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-11-01",
+      "time": "16:00",
       "team1": "Santos FC",
       "team2": "Fortaleza EC",
       "score": {
@@ -4048,6 +4942,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-11-01",
+      "time": "16:00",
       "team1": "Cruzeiro EC",
       "team2": "EC Vitória",
       "score": {
@@ -4062,6 +4959,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-11-01",
+      "time": "18:00",
       "team1": "Mirassol FC",
       "team2": "Botafogo FR",
       "score": [
@@ -4070,6 +4970,9 @@
       ]
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-11-01",
+      "time": "21:00",
       "team1": "CR Flamengo",
       "team2": "SC Recife",
       "score": {
@@ -4084,6 +4987,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-11-02",
+      "time": "16:00",
       "team1": "SC Corinthians Paulista",
       "team2": "Grêmio FBPA",
       "score": {
@@ -4098,6 +5004,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-11-02",
+      "time": "16:00",
       "team1": "EC Bahia",
       "team2": "RB Bragantino",
       "score": {
@@ -4112,6 +5021,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-11-02",
+      "time": "16:00",
       "team1": "Ceará SC",
       "team2": "Fluminense FC",
       "score": {
@@ -4126,6 +5038,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-11-02",
+      "time": "18:30",
       "team1": "SC Internacional",
       "team2": "CA Mineiro",
       "score": [
@@ -4134,6 +5049,9 @@
       ]
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-11-02",
+      "time": "18:30",
       "team1": "EC Juventude",
       "team2": "SE Palmeiras",
       "score": {
@@ -4148,6 +5066,9 @@
       }
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-11-02",
+      "time": "20:30",
       "team1": "CR Vasco da Gama",
       "team2": "São Paulo FC",
       "score": {
@@ -4162,6 +5083,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-11-05",
+      "time": "19:00",
       "team1": "RB Bragantino",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -4176,6 +5100,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-11-05",
+      "time": "19:00",
       "team1": "EC Vitória",
       "team2": "SC Internacional",
       "score": {
@@ -4190,6 +5117,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-11-05",
+      "time": "19:00",
       "team1": "SC Recife",
       "team2": "EC Juventude",
       "score": {
@@ -4204,6 +5134,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-11-05",
+      "time": "19:30",
       "team1": "Botafogo FR",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -4218,6 +5151,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-11-05",
+      "time": "20:00",
       "team1": "CA Mineiro",
       "team2": "EC Bahia",
       "score": {
@@ -4232,6 +5168,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-11-05",
+      "time": "20:00",
       "team1": "Grêmio FBPA",
       "team2": "Cruzeiro EC",
       "score": {
@@ -4246,6 +5185,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-11-05",
+      "time": "21:30",
       "team1": "São Paulo FC",
       "team2": "CR Flamengo",
       "score": {
@@ -4260,6 +5202,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-11-06",
+      "time": "19:30",
       "team1": "Fluminense FC",
       "team2": "Mirassol FC",
       "score": {
@@ -4274,6 +5219,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-11-06",
+      "time": "20:00",
       "team1": "Ceará SC",
       "team2": "Fortaleza EC",
       "score": {
@@ -4288,6 +5236,9 @@
       }
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-11-06",
+      "time": "21:30",
       "team1": "SE Palmeiras",
       "team2": "Santos FC",
       "score": {
@@ -4302,6 +5253,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-11-08",
+      "time": "16:00",
       "team1": "SC Recife",
       "team2": "CA Mineiro",
       "score": {
@@ -4316,6 +5270,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-11-08",
+      "time": "18:00",
       "team1": "CR Vasco da Gama",
       "team2": "EC Juventude",
       "score": {
@@ -4330,6 +5287,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-11-08",
+      "time": "18:30",
       "team1": "SC Internacional",
       "team2": "EC Bahia",
       "score": {
@@ -4344,6 +5304,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-11-08",
+      "time": "21:00",
       "team1": "São Paulo FC",
       "team2": "RB Bragantino",
       "score": {
@@ -4358,6 +5321,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-11-09",
+      "time": "16:00",
       "team1": "SC Corinthians Paulista",
       "team2": "Ceará SC",
       "score": {
@@ -4372,6 +5338,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-11-09",
+      "time": "16:00",
       "team1": "Cruzeiro EC",
       "team2": "Fluminense FC",
       "score": [
@@ -4380,6 +5349,9 @@
       ]
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-11-09",
+      "time": "16:00",
       "team1": "EC Vitória",
       "team2": "Botafogo FR",
       "score": [
@@ -4388,6 +5360,9 @@
       ]
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-11-09",
+      "time": "18:30",
       "team1": "CR Flamengo",
       "team2": "Santos FC",
       "score": {
@@ -4402,6 +5377,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-11-09",
+      "time": "20:30",
       "team1": "Mirassol FC",
       "team2": "SE Palmeiras",
       "score": {
@@ -4416,6 +5394,9 @@
       }
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-11-09",
+      "time": "20:30",
       "team1": "Fortaleza EC",
       "team2": "Grêmio FBPA",
       "score": {
@@ -4430,6 +5411,9 @@
       }
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-11-12",
+      "time": "20:30",
       "team1": "CA Mineiro",
       "team2": "Fortaleza EC",
       "score": {
@@ -4444,6 +5428,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-11-15",
+      "time": "18:30",
       "team1": "SC Recife",
       "team2": "CR Flamengo",
       "score": {
@@ -4458,6 +5445,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-11-15",
+      "time": "21:00",
       "team1": "Santos FC",
       "team2": "SE Palmeiras",
       "score": {
@@ -4472,6 +5462,9 @@
       }
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-11-16",
+      "time": "19:00",
       "team1": "RB Bragantino",
       "team2": "CA Mineiro",
       "score": {
@@ -4486,6 +5479,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-11-18",
+      "time": "20:30",
       "team1": "Botafogo FR",
       "team2": "SC Recife",
       "score": {
@@ -4500,6 +5496,9 @@
       }
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-11-19",
+      "time": "19:30",
       "team1": "SE Palmeiras",
       "team2": "EC Vitória",
       "score": [
@@ -4508,6 +5507,9 @@
       ]
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-11-19",
+      "time": "21:30",
       "team1": "Fluminense FC",
       "team2": "CR Flamengo",
       "score": {
@@ -4522,6 +5524,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-11-19",
+      "time": "21:30",
       "team1": "Santos FC",
       "team2": "Mirassol FC",
       "score": {
@@ -4536,6 +5541,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-11-19",
+      "time": "21:30",
       "team1": "Grêmio FBPA",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -4550,6 +5558,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-11-20",
+      "time": "16:00",
       "team1": "EC Juventude",
       "team2": "Cruzeiro EC",
       "score": {
@@ -4564,6 +5575,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-11-20",
+      "time": "18:00",
       "team1": "EC Bahia",
       "team2": "Fortaleza EC",
       "score": {
@@ -4578,6 +5592,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-11-20",
+      "time": "19:30",
       "team1": "SC Corinthians Paulista",
       "team2": "São Paulo FC",
       "score": {
@@ -4592,6 +5609,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-11-20",
+      "time": "21:30",
       "team1": "Ceará SC",
       "team2": "SC Internacional",
       "score": {
@@ -4606,6 +5626,9 @@
       }
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-11-22",
+      "time": "19:30",
       "team1": "Botafogo FR",
       "team2": "Grêmio FBPA",
       "score": {
@@ -4620,6 +5643,9 @@
       }
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-11-22",
+      "time": "21:30",
       "team1": "CR Flamengo",
       "team2": "RB Bragantino",
       "score": {
@@ -4634,6 +5660,9 @@
       }
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-11-22",
+      "time": "21:30",
       "team1": "SE Palmeiras",
       "team2": "Fluminense FC",
       "score": [
@@ -4642,6 +5671,9 @@
       ]
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-11-23",
+      "time": "16:00",
       "team1": "São Paulo FC",
       "team2": "EC Juventude",
       "score": {
@@ -4656,6 +5688,9 @@
       }
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-11-23",
+      "time": "16:00",
       "team1": "EC Bahia",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -4670,6 +5705,9 @@
       }
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-11-23",
+      "time": "18:30",
       "team1": "SC Recife",
       "team2": "EC Vitória",
       "score": {
@@ -4684,6 +5722,9 @@
       }
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-11-23",
+      "time": "20:30",
       "team1": "Cruzeiro EC",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -4698,6 +5739,9 @@
       }
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-11-24",
+      "time": "19:00",
       "team1": "Mirassol FC",
       "team2": "Ceará SC",
       "score": {
@@ -4712,6 +5756,9 @@
       }
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-11-24",
+      "time": "21:00",
       "team1": "SC Internacional",
       "team2": "Santos FC",
       "score": {
@@ -4726,6 +5773,9 @@
       }
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-25",
+      "time": "21:30",
       "team1": "CA Mineiro",
       "team2": "CR Flamengo",
       "score": {
@@ -4740,6 +5790,9 @@
       }
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-25",
+      "time": "21:30",
       "team1": "Grêmio FBPA",
       "team2": "SE Palmeiras",
       "score": {
@@ -4754,6 +5807,9 @@
       }
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-26",
+      "time": "19:00",
       "team1": "RB Bragantino",
       "team2": "Fortaleza EC",
       "score": {
@@ -4768,6 +5824,9 @@
       }
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-27",
+      "time": "20:30",
       "team1": "Fluminense FC",
       "team2": "São Paulo FC",
       "score": {
@@ -4782,6 +5841,9 @@
       }
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-28",
+      "time": "19:00",
       "team1": "EC Juventude",
       "team2": "EC Bahia",
       "score": {
@@ -4796,6 +5858,9 @@
       }
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-28",
+      "time": "19:30",
       "team1": "CR Vasco da Gama",
       "team2": "SC Internacional",
       "score": {
@@ -4810,6 +5875,9 @@
       }
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-28",
+      "time": "21:30",
       "team1": "Santos FC",
       "team2": "SC Recife",
       "score": {
@@ -4824,6 +5892,9 @@
       }
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-29",
+      "time": "16:00",
       "team1": "EC Vitória",
       "team2": "Mirassol FC",
       "score": {
@@ -4838,6 +5909,9 @@
       }
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-29",
+      "time": "21:00",
       "team1": "Ceará SC",
       "team2": "Cruzeiro EC",
       "score": {
@@ -4852,6 +5926,9 @@
       }
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-30",
+      "time": "16:00",
       "team1": "SC Corinthians Paulista",
       "team2": "Botafogo FR",
       "score": {
@@ -4866,6 +5943,9 @@
       }
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-11-30",
+      "time": "18:30",
       "team1": "Fortaleza EC",
       "team2": "CA Mineiro",
       "score": {
@@ -4880,6 +5960,9 @@
       }
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-12-02",
+      "time": "19:00",
       "team1": "CR Vasco da Gama",
       "team2": "Mirassol FC",
       "score": {
@@ -4894,6 +5977,9 @@
       }
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-12-02",
+      "time": "21:30",
       "team1": "Grêmio FBPA",
       "team2": "Fluminense FC",
       "score": {
@@ -4908,6 +5994,9 @@
       }
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-12-03",
+      "time": "19:00",
       "team1": "Fortaleza EC",
       "team2": "SC Corinthians Paulista",
       "score": {
@@ -4922,6 +6011,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-12-03",
+      "time": "19:00",
       "team1": "RB Bragantino",
       "team2": "EC Vitória",
       "score": {
@@ -4936,6 +6028,9 @@
       }
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-12-03",
+      "time": "19:30",
       "team1": "EC Juventude",
       "team2": "Santos FC",
       "score": {
@@ -4950,6 +6045,9 @@
       }
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-12-03",
+      "time": "20:00",
       "team1": "São Paulo FC",
       "team2": "SC Internacional",
       "score": {
@@ -4964,6 +6062,9 @@
       }
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-12-03",
+      "time": "20:00",
       "team1": "EC Bahia",
       "team2": "SC Recife",
       "score": {
@@ -4978,6 +6079,9 @@
       }
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-12-03",
+      "time": "21:30",
       "team1": "CA Mineiro",
       "team2": "SE Palmeiras",
       "score": {
@@ -4992,6 +6096,9 @@
       }
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-12-03",
+      "time": "21:30",
       "team1": "CR Flamengo",
       "team2": "Ceará SC",
       "score": {
@@ -5006,6 +6113,9 @@
       }
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-12-04",
+      "time": "19:30",
       "team1": "Cruzeiro EC",
       "team2": "Botafogo FR",
       "score": {
@@ -5020,6 +6130,9 @@
       }
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-06",
+      "time": "18:30",
       "team1": "Mirassol FC",
       "team2": "CR Flamengo",
       "score": {
@@ -5034,6 +6147,9 @@
       }
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-07",
+      "time": "16:00",
       "team1": "Fluminense FC",
       "team2": "EC Bahia",
       "score": {
@@ -5048,6 +6164,9 @@
       }
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-07",
+      "time": "16:00",
       "team1": "Botafogo FR",
       "team2": "Fortaleza EC",
       "score": {
@@ -5062,6 +6181,9 @@
       }
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-07",
+      "time": "16:00",
       "team1": "SC Corinthians Paulista",
       "team2": "EC Juventude",
       "score": {
@@ -5076,6 +6198,9 @@
       }
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-07",
+      "time": "16:00",
       "team1": "Santos FC",
       "team2": "Cruzeiro EC",
       "score": {
@@ -5090,6 +6215,9 @@
       }
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-07",
+      "time": "16:00",
       "team1": "CA Mineiro",
       "team2": "CR Vasco da Gama",
       "score": {
@@ -5104,6 +6232,9 @@
       }
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-07",
+      "time": "16:00",
       "team1": "SC Internacional",
       "team2": "RB Bragantino",
       "score": {
@@ -5118,6 +6249,9 @@
       }
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-07",
+      "time": "16:00",
       "team1": "EC Vitória",
       "team2": "São Paulo FC",
       "score": {
@@ -5132,6 +6266,9 @@
       }
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-07",
+      "time": "16:00",
       "team1": "Ceará SC",
       "team2": "SE Palmeiras",
       "score": {
@@ -5146,6 +6283,9 @@
       }
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-07",
+      "time": "16:00",
       "team1": "SC Recife",
       "team2": "Grêmio FBPA",
       "score": {

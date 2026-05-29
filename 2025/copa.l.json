@@ -2,6 +2,9 @@
   "name": "Copa Libertadores 2025",
   "matches": [
     {
+      "round": "Qualifying, Round 1",
+      "date": "2025-02-04",
+      "time": "21:30",
       "team1": "Monagas SC (VEN)",
       "team2": "Defensor SC (URU)",
       "score": {
@@ -16,6 +19,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 1",
+      "date": "2025-02-05",
+      "time": "21:30",
       "team1": "Club Nacional (PAR)",
       "team2": "Club Alianza Lima (PER)",
       "score": {
@@ -30,6 +36,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 1",
+      "date": "2025-02-06",
+      "time": "21:30",
       "team1": "CD Blooming (BOL)",
       "team2": "CSCyD El Nacional (ECU)",
       "score": {
@@ -44,6 +53,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 1",
+      "date": "2025-02-11",
+      "time": "21:30",
       "team1": "Defensor SC (URU)",
       "team2": "Monagas SC (VEN)",
       "score": {
@@ -58,6 +70,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 1",
+      "date": "2025-02-12",
+      "time": "21:30",
       "team1": "Club Alianza Lima (PER)",
       "team2": "Club Nacional (PAR)",
       "score": {
@@ -72,6 +87,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 1",
+      "date": "2025-02-13",
+      "time": "21:30",
       "team1": "CSCyD El Nacional (ECU)",
       "team2": "CD Blooming (BOL)",
       "score": {
@@ -90,6 +108,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-18",
+      "time": "19:00",
       "team1": "CD Iquique (CHI)",
       "team2": "Independiente Santa Fe (COL)",
       "score": {
@@ -104,6 +125,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-18",
+      "time": "21:30",
       "team1": "Club Alianza Lima (PER)",
       "team2": "CA Boca Juniors (ARG)",
       "score": {
@@ -118,6 +142,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-18",
+      "time": "21:30",
       "team1": "Club The Strongest (BOL)",
       "team2": "EC Bahia (BRA)",
       "score": {
@@ -132,6 +159,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-19",
+      "time": "19:00",
       "team1": "CA Boston River (URU)",
       "team2": "CD Nublense (CHI)",
       "score": {
@@ -146,6 +176,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-19",
+      "time": "21:30",
       "team1": "CSCyD El Nacional (ECU)",
       "team2": "Barcelona SC (ECU)",
       "score": {
@@ -160,6 +193,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-19",
+      "time": "21:30",
       "team1": "Universidad Central de Venezuela FC (VEN)",
       "team2": "SC Corinthians Paulista (BRA)",
       "score": {
@@ -174,6 +210,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-20",
+      "time": "19:00",
       "team1": "Monagas SC (VEN)",
       "team2": "Club Cerro Porteño (PAR)",
       "score": {
@@ -188,6 +227,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-20",
+      "time": "21:30",
       "team1": "CD Tolima (COL)",
       "team2": "FBC Melgar (PER)",
       "score": {
@@ -202,6 +244,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-25",
+      "time": "19:00",
       "team1": "Independiente Santa Fe (COL)",
       "team2": "CD Iquique (CHI)",
       "score": {
@@ -220,6 +265,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-25",
+      "time": "21:30",
       "team1": "CA Boca Juniors (ARG)",
       "team2": "Club Alianza Lima (PER)",
       "score": {
@@ -238,6 +286,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-25",
+      "time": "21:30",
       "team1": "EC Bahia (BRA)",
       "team2": "Club The Strongest (BOL)",
       "score": {
@@ -252,6 +303,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-26",
+      "time": "19:00",
       "team1": "CD Nublense (CHI)",
       "team2": "CA Boston River (URU)",
       "score": {
@@ -266,6 +320,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-26",
+      "time": "21:30",
       "team1": "Barcelona SC (ECU)",
       "team2": "CSCyD El Nacional (ECU)",
       "score": {
@@ -280,6 +337,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-26",
+      "time": "21:30",
       "team1": "SC Corinthians Paulista (BRA)",
       "team2": "Universidad Central de Venezuela FC (VEN)",
       "score": {
@@ -294,6 +354,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-27",
+      "time": "19:00",
       "team1": "Club Cerro Porteño (PAR)",
       "team2": "Monagas SC (VEN)",
       "score": {
@@ -308,6 +371,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 2",
+      "date": "2025-02-27",
+      "time": "21:30",
       "team1": "FBC Melgar (PER)",
       "team2": "CD Tolima (COL)",
       "score": {
@@ -322,6 +388,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 3",
+      "date": "2025-03-04",
+      "time": "19:00",
       "team1": "CD Iquique (CHI)",
       "team2": "Club Alianza Lima (PER)",
       "score": {
@@ -336,6 +405,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 3",
+      "date": "2025-03-05",
+      "time": "19:00",
       "team1": "FBC Melgar (PER)",
       "team2": "Club Cerro Porteño (PAR)",
       "score": {
@@ -350,6 +422,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 3",
+      "date": "2025-03-05",
+      "time": "21:30",
       "team1": "Barcelona SC (ECU)",
       "team2": "SC Corinthians Paulista (BRA)",
       "score": {
@@ -364,6 +439,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 3",
+      "date": "2025-03-06",
+      "time": "21:30",
       "team1": "CA Boston River (URU)",
       "team2": "EC Bahia (BRA)",
       "score": [
@@ -372,6 +450,9 @@
       ]
     },
     {
+      "round": "Qualifying, Round 3",
+      "date": "2025-03-11",
+      "time": "19:00",
       "team1": "Club Alianza Lima (PER)",
       "team2": "CD Iquique (CHI)",
       "score": {
@@ -386,6 +467,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 3",
+      "date": "2025-03-12",
+      "time": "19:00",
       "team1": "Club Cerro Porteño (PAR)",
       "team2": "FBC Melgar (PER)",
       "score": {
@@ -400,6 +484,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 3",
+      "date": "2025-03-12",
+      "time": "21:30",
       "team1": "SC Corinthians Paulista (BRA)",
       "team2": "Barcelona SC (ECU)",
       "score": {
@@ -414,6 +501,9 @@
       }
     },
     {
+      "round": "Qualifying, Round 3",
+      "date": "2025-03-13",
+      "time": "21:30",
       "team1": "EC Bahia (BRA)",
       "team2": "CA Boston River (URU)",
       "score": {
@@ -428,6 +518,9 @@
       }
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-01",
+      "time": "19:00",
       "team1": "Carabobo FC (VEN)",
       "team2": "Estudiantes de La Plata (ARG)",
       "score": {
@@ -442,6 +535,9 @@
       }
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-01",
+      "time": "19:00",
       "team1": "Club Cerro Porteño (PAR)",
       "team2": "Club Bolívar (BOL)",
       "score": {
@@ -456,6 +552,9 @@
       }
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-01",
+      "time": "21:30",
       "team1": "CA Bucaramanga (COL)",
       "team2": "CSD Colo-Colo (CHI)",
       "score": {
@@ -470,6 +569,9 @@
       }
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-01",
+      "time": "21:30",
       "team1": "Fortaleza EC (BRA)",
       "team2": "Racing Club (ARG)",
       "score": {
@@ -484,6 +586,9 @@
       }
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-01",
+      "time": "23:00",
       "team1": "Barcelona SC (ECU)",
       "team2": "CAR Independiente del Valle (ECU)",
       "score": {
@@ -498,6 +603,9 @@
       }
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-01",
+      "time": "23:00",
       "team1": "Club Alianza Lima (PER)",
       "team2": "Club Libertad Asuncion (PAR)",
       "score": {
@@ -512,6 +620,9 @@
       }
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-02",
+      "time": "19:00",
       "team1": "San Antonio Bulo Bulo (BOL)",
       "team2": "Olimpia Asuncion (PAR)",
       "score": {
@@ -526,6 +637,9 @@
       }
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-02",
+      "time": "19:00",
       "team1": "CA Vélez Sarsfield (ARG)",
       "team2": "CA Peñarol (URU)",
       "score": {
@@ -540,6 +654,9 @@
       }
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-02",
+      "time": "21:30",
       "team1": "CF Universidad de Chile (CHI)",
       "team2": "Botafogo FR (BRA)",
       "score": {
@@ -554,6 +671,9 @@
       }
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-02",
+      "time": "21:30",
       "team1": "Club Universitario de Deportes (PER)",
       "team2": "CA River Plate (ARG)",
       "score": {
@@ -568,6 +688,9 @@
       }
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-02",
+      "time": "21:30",
       "team1": "CA Talleres (ARG)",
       "team2": "São Paulo FC (BRA)",
       "score": {
@@ -582,6 +705,9 @@
       }
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-02",
+      "time": "23:00",
       "team1": "CDC Atlético Nacional (COL)",
       "team2": "Club Nacional de Football (URU)",
       "score": {
@@ -596,6 +722,9 @@
       }
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-03",
+      "time": "19:00",
       "team1": "CA Central Córdoba (ARG)",
       "team2": "LDU de Quito (ECU)",
       "score": [
@@ -604,6 +733,9 @@
       ]
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-03",
+      "time": "19:00",
       "team1": "EC Bahia (BRA)",
       "team2": "SC Internacional (BRA)",
       "score": {
@@ -618,6 +750,9 @@
       }
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-03",
+      "time": "19:00",
       "team1": "CS Cristal (PER)",
       "team2": "SE Palmeiras (BRA)",
       "score": {
@@ -632,6 +767,9 @@
       }
     },
     {
+      "round": "Group, Matchday 1",
+      "date": "2025-04-03",
+      "time": "21:30",
       "team1": "Deportivo Táchira FC (VEN)",
       "team2": "CR Flamengo (BRA)",
       "score": {
@@ -646,6 +784,9 @@
       }
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-08",
+      "time": "19:00",
       "team1": "Botafogo FR (BRA)",
       "team2": "Carabobo FC (VEN)",
       "score": {
@@ -660,6 +801,9 @@
       }
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-08",
+      "time": "19:00",
       "team1": "Club Libertad Asuncion (PAR)",
       "team2": "CA Talleres (ARG)",
       "score": {
@@ -674,6 +818,9 @@
       }
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-08",
+      "time": "21:00",
       "team1": "CA Peñarol (URU)",
       "team2": "San Antonio Bulo Bulo (BOL)",
       "score": {
@@ -688,6 +835,9 @@
       }
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-08",
+      "time": "21:30",
       "team1": "Estudiantes de La Plata (ARG)",
       "team2": "CF Universidad de Chile (CHI)",
       "score": {
@@ -702,6 +852,9 @@
       }
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-08",
+      "time": "21:30",
       "team1": "CA River Plate (ARG)",
       "team2": "Barcelona SC (ECU)",
       "score": [
@@ -710,6 +863,9 @@
       ]
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-08",
+      "time": "23:00",
       "team1": "CAR Independiente del Valle (ECU)",
       "team2": "Club Universitario de Deportes (PER)",
       "score": {
@@ -724,6 +880,9 @@
       }
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-09",
+      "time": "19:00",
       "team1": "Club Nacional de Football (URU)",
       "team2": "EC Bahia (BRA)",
       "score": {
@@ -738,6 +897,9 @@
       }
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-09",
+      "time": "19:00",
       "team1": "Olimpia Asuncion (PAR)",
       "team2": "CA Vélez Sarsfield (ARG)",
       "score": {
@@ -752,6 +914,9 @@
       }
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-09",
+      "time": "21:30",
       "team1": "CR Flamengo (BRA)",
       "team2": "CA Central Córdoba (ARG)",
       "score": {
@@ -766,6 +931,9 @@
       }
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-09",
+      "time": "21:30",
       "team1": "Club Bolívar (BOL)",
       "team2": "CS Cristal (PER)",
       "score": {
@@ -780,6 +948,9 @@
       }
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-09",
+      "time": "21:30",
       "team1": "SE Palmeiras (BRA)",
       "team2": "Club Cerro Porteño (PAR)",
       "score": {
@@ -794,6 +965,9 @@
       }
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-09",
+      "time": "23:00",
       "team1": "LDU de Quito (ECU)",
       "team2": "Deportivo Táchira FC (VEN)",
       "score": {
@@ -808,6 +982,9 @@
       }
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-10",
+      "time": "19:00",
       "team1": "Racing Club (ARG)",
       "team2": "CA Bucaramanga (COL)",
       "score": {
@@ -822,6 +999,9 @@
       }
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-10",
+      "time": "19:00",
       "team1": "SC Internacional (BRA)",
       "team2": "CDC Atlético Nacional (COL)",
       "score": {
@@ -836,11 +1016,16 @@
       }
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-11",
       "team1": "CSD Colo-Colo (CHI)",
       "team2": "Fortaleza EC (BRA)",
       "status": "postponed"
     },
     {
+      "round": "Group, Matchday 2",
+      "date": "2025-04-10",
+      "time": "21:30",
       "team1": "São Paulo FC (BRA)",
       "team2": "Club Alianza Lima (PER)",
       "score": {
@@ -855,6 +1040,9 @@
       }
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-22",
+      "time": "19:00",
       "team1": "LDU de Quito (ECU)",
       "team2": "CR Flamengo (BRA)",
       "score": [
@@ -863,6 +1051,9 @@
       ]
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-22",
+      "time": "19:00",
       "team1": "Club Alianza Lima (PER)",
       "team2": "CA Talleres (ARG)",
       "score": {
@@ -877,6 +1068,9 @@
       }
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-22",
+      "time": "20:00",
       "team1": "Carabobo FC (VEN)",
       "team2": "CF Universidad de Chile (CHI)",
       "score": {
@@ -891,6 +1085,9 @@
       }
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-22",
+      "time": "21:30",
       "team1": "CSD Colo-Colo (CHI)",
       "team2": "Racing Club (ARG)",
       "score": {
@@ -905,6 +1102,9 @@
       }
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-22",
+      "time": "21:30",
       "team1": "SC Internacional (BRA)",
       "team2": "Club Nacional de Football (URU)",
       "score": {
@@ -919,6 +1119,9 @@
       }
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-22",
+      "time": "23:00",
       "team1": "Barcelona SC (ECU)",
       "team2": "Club Universitario de Deportes (PER)",
       "score": {
@@ -933,6 +1136,9 @@
       }
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-23",
+      "time": "19:00",
       "team1": "Olimpia Asuncion (PAR)",
       "team2": "CA Peñarol (URU)",
       "score": [
@@ -941,6 +1147,9 @@
       ]
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-23",
+      "time": "19:00",
       "team1": "San Antonio Bulo Bulo (BOL)",
       "team2": "CA Vélez Sarsfield (ARG)",
       "score": {
@@ -955,6 +1164,9 @@
       }
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-23",
+      "time": "21:30",
       "team1": "Estudiantes de La Plata (ARG)",
       "team2": "Botafogo FR (BRA)",
       "score": {
@@ -969,6 +1181,9 @@
       }
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-23",
+      "time": "21:30",
       "team1": "CAR Independiente del Valle (ECU)",
       "team2": "CA River Plate (ARG)",
       "score": {
@@ -983,6 +1198,9 @@
       }
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-23",
+      "time": "21:30",
       "team1": "Club Libertad Asuncion (PAR)",
       "team2": "São Paulo FC (BRA)",
       "score": {
@@ -997,6 +1215,9 @@
       }
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-23",
+      "time": "23:00",
       "team1": "CA Bucaramanga (COL)",
       "team2": "Fortaleza EC (BRA)",
       "score": {
@@ -1011,6 +1232,9 @@
       }
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-24",
+      "time": "19:00",
       "team1": "CA Central Córdoba (ARG)",
       "team2": "Deportivo Táchira FC (VEN)",
       "score": {
@@ -1025,6 +1249,9 @@
       }
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-24",
+      "time": "19:00",
       "team1": "Club Bolívar (BOL)",
       "team2": "SE Palmeiras (BRA)",
       "score": {
@@ -1039,6 +1266,9 @@
       }
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-24",
+      "time": "21:00",
       "team1": "EC Bahia (BRA)",
       "team2": "CDC Atlético Nacional (COL)",
       "score": {
@@ -1053,6 +1283,9 @@
       }
     },
     {
+      "round": "Group, Matchday 3",
+      "date": "2025-04-24",
+      "time": "21:30",
       "team1": "Club Cerro Porteño (PAR)",
       "team2": "CS Cristal (PER)",
       "score": {
@@ -1067,6 +1300,9 @@
       }
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-06",
+      "time": "19:00",
       "team1": "Carabobo FC (VEN)",
       "team2": "Botafogo FR (BRA)",
       "score": {
@@ -1081,6 +1317,9 @@
       }
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-06",
+      "time": "19:00",
       "team1": "Club Alianza Lima (PER)",
       "team2": "São Paulo FC (BRA)",
       "score": {
@@ -1095,6 +1334,9 @@
       }
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-06",
+      "time": "19:00",
       "team1": "CA Bucaramanga (COL)",
       "team2": "Racing Club (ARG)",
       "score": {
@@ -1109,6 +1351,9 @@
       }
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-06",
+      "time": "21:30",
       "team1": "Fortaleza EC (BRA)",
       "team2": "CSD Colo-Colo (CHI)",
       "score": {
@@ -1123,6 +1368,9 @@
       }
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-06",
+      "time": "23:00",
       "team1": "San Antonio Bulo Bulo (BOL)",
       "team2": "CA Peñarol (URU)",
       "score": {
@@ -1137,6 +1385,9 @@
       }
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-07",
+      "time": "19:00",
       "team1": "Deportivo Táchira FC (VEN)",
       "team2": "LDU de Quito (ECU)",
       "score": {
@@ -1151,6 +1402,9 @@
       }
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-07",
+      "time": "19:00",
       "team1": "EC Bahia (BRA)",
       "team2": "Club Nacional de Football (URU)",
       "score": {
@@ -1165,6 +1419,9 @@
       }
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-07",
+      "time": "21:00",
       "team1": "CF Universidad de Chile (CHI)",
       "team2": "Estudiantes de La Plata (ARG)",
       "score": {
@@ -1179,6 +1436,9 @@
       }
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-07",
+      "time": "21:30",
       "team1": "CA Central Córdoba (ARG)",
       "team2": "CR Flamengo (BRA)",
       "score": {
@@ -1193,6 +1453,9 @@
       }
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-07",
+      "time": "21:30",
       "team1": "Club Cerro Porteño (PAR)",
       "team2": "SE Palmeiras (BRA)",
       "score": {
@@ -1207,6 +1470,9 @@
       }
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-07",
+      "time": "23:00",
       "team1": "CS Cristal (PER)",
       "team2": "Club Bolívar (BOL)",
       "score": {
@@ -1221,6 +1487,9 @@
       }
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-08",
+      "time": "19:00",
       "team1": "CA Talleres (ARG)",
       "team2": "Club Libertad Asuncion (PAR)",
       "score": [
@@ -1229,6 +1498,9 @@
       ]
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-08",
+      "time": "19:00",
       "team1": "CA Vélez Sarsfield (ARG)",
       "team2": "Olimpia Asuncion (PAR)",
       "score": {
@@ -1243,6 +1515,9 @@
       }
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-08",
+      "time": "21:30",
       "team1": "Barcelona SC (ECU)",
       "team2": "CA River Plate (ARG)",
       "score": {
@@ -1257,6 +1532,9 @@
       }
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-08",
+      "time": "21:30",
       "team1": "CDC Atlético Nacional (COL)",
       "team2": "SC Internacional (BRA)",
       "score": {
@@ -1271,6 +1549,9 @@
       }
     },
     {
+      "round": "Group, Matchday 4",
+      "date": "2025-05-08",
+      "time": "23:00",
       "team1": "Club Universitario de Deportes (PER)",
       "team2": "CAR Independiente del Valle (ECU)",
       "score": {
@@ -1285,6 +1566,9 @@
       }
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-13",
+      "time": "19:00",
       "team1": "Deportivo Táchira FC (VEN)",
       "team2": "CA Central Córdoba (ARG)",
       "score": {
@@ -1299,6 +1583,9 @@
       }
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-13",
+      "time": "21:30",
       "team1": "CF Universidad de Chile (CHI)",
       "team2": "Carabobo FC (VEN)",
       "score": {
@@ -1313,6 +1600,9 @@
       }
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-13",
+      "time": "21:30",
       "team1": "Fortaleza EC (BRA)",
       "team2": "CA Bucaramanga (COL)",
       "score": [
@@ -1321,6 +1611,9 @@
       ]
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-13",
+      "time": "21:30",
       "team1": "CS Cristal (PER)",
       "team2": "Club Cerro Porteño (PAR)",
       "score": {
@@ -1335,6 +1628,9 @@
       }
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-14",
+      "time": "19:00",
       "team1": "CDC Atlético Nacional (COL)",
       "team2": "EC Bahia (BRA)",
       "score": {
@@ -1349,6 +1645,9 @@
       }
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-14",
+      "time": "19:00",
       "team1": "CA Peñarol (URU)",
       "team2": "Olimpia Asuncion (PAR)",
       "score": {
@@ -1363,6 +1662,9 @@
       }
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-14",
+      "time": "19:00",
       "team1": "CA Vélez Sarsfield (ARG)",
       "team2": "San Antonio Bulo Bulo (BOL)",
       "score": {
@@ -1377,6 +1679,9 @@
       }
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-14",
+      "time": "21:30",
       "team1": "Botafogo FR (BRA)",
       "team2": "Estudiantes de La Plata (ARG)",
       "score": {
@@ -1391,6 +1696,9 @@
       }
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-14",
+      "time": "21:30",
       "team1": "São Paulo FC (BRA)",
       "team2": "Club Libertad Asuncion (PAR)",
       "score": {
@@ -1405,6 +1713,9 @@
       }
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-14",
+      "time": "21:30",
       "team1": "Racing Club (ARG)",
       "team2": "CSD Colo-Colo (CHI)",
       "score": {
@@ -1419,6 +1730,9 @@
       }
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-14",
+      "time": "23:00",
       "team1": "Club Universitario de Deportes (PER)",
       "team2": "Barcelona SC (ECU)",
       "score": {
@@ -1433,6 +1747,9 @@
       }
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-15",
+      "time": "19:00",
       "team1": "CA Talleres (ARG)",
       "team2": "Club Alianza Lima (PER)",
       "score": {
@@ -1447,6 +1764,9 @@
       }
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-15",
+      "time": "19:00",
       "team1": "Club Nacional de Football (URU)",
       "team2": "SC Internacional (BRA)",
       "score": {
@@ -1461,6 +1781,9 @@
       }
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-15",
+      "time": "19:00",
       "team1": "SE Palmeiras (BRA)",
       "team2": "Club Bolívar (BOL)",
       "score": {
@@ -1475,6 +1798,9 @@
       }
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-15",
+      "time": "21:30",
       "team1": "CA River Plate (ARG)",
       "team2": "CAR Independiente del Valle (ECU)",
       "score": {
@@ -1489,6 +1815,9 @@
       }
     },
     {
+      "round": "Group, Matchday 5",
+      "date": "2025-05-15",
+      "time": "21:30",
       "team1": "CR Flamengo (BRA)",
       "team2": "LDU de Quito (ECU)",
       "score": {
@@ -1503,6 +1832,9 @@
       }
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-27",
+      "time": "19:00",
       "team1": "São Paulo FC (BRA)",
       "team2": "CA Talleres (ARG)",
       "score": {
@@ -1517,6 +1849,9 @@
       }
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-27",
+      "time": "19:30",
       "team1": "Club Libertad Asuncion (PAR)",
       "team2": "Club Alianza Lima (PER)",
       "score": {
@@ -1531,6 +1866,9 @@
       }
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-27",
+      "time": "21:30",
       "team1": "Botafogo FR (BRA)",
       "team2": "CF Universidad de Chile (CHI)",
       "score": {
@@ -1545,6 +1883,9 @@
       }
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-27",
+      "time": "21:30",
       "team1": "Estudiantes de La Plata (ARG)",
       "team2": "Carabobo FC (VEN)",
       "score": {
@@ -1559,6 +1900,9 @@
       }
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-27",
+      "time": "21:30",
       "team1": "CA River Plate (ARG)",
       "team2": "Club Universitario de Deportes (PER)",
       "score": {
@@ -1573,6 +1917,9 @@
       }
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-27",
+      "time": "21:30",
       "team1": "CAR Independiente del Valle (ECU)",
       "team2": "Barcelona SC (ECU)",
       "score": {
@@ -1587,6 +1934,9 @@
       }
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-28",
+      "time": "19:00",
       "team1": "Club Nacional de Football (URU)",
       "team2": "CDC Atlético Nacional (COL)",
       "score": {
@@ -1601,6 +1951,9 @@
       }
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-28",
+      "time": "19:00",
       "team1": "SC Internacional (BRA)",
       "team2": "EC Bahia (BRA)",
       "score": {
@@ -1615,6 +1968,9 @@
       }
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-28",
+      "time": "21:30",
       "team1": "CR Flamengo (BRA)",
       "team2": "Deportivo Táchira FC (VEN)",
       "score": {
@@ -1629,6 +1985,9 @@
       }
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-28",
+      "time": "21:30",
       "team1": "LDU de Quito (ECU)",
       "team2": "CA Central Córdoba (ARG)",
       "score": {
@@ -1643,6 +2002,9 @@
       }
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-28",
+      "time": "21:30",
       "team1": "SE Palmeiras (BRA)",
       "team2": "CS Cristal (PER)",
       "score": {
@@ -1657,6 +2019,9 @@
       }
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-28",
+      "time": "21:30",
       "team1": "Club Bolívar (BOL)",
       "team2": "Club Cerro Porteño (PAR)",
       "score": {
@@ -1671,6 +2036,9 @@
       }
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-29",
+      "time": "19:00",
       "team1": "CA Peñarol (URU)",
       "team2": "CA Vélez Sarsfield (ARG)",
       "score": [
@@ -1679,6 +2047,9 @@
       ]
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-29",
+      "time": "19:00",
       "team1": "Olimpia Asuncion (PAR)",
       "team2": "San Antonio Bulo Bulo (BOL)",
       "score": {
@@ -1693,6 +2064,9 @@
       }
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-29",
+      "time": "21:30",
       "team1": "Racing Club (ARG)",
       "team2": "Fortaleza EC (BRA)",
       "score": {
@@ -1707,6 +2081,9 @@
       }
     },
     {
+      "round": "Group, Matchday 6",
+      "date": "2025-05-29",
+      "time": "21:30",
       "team1": "CSD Colo-Colo (CHI)",
       "team2": "CA Bucaramanga (COL)",
       "score": {
@@ -1721,6 +2098,9 @@
       }
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-12",
+      "time": "19:00",
       "team1": "Fortaleza EC (BRA)",
       "team2": "CA Vélez Sarsfield (ARG)",
       "score": [
@@ -1729,6 +2109,9 @@
       ]
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-12",
+      "time": "21:30",
       "team1": "CDC Atlético Nacional (COL)",
       "team2": "São Paulo FC (BRA)",
       "score": [
@@ -1737,6 +2120,9 @@
       ]
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-12",
+      "time": "21:30",
       "team1": "CA Peñarol (URU)",
       "team2": "Racing Club (ARG)",
       "score": {
@@ -1751,6 +2137,9 @@
       }
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-13",
+      "time": "19:00",
       "team1": "Club Cerro Porteño (PAR)",
       "team2": "Estudiantes de La Plata (ARG)",
       "score": {
@@ -1765,6 +2154,9 @@
       }
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-13",
+      "time": "21:30",
       "team1": "CR Flamengo (BRA)",
       "team2": "SC Internacional (BRA)",
       "score": {
@@ -1779,6 +2171,9 @@
       }
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-14",
+      "time": "19:00",
       "team1": "Botafogo FR (BRA)",
       "team2": "LDU de Quito (ECU)",
       "score": {
@@ -1793,6 +2188,9 @@
       }
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-14",
+      "time": "21:30",
       "team1": "Club Universitario de Deportes (PER)",
       "team2": "SE Palmeiras (BRA)",
       "score": {
@@ -1807,6 +2205,9 @@
       }
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-14",
+      "time": "21:30",
       "team1": "Club Libertad Asuncion (PAR)",
       "team2": "CA River Plate (ARG)",
       "score": [
@@ -1815,6 +2216,9 @@
       ]
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-19",
+      "time": "19:00",
       "team1": "CA Vélez Sarsfield (ARG)",
       "team2": "Fortaleza EC (BRA)",
       "score": {
@@ -1829,6 +2233,9 @@
       }
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-19",
+      "time": "21:30",
       "team1": "São Paulo FC (BRA)",
       "team2": "CDC Atlético Nacional (COL)",
       "score": {
@@ -1847,6 +2254,9 @@
       }
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-19",
+      "time": "21:30",
       "team1": "Racing Club (ARG)",
       "team2": "CA Peñarol (URU)",
       "score": {
@@ -1861,6 +2271,9 @@
       }
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-20",
+      "time": "19:00",
       "team1": "Estudiantes de La Plata (ARG)",
       "team2": "Club Cerro Porteño (PAR)",
       "score": [
@@ -1869,6 +2282,9 @@
       ]
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-20",
+      "time": "21:30",
       "team1": "SC Internacional (BRA)",
       "team2": "CR Flamengo (BRA)",
       "score": {
@@ -1883,6 +2299,9 @@
       }
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-21",
+      "time": "19:00",
       "team1": "LDU de Quito (ECU)",
       "team2": "Botafogo FR (BRA)",
       "score": {
@@ -1897,6 +2316,9 @@
       }
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-21",
+      "time": "21:30",
       "team1": "SE Palmeiras (BRA)",
       "team2": "Club Universitario de Deportes (PER)",
       "score": [
@@ -1905,6 +2327,9 @@
       ]
     },
     {
+      "round": "Finals, Round of 16",
+      "date": "2025-08-21",
+      "time": "21:30",
       "team1": "CA River Plate (ARG)",
       "team2": "Club Libertad Asuncion (PAR)",
       "score": {
@@ -1923,6 +2348,9 @@
       }
     },
     {
+      "round": "Finals, Quarterfinals",
+      "date": "2025-09-16",
+      "time": "19:00",
       "team1": "CA Vélez Sarsfield (ARG)",
       "team2": "Racing Club (ARG)",
       "score": {
@@ -1937,6 +2365,9 @@
       }
     },
     {
+      "round": "Finals, Quarterfinals",
+      "date": "2025-09-17",
+      "time": "21:30",
       "team1": "CA River Plate (ARG)",
       "team2": "SE Palmeiras (BRA)",
       "score": {
@@ -1951,6 +2382,9 @@
       }
     },
     {
+      "round": "Finals, Quarterfinals",
+      "date": "2025-09-18",
+      "time": "19:00",
       "team1": "LDU de Quito (ECU)",
       "team2": "São Paulo FC (BRA)",
       "score": {
@@ -1965,6 +2399,9 @@
       }
     },
     {
+      "round": "Finals, Quarterfinals",
+      "date": "2025-09-18",
+      "time": "21:30",
       "team1": "CR Flamengo (BRA)",
       "team2": "Estudiantes de La Plata (ARG)",
       "score": {
@@ -1979,6 +2416,9 @@
       }
     },
     {
+      "round": "Finals, Quarterfinals",
+      "date": "2025-09-23",
+      "time": "19:00",
       "team1": "Racing Club (ARG)",
       "team2": "CA Vélez Sarsfield (ARG)",
       "score": {
@@ -1993,6 +2433,9 @@
       }
     },
     {
+      "round": "Finals, Quarterfinals",
+      "date": "2025-09-24",
+      "time": "21:30",
       "team1": "SE Palmeiras (BRA)",
       "team2": "CA River Plate (ARG)",
       "score": {
@@ -2007,6 +2450,9 @@
       }
     },
     {
+      "round": "Finals, Quarterfinals",
+      "date": "2025-09-25",
+      "time": "19:00",
       "team1": "São Paulo FC (BRA)",
       "team2": "LDU de Quito (ECU)",
       "score": {
@@ -2021,6 +2467,9 @@
       }
     },
     {
+      "round": "Finals, Quarterfinals",
+      "date": "2025-09-25",
+      "time": "21:30",
       "team1": "Estudiantes de La Plata (ARG)",
       "team2": "CR Flamengo (BRA)",
       "score": {
@@ -2039,6 +2488,9 @@
       }
     },
     {
+      "round": "Finals, Semifinals",
+      "date": "2025-10-22",
+      "time": "21:30",
       "team1": "CR Flamengo (BRA)",
       "team2": "Racing Club (ARG)",
       "score": {
@@ -2053,6 +2505,9 @@
       }
     },
     {
+      "round": "Finals, Semifinals",
+      "date": "2025-10-23",
+      "time": "21:30",
       "team1": "LDU de Quito (ECU)",
       "team2": "SE Palmeiras (BRA)",
       "score": {
@@ -2067,6 +2522,9 @@
       }
     },
     {
+      "round": "Finals, Semifinals",
+      "date": "2025-10-29",
+      "time": "21:50",
       "team1": "Racing Club (ARG)",
       "team2": "CR Flamengo (BRA)",
       "score": [
@@ -2075,6 +2533,9 @@
       ]
     },
     {
+      "round": "Finals, Semifinals",
+      "date": "2025-10-30",
+      "time": "21:30",
       "team1": "SE Palmeiras (BRA)",
       "team2": "LDU de Quito (ECU)",
       "score": {
@@ -2089,6 +2550,9 @@
       }
     },
     {
+      "round": "Finals, Final",
+      "date": "2025-11-29",
+      "time": "18:15",
       "team1": "SE Palmeiras (BRA)",
       "team2": "CR Flamengo (BRA)",
       "score": {
