@@ -2,6 +2,9 @@
   "name": "Japan | J1 League 2025",
   "matches": [
     {
+      "round": "Matchday 1",
+      "date": "2025-02-14",
+      "time": "19:00",
       "team1": "Gamba Osaka",
       "team2": "Cerezo Osaka",
       "score": {
@@ -16,6 +19,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-15",
+      "time": "14:00",
       "team1": "Yokohama F. Marinos",
       "team2": "Albirex Niigata",
       "score": {
@@ -30,6 +36,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-15",
+      "time": "14:00",
       "team1": "Yokohama FC",
       "team2": "FC Tokyo",
       "score": {
@@ -44,6 +53,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-15",
+      "time": "14:00",
       "team1": "Vissel Kobe",
       "team2": "Urawa Red Diamonds",
       "score": [
@@ -52,6 +64,9 @@
       ]
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-15",
+      "time": "14:00",
       "team1": "Fagiano Okayama",
       "team2": "Kyoto Sanga FC",
       "score": {
@@ -66,6 +81,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-15",
+      "time": "14:00",
       "team1": "Avispa Fukuoka",
       "team2": "Kashiwa Reysol",
       "score": {
@@ -80,6 +98,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-15",
+      "time": "15:00",
       "team1": "Kawasaki Frontale",
       "team2": "Nagoya Grampus",
       "score": {
@@ -94,6 +115,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-15",
+      "time": "15:00",
       "team1": "Shonan Bellmare",
       "team2": "Kashima Antlers",
       "score": {
@@ -108,6 +132,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-16",
+      "time": "14:00",
       "team1": "Tokyo Verdy",
       "team2": "Shimizu S-Pulse",
       "score": {
@@ -122,6 +149,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-16",
+      "time": "14:00",
       "team1": "FC Machida Zelvia",
       "team2": "Sanfrecce Hiroshima",
       "score": {
@@ -136,6 +166,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-02-22",
+      "time": "14:00",
       "team1": "Kashiwa Reysol",
       "team2": "Kawasaki Frontale",
       "score": {
@@ -150,6 +183,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-02-22",
+      "time": "14:00",
       "team1": "Yokohama FC",
       "team2": "Fagiano Okayama",
       "score": {
@@ -164,6 +200,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-02-22",
+      "time": "14:00",
       "team1": "Shimizu S-Pulse",
       "team2": "Albirex Niigata",
       "score": {
@@ -178,6 +217,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-02-22",
+      "time": "14:00",
       "team1": "Nagoya Grampus",
       "team2": "Vissel Kobe",
       "score": {
@@ -192,6 +234,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-02-22",
+      "time": "14:00",
       "team1": "Kyoto Sanga FC",
       "team2": "Urawa Red Diamonds",
       "score": {
@@ -206,6 +251,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-02-22",
+      "time": "15:00",
       "team1": "Kashima Antlers",
       "team2": "Tokyo Verdy",
       "score": {
@@ -220,6 +268,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-02-22",
+      "time": "15:00",
       "team1": "FC Tokyo",
       "team2": "FC Machida Zelvia",
       "score": {
@@ -234,6 +285,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-02-22",
+      "time": "15:00",
       "team1": "Gamba Osaka",
       "team2": "Avispa Fukuoka",
       "score": {
@@ -248,6 +302,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-02-22",
+      "time": "15:00",
       "team1": "Cerezo Osaka",
       "team2": "Shonan Bellmare",
       "score": {
@@ -262,6 +319,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-02-23",
+      "time": "14:00",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Yokohama F. Marinos",
       "score": {
@@ -276,6 +336,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-02-26",
+      "time": "19:00",
       "team1": "Kashima Antlers",
       "team2": "Albirex Niigata",
       "score": {
@@ -290,6 +353,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-02-26",
+      "time": "19:00",
       "team1": "Kashiwa Reysol",
       "team2": "Cerezo Osaka",
       "score": {
@@ -304,6 +370,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-02-26",
+      "time": "19:00",
       "team1": "FC Tokyo",
       "team2": "Nagoya Grampus",
       "score": {
@@ -318,6 +387,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-02-26",
+      "time": "19:00",
       "team1": "FC Machida Zelvia",
       "team2": "Tokyo Verdy",
       "score": {
@@ -332,6 +404,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-02-26",
+      "time": "19:00",
       "team1": "Yokohama F. Marinos",
       "team2": "Yokohama FC",
       "score": [
@@ -340,6 +415,9 @@
       ]
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-02-26",
+      "time": "19:00",
       "team1": "Shonan Bellmare",
       "team2": "Urawa Red Diamonds",
       "score": {
@@ -354,6 +432,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-02-26",
+      "time": "19:00",
       "team1": "Shimizu S-Pulse",
       "team2": "Sanfrecce Hiroshima",
       "score": {
@@ -368,6 +449,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-02-26",
+      "time": "19:00",
       "team1": "Vissel Kobe",
       "team2": "Kyoto Sanga FC",
       "score": {
@@ -382,6 +466,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-02-26",
+      "time": "19:00",
       "team1": "Fagiano Okayama",
       "team2": "Gamba Osaka",
       "score": {
@@ -396,6 +483,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-02-26",
+      "time": "19:00",
       "team1": "Avispa Fukuoka",
       "team2": "Kawasaki Frontale",
       "score": {
@@ -410,6 +500,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-01",
+      "time": "13:00",
       "team1": "Yokohama F. Marinos",
       "team2": "Shonan Bellmare",
       "score": {
@@ -424,6 +517,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-01",
+      "time": "14:00",
       "team1": "Kashima Antlers",
       "team2": "FC Tokyo",
       "score": {
@@ -438,6 +534,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-01",
+      "time": "15:00",
       "team1": "Kawasaki Frontale",
       "team2": "Kyoto Sanga FC",
       "score": {
@@ -452,6 +551,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-01",
+      "time": "15:00",
       "team1": "Vissel Kobe",
       "team2": "Avispa Fukuoka",
       "score": {
@@ -466,6 +568,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-02",
+      "time": "14:00",
       "team1": "Tokyo Verdy",
       "team2": "Gamba Osaka",
       "score": {
@@ -480,6 +585,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-02",
+      "time": "14:00",
       "team1": "Albirex Niigata",
       "team2": "Cerezo Osaka",
       "score": {
@@ -494,6 +602,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-02",
+      "time": "14:00",
       "team1": "Nagoya Grampus",
       "team2": "FC Machida Zelvia",
       "score": {
@@ -508,6 +619,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-02",
+      "time": "14:00",
       "team1": "Fagiano Okayama",
       "team2": "Shimizu S-Pulse",
       "score": {
@@ -522,6 +636,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-02",
+      "time": "14:30",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Yokohama FC",
       "score": {
@@ -536,6 +653,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-02",
+      "time": "15:00",
       "team1": "Urawa Red Diamonds",
       "team2": "Kashiwa Reysol",
       "score": {
@@ -550,6 +670,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-08",
+      "time": "14:00",
       "team1": "Urawa Red Diamonds",
       "team2": "Fagiano Okayama",
       "score": {
@@ -564,6 +687,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-08",
+      "time": "14:05",
       "team1": "Albirex Niigata",
       "team2": "Tokyo Verdy",
       "score": {
@@ -578,6 +704,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-08",
+      "time": "15:00",
       "team1": "Gamba Osaka",
       "team2": "Shimizu S-Pulse",
       "score": {
@@ -592,6 +721,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-08",
+      "time": "16:00",
       "team1": "Kashiwa Reysol",
       "team2": "Kashima Antlers",
       "score": {
@@ -606,6 +738,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-08",
+      "time": "16:00",
       "team1": "FC Tokyo",
       "team2": "Shonan Bellmare",
       "score": [
@@ -614,6 +749,9 @@
       ]
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-08",
+      "time": "16:00",
       "team1": "Yokohama FC",
       "team2": "FC Machida Zelvia",
       "score": {
@@ -628,6 +766,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-08",
+      "time": "16:00",
       "team1": "Cerezo Osaka",
       "team2": "Nagoya Grampus",
       "score": {
@@ -642,6 +783,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-09",
+      "time": "14:00",
       "team1": "Kyoto Sanga FC",
       "team2": "Avispa Fukuoka",
       "score": {
@@ -656,6 +800,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-04-09",
+      "time": "19:00",
       "team1": "Kawasaki Frontale",
       "team2": "Yokohama F. Marinos",
       "score": {
@@ -670,10 +817,16 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-07-02",
+      "time": "19:00",
       "team1": "Vissel Kobe",
       "team2": "Sanfrecce Hiroshima"
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-15",
+      "time": "14:00",
       "team1": "Tokyo Verdy",
       "team2": "Nagoya Grampus",
       "score": {
@@ -688,6 +841,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-15",
+      "time": "14:00",
       "team1": "FC Machida Zelvia",
       "team2": "Albirex Niigata",
       "score": {
@@ -702,6 +858,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-15",
+      "time": "14:00",
       "team1": "Yokohama FC",
       "team2": "Cerezo Osaka",
       "score": {
@@ -716,6 +875,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-15",
+      "time": "14:00",
       "team1": "Avispa Fukuoka",
       "team2": "FC Tokyo",
       "score": {
@@ -730,6 +892,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-16",
+      "time": "13:00",
       "team1": "Shimizu S-Pulse",
       "team2": "Kyoto Sanga FC",
       "score": {
@@ -744,6 +909,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-16",
+      "time": "14:00",
       "team1": "Kashima Antlers",
       "team2": "Urawa Red Diamonds",
       "score": {
@@ -758,6 +926,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-16",
+      "time": "14:00",
       "team1": "Yokohama F. Marinos",
       "team2": "Gamba Osaka",
       "score": {
@@ -772,6 +943,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-16",
+      "time": "14:00",
       "team1": "Fagiano Okayama",
       "team2": "Kawasaki Frontale",
       "score": [
@@ -780,6 +954,9 @@
       ]
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-16",
+      "time": "14:00",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Kashiwa Reysol",
       "score": {
@@ -794,6 +971,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-16",
+      "time": "15:00",
       "team1": "Shonan Bellmare",
       "team2": "Vissel Kobe",
       "score": {
@@ -808,6 +988,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-03-28",
+      "time": "19:00",
       "team1": "Cerezo Osaka",
       "team2": "Urawa Red Diamonds",
       "score": {
@@ -822,6 +1005,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-03-29",
+      "time": "12:55",
       "team1": "Fagiano Okayama",
       "team2": "Yokohama F. Marinos",
       "score": {
@@ -836,6 +1022,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-03-29",
+      "time": "13:00",
       "team1": "Shimizu S-Pulse",
       "team2": "Shonan Bellmare",
       "score": {
@@ -850,6 +1039,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-03-29",
+      "time": "14:00",
       "team1": "Kashiwa Reysol",
       "team2": "Tokyo Verdy",
       "score": [
@@ -858,6 +1050,9 @@
       ]
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-03-29",
+      "time": "14:00",
       "team1": "Albirex Niigata",
       "team2": "Gamba Osaka",
       "score": {
@@ -872,6 +1067,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-03-29",
+      "time": "14:00",
       "team1": "Nagoya Grampus",
       "team2": "Yokohama FC",
       "score": {
@@ -886,6 +1084,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-03-29",
+      "time": "14:00",
       "team1": "Kyoto Sanga FC",
       "team2": "Sanfrecce Hiroshima",
       "score": {
@@ -900,6 +1101,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-03-29",
+      "time": "15:00",
       "team1": "Kashima Antlers",
       "team2": "Vissel Kobe",
       "score": {
@@ -914,6 +1118,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-03-29",
+      "time": "15:00",
       "team1": "Avispa Fukuoka",
       "team2": "FC Machida Zelvia",
       "score": {
@@ -928,6 +1135,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-03-29",
+      "time": "17:00",
       "team1": "FC Tokyo",
       "team2": "Kawasaki Frontale",
       "score": {
@@ -942,6 +1152,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-02",
+      "time": "19:00",
       "team1": "Tokyo Verdy",
       "team2": "FC Tokyo",
       "score": {
@@ -956,6 +1169,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-02",
+      "time": "19:00",
       "team1": "Kawasaki Frontale",
       "team2": "Shonan Bellmare",
       "score": {
@@ -970,6 +1186,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-02",
+      "time": "19:00",
       "team1": "Yokohama FC",
       "team2": "Vissel Kobe",
       "score": {
@@ -984,6 +1203,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-02",
+      "time": "19:00",
       "team1": "Albirex Niigata",
       "team2": "Avispa Fukuoka",
       "score": {
@@ -998,6 +1220,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-02",
+      "time": "19:00",
       "team1": "Nagoya Grampus",
       "team2": "Yokohama F. Marinos",
       "score": {
@@ -1012,6 +1237,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-02",
+      "time": "19:00",
       "team1": "Kyoto Sanga FC",
       "team2": "Kashiwa Reysol",
       "score": {
@@ -1026,6 +1254,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-02",
+      "time": "19:00",
       "team1": "Gamba Osaka",
       "team2": "FC Machida Zelvia",
       "score": {
@@ -1040,6 +1271,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-02",
+      "time": "19:00",
       "team1": "Cerezo Osaka",
       "team2": "Fagiano Okayama",
       "score": {
@@ -1054,6 +1288,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-02",
+      "time": "19:00",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Kashima Antlers",
       "score": {
@@ -1068,6 +1305,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-02",
+      "time": "19:30",
       "team1": "Urawa Red Diamonds",
       "team2": "Shimizu S-Pulse",
       "score": {
@@ -1082,6 +1322,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-05",
+      "time": "14:00",
       "team1": "Yokohama F. Marinos",
       "team2": "Tokyo Verdy",
       "score": [
@@ -1090,6 +1333,9 @@
       ]
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-06",
+      "time": "13:00",
       "team1": "Fagiano Okayama",
       "team2": "FC Tokyo",
       "score": {
@@ -1104,6 +1350,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "FC Machida Zelvia",
       "team2": "Kawasaki Frontale",
       "score": {
@@ -1118,6 +1367,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "Yokohama FC",
       "team2": "Shimizu S-Pulse",
       "score": {
@@ -1132,6 +1384,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "Vissel Kobe",
       "team2": "Albirex Niigata",
       "score": {
@@ -1146,6 +1401,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-06",
+      "time": "14:00",
       "team1": "Avispa Fukuoka",
       "team2": "Urawa Red Diamonds",
       "score": {
@@ -1160,6 +1418,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-06",
+      "time": "15:00",
       "team1": "Kashima Antlers",
       "team2": "Kyoto Sanga FC",
       "score": {
@@ -1174,6 +1435,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-06",
+      "time": "15:00",
       "team1": "Kashiwa Reysol",
       "team2": "Gamba Osaka",
       "score": {
@@ -1188,6 +1452,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-06",
+      "time": "15:00",
       "team1": "Shonan Bellmare",
       "team2": "Nagoya Grampus",
       "score": {
@@ -1202,6 +1469,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-06",
+      "time": "15:00",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Cerezo Osaka",
       "score": {
@@ -1216,6 +1486,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-11",
+      "time": "19:00",
       "team1": "FC Tokyo",
       "team2": "Kashiwa Reysol",
       "score": {
@@ -1230,6 +1503,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-12",
+      "time": "14:00",
       "team1": "Shimizu S-Pulse",
       "team2": "Kawasaki Frontale",
       "score": {
@@ -1244,6 +1520,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-12",
+      "time": "14:00",
       "team1": "Gamba Osaka",
       "team2": "Nagoya Grampus",
       "score": {
@@ -1258,6 +1537,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-12",
+      "time": "14:00",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Fagiano Okayama",
       "score": {
@@ -1272,6 +1554,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-12",
+      "time": "14:00",
       "team1": "Avispa Fukuoka",
       "team2": "Yokohama F. Marinos",
       "score": {
@@ -1286,6 +1571,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-12",
+      "time": "15:00",
       "team1": "Tokyo Verdy",
       "team2": "Vissel Kobe",
       "score": {
@@ -1300,6 +1588,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-12",
+      "time": "15:00",
       "team1": "Cerezo Osaka",
       "team2": "Kashima Antlers",
       "score": {
@@ -1314,6 +1605,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-12",
+      "time": "16:00",
       "team1": "Kyoto Sanga FC",
       "team2": "Shonan Bellmare",
       "score": {
@@ -1328,6 +1622,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-13",
+      "time": "14:00",
       "team1": "FC Machida Zelvia",
       "team2": "Urawa Red Diamonds",
       "score": {
@@ -1342,6 +1639,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-13",
+      "time": "14:00",
       "team1": "Albirex Niigata",
       "team2": "Yokohama FC",
       "score": [
@@ -1350,6 +1650,9 @@
       ]
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-04-19",
+      "time": "14:00",
       "team1": "Albirex Niigata",
       "team2": "Kyoto Sanga FC",
       "score": {
@@ -1364,6 +1667,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-04-20",
+      "time": "14:00",
       "team1": "Yokohama FC",
       "team2": "Gamba Osaka",
       "score": {
@@ -1378,6 +1684,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-04-20",
+      "time": "14:00",
       "team1": "Shimizu S-Pulse",
       "team2": "Avispa Fukuoka",
       "score": {
@@ -1392,6 +1701,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-04-20",
+      "time": "14:00",
       "team1": "Nagoya Grampus",
       "team2": "Sanfrecce Hiroshima",
       "score": {
@@ -1406,6 +1718,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-04-20",
+      "time": "14:00",
       "team1": "Vissel Kobe",
       "team2": "FC Machida Zelvia",
       "score": {
@@ -1420,6 +1735,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-04-20",
+      "time": "14:00",
       "team1": "Fagiano Okayama",
       "team2": "Kashima Antlers",
       "score": {
@@ -1434,6 +1752,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-04-20",
+      "time": "15:00",
       "team1": "Kawasaki Frontale",
       "team2": "Tokyo Verdy",
       "score": [
@@ -1442,6 +1763,9 @@
       ]
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-04-20",
+      "time": "15:00",
       "team1": "Shonan Bellmare",
       "team2": "Kashiwa Reysol",
       "score": {
@@ -1456,6 +1780,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-04-20",
+      "time": "15:00",
       "team1": "Cerezo Osaka",
       "team2": "FC Tokyo",
       "score": {
@@ -1470,6 +1797,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-04-20",
+      "time": "16:00",
       "team1": "Urawa Red Diamonds",
       "team2": "Yokohama F. Marinos",
       "score": {
@@ -1484,6 +1814,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-04-16",
+      "time": "19:00",
       "team1": "Yokohama F. Marinos",
       "team2": "Shimizu S-Pulse",
       "score": {
@@ -1498,6 +1831,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-04-16",
+      "time": "19:00",
       "team1": "Vissel Kobe",
       "team2": "Kawasaki Frontale",
       "score": {
@@ -1512,6 +1848,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-04-25",
+      "time": "19:00",
       "team1": "Kashima Antlers",
       "team2": "Nagoya Grampus",
       "score": {
@@ -1526,6 +1865,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-04-25",
+      "time": "19:00",
       "team1": "Tokyo Verdy",
       "team2": "Cerezo Osaka",
       "score": {
@@ -1540,6 +1882,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-04-25",
+      "time": "19:00",
       "team1": "FC Machida Zelvia",
       "team2": "Shonan Bellmare",
       "score": {
@@ -1554,6 +1899,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-04-25",
+      "time": "19:00",
       "team1": "Kyoto Sanga FC",
       "team2": "Yokohama FC",
       "score": {
@@ -1568,6 +1916,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-04-25",
+      "time": "19:00",
       "team1": "Avispa Fukuoka",
       "team2": "Fagiano Okayama",
       "score": {
@@ -1582,6 +1933,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-04-25",
+      "time": "19:30",
       "team1": "Urawa Red Diamonds",
       "team2": "Sanfrecce Hiroshima",
       "score": {
@@ -1596,6 +1950,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-04-25",
+      "time": "19:30",
       "team1": "FC Tokyo",
       "team2": "Gamba Osaka",
       "score": {
@@ -1610,6 +1967,9 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-04-26",
+      "time": "14:00",
       "team1": "Kashiwa Reysol",
       "team2": "Albirex Niigata",
       "score": {
@@ -1624,6 +1984,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-04-29",
+      "time": "13:05",
       "team1": "FC Tokyo",
       "team2": "Shimizu S-Pulse",
       "score": {
@@ -1638,6 +2001,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-04-29",
+      "time": "14:00",
       "team1": "Yokohama FC",
       "team2": "Kashima Antlers",
       "score": {
@@ -1652,6 +2018,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-04-29",
+      "time": "14:00",
       "team1": "Nagoya Grampus",
       "team2": "Kashiwa Reysol",
       "score": {
@@ -1666,6 +2035,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-04-29",
+      "time": "14:00",
       "team1": "Fagiano Okayama",
       "team2": "Tokyo Verdy",
       "score": {
@@ -1680,6 +2052,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-04-29",
+      "time": "14:00",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Albirex Niigata",
       "score": {
@@ -1694,6 +2069,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-04-29",
+      "time": "15:00",
       "team1": "Shonan Bellmare",
       "team2": "Avispa Fukuoka",
       "score": [
@@ -1702,6 +2080,9 @@
       ]
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-04-29",
+      "time": "15:00",
       "team1": "Gamba Osaka",
       "team2": "Kyoto Sanga FC",
       "score": {
@@ -1716,6 +2097,9 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-04-29",
+      "time": "15:00",
       "team1": "Cerezo Osaka",
       "team2": "FC Machida Zelvia",
       "score": {
@@ -1730,14 +2114,23 @@
       }
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-21",
+      "time": "19:00",
       "team1": "Kawasaki Frontale",
       "team2": "Urawa Red Diamonds"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-21",
+      "time": "19:00",
       "team1": "Yokohama F. Marinos",
       "team2": "Vissel Kobe"
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-03",
+      "time": "13:00",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Avispa Fukuoka",
       "score": {
@@ -1752,6 +2145,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-03",
+      "time": "14:00",
       "team1": "Albirex Niigata",
       "team2": "FC Tokyo",
       "score": {
@@ -1766,6 +2162,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-03",
+      "time": "14:00",
       "team1": "Shimizu S-Pulse",
       "team2": "Nagoya Grampus",
       "score": {
@@ -1780,6 +2179,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-03",
+      "time": "15:00",
       "team1": "Kashima Antlers",
       "team2": "FC Machida Zelvia",
       "score": {
@@ -1794,6 +2196,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-03",
+      "time": "15:00",
       "team1": "Urawa Red Diamonds",
       "team2": "Tokyo Verdy",
       "score": {
@@ -1808,6 +2213,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-03",
+      "time": "15:00",
       "team1": "Gamba Osaka",
       "team2": "Shonan Bellmare",
       "score": {
@@ -1822,6 +2230,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-03",
+      "time": "15:00",
       "team1": "Vissel Kobe",
       "team2": "Fagiano Okayama",
       "score": {
@@ -1836,6 +2247,9 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-03",
+      "time": "19:00",
       "team1": "Kyoto Sanga FC",
       "team2": "Cerezo Osaka",
       "score": {
@@ -1850,214 +2264,373 @@
       }
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-14",
+      "time": "19:00",
       "team1": "Kawasaki Frontale",
       "team2": "Yokohama FC"
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-14",
+      "time": "19:00",
       "team1": "Yokohama F. Marinos",
       "team2": "Kashiwa Reysol"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-06",
+      "time": "14:00",
       "team1": "Urawa Red Diamonds",
       "team2": "Gamba Osaka"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-06",
+      "time": "14:00",
       "team1": "Nagoya Grampus",
       "team2": "Fagiano Okayama"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-06",
+      "time": "14:00",
       "team1": "Avispa Fukuoka",
       "team2": "Kashima Antlers"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-06",
+      "time": "14:00",
       "team1": "Vissel Kobe",
       "team2": "Cerezo Osaka"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-06",
+      "time": "16:00",
       "team1": "Kashiwa Reysol",
       "team2": "Shimizu S-Pulse"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-06",
+      "time": "16:00",
       "team1": "Tokyo Verdy",
       "team2": "Yokohama FC"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-07",
+      "time": "19:00",
       "team1": "FC Machida Zelvia",
       "team2": "Kyoto Sanga FC"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-07",
+      "time": "19:00",
       "team1": "Shonan Bellmare",
       "team2": "Sanfrecce Hiroshima"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-06-25",
+      "time": "19:00",
       "team1": "Kawasaki Frontale",
       "team2": "Albirex Niigata"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-06-25",
+      "time": "19:30",
       "team1": "Yokohama F. Marinos",
       "team2": "FC Tokyo"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-10",
+      "time": "14:00",
       "team1": "Yokohama FC",
       "team2": "Avispa Fukuoka"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-10",
+      "time": "15:00",
       "team1": "FC Tokyo",
       "team2": "Vissel Kobe"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-10",
+      "time": "16:00",
       "team1": "Kashiwa Reysol",
       "team2": "Fagiano Okayama"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-11",
+      "time": "13:05",
       "team1": "Kashima Antlers",
       "team2": "Kawasaki Frontale"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-11",
+      "time": "13:05",
       "team1": "Shimizu S-Pulse",
       "team2": "FC Machida Zelvia"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-11",
+      "time": "14:00",
       "team1": "Kyoto Sanga FC",
       "team2": "Nagoya Grampus"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-11",
+      "time": "14:05",
       "team1": "Albirex Niigata",
       "team2": "Urawa Red Diamonds"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-11",
+      "time": "15:00",
       "team1": "Tokyo Verdy",
       "team2": "Shonan Bellmare"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-11",
+      "time": "15:00",
       "team1": "Gamba Osaka",
       "team2": "Sanfrecce Hiroshima"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-11",
+      "time": "15:00",
       "team1": "Cerezo Osaka",
       "team2": "Yokohama F. Marinos"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-17",
+      "time": "14:00",
       "team1": "FC Machida Zelvia",
       "team2": "Kashiwa Reysol"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-17",
+      "time": "14:00",
       "team1": "Yokohama F. Marinos",
       "team2": "Kyoto Sanga FC"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-17",
+      "time": "14:00",
       "team1": "Vissel Kobe",
       "team2": "Gamba Osaka"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-17",
+      "time": "14:00",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Tokyo Verdy"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-17",
+      "time": "14:30",
       "team1": "Avispa Fukuoka",
       "team2": "Nagoya Grampus"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-17",
+      "time": "15:00",
       "team1": "Kashima Antlers",
       "team2": "Shimizu S-Pulse"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-17",
+      "time": "15:00",
       "team1": "Shonan Bellmare",
       "team2": "Yokohama FC"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-17",
+      "time": "16:00",
       "team1": "Urawa Red Diamonds",
       "team2": "FC Tokyo"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-18",
+      "time": "15:00",
       "team1": "Kawasaki Frontale",
       "team2": "Cerezo Osaka"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-18",
+      "time": "15:00",
       "team1": "Fagiano Okayama",
       "team2": "Albirex Niigata"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-05-24",
+      "time": "15:00",
       "team1": "Cerezo Osaka",
       "team2": "Avispa Fukuoka"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-05-24",
+      "time": "17:30",
       "team1": "Nagoya Grampus",
       "team2": "Urawa Red Diamonds"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-05-25",
+      "time": "13:00",
       "team1": "Fagiano Okayama",
       "team2": "FC Machida Zelvia"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-05-25",
+      "time": "14:00",
       "team1": "Yokohama F. Marinos",
       "team2": "Kashima Antlers"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-05-25",
+      "time": "14:00",
       "team1": "Yokohama FC",
       "team2": "Kashiwa Reysol"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-05-25",
+      "time": "14:00",
       "team1": "Albirex Niigata",
       "team2": "Shonan Bellmare"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-05-25",
+      "time": "14:00",
       "team1": "Shimizu S-Pulse",
       "team2": "Vissel Kobe"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-05-25",
+      "time": "15:00",
       "team1": "FC Tokyo",
       "team2": "Sanfrecce Hiroshima"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-05-25",
+      "time": "15:00",
       "team1": "Tokyo Verdy",
       "team2": "Kyoto Sanga FC"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-05-25",
+      "time": "16:00",
       "team1": "Kawasaki Frontale",
       "team2": "Gamba Osaka"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-05-31",
+      "time": "14:00",
       "team1": "FC Machida Zelvia",
       "team2": "Yokohama F. Marinos"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-05-31",
+      "time": "14:00",
       "team1": "Nagoya Grampus",
       "team2": "Albirex Niigata"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-05-31",
+      "time": "14:00",
       "team1": "Avispa Fukuoka",
       "team2": "Tokyo Verdy"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-05-31",
+      "time": "16:00",
       "team1": "Kashiwa Reysol",
       "team2": "Vissel Kobe"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-05-31",
+      "time": "17:30",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Kawasaki Frontale"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-05-31",
+      "time": "18:00",
       "team1": "Gamba Osaka",
       "team2": "Kashima Antlers"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-05-31",
+      "time": "19:00",
       "team1": "Kyoto Sanga FC",
       "team2": "FC Tokyo"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-06-01",
+      "time": "15:00",
       "team1": "Shonan Bellmare",
       "team2": "Fagiano Okayama"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-06-01",
+      "time": "15:00",
       "team1": "Cerezo Osaka",
       "team2": "Shimizu S-Pulse"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-06-01",
+      "time": "16:00",
       "team1": "Urawa Red Diamonds",
       "team2": "Yokohama FC"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-04-16",
+      "time": "19:30",
       "team1": "Urawa Red Diamonds",
       "team2": "Kyoto Sanga FC",
       "score": {
@@ -2072,758 +2645,1225 @@
       }
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-14",
+      "time": "17:30",
       "team1": "Shonan Bellmare",
       "team2": "FC Machida Zelvia"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-14",
+      "time": "18:00",
       "team1": "Kashima Antlers",
       "team2": "Sanfrecce Hiroshima"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-14",
+      "time": "18:00",
       "team1": "Yokohama FC",
       "team2": "Kawasaki Frontale"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-14",
+      "time": "19:00",
       "team1": "FC Tokyo",
       "team2": "Cerezo Osaka"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-15",
+      "time": "14:00",
       "team1": "Albirex Niigata",
       "team2": "Yokohama F. Marinos"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-15",
+      "time": "18:00",
       "team1": "Tokyo Verdy",
       "team2": "Kashiwa Reysol"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-15",
+      "time": "18:00",
       "team1": "Vissel Kobe",
       "team2": "Nagoya Grampus"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-15",
+      "time": "18:00",
       "team1": "Fagiano Okayama",
       "team2": "Avispa Fukuoka"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-15",
+      "time": "18:30",
       "team1": "Shimizu S-Pulse",
       "team2": "Gamba Osaka"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-06-21",
+      "time": "16:00",
       "team1": "FC Machida Zelvia",
       "team2": "Kashima Antlers"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-06-21",
+      "time": "16:00",
       "team1": "Avispa Fukuoka",
       "team2": "Albirex Niigata"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-06-21",
+      "time": "18:30",
       "team1": "Cerezo Osaka",
       "team2": "Tokyo Verdy"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-06-21",
+      "time": "19:00",
       "team1": "Kashiwa Reysol",
       "team2": "Kyoto Sanga FC"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-06-21",
+      "time": "19:00",
       "team1": "Kawasaki Frontale",
       "team2": "Vissel Kobe"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-06-21",
+      "time": "19:00",
       "team1": "Yokohama F. Marinos",
       "team2": "Fagiano Okayama"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-06-21",
+      "time": "19:00",
       "team1": "Nagoya Grampus",
       "team2": "Shimizu S-Pulse"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-06-22",
+      "time": "18:00",
       "team1": "Yokohama FC",
       "team2": "Sanfrecce Hiroshima"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-06-22",
+      "time": "18:30",
       "team1": "Gamba Osaka",
       "team2": "FC Tokyo"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-23",
+      "time": "19:30",
       "team1": "Urawa Red Diamonds",
       "team2": "Shonan Bellmare"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-05-28",
+      "time": "19:30",
       "team1": "Urawa Red Diamonds",
       "team2": "Cerezo Osaka"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-06-28",
+      "time": "18:00",
       "team1": "Kashima Antlers",
       "team2": "Fagiano Okayama"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-06-28",
+      "time": "18:30",
       "team1": "Shimizu S-Pulse",
       "team2": "Kashiwa Reysol"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-06-28",
+      "time": "19:00",
       "team1": "FC Tokyo",
       "team2": "Yokohama FC"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-06-28",
+      "time": "19:00",
       "team1": "Shonan Bellmare",
       "team2": "Yokohama F. Marinos"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-06-28",
+      "time": "19:00",
       "team1": "Kyoto Sanga FC",
       "team2": "Gamba Osaka"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-06-28",
+      "time": "19:00",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Nagoya Grampus"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-06-28",
+      "time": "19:00",
       "team1": "Avispa Fukuoka",
       "team2": "Vissel Kobe"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-06-29",
+      "time": "18:00",
       "team1": "Tokyo Verdy",
       "team2": "Kawasaki Frontale"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-06-29",
+      "time": "18:00",
       "team1": "Albirex Niigata",
       "team2": "FC Machida Zelvia"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-05",
+      "time": "18:00",
       "team1": "FC Machida Zelvia",
       "team2": "Shimizu S-Pulse"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-05",
+      "time": "18:55",
       "team1": "Fagiano Okayama",
       "team2": "Sanfrecce Hiroshima"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-05",
+      "time": "19:00",
       "team1": "Kashiwa Reysol",
       "team2": "FC Tokyo"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-05",
+      "time": "19:00",
       "team1": "Kawasaki Frontale",
       "team2": "Kashima Antlers"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-05",
+      "time": "19:00",
       "team1": "Yokohama FC",
       "team2": "Yokohama F. Marinos"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-05",
+      "time": "19:00",
       "team1": "Nagoya Grampus",
       "team2": "Tokyo Verdy"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-05",
+      "time": "19:00",
       "team1": "Kyoto Sanga FC",
       "team2": "Albirex Niigata"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-05",
+      "time": "19:00",
       "team1": "Cerezo Osaka",
       "team2": "Gamba Osaka"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-05",
+      "time": "19:00",
       "team1": "Vissel Kobe",
       "team2": "Shonan Bellmare"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-27",
+      "time": "19:00",
       "team1": "Urawa Red Diamonds",
       "team2": "Avispa Fukuoka"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "19:00",
       "team1": "FC Tokyo",
       "team2": "Urawa Red Diamonds"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "19:00",
       "team1": "Shonan Bellmare",
       "team2": "Cerezo Osaka"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-20",
+      "time": "18:00",
       "team1": "Kashima Antlers",
       "team2": "Kashiwa Reysol"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-20",
+      "time": "18:00",
       "team1": "Tokyo Verdy",
       "team2": "FC Machida Zelvia"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-20",
+      "time": "18:30",
       "team1": "Shimizu S-Pulse",
       "team2": "Yokohama FC"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-20",
+      "time": "19:00",
       "team1": "Yokohama F. Marinos",
       "team2": "Nagoya Grampus"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-20",
+      "time": "19:00",
       "team1": "Albirex Niigata",
       "team2": "Sanfrecce Hiroshima"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-20",
+      "time": "19:00",
       "team1": "Gamba Osaka",
       "team2": "Kawasaki Frontale"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-20",
+      "time": "19:00",
       "team1": "Fagiano Okayama",
       "team2": "Vissel Kobe"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-21",
+      "time": "18:00",
       "team1": "Avispa Fukuoka",
       "team2": "Kyoto Sanga FC"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-08-09",
+      "time": "18:00",
       "team1": "Tokyo Verdy",
       "team2": "Yokohama F. Marinos"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-08-09",
+      "time": "18:00",
       "team1": "Yokohama FC",
       "team2": "Urawa Red Diamonds"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-08-09",
+      "time": "19:00",
       "team1": "Kawasaki Frontale",
       "team2": "Avispa Fukuoka"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-08-10",
+      "time": "18:30",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Shimizu S-Pulse"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-08-10",
+      "time": "19:00",
       "team1": "Kashiwa Reysol",
       "team2": "Shonan Bellmare"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-08-10",
+      "time": "19:00",
       "team1": "FC Tokyo",
       "team2": "Kashima Antlers"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-08-10",
+      "time": "19:00",
       "team1": "FC Machida Zelvia",
       "team2": "Vissel Kobe"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-08-10",
+      "time": "19:00",
       "team1": "Nagoya Grampus",
       "team2": "Kyoto Sanga FC"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-08-10",
+      "time": "19:00",
       "team1": "Gamba Osaka",
       "team2": "Fagiano Okayama"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-08-11",
+      "time": "19:00",
       "team1": "Cerezo Osaka",
       "team2": "Albirex Niigata"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-16",
+      "time": "18:00",
       "team1": "Kashima Antlers",
       "team2": "Avispa Fukuoka"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-16",
+      "time": "18:30",
       "team1": "Shimizu S-Pulse",
       "team2": "Yokohama F. Marinos"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-16",
+      "time": "19:00",
       "team1": "Urawa Red Diamonds",
       "team2": "Nagoya Grampus"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-16",
+      "time": "19:00",
       "team1": "FC Machida Zelvia",
       "team2": "Cerezo Osaka"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-16",
+      "time": "19:00",
       "team1": "Shonan Bellmare",
       "team2": "FC Tokyo"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-16",
+      "time": "19:00",
       "team1": "Albirex Niigata",
       "team2": "Kawasaki Frontale"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-16",
+      "time": "19:00",
       "team1": "Kyoto Sanga FC",
       "team2": "Tokyo Verdy"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-16",
+      "time": "19:00",
       "team1": "Vissel Kobe",
       "team2": "Yokohama FC"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-16",
+      "time": "19:00",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Gamba Osaka"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-17",
+      "time": "18:00",
       "team1": "Fagiano Okayama",
       "team2": "Kashiwa Reysol"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-22",
+      "time": "19:00",
       "team1": "Kashiwa Reysol",
       "team2": "Urawa Red Diamonds"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-23",
+      "time": "18:00",
       "team1": "Avispa Fukuoka",
       "team2": "Shimizu S-Pulse"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-23",
+      "time": "19:00",
       "team1": "Tokyo Verdy",
       "team2": "Sanfrecce Hiroshima"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-23",
+      "time": "19:00",
       "team1": "Albirex Niigata",
       "team2": "Kashima Antlers"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-23",
+      "time": "19:00",
       "team1": "Nagoya Grampus",
       "team2": "Kawasaki Frontale"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-23",
+      "time": "19:00",
       "team1": "Gamba Osaka",
       "team2": "Yokohama FC"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-23",
+      "time": "19:00",
       "team1": "Cerezo Osaka",
       "team2": "Vissel Kobe"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-23",
+      "time": "19:00",
       "team1": "Fagiano Okayama",
       "team2": "Shonan Bellmare"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-23",
+      "time": "19:30",
       "team1": "Yokohama F. Marinos",
       "team2": "FC Machida Zelvia"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-24",
+      "time": "19:00",
       "team1": "FC Tokyo",
       "team2": "Kyoto Sanga FC"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-30",
+      "time": "18:00",
       "team1": "Yokohama FC",
       "team2": "Tokyo Verdy"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-30",
+      "time": "19:00",
       "team1": "Kyoto Sanga FC",
       "team2": "Fagiano Okayama"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-30",
+      "time": "19:00",
       "team1": "Vissel Kobe",
       "team2": "Yokohama F. Marinos"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-31",
+      "time": "18:30",
       "team1": "Shimizu S-Pulse",
       "team2": "Kashima Antlers"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-31",
+      "time": "19:00",
       "team1": "Urawa Red Diamonds",
       "team2": "Albirex Niigata"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-31",
+      "time": "19:00",
       "team1": "Kashiwa Reysol",
       "team2": "Avispa Fukuoka"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-31",
+      "time": "19:00",
       "team1": "Kawasaki Frontale",
       "team2": "FC Machida Zelvia"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-31",
+      "time": "19:00",
       "team1": "Shonan Bellmare",
       "team2": "Gamba Osaka"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-31",
+      "time": "19:00",
       "team1": "Nagoya Grampus",
       "team2": "FC Tokyo"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-31",
+      "time": "19:00",
       "team1": "Cerezo Osaka",
       "team2": "Sanfrecce Hiroshima"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-09-13",
       "team1": "Kashima Antlers",
       "team2": "Shonan Bellmare"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-09-13",
       "team1": "FC Tokyo",
       "team2": "Tokyo Verdy"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-09-13",
       "team1": "FC Machida Zelvia",
       "team2": "Yokohama FC"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-09-13",
       "team1": "Yokohama F. Marinos",
       "team2": "Kawasaki Frontale"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-09-13",
       "team1": "Albirex Niigata",
       "team2": "Shimizu S-Pulse"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-09-13",
       "team1": "Gamba Osaka",
       "team2": "Urawa Red Diamonds"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-09-13",
       "team1": "Vissel Kobe",
       "team2": "Kashiwa Reysol"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-09-13",
       "team1": "Fagiano Okayama",
       "team2": "Nagoya Grampus"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-09-13",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Kyoto Sanga FC"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-09-13",
       "team1": "Avispa Fukuoka",
       "team2": "Cerezo Osaka"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-20",
       "team1": "Urawa Red Diamonds",
       "team2": "Kashima Antlers"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-20",
       "team1": "Tokyo Verdy",
       "team2": "Fagiano Okayama"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-20",
       "team1": "Kawasaki Frontale",
       "team2": "FC Tokyo"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-20",
       "team1": "Yokohama F. Marinos",
       "team2": "Avispa Fukuoka"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-20",
       "team1": "Yokohama FC",
       "team2": "Albirex Niigata"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-20",
       "team1": "Nagoya Grampus",
       "team2": "Shonan Bellmare"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-20",
       "team1": "Kyoto Sanga FC",
       "team2": "Shimizu S-Pulse"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-20",
       "team1": "Cerezo Osaka",
       "team2": "Kashiwa Reysol"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-20",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Vissel Kobe"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-20",
       "team1": "FC Machida Zelvia",
       "team2": "Gamba Osaka"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-23",
       "team1": "Kashima Antlers",
       "team2": "Cerezo Osaka"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-23",
       "team1": "Kashiwa Reysol",
       "team2": "Sanfrecce Hiroshima"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-23",
       "team1": "FC Tokyo",
       "team2": "Avispa Fukuoka"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-23",
       "team1": "Shonan Bellmare",
       "team2": "Kawasaki Frontale"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-23",
       "team1": "Albirex Niigata",
       "team2": "Nagoya Grampus"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-23",
       "team1": "Shimizu S-Pulse",
       "team2": "Urawa Red Diamonds"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-23",
       "team1": "Kyoto Sanga FC",
       "team2": "FC Machida Zelvia"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-23",
       "team1": "Gamba Osaka",
       "team2": "Yokohama F. Marinos"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-23",
       "team1": "Vissel Kobe",
       "team2": "Tokyo Verdy"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-23",
       "team1": "Fagiano Okayama",
       "team2": "Yokohama FC"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
       "team1": "FC Tokyo",
       "team2": "Yokohama F. Marinos"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
       "team1": "Tokyo Verdy",
       "team2": "Urawa Red Diamonds"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
       "team1": "FC Machida Zelvia",
       "team2": "Fagiano Okayama"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
       "team1": "Kawasaki Frontale",
       "team2": "Kashiwa Reysol"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
       "team1": "Yokohama FC",
       "team2": "Shonan Bellmare"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
       "team1": "Nagoya Grampus",
       "team2": "Kashima Antlers"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
       "team1": "Gamba Osaka",
       "team2": "Albirex Niigata"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
       "team1": "Cerezo Osaka",
       "team2": "Kyoto Sanga FC"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
       "team1": "Vissel Kobe",
       "team2": "Shimizu S-Pulse"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
       "team1": "Avispa Fukuoka",
       "team2": "Sanfrecce Hiroshima"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-03",
       "team1": "Shonan Bellmare",
       "team2": "Tokyo Verdy"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
       "team1": "Kashima Antlers",
       "team2": "Gamba Osaka"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
       "team1": "Urawa Red Diamonds",
       "team2": "Vissel Kobe"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
       "team1": "Kashiwa Reysol",
       "team2": "Yokohama F. Marinos"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
       "team1": "Albirex Niigata",
       "team2": "Fagiano Okayama"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
       "team1": "Shimizu S-Pulse",
       "team2": "FC Tokyo"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
       "team1": "Nagoya Grampus",
       "team2": "Cerezo Osaka"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
       "team1": "Kyoto Sanga FC",
       "team2": "Kawasaki Frontale"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
       "team1": "Sanfrecce Hiroshima",
       "team2": "FC Machida Zelvia"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
       "team1": "Avispa Fukuoka",
       "team2": "Yokohama FC"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
       "team1": "Tokyo Verdy",
       "team2": "Albirex Niigata"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
       "team1": "FC Machida Zelvia",
       "team2": "Avispa Fukuoka"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
       "team1": "Kawasaki Frontale",
       "team2": "Shimizu S-Pulse"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
       "team1": "Yokohama F. Marinos",
       "team2": "Urawa Red Diamonds"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
       "team1": "Yokohama FC",
       "team2": "Nagoya Grampus"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
       "team1": "Shonan Bellmare",
       "team2": "Kyoto Sanga FC"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
       "team1": "Gamba Osaka",
       "team2": "Kashiwa Reysol"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
       "team1": "Vissel Kobe",
       "team2": "Kashima Antlers"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
       "team1": "Fagiano Okayama",
       "team2": "Cerezo Osaka"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
       "team1": "Sanfrecce Hiroshima",
       "team2": "FC Tokyo"
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-10-25",
       "team1": "Urawa Red Diamonds",
       "team2": "FC Machida Zelvia"
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-10-25",
       "team1": "Kashiwa Reysol",
       "team2": "Yokohama FC"
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-10-25",
       "team1": "FC Tokyo",
       "team2": "Fagiano Okayama"
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-10-25",
       "team1": "Yokohama F. Marinos",
       "team2": "Sanfrecce Hiroshima"
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-10-25",
       "team1": "Albirex Niigata",
       "team2": "Vissel Kobe"
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-10-25",
       "team1": "Shimizu S-Pulse",
       "team2": "Tokyo Verdy"
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-10-25",
       "team1": "Nagoya Grampus",
       "team2": "Gamba Osaka"
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-10-25",
       "team1": "Kyoto Sanga FC",
       "team2": "Kashima Antlers"
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-10-25",
       "team1": "Cerezo Osaka",
       "team2": "Kawasaki Frontale"
     },
     {
+      "round": "Matchday 35",
+      "date": "2025-10-25",
       "team1": "Avispa Fukuoka",
       "team2": "Shonan Bellmare"
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-08",
       "team1": "Kashima Antlers",
       "team2": "Yokohama FC"
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-08",
       "team1": "Kashiwa Reysol",
       "team2": "Nagoya Grampus"
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-08",
       "team1": "Tokyo Verdy",
       "team2": "Avispa Fukuoka"
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-08",
       "team1": "FC Machida Zelvia",
       "team2": "FC Tokyo"
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-08",
       "team1": "Kawasaki Frontale",
       "team2": "Fagiano Okayama"
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-08",
       "team1": "Shonan Bellmare",
       "team2": "Albirex Niigata"
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-08",
       "team1": "Shimizu S-Pulse",
       "team2": "Cerezo Osaka"
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-08",
       "team1": "Kyoto Sanga FC",
       "team2": "Yokohama F. Marinos"
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-08",
       "team1": "Gamba Osaka",
       "team2": "Vissel Kobe"
     },
     {
+      "round": "Matchday 36",
+      "date": "2025-11-08",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Urawa Red Diamonds"
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-11-30",
       "team1": "Tokyo Verdy",
       "team2": "Kashima Antlers"
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-11-30",
       "team1": "FC Machida Zelvia",
       "team2": "Nagoya Grampus"
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-11-30",
       "team1": "Kawasaki Frontale",
       "team2": "Sanfrecce Hiroshima"
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-11-30",
       "team1": "Yokohama F. Marinos",
       "team2": "Cerezo Osaka"
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-11-30",
       "team1": "Yokohama FC",
       "team2": "Kyoto Sanga FC"
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-11-30",
       "team1": "Shonan Bellmare",
       "team2": "Shimizu S-Pulse"
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-11-30",
       "team1": "Albirex Niigata",
       "team2": "Kashiwa Reysol"
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-11-30",
       "team1": "Vissel Kobe",
       "team2": "FC Tokyo"
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-11-30",
       "team1": "Fagiano Okayama",
       "team2": "Urawa Red Diamonds"
     },
     {
+      "round": "Matchday 37",
+      "date": "2025-11-30",
       "team1": "Avispa Fukuoka",
       "team2": "Gamba Osaka"
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-06",
       "team1": "Kashima Antlers",
       "team2": "Yokohama F. Marinos"
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-06",
       "team1": "Urawa Red Diamonds",
       "team2": "Kawasaki Frontale"
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-06",
       "team1": "Kashiwa Reysol",
       "team2": "FC Machida Zelvia"
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-06",
       "team1": "FC Tokyo",
       "team2": "Albirex Niigata"
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-06",
       "team1": "Shimizu S-Pulse",
       "team2": "Fagiano Okayama"
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-06",
       "team1": "Nagoya Grampus",
       "team2": "Avispa Fukuoka"
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-06",
       "team1": "Kyoto Sanga FC",
       "team2": "Vissel Kobe"
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-06",
       "team1": "Gamba Osaka",
       "team2": "Tokyo Verdy"
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-06",
       "team1": "Cerezo Osaka",
       "team2": "Yokohama FC"
     },
     {
+      "round": "Matchday 38",
+      "date": "2025-12-06",
       "team1": "Sanfrecce Hiroshima",
       "team2": "Shonan Bellmare"
     }

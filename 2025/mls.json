@@ -2,6 +2,9 @@
   "name": "Major League Soccer 2025",
   "matches": [
     {
+      "round": "Matchday 1",
+      "date": "2025-02-22",
+      "time": "16:45",
       "team1": "Los Angeles FC",
       "team2": "Minnesota United FC",
       "score": {
@@ -16,6 +19,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-22",
+      "time": "19:30",
       "team1": "Inter Miami CF",
       "team2": "New York City FC",
       "score": {
@@ -30,6 +36,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-22",
+      "time": "19:30",
       "team1": "Atlanta United FC",
       "team2": "CF Montréal",
       "score": {
@@ -44,6 +53,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-22",
+      "time": "19:30",
       "team1": "Columbus Crew",
       "team2": "Chicago Fire",
       "score": {
@@ -58,6 +70,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-22",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "Toronto FC",
       "score": {
@@ -72,6 +87,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-22",
+      "time": "19:30",
       "team1": "FC Cincinnati",
       "team2": "New York RB",
       "score": {
@@ -86,6 +104,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-22",
+      "time": "19:30",
       "team1": "Orlando City",
       "team2": "Philadelphia Union",
       "score": {
@@ -100,6 +121,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-22",
+      "time": "20:30",
       "team1": "Austin FC",
       "team2": "Sporting Kansas City",
       "score": {
@@ -114,6 +138,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-22",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "FC Dallas",
       "score": {
@@ -128,6 +155,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-22",
+      "time": "20:30",
       "team1": "Nashville SC",
       "team2": "New England Revolution",
       "score": [
@@ -136,6 +166,9 @@
       ]
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-22",
+      "time": "20:30",
       "team1": "St. Louis City SC",
       "team2": "Colorado Rapids",
       "score": [
@@ -144,6 +177,9 @@
       ]
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-22",
+      "time": "22:30",
       "team1": "San Jose Earthquakes",
       "team2": "Real Salt Lake",
       "score": {
@@ -158,6 +194,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-22",
+      "time": "22:30",
       "team1": "Seattle Sounders",
       "team2": "Charlotte FC",
       "score": {
@@ -172,6 +211,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-23",
+      "time": "16:00",
       "team1": "Portland Timbers",
       "team2": "Vancouver Whitecaps",
       "score": {
@@ -186,6 +228,9 @@
       }
     },
     {
+      "round": "Matchday 1",
+      "date": "2025-02-23",
+      "time": "19:00",
       "team1": "Los Angeles Galaxy",
       "team2": "San Diego FC",
       "score": {
@@ -200,6 +245,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-03-01",
+      "time": "14:15",
       "team1": "Charlotte FC",
       "team2": "Atlanta United FC",
       "score": {
@@ -214,6 +262,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-03-01",
+      "time": "16:30",
       "team1": "Real Salt Lake",
       "team2": "Seattle Sounders",
       "score": {
@@ -228,6 +279,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-03-01",
+      "time": "19:30",
       "team1": "New England Revolution",
       "team2": "Columbus Crew",
       "score": {
@@ -242,6 +296,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-03-01",
+      "time": "19:30",
       "team1": "New York RB",
       "team2": "Nashville SC",
       "score": {
@@ -256,6 +313,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-03-01",
+      "time": "19:30",
       "team1": "Orlando City",
       "team2": "Toronto FC",
       "score": {
@@ -270,6 +330,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-03-01",
+      "time": "19:30",
       "team1": "Philadelphia Union",
       "team2": "FC Cincinnati",
       "score": {
@@ -284,6 +347,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-03-01",
+      "time": "20:30",
       "team1": "Chicago Fire",
       "team2": "D.C. United",
       "score": {
@@ -298,6 +364,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-03-01",
+      "time": "20:30",
       "team1": "Minnesota United FC",
       "team2": "CF Montréal",
       "score": {
@@ -312,6 +381,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-03-01",
+      "time": "20:30",
       "team1": "Sporting Kansas City",
       "team2": "San Jose Earthquakes",
       "score": {
@@ -326,6 +398,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-03-01",
+      "time": "21:30",
       "team1": "Colorado Rapids",
       "team2": "FC Dallas",
       "score": {
@@ -340,6 +415,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-03-01",
+      "time": "22:30",
       "team1": "Los Angeles FC",
       "team2": "New York City FC",
       "score": {
@@ -354,6 +432,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-03-01",
+      "time": "22:30",
       "team1": "Portland Timbers",
       "team2": "Austin FC",
       "score": {
@@ -368,6 +449,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-03-01",
+      "time": "22:30",
       "team1": "San Diego FC",
       "team2": "St. Louis City SC",
       "score": [
@@ -376,6 +460,9 @@
       ]
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-03-02",
+      "time": "17:00",
       "team1": "Vancouver Whitecaps",
       "team2": "Los Angeles Galaxy",
       "score": {
@@ -390,6 +477,9 @@
       }
     },
     {
+      "round": "Matchday 2",
+      "date": "2025-03-02",
+      "time": "19:00",
       "team1": "Houston Dynamo",
       "team2": "Inter Miami CF",
       "score": {
@@ -404,6 +494,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-03-08",
+      "time": "14:30",
       "team1": "Columbus Crew",
       "team2": "Houston Dynamo",
       "score": [
@@ -412,6 +505,9 @@
       ]
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-03-08",
+      "time": "16:45",
       "team1": "Seattle Sounders",
       "team2": "Los Angeles FC",
       "score": {
@@ -426,6 +522,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-03-08",
+      "time": "19:30",
       "team1": "Atlanta United FC",
       "team2": "New York RB",
       "score": [
@@ -434,6 +533,9 @@
       ]
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-03-08",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "Sporting Kansas City",
       "score": {
@@ -448,6 +550,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-03-08",
+      "time": "19:30",
       "team1": "FC Cincinnati",
       "team2": "Toronto FC",
       "score": {
@@ -462,6 +567,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-03-08",
+      "time": "19:30",
       "team1": "New England Revolution",
       "team2": "Philadelphia Union",
       "score": {
@@ -476,6 +584,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-03-08",
+      "time": "19:30",
       "team1": "New York City FC",
       "team2": "Orlando City",
       "score": {
@@ -490,6 +601,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-03-08",
+      "time": "20:30",
       "team1": "Austin FC",
       "team2": "Colorado Rapids",
       "score": {
@@ -504,6 +618,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-03-08",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "Chicago Fire",
       "score": {
@@ -518,6 +635,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-03-08",
+      "time": "20:30",
       "team1": "Nashville SC",
       "team2": "Portland Timbers",
       "score": {
@@ -532,6 +652,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-03-08",
+      "time": "21:30",
       "team1": "Real Salt Lake",
       "team2": "San Diego FC",
       "score": {
@@ -546,6 +669,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-03-08",
+      "time": "21:30",
       "team1": "Vancouver Whitecaps",
       "team2": "CF Montréal",
       "score": {
@@ -560,6 +686,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-03-08",
+      "time": "22:30",
       "team1": "San Jose Earthquakes",
       "team2": "Minnesota United FC",
       "score": {
@@ -574,6 +703,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-03-09",
+      "time": "16:00",
       "team1": "Inter Miami CF",
       "team2": "Charlotte FC",
       "score": {
@@ -588,6 +720,9 @@
       }
     },
     {
+      "round": "Matchday 3",
+      "date": "2025-03-09",
+      "time": "19:00",
       "team1": "Los Angeles Galaxy",
       "team2": "St. Louis City SC",
       "score": {
@@ -602,6 +737,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-15",
+      "time": "14:30",
       "team1": "New York RB",
       "team2": "Orlando City",
       "score": {
@@ -616,6 +754,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-15",
+      "time": "14:30",
       "team1": "Toronto FC",
       "team2": "Chicago Fire",
       "score": {
@@ -630,6 +771,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-15",
+      "time": "15:45",
       "team1": "Los Angeles FC",
       "team2": "Austin FC",
       "score": {
@@ -644,6 +788,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-15",
+      "time": "19:30",
       "team1": "Charlotte FC",
       "team2": "FC Cincinnati",
       "score": {
@@ -658,6 +805,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-15",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "CF Montréal",
       "score": [
@@ -666,6 +816,9 @@
       ]
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-15",
+      "time": "19:30",
       "team1": "New York City FC",
       "team2": "New England Revolution",
       "score": {
@@ -680,6 +833,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-15",
+      "time": "20:15",
       "team1": "Sporting Kansas City",
       "team2": "Minnesota United FC",
       "score": {
@@ -694,6 +850,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-15",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "Vancouver Whitecaps",
       "score": {
@@ -708,6 +867,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-15",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "Real Salt Lake",
       "score": {
@@ -722,6 +884,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-15",
+      "time": "20:30",
       "team1": "St. Louis City SC",
       "team2": "Seattle Sounders",
       "score": {
@@ -736,6 +901,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-15",
+      "time": "22:30",
       "team1": "San Diego FC",
       "team2": "Columbus Crew",
       "score": {
@@ -750,6 +918,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-15",
+      "time": "22:30",
       "team1": "San Jose Earthquakes",
       "team2": "Colorado Rapids",
       "score": {
@@ -764,6 +935,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-16",
+      "time": "14:25",
       "team1": "Philadelphia Union",
       "team2": "Nashville SC",
       "score": {
@@ -778,6 +952,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-16",
+      "time": "16:45",
       "team1": "Portland Timbers",
       "team2": "Los Angeles Galaxy",
       "score": {
@@ -792,6 +969,9 @@
       }
     },
     {
+      "round": "Matchday 4",
+      "date": "2025-03-16",
+      "time": "19:00",
       "team1": "Atlanta United FC",
       "team2": "Inter Miami CF",
       "score": {
@@ -806,6 +986,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-22",
+      "time": "14:30",
       "team1": "FC Cincinnati",
       "team2": "Atlanta United FC",
       "score": {
@@ -820,6 +1003,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-22",
+      "time": "16:30",
       "team1": "Minnesota United FC",
       "team2": "Los Angeles Galaxy",
       "score": {
@@ -834,6 +1020,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-22",
+      "time": "19:30",
       "team1": "Charlotte FC",
       "team2": "San Jose Earthquakes",
       "score": {
@@ -848,6 +1037,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-22",
+      "time": "19:30",
       "team1": "Columbus Crew",
       "team2": "New York City FC",
       "score": [
@@ -856,6 +1048,9 @@
       ]
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-22",
+      "time": "19:30",
       "team1": "New York RB",
       "team2": "Toronto FC",
       "score": {
@@ -870,6 +1065,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-22",
+      "time": "19:30",
       "team1": "Orlando City",
       "team2": "D.C. United",
       "score": {
@@ -884,6 +1082,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-22",
+      "time": "19:30",
       "team1": "Philadelphia Union",
       "team2": "St. Louis City SC",
       "score": {
@@ -898,6 +1099,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-22",
+      "time": "20:30",
       "team1": "Nashville SC",
       "team2": "CF Montréal",
       "score": {
@@ -912,6 +1116,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-22",
+      "time": "20:30",
       "team1": "Sporting Kansas City",
       "team2": "Los Angeles FC",
       "score": {
@@ -926,6 +1133,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-22",
+      "time": "21:30",
       "team1": "Colorado Rapids",
       "team2": "Portland Timbers",
       "score": {
@@ -940,6 +1150,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-22",
+      "time": "21:30",
       "team1": "Real Salt Lake",
       "team2": "FC Dallas",
       "score": {
@@ -954,6 +1167,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-22",
+      "time": "22:30",
       "team1": "Seattle Sounders",
       "team2": "Houston Dynamo",
       "score": [
@@ -962,6 +1178,9 @@
       ]
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-22",
+      "time": "22:30",
       "team1": "Vancouver Whitecaps",
       "team2": "Chicago Fire",
       "score": {
@@ -976,6 +1195,9 @@
       }
     },
     {
+      "round": "Matchday 5",
+      "date": "2025-03-23",
+      "time": "16:00",
       "team1": "Austin FC",
       "team2": "San Diego FC",
       "score": {
@@ -990,6 +1212,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-29",
+      "time": "14:30",
       "team1": "New England Revolution",
       "team2": "New York RB",
       "score": {
@@ -1004,6 +1229,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-29",
+      "time": "14:30",
       "team1": "Toronto FC",
       "team2": "Vancouver Whitecaps",
       "score": [
@@ -1012,6 +1240,9 @@
       ]
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-29",
+      "time": "16:30",
       "team1": "Colorado Rapids",
       "team2": "Charlotte FC",
       "score": {
@@ -1026,6 +1257,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-29",
+      "time": "19:30",
       "team1": "Atlanta United FC",
       "team2": "New York City FC",
       "score": {
@@ -1040,6 +1274,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-29",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "Columbus Crew",
       "score": {
@@ -1054,6 +1291,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-29",
+      "time": "19:30",
       "team1": "Inter Miami CF",
       "team2": "Philadelphia Union",
       "score": {
@@ -1068,6 +1308,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-29",
+      "time": "20:30",
       "team1": "Chicago Fire",
       "team2": "CF Montréal",
       "score": {
@@ -1082,6 +1325,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-29",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "Sporting Kansas City",
       "score": {
@@ -1096,6 +1342,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-29",
+      "time": "20:30",
       "team1": "Minnesota United FC",
       "team2": "Real Salt Lake",
       "score": {
@@ -1110,6 +1359,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-29",
+      "time": "20:30",
       "team1": "Nashville SC",
       "team2": "FC Cincinnati",
       "score": {
@@ -1124,6 +1376,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-29",
+      "time": "22:30",
       "team1": "Los Angeles Galaxy",
       "team2": "Orlando City",
       "score": {
@@ -1138,6 +1393,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-29",
+      "time": "22:30",
       "team1": "San Diego FC",
       "team2": "Los Angeles FC",
       "score": {
@@ -1152,6 +1410,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-29",
+      "time": "22:30",
       "team1": "San Jose Earthquakes",
       "team2": "Seattle Sounders",
       "score": {
@@ -1166,6 +1427,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-30",
+      "time": "14:15",
       "team1": "St. Louis City SC",
       "team2": "Austin FC",
       "score": {
@@ -1180,6 +1444,9 @@
       }
     },
     {
+      "round": "Matchday 6",
+      "date": "2025-03-30",
+      "time": "19:00",
       "team1": "Portland Timbers",
       "team2": "Houston Dynamo",
       "score": {
@@ -1194,6 +1461,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-04-05",
+      "time": "14:30",
       "team1": "Charlotte FC",
       "team2": "Nashville SC",
       "score": {
@@ -1208,6 +1478,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-04-05",
+      "time": "16:30",
       "team1": "Real Salt Lake",
       "team2": "Los Angeles Galaxy",
       "score": {
@@ -1222,6 +1495,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-04-05",
+      "time": "19:30",
       "team1": "Atlanta United FC",
       "team2": "FC Dallas",
       "score": {
@@ -1236,6 +1512,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-04-05",
+      "time": "19:30",
       "team1": "Columbus Crew",
       "team2": "CF Montréal",
       "score": {
@@ -1250,6 +1529,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-04-05",
+      "time": "19:30",
       "team1": "FC Cincinnati",
       "team2": "New England Revolution",
       "score": {
@@ -1264,6 +1546,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-04-05",
+      "time": "19:30",
       "team1": "New York RB",
       "team2": "Chicago Fire",
       "score": {
@@ -1278,6 +1563,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-04-05",
+      "time": "19:30",
       "team1": "Philadelphia Union",
       "team2": "Orlando City",
       "score": [
@@ -1286,6 +1574,9 @@
       ]
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-04-05",
+      "time": "19:45",
       "team1": "Austin FC",
       "team2": "Portland Timbers",
       "score": [
@@ -1294,6 +1585,9 @@
       ]
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-04-05",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "Los Angeles FC",
       "score": {
@@ -1308,6 +1602,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-04-05",
+      "time": "20:30",
       "team1": "Sporting Kansas City",
       "team2": "St. Louis City SC",
       "score": {
@@ -1322,6 +1619,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-04-05",
+      "time": "21:30",
       "team1": "Vancouver Whitecaps",
       "team2": "Colorado Rapids",
       "score": {
@@ -1336,6 +1636,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-04-05",
+      "time": "22:30",
       "team1": "San Diego FC",
       "team2": "Seattle Sounders",
       "score": {
@@ -1350,6 +1653,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-04-06",
+      "time": "15:00",
       "team1": "New York City FC",
       "team2": "Minnesota United FC",
       "score": {
@@ -1364,6 +1670,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-04-06",
+      "time": "17:00",
       "team1": "San Jose Earthquakes",
       "team2": "D.C. United",
       "score": {
@@ -1378,6 +1687,9 @@
       }
     },
     {
+      "round": "Matchday 7",
+      "date": "2025-04-06",
+      "time": "19:00",
       "team1": "Inter Miami CF",
       "team2": "Toronto FC",
       "score": {
@@ -1392,6 +1704,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-12",
+      "time": "14:30",
       "team1": "Toronto FC",
       "team2": "Minnesota United FC",
       "score": [
@@ -1400,6 +1715,9 @@
       ]
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-12",
+      "time": "14:45",
       "team1": "Atlanta United FC",
       "team2": "New England Revolution",
       "score": {
@@ -1414,6 +1732,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-12",
+      "time": "16:30",
       "team1": "Orlando City",
       "team2": "New York RB",
       "score": [
@@ -1422,6 +1743,9 @@
       ]
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-12",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "FC Cincinnati",
       "score": {
@@ -1436,6 +1760,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-12",
+      "time": "19:30",
       "team1": "New York City FC",
       "team2": "Philadelphia Union",
       "score": {
@@ -1450,6 +1777,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-12",
+      "time": "19:30",
       "team1": "Vancouver Whitecaps",
       "team2": "Austin FC",
       "score": {
@@ -1464,6 +1794,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-12",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "Charlotte FC",
       "score": {
@@ -1478,6 +1811,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-12",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "Seattle Sounders",
       "score": {
@@ -1492,6 +1828,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-12",
+      "time": "20:30",
       "team1": "Nashville SC",
       "team2": "Real Salt Lake",
       "score": {
@@ -1506,6 +1845,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-12",
+      "time": "21:30",
       "team1": "Colorado Rapids",
       "team2": "San Diego FC",
       "score": {
@@ -1520,6 +1862,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-12",
+      "time": "22:30",
       "team1": "Los Angeles Galaxy",
       "team2": "Houston Dynamo",
       "score": {
@@ -1534,6 +1879,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-12",
+      "time": "22:30",
       "team1": "Los Angeles FC",
       "team2": "San Jose Earthquakes",
       "score": {
@@ -1548,6 +1896,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-13",
+      "time": "14:15",
       "team1": "Sporting Kansas City",
       "team2": "Portland Timbers",
       "score": {
@@ -1562,6 +1913,9 @@
       }
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-13",
+      "time": "16:30",
       "team1": "Chicago Fire",
       "team2": "Inter Miami CF",
       "score": [
@@ -1570,6 +1924,9 @@
       ]
     },
     {
+      "round": "Matchday 8",
+      "date": "2025-04-13",
+      "time": "19:00",
       "team1": "St. Louis City SC",
       "team2": "Columbus Crew",
       "score": {
@@ -1584,6 +1941,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-19",
+      "time": "13:45",
       "team1": "Austin FC",
       "team2": "Los Angeles Galaxy",
       "score": {
@@ -1598,6 +1958,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-19",
+      "time": "16:30",
       "team1": "Columbus Crew",
       "team2": "Inter Miami CF",
       "score": {
@@ -1612,6 +1975,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-19",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "Orlando City",
       "score": [
@@ -1620,6 +1986,9 @@
       ]
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-19",
+      "time": "19:30",
       "team1": "Charlotte FC",
       "team2": "San Diego FC",
       "score": {
@@ -1634,6 +2003,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-19",
+      "time": "19:30",
       "team1": "New England Revolution",
       "team2": "New York City FC",
       "score": {
@@ -1648,6 +2020,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-19",
+      "time": "19:30",
       "team1": "New York RB",
       "team2": "D.C. United",
       "score": {
@@ -1662,6 +2037,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-19",
+      "time": "19:30",
       "team1": "Philadelphia Union",
       "team2": "Atlanta United FC",
       "score": {
@@ -1676,6 +2054,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-19",
+      "time": "19:30",
       "team1": "Seattle Sounders",
       "team2": "Nashville SC",
       "score": {
@@ -1690,6 +2071,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-19",
+      "time": "20:30",
       "team1": "Chicago Fire",
       "team2": "FC Cincinnati",
       "score": {
@@ -1704,6 +2088,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-19",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "Colorado Rapids",
       "score": {
@@ -1718,6 +2105,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-19",
+      "time": "20:30",
       "team1": "Minnesota United FC",
       "team2": "FC Dallas",
       "score": [
@@ -1726,6 +2116,9 @@
       ]
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-19",
+      "time": "20:30",
       "team1": "St. Louis City SC",
       "team2": "Vancouver Whitecaps",
       "score": [
@@ -1734,6 +2127,9 @@
       ]
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-19",
+      "time": "21:30",
       "team1": "Real Salt Lake",
       "team2": "Toronto FC",
       "score": {
@@ -1748,6 +2144,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-19",
+      "time": "22:15",
       "team1": "Portland Timbers",
       "team2": "Los Angeles FC",
       "score": {
@@ -1762,6 +2161,9 @@
       }
     },
     {
+      "round": "Matchday 9",
+      "date": "2025-04-19",
+      "time": "22:30",
       "team1": "San Jose Earthquakes",
       "team2": "Sporting Kansas City",
       "score": {
@@ -1776,6 +2178,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-26",
+      "time": "14:30",
       "team1": "FC Cincinnati",
       "team2": "Sporting Kansas City",
       "score": {
@@ -1790,6 +2195,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-26",
+      "time": "14:30",
       "team1": "Toronto FC",
       "team2": "New York City FC",
       "score": {
@@ -1804,6 +2212,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-26",
+      "time": "16:30",
       "team1": "New York RB",
       "team2": "CF Montréal",
       "score": {
@@ -1818,6 +2229,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-26",
+      "time": "16:30",
       "team1": "Philadelphia Union",
       "team2": "D.C. United",
       "score": {
@@ -1832,6 +2246,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-26",
+      "time": "19:15",
       "team1": "Orlando City",
       "team2": "Atlanta United FC",
       "score": {
@@ -1846,6 +2263,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-26",
+      "time": "19:30",
       "team1": "Charlotte FC",
       "team2": "New England Revolution",
       "score": {
@@ -1860,6 +2280,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-26",
+      "time": "19:30",
       "team1": "Columbus Crew",
       "team2": "San Jose Earthquakes",
       "score": {
@@ -1874,6 +2297,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-26",
+      "time": "19:30",
       "team1": "San Diego FC",
       "team2": "Real Salt Lake",
       "score": {
@@ -1888,6 +2314,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-26",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "Austin FC",
       "score": {
@@ -1902,6 +2331,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-26",
+      "time": "20:30",
       "team1": "Nashville SC",
       "team2": "Chicago Fire",
       "score": {
@@ -1916,6 +2348,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-26",
+      "time": "21:30",
       "team1": "Colorado Rapids",
       "team2": "Seattle Sounders",
       "score": {
@@ -1930,6 +2365,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-27",
+      "time": "15:00",
       "team1": "Minnesota United FC",
       "team2": "Vancouver Whitecaps",
       "score": {
@@ -1944,6 +2382,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-27",
+      "time": "17:00",
       "team1": "Inter Miami CF",
       "team2": "FC Dallas",
       "score": {
@@ -1958,6 +2399,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-27",
+      "time": "19:00",
       "team1": "Los Angeles FC",
       "team2": "St. Louis City SC",
       "score": {
@@ -1972,6 +2416,9 @@
       }
     },
     {
+      "round": "Matchday 10",
+      "date": "2025-04-27",
+      "time": "21:00",
       "team1": "Los Angeles Galaxy",
       "team2": "Portland Timbers",
       "score": {
@@ -1986,6 +2433,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-03",
+      "time": "14:45",
       "team1": "Atlanta United FC",
       "team2": "Nashville SC",
       "score": {
@@ -2000,6 +2450,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-03",
+      "time": "16:30",
       "team1": "Toronto FC",
       "team2": "New England Revolution",
       "score": {
@@ -2014,6 +2467,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-03",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "Philadelphia Union",
       "score": {
@@ -2028,6 +2484,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-03",
+      "time": "19:30",
       "team1": "Columbus Crew",
       "team2": "Charlotte FC",
       "score": {
@@ -2042,6 +2501,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-03",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "Colorado Rapids",
       "score": {
@@ -2056,6 +2518,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-03",
+      "time": "19:30",
       "team1": "Inter Miami CF",
       "team2": "New York RB",
       "score": {
@@ -2070,6 +2535,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-03",
+      "time": "20:30",
       "team1": "Austin FC",
       "team2": "Minnesota United FC",
       "score": {
@@ -2084,6 +2552,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-03",
+      "time": "20:30",
       "team1": "Chicago Fire",
       "team2": "Orlando City",
       "score": [
@@ -2092,6 +2563,9 @@
       ]
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-03",
+      "time": "21:15",
       "team1": "San Diego FC",
       "team2": "FC Dallas",
       "score": {
@@ -2106,6 +2580,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-03",
+      "time": "21:30",
       "team1": "Vancouver Whitecaps",
       "team2": "Real Salt Lake",
       "score": {
@@ -2120,6 +2597,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-03",
+      "time": "22:30",
       "team1": "Los Angeles FC",
       "team2": "Houston Dynamo",
       "score": {
@@ -2134,6 +2614,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-03",
+      "time": "22:30",
       "team1": "San Jose Earthquakes",
       "team2": "Portland Timbers",
       "score": {
@@ -2148,6 +2631,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-03",
+      "time": "22:30",
       "team1": "Seattle Sounders",
       "team2": "St. Louis City SC",
       "score": {
@@ -2162,6 +2648,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-04",
+      "time": "15:00",
       "team1": "New York City FC",
       "team2": "FC Cincinnati",
       "score": {
@@ -2176,6 +2665,9 @@
       }
     },
     {
+      "round": "Matchday 11",
+      "date": "2025-05-04",
+      "time": "19:00",
       "team1": "Sporting Kansas City",
       "team2": "Los Angeles Galaxy",
       "score": {
@@ -2190,1386 +2682,2424 @@
       }
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-05-10",
+      "time": "14:30",
       "team1": "Chicago Fire",
       "team2": "Atlanta United FC"
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-05-10",
+      "time": "16:30",
       "team1": "Minnesota United FC",
       "team2": "Inter Miami CF"
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-05-10",
+      "time": "16:30",
       "team1": "Toronto FC",
       "team2": "D.C. United"
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-05-10",
+      "time": "19:30",
       "team1": "FC Cincinnati",
       "team2": "Austin FC"
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-05-10",
+      "time": "19:30",
       "team1": "New York City FC",
       "team2": "CF Montréal"
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-05-10",
+      "time": "19:30",
       "team1": "New York RB",
       "team2": "Los Angeles Galaxy"
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-05-10",
+      "time": "19:30",
       "team1": "Orlando City",
       "team2": "New England Revolution"
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-05-10",
+      "time": "19:30",
       "team1": "Philadelphia Union",
       "team2": "Columbus Crew"
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-05-10",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "Real Salt Lake"
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-05-10",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "Seattle Sounders"
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-05-10",
+      "time": "20:30",
       "team1": "Nashville SC",
       "team2": "Charlotte FC"
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-05-10",
+      "time": "20:30",
       "team1": "St. Louis City SC",
       "team2": "San Diego FC"
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-05-10",
+      "time": "21:30",
       "team1": "Colorado Rapids",
       "team2": "San Jose Earthquakes"
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-05-10",
+      "time": "22:30",
       "team1": "Portland Timbers",
       "team2": "Sporting Kansas City"
     },
     {
+      "round": "Matchday 12",
+      "date": "2025-05-11",
+      "time": "19:00",
       "team1": "Vancouver Whitecaps",
       "team2": "Los Angeles FC"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-14",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "Columbus Crew"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-14",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "New York City FC"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-14",
+      "time": "19:30",
       "team1": "Orlando City",
       "team2": "Charlotte FC"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-14",
+      "time": "19:30",
       "team1": "Philadelphia Union",
       "team2": "Los Angeles Galaxy"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-14",
+      "time": "19:30",
       "team1": "Toronto FC",
       "team2": "FC Cincinnati"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-14",
+      "time": "20:30",
       "team1": "Austin FC",
       "team2": "Atlanta United FC"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-14",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "Minnesota United FC"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-14",
+      "time": "20:30",
       "team1": "Nashville SC",
       "team2": "New York RB"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-14",
+      "time": "20:45",
       "team1": "St. Louis City SC",
       "team2": "Sporting Kansas City"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-14",
+      "time": "21:30",
       "team1": "Real Salt Lake",
       "team2": "Portland Timbers"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-14",
+      "time": "22:30",
       "team1": "Los Angeles FC",
       "team2": "Seattle Sounders"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-14",
+      "time": "22:30",
       "team1": "San Diego FC",
       "team2": "Colorado Rapids"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-14",
+      "time": "22:30",
       "team1": "San Jose Earthquakes",
       "team2": "Inter Miami CF"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-17",
+      "time": "14:30",
       "team1": "CF Montréal",
       "team2": "Toronto FC"
     },
     {
+      "round": "Matchday 13",
+      "date": "2025-05-17",
+      "time": "16:30",
       "team1": "New York City FC",
       "team2": "New York RB"
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-17",
+      "time": "19:00",
       "team1": "Columbus Crew",
       "team2": "FC Cincinnati"
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-17",
+      "time": "19:30",
       "team1": "Atlanta United FC",
       "team2": "Philadelphia Union"
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-17",
+      "time": "19:30",
       "team1": "Charlotte FC",
       "team2": "Chicago Fire"
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-17",
+      "time": "19:30",
       "team1": "New England Revolution",
       "team2": "San Jose Earthquakes"
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-17",
+      "time": "20:30",
       "team1": "Austin FC",
       "team2": "Vancouver Whitecaps"
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-17",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "Houston Dynamo"
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-17",
+      "time": "20:30",
       "team1": "Minnesota United FC",
       "team2": "St. Louis City SC"
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-17",
+      "time": "20:30",
       "team1": "Nashville SC",
       "team2": "D.C. United"
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-17",
+      "time": "21:30",
       "team1": "Colorado Rapids",
       "team2": "Real Salt Lake"
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-17",
+      "time": "21:30",
       "team1": "Portland Timbers",
       "team2": "Seattle Sounders"
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-17",
+      "time": "22:30",
       "team1": "San Diego FC",
       "team2": "Sporting Kansas City"
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-18",
+      "time": "19:00",
       "team1": "Inter Miami CF",
       "team2": "Orlando City"
     },
     {
+      "round": "Matchday 14",
+      "date": "2025-05-18",
+      "time": "21:00",
       "team1": "Los Angeles Galaxy",
       "team2": "Los Angeles FC"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-24",
+      "time": "15:00",
       "team1": "Seattle Sounders",
       "team2": "FC Dallas"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-24",
+      "time": "16:45",
       "team1": "San Diego FC",
       "team2": "Los Angeles Galaxy"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-24",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "Los Angeles FC"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-24",
+      "time": "19:30",
       "team1": "Charlotte FC",
       "team2": "Columbus Crew"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-24",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "New York RB"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-24",
+      "time": "19:30",
       "team1": "Orlando City",
       "team2": "Portland Timbers"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-24",
+      "time": "19:30",
       "team1": "Philadelphia Union",
       "team2": "Inter Miami CF"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-24",
+      "time": "19:30",
       "team1": "Toronto FC",
       "team2": "Nashville SC"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-24",
+      "time": "20:30",
       "team1": "Minnesota United FC",
       "team2": "Austin FC"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-24",
+      "time": "20:30",
       "team1": "Sporting Kansas City",
       "team2": "New England Revolution"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-24",
+      "time": "21:30",
       "team1": "Colorado Rapids",
       "team2": "St. Louis City SC"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-24",
+      "time": "21:30",
       "team1": "Real Salt Lake",
       "team2": "Vancouver Whitecaps"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-24",
+      "time": "22:30",
       "team1": "San Jose Earthquakes",
       "team2": "Houston Dynamo"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-25",
+      "time": "15:00",
       "team1": "New York City FC",
       "team2": "Chicago Fire"
     },
     {
+      "round": "Matchday 15",
+      "date": "2025-05-25",
+      "time": "19:00",
       "team1": "Atlanta United FC",
       "team2": "FC Cincinnati"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-28",
+      "time": "19:30",
       "team1": "Atlanta United FC",
       "team2": "Orlando City"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-28",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "New England Revolution"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-28",
+      "time": "19:30",
       "team1": "FC Cincinnati",
       "team2": "FC Dallas"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-28",
+      "time": "19:30",
       "team1": "Inter Miami CF",
       "team2": "CF Montréal"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-28",
+      "time": "19:30",
       "team1": "New York City FC",
       "team2": "Houston Dynamo"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-28",
+      "time": "19:30",
       "team1": "New York RB",
       "team2": "Charlotte FC"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-28",
+      "time": "19:30",
       "team1": "Toronto FC",
       "team2": "Philadelphia Union"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-28",
+      "time": "20:00",
       "team1": "Columbus Crew",
       "team2": "Nashville SC"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-28",
+      "time": "20:30",
       "team1": "Austin FC",
       "team2": "Real Salt Lake"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-28",
+      "time": "20:30",
       "team1": "Seattle Sounders",
       "team2": "San Diego FC"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-28",
+      "time": "22:00",
       "team1": "Los Angeles Galaxy",
       "team2": "San Jose Earthquakes"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-28",
+      "time": "22:30",
       "team1": "Los Angeles FC",
       "team2": "Sporting Kansas City"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-28",
+      "time": "22:30",
       "team1": "Portland Timbers",
       "team2": "Colorado Rapids"
     },
     {
+      "round": "Matchday 16",
+      "date": "2025-05-28",
+      "time": "22:30",
       "team1": "Vancouver Whitecaps",
       "team2": "Minnesota United FC"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-31",
+      "time": "14:30",
       "team1": "St. Louis City SC",
       "team2": "San Jose Earthquakes"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-31",
+      "time": "16:30",
       "team1": "Nashville SC",
       "team2": "New York City FC"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-31",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "New England Revolution"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-31",
+      "time": "19:30",
       "team1": "FC Cincinnati",
       "team2": "D.C. United"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-31",
+      "time": "19:30",
       "team1": "Inter Miami CF",
       "team2": "Columbus Crew"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-31",
+      "time": "19:30",
       "team1": "New York RB",
       "team2": "Atlanta United FC"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-31",
+      "time": "19:30",
       "team1": "Orlando City",
       "team2": "Chicago Fire"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-31",
+      "time": "19:30",
       "team1": "Toronto FC",
       "team2": "Charlotte FC"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-31",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "Philadelphia Union"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-31",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "Sporting Kansas City"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-31",
+      "time": "21:30",
       "team1": "Vancouver Whitecaps",
       "team2": "Portland Timbers"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-31",
+      "time": "22:30",
       "team1": "Los Angeles FC",
       "team2": "Colorado Rapids"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-31",
+      "time": "22:30",
       "team1": "Los Angeles Galaxy",
       "team2": "Real Salt Lake"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-05-31",
+      "time": "22:30",
       "team1": "San Diego FC",
       "team2": "Austin FC"
     },
     {
+      "round": "Matchday 17",
+      "date": "2025-06-01",
+      "time": "18:00",
       "team1": "Seattle Sounders",
       "team2": "Minnesota United FC"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-07",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "Chicago Fire"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-07",
+      "time": "21:30",
       "team1": "Colorado Rapids",
       "team2": "Austin FC"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-08",
+      "time": "19:00",
       "team1": "Portland Timbers",
       "team2": "St. Louis City SC"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-08",
+      "time": "21:00",
       "team1": "Vancouver Whitecaps",
       "team2": "Seattle Sounders"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-12",
+      "time": "19:30",
       "team1": "New York City FC",
       "team2": "Atlanta United FC"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-13",
+      "time": "22:30",
       "team1": "Los Angeles FC",
       "team2": "Toronto FC"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-13",
+      "time": "22:30",
       "team1": "Portland Timbers",
       "team2": "San Jose Earthquakes"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-14",
+      "time": "16:30",
       "team1": "St. Louis City SC",
       "team2": "Los Angeles Galaxy"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-14",
+      "time": "19:30",
       "team1": "Columbus Crew",
       "team2": "Vancouver Whitecaps"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-14",
+      "time": "19:30",
       "team1": "New England Revolution",
       "team2": "FC Cincinnati"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-14",
+      "time": "19:30",
       "team1": "Philadelphia Union",
       "team2": "Charlotte FC"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-14",
+      "time": "20:30",
       "team1": "Austin FC",
       "team2": "New York RB"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-14",
+      "time": "20:30",
       "team1": "Chicago Fire",
       "team2": "Nashville SC"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-14",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "CF Montréal"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-14",
+      "time": "20:30",
       "team1": "Minnesota United FC",
       "team2": "San Diego FC"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-14",
+      "time": "20:30",
       "team1": "Sporting Kansas City",
       "team2": "FC Dallas"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-14",
+      "time": "21:30",
       "team1": "Colorado Rapids",
       "team2": "Orlando City"
     },
     {
+      "round": "Matchday 18",
+      "date": "2025-06-14",
+      "time": "21:30",
       "team1": "Real Salt Lake",
       "team2": "D.C. United"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-06-25",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "FC Cincinnati"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-06-25",
+      "time": "19:30",
       "team1": "Columbus Crew",
       "team2": "Atlanta United FC"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-06-25",
+      "time": "19:30",
       "team1": "New England Revolution",
       "team2": "Nashville SC"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-06-25",
+      "time": "19:30",
       "team1": "Toronto FC",
       "team2": "New York RB"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-06-25",
+      "time": "20:30",
       "team1": "Chicago Fire",
       "team2": "Philadelphia Union"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-06-25",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "San Jose Earthquakes"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-06-25",
+      "time": "20:30",
       "team1": "Minnesota United FC",
       "team2": "Houston Dynamo"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-06-25",
+      "time": "20:30",
       "team1": "Sporting Kansas City",
       "team2": "Charlotte FC"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-06-25",
+      "time": "20:30",
       "team1": "St. Louis City SC",
       "team2": "Orlando City"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-06-25",
+      "time": "21:30",
       "team1": "Colorado Rapids",
       "team2": "Los Angeles Galaxy"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-06-25",
+      "time": "21:30",
       "team1": "Real Salt Lake",
       "team2": "Los Angeles FC"
     },
     {
+      "round": "Matchday 19",
+      "date": "2025-06-25",
+      "time": "22:30",
       "team1": "Vancouver Whitecaps",
       "team2": "San Diego FC"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-28",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "New York City FC"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-28",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "Nashville SC"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-28",
+      "time": "19:30",
       "team1": "Inter Miami CF",
       "team2": "Atlanta United FC"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-28",
+      "time": "19:30",
       "team1": "New England Revolution",
       "team2": "Colorado Rapids"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-28",
+      "time": "19:30",
       "team1": "New York RB",
       "team2": "Minnesota United FC"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-28",
+      "time": "19:30",
       "team1": "Orlando City",
       "team2": "FC Cincinnati"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-28",
+      "time": "19:30",
       "team1": "Toronto FC",
       "team2": "Portland Timbers"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-28",
+      "time": "20:30",
       "team1": "Chicago Fire",
       "team2": "Charlotte FC"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-28",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "San Diego FC"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-28",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "St. Louis City SC"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-28",
+      "time": "20:30",
       "team1": "Sporting Kansas City",
       "team2": "Real Salt Lake"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-28",
+      "time": "22:30",
       "team1": "Los Angeles FC",
       "team2": "Vancouver Whitecaps"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-28",
+      "time": "22:30",
       "team1": "San Jose Earthquakes",
       "team2": "Los Angeles Galaxy"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-28",
+      "time": "22:30",
       "team1": "Seattle Sounders",
       "team2": "Austin FC"
     },
     {
+      "round": "Matchday 20",
+      "date": "2025-06-29",
+      "time": "18:00",
       "team1": "Columbus Crew",
       "team2": "Philadelphia Union"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-03",
+      "time": "19:30",
       "team1": "New York City FC",
       "team2": "Toronto FC"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-04",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "Minnesota United FC"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-04",
+      "time": "21:30",
       "team1": "Colorado Rapids",
       "team2": "Sporting Kansas City"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-04",
+      "time": "22:30",
       "team1": "Los Angeles Galaxy",
       "team2": "Vancouver Whitecaps"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-05",
+      "time": "19:00",
       "team1": "Charlotte FC",
       "team2": "Orlando City"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-05",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "Inter Miami CF"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-05",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "Atlanta United FC"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-05",
+      "time": "19:30",
       "team1": "FC Cincinnati",
       "team2": "Chicago Fire"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-05",
+      "time": "20:30",
       "team1": "Austin FC",
       "team2": "Los Angeles FC"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-05",
+      "time": "20:30",
       "team1": "Nashville SC",
       "team2": "Philadelphia Union"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-05",
+      "time": "21:30",
       "team1": "Real Salt Lake",
       "team2": "St. Louis City SC"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-05",
+      "time": "22:30",
       "team1": "Portland Timbers",
       "team2": "New England Revolution"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-05",
+      "time": "22:30",
       "team1": "San Diego FC",
       "team2": "Houston Dynamo"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-05",
+      "time": "22:30",
       "team1": "San Jose Earthquakes",
       "team2": "New York RB"
     },
     {
+      "round": "Matchday 21",
+      "date": "2025-07-06",
+      "time": "17:00",
       "team1": "Seattle Sounders",
       "team2": "Columbus Crew"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-09",
+      "time": "19:30",
       "team1": "New England Revolution",
       "team2": "Inter Miami CF"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-12",
+      "time": "19:30",
       "team1": "Charlotte FC",
       "team2": "New York City FC"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-12",
+      "time": "19:30",
       "team1": "FC Cincinnati",
       "team2": "Columbus Crew"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-12",
+      "time": "19:30",
       "team1": "Inter Miami CF",
       "team2": "Nashville SC"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-12",
+      "time": "19:30",
       "team1": "Orlando City",
       "team2": "CF Montréal"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-12",
+      "time": "19:30",
       "team1": "Philadelphia Union",
       "team2": "New York RB"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-12",
+      "time": "19:30",
       "team1": "Toronto FC",
       "team2": "Atlanta United FC"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-12",
+      "time": "20:30",
       "team1": "Austin FC",
       "team2": "New England Revolution"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-12",
+      "time": "20:30",
       "team1": "Chicago Fire",
       "team2": "San Diego FC"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-12",
+      "time": "20:30",
       "team1": "Minnesota United FC",
       "team2": "San Jose Earthquakes"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-12",
+      "time": "20:30",
       "team1": "Sporting Kansas City",
       "team2": "Seattle Sounders"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-12",
+      "time": "21:30",
       "team1": "Colorado Rapids",
       "team2": "Vancouver Whitecaps"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-12",
+      "time": "21:30",
       "team1": "Real Salt Lake",
       "team2": "Houston Dynamo"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-12",
+      "time": "22:30",
       "team1": "Los Angeles Galaxy",
       "team2": "D.C. United"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-12",
+      "time": "22:30",
       "team1": "Los Angeles FC",
       "team2": "FC Dallas"
     },
     {
+      "round": "Matchday 22",
+      "date": "2025-07-13",
+      "time": "19:00",
       "team1": "St. Louis City SC",
       "team2": "Portland Timbers"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-16",
+      "time": "19:30",
       "team1": "Atlanta United FC",
       "team2": "Chicago Fire"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-16",
+      "time": "19:30",
       "team1": "Charlotte FC",
       "team2": "D.C. United"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-16",
+      "time": "19:30",
       "team1": "FC Cincinnati",
       "team2": "Inter Miami CF"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-16",
+      "time": "19:30",
       "team1": "New York RB",
       "team2": "New England Revolution"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-16",
+      "time": "19:30",
       "team1": "Orlando City",
       "team2": "New York City FC"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-16",
+      "time": "19:30",
       "team1": "Philadelphia Union",
       "team2": "CF Montréal"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-16",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "Vancouver Whitecaps"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-16",
+      "time": "20:30",
       "team1": "Minnesota United FC",
       "team2": "Los Angeles FC"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-16",
+      "time": "20:30",
       "team1": "Nashville SC",
       "team2": "Columbus Crew"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-16",
+      "time": "21:30",
       "team1": "Seattle Sounders",
       "team2": "Colorado Rapids"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-16",
+      "time": "22:30",
       "team1": "Los Angeles Galaxy",
       "team2": "Austin FC"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-16",
+      "time": "22:30",
       "team1": "Portland Timbers",
       "team2": "Real Salt Lake"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-16",
+      "time": "22:30",
       "team1": "San Diego FC",
       "team2": "Toronto FC"
     },
     {
+      "round": "Matchday 23",
+      "date": "2025-07-16",
+      "time": "22:30",
       "team1": "San Jose Earthquakes",
       "team2": "FC Dallas"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "19:30",
       "team1": "Atlanta United FC",
       "team2": "Charlotte FC"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "Chicago Fire"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "19:30",
       "team1": "Columbus Crew",
       "team2": "D.C. United"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "19:30",
       "team1": "New England Revolution",
       "team2": "Orlando City"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "19:30",
       "team1": "New York RB",
       "team2": "Inter Miami CF"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "St. Louis City SC"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "Philadelphia Union"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "20:30",
       "team1": "Nashville SC",
       "team2": "Toronto FC"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "20:30",
       "team1": "Seattle Sounders",
       "team2": "San Jose Earthquakes"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "20:30",
       "team1": "Sporting Kansas City",
       "team2": "New York City FC"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "21:30",
       "team1": "Real Salt Lake",
       "team2": "FC Cincinnati"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "22:30",
       "team1": "Los Angeles FC",
       "team2": "Los Angeles Galaxy"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "22:30",
       "team1": "Portland Timbers",
       "team2": "Minnesota United FC"
     },
     {
+      "round": "Matchday 24",
+      "date": "2025-07-19",
+      "time": "22:30",
       "team1": "San Diego FC",
       "team2": "Vancouver Whitecaps"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-07-25",
+      "time": "19:30",
       "team1": "Columbus Crew",
       "team2": "Orlando City"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-07-25",
+      "time": "19:30",
       "team1": "New England Revolution",
       "team2": "CF Montréal"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-07-25",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "New York City FC"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-07-25",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "Los Angeles Galaxy"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-07-25",
+      "time": "22:30",
       "team1": "Los Angeles FC",
       "team2": "Portland Timbers"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-07-25",
+      "time": "22:30",
       "team1": "San Diego FC",
       "team2": "Nashville SC"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-07-26",
+      "time": "19:00",
       "team1": "Inter Miami CF",
       "team2": "FC Cincinnati"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-07-26",
+      "time": "19:30",
       "team1": "Atlanta United FC",
       "team2": "Seattle Sounders"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-07-26",
+      "time": "19:30",
       "team1": "Charlotte FC",
       "team2": "Toronto FC"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-07-26",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "Austin FC"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-07-26",
+      "time": "19:30",
       "team1": "Philadelphia Union",
       "team2": "Colorado Rapids"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-07-26",
+      "time": "20:30",
       "team1": "Chicago Fire",
       "team2": "New York RB"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-07-26",
+      "time": "20:30",
       "team1": "St. Louis City SC",
       "team2": "Minnesota United FC"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-07-26",
+      "time": "21:30",
       "team1": "Real Salt Lake",
       "team2": "San Jose Earthquakes"
     },
     {
+      "round": "Matchday 25",
+      "date": "2025-07-26",
+      "time": "22:30",
       "team1": "Vancouver Whitecaps",
       "team2": "Sporting Kansas City"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-09",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "Atlanta United FC"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-09",
+      "time": "19:30",
       "team1": "New England Revolution",
       "team2": "D.C. United"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-09",
+      "time": "19:30",
       "team1": "New York City FC",
       "team2": "Columbus Crew"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-09",
+      "time": "19:30",
       "team1": "Philadelphia Union",
       "team2": "Toronto FC"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-09",
+      "time": "20:30",
       "team1": "Austin FC",
       "team2": "Houston Dynamo"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-09",
+      "time": "20:30",
       "team1": "Chicago Fire",
       "team2": "Los Angeles FC"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-09",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "Portland Timbers"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-09",
+      "time": "20:30",
       "team1": "Sporting Kansas City",
       "team2": "San Diego FC"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-09",
+      "time": "20:30",
       "team1": "St. Louis City SC",
       "team2": "Nashville SC"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-09",
+      "time": "22:30",
       "team1": "San Jose Earthquakes",
       "team2": "Vancouver Whitecaps"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-10",
+      "time": "18:00",
       "team1": "FC Cincinnati",
       "team2": "Charlotte FC"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-10",
+      "time": "18:00",
       "team1": "Minnesota United FC",
       "team2": "Colorado Rapids"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-10",
+      "time": "18:00",
       "team1": "New York RB",
       "team2": "Real Salt Lake"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-10",
+      "time": "20:00",
       "team1": "Orlando City",
       "team2": "Inter Miami CF"
     },
     {
+      "round": "Matchday 26",
+      "date": "2025-08-10",
+      "time": "22:00",
       "team1": "Los Angeles Galaxy",
       "team2": "Seattle Sounders"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-16",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "D.C. United"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-16",
+      "time": "19:30",
       "team1": "Charlotte FC",
       "team2": "Real Salt Lake"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-16",
+      "time": "19:30",
       "team1": "Inter Miami CF",
       "team2": "Los Angeles Galaxy"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-16",
+      "time": "19:30",
       "team1": "New England Revolution",
       "team2": "Los Angeles FC"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-16",
+      "time": "19:30",
       "team1": "New York RB",
       "team2": "Philadelphia Union"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-16",
+      "time": "19:30",
       "team1": "Orlando City",
       "team2": "Sporting Kansas City"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-16",
+      "time": "19:30",
       "team1": "Toronto FC",
       "team2": "Columbus Crew"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-16",
+      "time": "20:30",
       "team1": "Austin FC",
       "team2": "FC Dallas"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-16",
+      "time": "20:30",
       "team1": "Chicago Fire",
       "team2": "St. Louis City SC"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-16",
+      "time": "20:30",
       "team1": "Minnesota United FC",
       "team2": "Seattle Sounders"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-16",
+      "time": "21:30",
       "team1": "Colorado Rapids",
       "team2": "Atlanta United FC"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-16",
+      "time": "22:30",
       "team1": "Portland Timbers",
       "team2": "FC Cincinnati"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-17",
+      "time": "17:00",
       "team1": "New York City FC",
       "team2": "Nashville SC"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-17",
+      "time": "19:00",
       "team1": "San Jose Earthquakes",
       "team2": "San Diego FC"
     },
     {
+      "round": "Matchday 27",
+      "date": "2025-08-18",
+      "time": "21:00",
       "team1": "Vancouver Whitecaps",
       "team2": "Houston Dynamo"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-23",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "Austin FC"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-23",
+      "time": "19:30",
       "team1": "Columbus Crew",
       "team2": "New England Revolution"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-23",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "Inter Miami CF"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-23",
+      "time": "19:30",
       "team1": "FC Cincinnati",
       "team2": "New York City FC"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-23",
+      "time": "19:30",
       "team1": "Philadelphia Union",
       "team2": "Chicago Fire"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-23",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "Los Angeles FC"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-23",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "San Jose Earthquakes"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-23",
+      "time": "20:30",
       "team1": "Nashville SC",
       "team2": "Orlando City"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-23",
+      "time": "21:30",
       "team1": "Real Salt Lake",
       "team2": "Minnesota United FC"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-23",
+      "time": "21:30",
       "team1": "Vancouver Whitecaps",
       "team2": "St. Louis City SC"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-23",
+      "time": "22:30",
       "team1": "Los Angeles Galaxy",
       "team2": "Colorado Rapids"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-23",
+      "time": "22:30",
       "team1": "San Diego FC",
       "team2": "Portland Timbers"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-24",
+      "time": "17:00",
       "team1": "Atlanta United FC",
       "team2": "Toronto FC"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-24",
+      "time": "19:00",
       "team1": "Charlotte FC",
       "team2": "New York RB"
     },
     {
+      "round": "Matchday 28",
+      "date": "2025-08-24",
+      "time": "21:00",
       "team1": "Seattle Sounders",
       "team2": "Sporting Kansas City"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-08-30",
+      "time": "19:30",
       "team1": "FC Cincinnati",
       "team2": "Philadelphia Union"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-08-30",
+      "time": "19:30",
       "team1": "Inter Miami CF",
       "team2": "Chicago Fire"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-08-30",
+      "time": "19:30",
       "team1": "New England Revolution",
       "team2": "Charlotte FC"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-08-30",
+      "time": "19:30",
       "team1": "New York City FC",
       "team2": "D.C. United"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-08-30",
+      "time": "19:30",
       "team1": "New York RB",
       "team2": "Columbus Crew"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-08-30",
+      "time": "19:30",
       "team1": "Orlando City",
       "team2": "Vancouver Whitecaps"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-08-30",
+      "time": "19:30",
       "team1": "Toronto FC",
       "team2": "CF Montréal"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-08-30",
+      "time": "20:30",
       "team1": "Austin FC",
       "team2": "San Jose Earthquakes"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-08-30",
+      "time": "20:30",
       "team1": "Minnesota United FC",
       "team2": "Portland Timbers"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-08-30",
+      "time": "20:30",
       "team1": "Nashville SC",
       "team2": "Atlanta United FC"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-08-30",
+      "time": "20:30",
       "team1": "Sporting Kansas City",
       "team2": "Colorado Rapids"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-08-30",
+      "time": "20:30",
       "team1": "St. Louis City SC",
       "team2": "Houston Dynamo"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-08-30",
+      "time": "22:30",
       "team1": "Los Angeles Galaxy",
       "team2": "FC Dallas"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-08-30",
+      "time": "22:30",
       "team1": "Seattle Sounders",
       "team2": "Real Salt Lake"
     },
     {
+      "round": "Matchday 29",
+      "date": "2025-09-01",
+      "time": "10:00",
       "team1": "Los Angeles FC",
       "team2": "San Diego FC"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-06",
+      "time": "19:00",
       "team1": "Sporting Kansas City",
       "team2": "Austin FC"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-06",
+      "time": "20:30",
       "team1": "Chicago Fire",
       "team2": "New England Revolution"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-06",
+      "time": "20:30",
       "team1": "St. Louis City SC",
       "team2": "FC Dallas"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-13",
+      "time": "19:30",
       "team1": "Atlanta United FC",
       "team2": "Columbus Crew"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-13",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "St. Louis City SC"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-13",
+      "time": "19:30",
       "team1": "Charlotte FC",
       "team2": "Inter Miami CF"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-13",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "Orlando City"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-13",
+      "time": "19:30",
       "team1": "FC Cincinnati",
       "team2": "Nashville SC"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-13",
+      "time": "19:30",
       "team1": "New England Revolution",
       "team2": "Toronto FC"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-13",
+      "time": "19:30",
       "team1": "San Jose Earthquakes",
       "team2": "Los Angeles FC"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-13",
+      "time": "20:30",
       "team1": "Chicago Fire",
       "team2": "New York City FC"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-13",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "Austin FC"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-13",
+      "time": "20:30",
       "team1": "Seattle Sounders",
       "team2": "Los Angeles Galaxy"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-13",
+      "time": "21:30",
       "team1": "Colorado Rapids",
       "team2": "Houston Dynamo"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-13",
+      "time": "21:30",
       "team1": "Real Salt Lake",
       "team2": "Sporting Kansas City"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-13",
+      "time": "21:30",
       "team1": "Vancouver Whitecaps",
       "team2": "Philadelphia Union"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-13",
+      "time": "22:30",
       "team1": "Portland Timbers",
       "team2": "New York RB"
     },
     {
+      "round": "Matchday 30",
+      "date": "2025-09-13",
+      "time": "22:30",
       "team1": "San Diego FC",
       "team2": "Minnesota United FC"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-16",
+      "time": "19:30",
       "team1": "Inter Miami CF",
       "team2": "Seattle Sounders"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-19",
+      "time": "19:30",
       "team1": "New York City FC",
       "team2": "Charlotte FC"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-20",
+      "time": "14:30",
       "team1": "Philadelphia Union",
       "team2": "New England Revolution"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-20",
+      "time": "16:30",
       "team1": "Atlanta United FC",
       "team2": "San Diego FC"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-20",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "New York RB"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-20",
+      "time": "19:30",
       "team1": "Columbus Crew",
       "team2": "Toronto FC"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-20",
+      "time": "19:30",
       "team1": "Inter Miami CF",
       "team2": "D.C. United"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-20",
+      "time": "19:30",
       "team1": "Orlando City",
       "team2": "Nashville SC"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-20",
+      "time": "20:30",
       "team1": "Austin FC",
       "team2": "Seattle Sounders"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-20",
+      "time": "20:30",
       "team1": "FC Dallas",
       "team2": "Colorado Rapids"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-20",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "Portland Timbers"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-20",
+      "time": "20:30",
       "team1": "Minnesota United FC",
       "team2": "Chicago Fire"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-20",
+      "time": "20:30",
       "team1": "Sporting Kansas City",
       "team2": "Vancouver Whitecaps"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-20",
+      "time": "22:30",
       "team1": "Los Angeles Galaxy",
       "team2": "FC Cincinnati"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-20",
+      "time": "22:30",
       "team1": "San Jose Earthquakes",
       "team2": "St. Louis City SC"
     },
     {
+      "round": "Matchday 31",
+      "date": "2025-09-21",
+      "time": "21:00",
       "team1": "Los Angeles FC",
       "team2": "Real Salt Lake"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-24",
+      "time": "19:30",
       "team1": "New York City FC",
       "team2": "Inter Miami CF"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
+      "time": "14:30",
       "team1": "FC Cincinnati",
       "team2": "Orlando City"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
+      "time": "16:30",
       "team1": "Toronto FC",
       "team2": "Inter Miami CF"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
+      "time": "19:30",
       "team1": "Charlotte FC",
       "team2": "CF Montréal"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
+      "time": "19:30",
       "team1": "D.C. United",
       "team2": "Philadelphia Union"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
+      "time": "19:30",
       "team1": "New England Revolution",
       "team2": "Atlanta United FC"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
+      "time": "19:30",
       "team1": "New York RB",
       "team2": "New York City FC"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
+      "time": "20:30",
       "team1": "Chicago Fire",
       "team2": "Columbus Crew"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
+      "time": "20:30",
       "team1": "Nashville SC",
       "team2": "Houston Dynamo"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
+      "time": "20:30",
       "team1": "St. Louis City SC",
       "team2": "Los Angeles FC"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
+      "time": "21:30",
       "team1": "Colorado Rapids",
       "team2": "Minnesota United FC"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
+      "time": "21:30",
       "team1": "Real Salt Lake",
       "team2": "Austin FC"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
+      "time": "22:30",
       "team1": "Los Angeles Galaxy",
       "team2": "Sporting Kansas City"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
+      "time": "22:30",
       "team1": "Portland Timbers",
       "team2": "FC Dallas"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
+      "time": "22:30",
       "team1": "San Diego FC",
       "team2": "San Jose Earthquakes"
     },
     {
+      "round": "Matchday 32",
+      "date": "2025-09-27",
+      "time": "22:30",
       "team1": "Seattle Sounders",
       "team2": "Vancouver Whitecaps"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
+      "time": "14:30",
       "team1": "D.C. United",
       "team2": "Charlotte FC"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
+      "time": "16:30",
       "team1": "FC Dallas",
       "team2": "Los Angeles Galaxy"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
+      "time": "19:30",
       "team1": "CF Montréal",
       "team2": "Nashville SC"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
+      "time": "19:30",
       "team1": "Inter Miami CF",
       "team2": "New England Revolution"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
+      "time": "19:30",
       "team1": "New York RB",
       "team2": "FC Cincinnati"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
+      "time": "19:30",
       "team1": "Orlando City",
       "team2": "Columbus Crew"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
+      "time": "19:30",
       "team1": "Philadelphia Union",
       "team2": "New York City FC"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
+      "time": "20:30",
       "team1": "Austin FC",
       "team2": "St. Louis City SC"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
+      "time": "20:30",
       "team1": "Chicago Fire",
       "team2": "Toronto FC"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
+      "time": "20:30",
       "team1": "Houston Dynamo",
       "team2": "San Diego FC"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
+      "time": "20:30",
       "team1": "Minnesota United FC",
       "team2": "Sporting Kansas City"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
+      "time": "21:30",
       "team1": "Real Salt Lake",
       "team2": "Colorado Rapids"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-04",
+      "time": "22:30",
       "team1": "Seattle Sounders",
       "team2": "Portland Timbers"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-05",
+      "time": "21:00",
       "team1": "Vancouver Whitecaps",
       "team2": "San Jose Earthquakes"
     },
     {
+      "round": "Matchday 33",
+      "date": "2025-10-05",
+      "time": "22:30",
       "team1": "Los Angeles FC",
       "team2": "Atlanta United FC"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
+      "time": "18:00",
       "team1": "Atlanta United FC",
       "team2": "D.C. United"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
+      "time": "18:00",
       "team1": "Charlotte FC",
       "team2": "Philadelphia Union"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
+      "time": "18:00",
       "team1": "Columbus Crew",
       "team2": "New York RB"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
+      "time": "18:00",
       "team1": "FC Cincinnati",
       "team2": "CF Montréal"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
+      "time": "18:00",
       "team1": "Nashville SC",
       "team2": "Inter Miami CF"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
+      "time": "18:00",
       "team1": "New England Revolution",
       "team2": "Chicago Fire"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
+      "time": "18:00",
       "team1": "New York City FC",
       "team2": "Seattle Sounders"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
+      "time": "18:00",
       "team1": "Toronto FC",
       "team2": "Orlando City"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
+      "time": "21:00",
       "team1": "Colorado Rapids",
       "team2": "Los Angeles FC"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
+      "time": "21:00",
       "team1": "Los Angeles Galaxy",
       "team2": "Minnesota United FC"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
+      "time": "21:00",
       "team1": "Portland Timbers",
       "team2": "San Diego FC"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
+      "time": "21:00",
       "team1": "San Jose Earthquakes",
       "team2": "Austin FC"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
+      "time": "21:00",
       "team1": "Sporting Kansas City",
       "team2": "Houston Dynamo"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
+      "time": "21:00",
       "team1": "St. Louis City SC",
       "team2": "Real Salt Lake"
     },
     {
+      "round": "Matchday 34",
+      "date": "2025-10-18",
+      "time": "21:00",
       "team1": "Vancouver Whitecaps",
       "team2": "FC Dallas"
     }
